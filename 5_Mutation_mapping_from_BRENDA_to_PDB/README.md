@@ -1,4 +1,4 @@
-# SKiD: A Structure-Oriented Kinetics Database of Enzyme-Substrate Interactions
+# SKiD: A Structure-Oriented Kinetics Dataset of Enzyme-Substrate Interactions
 # Authors: Sowmya Ramaswamy Krishnan, Nishtha Pandey, Rajgopal Srinivasan, Arijit Roy*
 
 # Step 5: Mutation mapping from BRENDA to PDB
