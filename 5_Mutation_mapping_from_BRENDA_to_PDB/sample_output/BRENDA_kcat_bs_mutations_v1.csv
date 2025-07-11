@@ -1,0 +1,1380 @@
+Mutant_PDB_ID	Mutation	UniProt_refID	Wild_type	Structure_type	Mutation_type
+4NG5	ALA_203_A	P00327	VAL_204	Substrate+Cofactor	Mutation
+4NG5	ALA_203_B	P00327	VAL_204	Substrate+Cofactor	Mutation
+4NFS	ALA_203_A	P00327	VAL_204	Substrate+Cofactor	Mutation
+4NFS	ALA_203_B	P00327	VAL_204	Substrate+Cofactor	Mutation
+6O91	PHE_57_A	P00327	LEU_58	Substrate+Cofactor	Mutation
+6O91	PHE_57_B	P00327	LEU_58	Substrate+Cofactor	Mutation
+6OA7	PHE_57_A	P00327	LEU_58	Substrate+Cofactor	Mutation
+6OA7	PHE_57_B	P00327	LEU_58	Substrate+Cofactor	Mutation
+6OWM	TRP_93_A	P00327	PHE_94	Substrate+Cofactor	Mutation
+6OWM	TRP_93_B	P00327	PHE_94	Substrate+Cofactor	Mutation
+5KCP	THR_48_A	P00327	SER_49	Substrate+Cofactor	Mutation
+5KCP	THR_48_B	P00327	SER_49	Substrate+Cofactor	Mutation
+1N8K	THR_292_A	P00327	VAL_292	Substrate+Cofactor	Mutation
+1N8K	THR_292_B	P00327	VAL_292	Substrate+Cofactor	Mutation
+6OWP	TRP_93_A	P00327	PHE_94	Substrate+Cofactor	Mutation
+6OWP	TRP_93_B	P00327	PHE_94	Substrate+Cofactor	Mutation
+5KJ6	ILE_197_A	P00327	VAL_198	Substrate+Cofactor	Mutation
+5KJ6	ILE_197_B	P00327	VAL_198	Substrate+Cofactor	Mutation
+5KCZ	THR_48_A	P00327	SER_49	Substrate+Cofactor	Mutation
+5KCZ	THR_48_B	P00327	SER_49	Substrate+Cofactor	Mutation
+8G4V	GLN_51_A	P00327	HIS_52	Substrate+Cofactor	Mutation
+8G4V	GLN_51_B	P00327	HIS_52	Substrate+Cofactor	Mutation
+1MGO	ALA_93_A	P00327	PHE_93	Substrate+Cofactor	Mutation
+1MGO	ALA_93_B	P00327	PHE_93	Substrate+Cofactor	Mutation
+3OQ6	CYS_317_A	P00327	ALA_318	Substrate+Cofactor	Mutation
+3OQ6	CYS_317_B	P00327	ALA_318	Substrate+Cofactor	Mutation
+5KJC	ILE_222_A	P00327	VAL_223	Substrate+Cofactor	Mutation
+5KJC	ILE_222_B	P00327	VAL_223	Substrate+Cofactor	Mutation
+5KJ1	ALA_173_A	P00327	GLY_174	Substrate+Cofactor	Mutation
+5KJ1	ALA_173_B	P00327	GLY_174	Substrate+Cofactor	Mutation
+7UHW	ALA_173_A	P00327	GLY_174	Substrate+Cofactor	Mutation
+7UHW	ALA_173_B	P00327	GLY_174	Substrate+Cofactor	Mutation
+7UHV	ALA_173_A	P00327	GLY_174	Substrate+Cofactor	Mutation
+7UHV	ALA_173_B	P00327	GLY_174	Substrate+Cofactor	Mutation
+7UHX	ALA_173_A	P00327	GLY_174	Substrate+Cofactor	Mutation
+7UHX	ALA_173_B	P00327	GLY_174	Substrate+Cofactor	Mutation
+7UQ9	THR_48_A	P00327	SER_49	Substrate+Cofactor	Mutation
+7UQ9	THR_48_B	P00327	SER_49	Substrate+Cofactor	Mutation
+8G2L	GLN_51_A	P00327	HIS_52	Substrate+Cofactor	Mutation
+8G2L	GLN_51_B	P00327	HIS_52	Substrate+Cofactor	Mutation
+8G39	GLN_51_A	P00327	HIS_52	Substrate+Cofactor	Mutation
+8G39	GLN_51_B	P00327	HIS_52	Substrate+Cofactor	Mutation
+8G2S	GLN_51_A	P00327	HIS_52	Substrate+Cofactor	Mutation
+8G2S	GLN_51_B	P00327	HIS_52	Substrate+Cofactor	Mutation
+8G2X	GLN_51_A	P00327	HIS_52	Substrate+Cofactor	Mutation
+8G2X	GLN_51_B	P00327	HIS_52	Substrate+Cofactor	Mutation
+8G41	GLN_51_A	P00327	HIS_52	Substrate+Cofactor	Mutation
+8G41	GLN_51_B	P00327	HIS_52	Substrate+Cofactor	Mutation
+5CDU	VAL_220_A	P00327	ILE_221	Substrate+Cofactor	Mutation
+5CDT	VAL_220_A	P00327	ILE_221	Substrate+Cofactor	Mutation
+1A71	TRP_93_A	P00327	PHE_93	Substrate+Cofactor	Mutation
+1A71	ALA_203_A	P00327	VAL_203	Substrate+Cofactor	Mutation
+1A71	TRP_93_B	P00327	PHE_93	Substrate+Cofactor	Mutation
+1A71	ALA_203_B	P00327	VAL_203	Substrate+Cofactor	Mutation
+1AXE	TRP_93_A	P00327	PHE_93	Substrate+Cofactor	Mutation
+1AXE	TRP_93_B	P00327	PHE_93	Substrate+Cofactor	Mutation
+7U9N	ALA_48_A	P00327	SER_49	Substrate+Cofactor	Mutation
+7U9N	ALA_48_B	P00327	SER_49	Substrate+Cofactor	Mutation
+7U9N	ALA_48_C	P00327	SER_49	Substrate+Cofactor	Mutation
+7U9N	ALA_48_D	P00327	SER_49	Substrate+Cofactor	Mutation
+8EIX	ALA_48_A	P00327	SER_49	Substrate+Cofactor	Mutation
+8EIX	ALA_48_B	P00327	SER_49	Substrate+Cofactor	Mutation
+1AXG	ALA_203_A	P00327	VAL_203	Substrate+Cofactor	Mutation
+1AXG	ALA_203_B	P00327	VAL_203	Substrate+Cofactor	Mutation
+1AXG	ALA_203_C	P00327	VAL_203	Substrate+Cofactor	Mutation
+1AXG	ALA_203_D	P00327	VAL_203	Substrate+Cofactor	Mutation
+8EIY	THR_48_A	P00327	SER_49	Substrate+Cofactor	Mutation
+8EIY	THR_48_B	P00327	SER_49	Substrate+Cofactor	Mutation
+2IPG	ALA_31_A	Q91WR5	LYS_31	Substrate+Cofactor	Mutation
+2IPG	ALA_31_B	Q91WR5	LYS_31	Substrate+Cofactor	Mutation
+1AZ1	TYR_219_A	P15121	TRP_219	Substrate+Cofactor	Mutation
+1AZ1	ALA_298_A	P15121	CYS_298	Substrate+Cofactor	Mutation
+1AZ2	TYR_219_A	P15121	TRP_219	Substrate+Cofactor	Mutation
+1AZ2	ALA_298_A	P15121	CYS_298	Substrate+Cofactor	Mutation
+2ZTM	SER_190_A	Q5KST5	THR_190	Substrate+Cofactor	Mutation
+2ZTM	SER_190_C	Q5KST5	THR_190	Substrate+Cofactor	Mutation
+2ZTM	SER_190_D	Q5KST5	THR_190	Substrate+Cofactor	Mutation
+1R38	ALA_114_A	O74237	HIS_114	Cofactor only	Mutation
+1R38	ALA_114_B	O74237	HIS_114	Cofactor only	Mutation
+1R38	ALA_114_C	O74237	HIS_114	Cofactor only	Mutation
+1R38	ALA_114_D	O74237	HIS_114	Cofactor only	Mutation
+1SM9	ARG_274_A	3289019	LYS_274	Cofactor only	Mutation
+1SM9	ASP_276_A	3289019	ASN_276	Cofactor only	Mutation
+1SM9	ARG_274_B	3289019	LYS_274	Cofactor only	Mutation
+1SM9	ASP_276_B	3289019	ASN_276	Cofactor only	Mutation
+1SM9	ARG_274_C	3289019	LYS_274	Cofactor only	Mutation
+1SM9	ASP_276_C	3289019	ASN_276	Cofactor only	Mutation
+1SM9	ARG_274_D	3289019	LYS_274	Cofactor only	Mutation
+1SM9	ASP_276_D	3289019	ASN_276	Cofactor only	Mutation
+2CDC	ALA_41_A	O93715	THR_41	Substrate+Cofactor	Mutation
+2CDC	ALA_41_B	O93715	THR_41	Substrate+Cofactor	Mutation
+2CDC	ALA_41_C	O93715	THR_41	Substrate+Cofactor	Mutation
+2CDC	ALA_41_D	O93715	THR_41	Substrate+Cofactor	Mutation
+1IE3	CYS_153_C	P61889	ARG_153	Substrate+Cofactor	Mutation
+6KTK	ALA_178_D	K7ZP76	ARG_178	Substrate+Cofactor	Mutation
+1G6K	ALA_96_A	P40288	GLU_96	Cofactor only	Mutation
+1G6K	ALA_96_B	P40288	GLU_96	Cofactor only	Mutation
+1G6K	ALA_96_E	P40288	GLU_96	Cofactor only	Mutation
+1G6K	ALA_96_F	P40288	GLU_96	Cofactor only	Mutation
+1LDC	PHE_143_A	P00175	TYR_223	Substrate+Cofactor	Mutation
+1LDC	PHE_143_B	P00175	TYR_223	Substrate+Cofactor	Mutation
+4RJE	GLY_95_A	Q44467	ALA_95	Substrate only	Mutation
+4RJE	GLY_95_B	Q44467	ALA_95	Substrate only	Mutation
+4RJE	GLY_95_C	Q44467	ALA_95	Substrate only	Mutation
+4RJE	GLY_95_D	Q44467	ALA_95	Substrate only	Mutation
+5EBU	PHE_215_A	Q44467	TYR_215	Substrate only	Mutation
+5EBU	PHE_215_B	Q44467	TYR_215	Substrate only	Mutation
+5EBU	PHE_215_C	Q44467	TYR_215	Substrate only	Mutation
+5EBU	PHE_215_E	Q44467	TYR_215	Substrate only	Mutation
+5EBU	PHE_215_F	Q44467	TYR_215	Substrate only	Mutation
+5EBU	PHE_215_G	Q44467	TYR_215	Substrate only	Mutation
+4UDR	ALA_467_A	E4QP00	HIS_467	Substrate+Cofactor	Mutation
+4UDR	ALA_467_B	E4QP00	HIS_467	Substrate+Cofactor	Mutation
+6A1A	PHE_128_A	O52792	TYR_128	Substrate+Cofactor	Mutation
+6A0V	PHE_128_A	O52792	TYR_128	Substrate+Cofactor	Mutation
+6A1N	PHE_128_A	O52792	TYR_128	Substrate+Cofactor	Mutation
+5ZZZ	CSO_128_A	O52792	TYR_128	Substrate+Cofactor	Mutation
+6A11	PHE_128_A	O52792	TYR_128	Substrate+Cofactor	Mutation
+6A1B	PHE_128_A	O52792	TYR_128	Substrate+Cofactor	Mutation
+5ZZX	PHE_128_A	O52792	TYR_128	Substrate+Cofactor	Mutation
+5ZZY	PHE_128_A	O52792	TYR_128	Substrate+Cofactor	Mutation
+6A19	PHE_128_A	O52792	TYR_128	Substrate+Cofactor	Mutation
+6A0O	PHE_128_A	O52792	TYR_128	Substrate+Cofactor	Mutation
+6A0B	PHE_128_A	O52792	TYR_128	Substrate+Cofactor	Mutation
+6A0D	PHE_128_A	O52792	TYR_128	Substrate+Cofactor	Mutation
+6A0Y	PHE_128_A	O52792	TYR_128	Substrate+Cofactor	Mutation
+6A0M	PHE_128_A	O52792	TYR_128	Substrate+Cofactor	Mutation
+6A0G	PHE_128_A	O52792	TYR_128	Substrate+Cofactor	Mutation
+6A01	PHE_128_A	O52792	TYR_128	Substrate+Cofactor	Mutation
+2A7P	ALA_81_A	P20932	GLY_81	Substrate+Cofactor	Mutation
+7PUH	ALA_165_A	A0A0M4FJ8	HIS_165	Substrate only	Mutation
+7PUH	ALA_165_B	A0A0M4FJ8	HIS_165	Substrate only	Mutation
+7PUH	ALA_165_C	A0A0M4FJ8	HIS_165	Substrate only	Mutation
+7PUH	ALA_165_D	A0A0M4FJ8	HIS_165	Substrate only	Mutation
+7PUH	ALA_165_E	A0A0M4FJ8	HIS_165	Substrate only	Mutation
+7PUH	ALA_165_F	A0A0M4FJ8	HIS_165	Substrate only	Mutation
+6RH9	PHE_170_I	A0A0M4FJ8	ILE_170	Substrate only	Mutation
+6FDJ	ALA_165_A	A0A0M4FJ8	HIS_165	Substrate only	Mutation
+6FDJ	ALA_165_B	A0A0M4FJ8	HIS_165	Substrate only	Mutation
+6FDJ	ALA_165_D	A0A0M4FJ8	HIS_165	Substrate only	Mutation
+6FDJ	ALA_165_G	A0A0M4FJ8	HIS_165	Substrate only	Mutation
+6FDJ	ALA_165_J	A0A0M4FJ8	HIS_165	Substrate only	Mutation
+6FDJ	ALA_165_K	A0A0M4FJ8	HIS_165	Substrate only	Mutation
+3UAD	SER_500_A	P36649	CYS_500	Substrate only	Mutation
+3UAD	GLN_506_A	P36649	GLU_506	Substrate only	Mutation
+3UAB	SER_500_A	P36649	CYS_500	Substrate only	Mutation
+3UAB	GLN_506_A	P36649	GLU_506	Substrate only	Mutation
+3UAE	SER_500_A	P36649	CYS_500	Substrate only	Mutation
+3UAE	GLN_506_A	P36649	GLU_506	Substrate only	Mutation
+3UAC	SER_500_A	P36649	CYS_500	Substrate only	Mutation
+3UAC	GLN_506_A	P36649	GLU_506	Substrate only	Mutation
+3QQX	ASP_506_A	P36649	GLU_506	Substrate only	Mutation
+3UAA	SER_500_A	P36649	CYS_500	Substrate only	Mutation
+3UAA	GLN_506_A	P36649	GLU_506	Substrate only	Mutation
+1NHS	CYS_41_A	P37062	SER_41	Substrate+Cofactor	Mutation
+1F8W	MET_303_A	P37062	ARG_303	Substrate+Cofactor	Mutation
+4HOV	ALA_246_A	Q0SE24	ASN_246	Substrate+Cofactor	Mutation
+4HOV	ALA_246_B	Q0SE24	ASN_246	Substrate+Cofactor	Mutation
+4HOV	ALA_246_C	Q0SE24	ASN_246	Substrate+Cofactor	Mutation
+3VEE	ALA_246_A	Q0SE24	ASN_246	Substrate+Cofactor	Mutation
+3VEE	ALA_246_B	Q0SE24	ASN_246	Substrate+Cofactor	Mutation
+3VEE	ALA_246_C	Q0SE24	ASN_246	Substrate+Cofactor	Mutation
+2EUT	GLY_191_A	P00431	TRP_259	Substrate+Cofactor	Mutation
+2RBT	ILE_53_X	A7A026	THR_121	Substrate+Cofactor	Mutation
+2RBT	GLY_191_X	A7A026	TRP_259	Substrate+Cofactor	Mutation
+2EUQ	GLY_191_A	P00431	TRP_259	Substrate+Cofactor	Mutation
+2RBV	ILE_53_X	A7A026	THR_121	Substrate+Cofactor	Mutation
+2RBV	GLY_191_X	A7A026	TRP_259	Substrate+Cofactor	Mutation
+2EUR	GLY_191_A	P00431	TRP_259	Substrate+Cofactor	Mutation
+2EUP	GLY_191_A	P00431	TRP_259	Substrate+Cofactor	Mutation
+2EUU	GLY_191_A	P00431	TRP_259	Substrate+Cofactor	Mutation
+2EUO	GLY_191_A	P00431	TRP_259	Substrate+Cofactor	Mutation
+2RBX	ILE_53_X	A7A026	THR_121	Substrate+Cofactor	Mutation
+2RBX	GLY_191_X	A7A026	TRP_259	Substrate+Cofactor	Mutation
+2RC2	ILE_53_X	A7A026	THR_121	Substrate+Cofactor	Mutation
+2RC2	GLY_191_X	A7A026	TRP_259	Substrate+Cofactor	Mutation
+2RC0	ILE_53_X	A7A026	THR_121	Substrate+Cofactor	Mutation
+2RC0	GLY_191_X	A7A026	TRP_259	Substrate+Cofactor	Mutation
+2RBW	ILE_53_X	A7A026	THR_121	Substrate+Cofactor	Mutation
+2RBW	GLY_191_X	A7A026	TRP_259	Substrate+Cofactor	Mutation
+2RBY	ILE_53_X	A7A026	THR_121	Substrate+Cofactor	Mutation
+2RBY	GLY_191_X	A7A026	TRP_259	Substrate+Cofactor	Mutation
+2EUS	GLY_191_A	P00431	TRP_259	Substrate+Cofactor	Mutation
+2EUN	GLY_191_A	P00431	TRP_259	Substrate+Cofactor	Mutation
+1RYC	GLY_191_A	P00431	TRP_258	Substrate+Cofactor	Mutation
+2RBU	ILE_53_X	A7A026	THR_121	Substrate+Cofactor	Mutation
+2RBZ	ILE_53_X	A7A026	THR_121	Substrate+Cofactor	Mutation
+2RBZ	GLY_191_X	A7A026	TRP_259	Substrate+Cofactor	Mutation
+1DJ5	ALA_48_A	P00431	ARG_115	Substrate+Cofactor	Mutation
+1DSE	GLY_175_A	P00431	HIS_242	Substrate+Cofactor	Mutation
+1DS4	GLY_175_A	P00431	HIS_242	Substrate+Cofactor	Mutation
+1DSO	GLY_175_A	P00431	HIS_242	Substrate+Cofactor	Mutation
+1DSP	GLY_175_A	P00431	HIS_242	Substrate+Cofactor	Mutation
+2RC1	ILE_53_X	A7A026	THR_121	Substrate+Cofactor	Mutation
+2RC1	GLY_191_X	A7A026	TRP_259	Substrate+Cofactor	Mutation
+1DSG	GLY_175_A	P00431	HIS_242	Substrate+Cofactor	Mutation
+1GWT	MET_221_A	P00433	PHE_251	Substrate+Cofactor	Mutation
+1GW2	SER_171_A	P00433	THR_201	Substrate+Cofactor	Mutation
+1GX2	SER_179_A	P00433	PHE_209	Substrate+Cofactor	Mutation
+1GX2	SER_179_B	P00433	PHE_209	Substrate+Cofactor	Mutation
+4HSX	PHE_100_A	Q9NAV8	LEU_101	Substrate+Cofactor	Mutation
+4HSX	PHE_100_B	Q9NAV8	LEU_101	Substrate+Cofactor	Mutation
+2XSU	GLY_72_A	Q9F103	ALA_72	Substrate only	Mutation
+2XSV	ALA_69_A	Q9F103	LEU_69	Substrate only	Mutation
+3NW4	ALA_106_A	Q67FT0	GLY_106	Substrate only	Mutation
+3NVC	ALA_106_A	Q67FT0	GLY_106	Substrate only	Mutation
+4FAG	TYR_104_A	Q67FT0	TRP_104	Substrate only	Mutation
+4CFS	ALA_251_A	O31266	HIS_251	Substrate only	Mutation
+4CFS	ALA_251_B	O31266	HIS_251	Substrate only	Mutation
+4CFS	ALA_251_C	O31266	HIS_251	Substrate only	Mutation
+4CFS	ALA_251_D	O31266	HIS_251	Substrate only	Mutation
+4M06	PHE_145_A	B3U4H7	TRP_171	Substrate+Cofactor	Mutation
+4M06	PHE_145_B	B3U4H7	TRP_171	Substrate+Cofactor	Mutation
+4M06	PHE_145_C	B3U4H7	TRP_171	Substrate+Cofactor	Mutation
+4M06	PHE_145_D	B3U4H7	TRP_171	Substrate+Cofactor	Mutation
+4M06	PHE_145_E	B3U4H7	TRP_171	Substrate+Cofactor	Mutation
+3E08	SER_55_A	Q8PDA8	HIS_55	Substrate+Cofactor	Mutation
+3E08	SER_55_B	Q8PDA8	HIS_55	Substrate+Cofactor	Mutation
+3E08	SER_55_C	Q8PDA8	HIS_55	Substrate+Cofactor	Mutation
+3E08	SER_55_D	Q8PDA8	HIS_55	Substrate+Cofactor	Mutation
+3E08	SER_55_E	Q8PDA8	HIS_55	Substrate+Cofactor	Mutation
+3E08	SER_55_F	Q8PDA8	HIS_55	Substrate+Cofactor	Mutation
+3E08	SER_55_G	Q8PDA8	HIS_55	Substrate+Cofactor	Mutation
+3E08	SER_55_H	Q8PDA8	HIS_55	Substrate+Cofactor	Mutation
+5KAJ	CYS_319_A	Q8KLK7	ALA_319	Substrate only	Mutation
+5KAJ	CYS_319_B	Q8KLK7	ALA_319	Substrate only	Mutation
+5KAJ	CYS_319_C	Q8KLK7	ALA_319	Substrate only	Mutation
+5KAJ	CYS_319_D	Q8KLK7	ALA_319	Substrate only	Mutation
+5KAJ	CYS_319_E	Q8KLK7	ALA_319	Substrate only	Mutation
+5KAJ	CYS_319_F	Q8KLK7	ALA_319	Substrate only	Mutation
+5KAJ	CYS_319_G	Q8KLK7	ALA_319	Substrate only	Mutation
+5KAJ	CYS_319_H	Q8KLK7	ALA_319	Substrate only	Mutation
+5KAJ	CYS_319_I	Q8KLK7	ALA_319	Substrate only	Mutation
+5KAJ	CYS_319_J	Q8KLK7	ALA_319	Substrate only	Mutation
+5KAJ	CYS_319_K	Q8KLK7	ALA_319	Substrate only	Mutation
+5KAJ	CYS_319_L	Q8KLK7	ALA_319	Substrate only	Mutation
+6JU1	PHE_385_A	A0A367MFY	TYR_385	Substrate+Cofactor	Mutation
+1K0I	GLN_220_A	P20586	ARG_220	Substrate+Cofactor	Mutation
+3RI7	LEU_103_A	Q00456	GLY_103	Substrate only	Mutation
+3RI7	LEU_103_A	Q00456	GLY_103	Substrate only	Mutation
+3ALM	ALA_294_A	Q988D3	CYS_294	Substrate only	Mutation
+3ALM	ALA_294_B	Q988D3	CYS_294	Substrate only	Mutation
+3ALL	ALA_270_A	Q988D3	TYR_270	Substrate only	Mutation
+3ALL	ALA_270_B	Q988D3	TYR_270	Substrate only	Mutation
+4H2N	PHE_270_A	Q988D3	TYR_270	Substrate only	Mutation
+4H2R	PHE_270_A	Q988D3	TYR_270	Substrate only	Mutation
+4H2R	PHE_270_B	Q988D3	TYR_270	Substrate only	Mutation
+4AP3	LEU_345_A	O50641	THR_345	Cofactor only	Mutation
+6CP4	ASN_251_A	P00183	ASP_251	Substrate+Cofactor	Mutation
+1IWJ	LYS_109_A	P00183	ARG_109	Substrate+Cofactor	Mutation
+1GEB	ILE_252_A	P00183	THR_253	Substrate+Cofactor	Mutation
+2WES	GLN_46_A	A4D0H5	GLU_46	Substrate only	Mutation
+2WES	GLN_46_B	A4D0H5	GLU_46	Substrate only	Mutation
+2WES	GLN_46_C	A4D0H5	GLU_46	Substrate only	Mutation
+2WES	GLN_46_D	A4D0H5	GLU_46	Substrate only	Mutation
+7JU0	SER_470_A	Q8KHZ8	ASN_470	Substrate+Cofactor	Mutation
+7JU0	SER_470_B	Q8KHZ8	ASN_470	Substrate+Cofactor	Mutation
+6A7X	ALA_428_A	P22985	ASP_428	Substrate+Cofactor	Mutation
+6A7X	ALA_428_B	P22985	ASP_428	Substrate+Cofactor	Mutation
+2E3T	ALA_335_A	P22985	TRP_334	Substrate+Cofactor	Mutation
+2E3T	LEU_336_A	P22985	PHE_335	Substrate+Cofactor	Mutation
+2E3T	ALA_335_B	P22985	TRP_334	Substrate+Cofactor	Mutation
+2E3T	LEU_336_B	P22985	PHE_335	Substrate+Cofactor	Mutation
+2XNJ	VAL_71_A	P28861	PRO_71	Substrate+Cofactor	Mutation
+2XNJ	TYR_72_A	P28861	ASP_72	Substrate+Cofactor	Mutation
+2XNJ	VAL_71_B	P28861	PRO_71	Substrate+Cofactor	Mutation
+2XNJ	TYR_72_B	P28861	ASP_72	Substrate+Cofactor	Mutation
+3KV3	SER_151_O	Q6GIL8	CYS_151	Substrate+Cofactor	Mutation
+3KV3	SER_151_Q	Q6GIL8	CYS_151	Substrate+Cofactor	Mutation
+3KV3	SER_151_R	Q6GIL8	CYS_151	Substrate+Cofactor	Mutation
+3KV3	SER_151_P	Q6GIL8	CYS_151	Substrate+Cofactor	Mutation
+5DBV	ALA_269_A	A9KN57	CYS_269	Substrate only	Mutation
+2Y5D	ALA_296_A	Q13WK4	CYS_296	Substrate+Cofactor	Mutation
+2Y5D	ALA_296_B	Q13WK4	CYS_296	Substrate+Cofactor	Mutation
+4V37	ALA_291_A	P17202	CYS_291	Substrate+Cofactor	Mutation
+4V37	ALA_291_B	P17202	CYS_291	Substrate+Cofactor	Mutation
+4V37	ALA_291_C	P17202	CYS_291	Substrate+Cofactor	Mutation
+4V37	ALA_291_D	P17202	CYS_291	Substrate+Cofactor	Mutation
+1JF8	SER_10_A	P0A006	CYS_10	Substrate only	Mutation
+1JF8	ALA_15_A	P0A006	CYS_15	Substrate only	Mutation
+1JFV	SER_10_A	P0A006	CYS_10	Substrate only	Mutation
+1JFV	ALA_15_A	P0A006	CYS_15	Substrate only	Mutation
+5COQ	ALA_203_A	M9TGV3	VAL_203	Substrate only	Mutation
+5COQ	ALA_203_B	M9TGV3	VAL_203	Substrate only	Mutation
+5COQ	ALA_203_C	M9TGV3	VAL_203	Substrate only	Mutation
+5COQ	ALA_203_D	M9TGV3	VAL_203	Substrate only	Mutation
+5CP8	ALA_215_A	M9TGV3	ILE_215	Substrate only	Mutation
+6I3K	ALA_396_A	Q12737	TRP_434	Substrate only	Mutation
+6I3K	ALA_396_B	Q12737	TRP_434	Substrate only	Mutation
+7E0D	GLU_305_A	Q8L3C7	ARG_305	Substrate+Cofactor	Mutation
+7C3L	ALA_212_A	A0A0J9X1X	ASP_212	Substrate+Cofactor	Mutation
+7C3L	ALA_212_B	A0A0J9X1X	ASP_212	Substrate+Cofactor	Mutation
+7C3J	ALA_212_A	A0A0J9X1X	ASP_212	Substrate+Cofactor	Mutation
+7C3J	ALA_212_B	A0A0J9X1X	ASP_212	Substrate+Cofactor	Mutation
+3IF9	SER_51_A	O31616	GLY_51	Substrate+Cofactor	Mutation
+3IF9	ARG_54_A	O31616	ALA_54	Substrate+Cofactor	Mutation
+3IF9	ALA_244_A	O31616	HIS_244	Substrate+Cofactor	Mutation
+3IF9	SER_51_B	O31616	GLY_51	Substrate+Cofactor	Mutation
+3IF9	ALA_244_B	O31616	HIS_244	Substrate+Cofactor	Mutation
+3IF9	SER_51_C	O31616	GLY_51	Substrate+Cofactor	Mutation
+3IF9	ARG_54_C	O31616	ALA_54	Substrate+Cofactor	Mutation
+3IF9	ALA_244_C	O31616	HIS_244	Substrate+Cofactor	Mutation
+3IF9	SER_51_D	O31616	GLY_51	Substrate+Cofactor	Mutation
+3IF9	ALA_244_D	O31616	HIS_244	Substrate+Cofactor	Mutation
+3FST	LEU_223_C	P0AEZ1	PHE_223	Substrate+Cofactor	Mutation
+3FSU	GLN_28_A	P0AEZ1	GLU_28	Substrate+Cofactor	Mutation
+3FSU	LEU_223_A	P0AEZ1	PHE_223	Substrate+Cofactor	Mutation
+3FSU	GLN_28_C	P0AEZ1	GLU_28	Substrate+Cofactor	Mutation
+3FSU	LEU_223_C	P0AEZ1	PHE_223	Substrate+Cofactor	Mutation
+3FSU	GLN_28_E	P0AEZ1	GLU_28	Substrate+Cofactor	Mutation
+3FSU	LEU_223_E	P0AEZ1	PHE_223	Substrate+Cofactor	Mutation
+1ZP4	GLN_28_A	P00394	GLU_28	Substrate+Cofactor	Mutation
+1ZP4	GLN_28_B	P00394	GLU_28	Substrate+Cofactor	Mutation
+1ZP4	GLN_28_C	P00394	GLU_28	Substrate+Cofactor	Mutation
+3GHC	SER_35_A	P00374	GLN_36	Substrate+Cofactor	Mutation
+3GHC	SER_64_A	P00374	ASN_65	Substrate+Cofactor	Mutation
+3GHV	LYS_35_A	P00374	GLN_36	Substrate+Cofactor	Mutation
+3GHV	PHE_64_A	P00374	ASN_65	Substrate+Cofactor	Mutation
+3F8Y	LYS_35_A	P00374	GLN_36	Substrate+Cofactor	Mutation
+3GI2	LYS_35_A	P00374	GLN_36	Substrate+Cofactor	Mutation
+3F91	SER_35_A	P00374	GLN_36	Substrate+Cofactor	Mutation
+3F91	PHE_64_A	P00374	ASN_65	Substrate+Cofactor	Mutation
+3L3R	LYS_35_A	P00374	GLN_36	Substrate+Cofactor	Mutation
+3F8Z	SER_35_A	P00374	GLN_36	Substrate+Cofactor	Mutation
+3F8Z	SER_64_A	P00374	ASN_65	Substrate+Cofactor	Mutation
+5CC9	PHE_28_A	P0ABQ5	LEU_28	Substrate+Cofactor	Mutation
+5UII	SER_152_A	P0ABQ4	CYS_152	Substrate+Cofactor	Mutation
+4KJL	PRO_23_A	P0ABQ4	ASN_23	Substrate+Cofactor	Mutation
+5UIP	SER_152_A	P0ABQ4	CYS_152	Substrate+Cofactor	Mutation
+5UIP	SER_152_B	P0ABQ4	CYS_152	Substrate+Cofactor	Mutation
+6XG4	ARG_28_A	P0ABQ4	LEU_28	Substrate+Cofactor	Mutation
+4IXG	SER_37_X	P16184	LYS_37	Substrate+Cofactor	Mutation
+4IXG	ASN_69_X	P16184	PHE_69	Substrate+Cofactor	Mutation
+4IXF	ASN_69_X	P16184	PHE_69	Substrate+Cofactor	Mutation
+3IX9	TYR_26_A	O85261	HIS_26	Substrate+Cofactor	Mutation
+3IX9	LYS_60_A	O85261	GLN_60	Substrate+Cofactor	Mutation
+3IX9	HIS_81_A	O85261	GLN_81	Substrate+Cofactor	Mutation
+3IX9	VAL_100_A	O85261	LEU_100	Substrate+Cofactor	Mutation
+3IX9	TYR_26_B	O85261	HIS_26	Substrate+Cofactor	Mutation
+3IX9	LYS_60_B	O85261	GLN_60	Substrate+Cofactor	Mutation
+3IX9	HIS_81_B	O85261	GLN_81	Substrate+Cofactor	Mutation
+3IX9	VAL_100_B	O85261	LEU_100	Substrate+Cofactor	Mutation
+3JWK	PHE_102_A	Q81R22	TYR_102	Substrate+Cofactor	Mutation
+3JWK	PHE_102_B	Q81R22	TYR_102	Substrate+Cofactor	Mutation
+3JW3	ILE_96_A	Q81R22	PHE_96	Substrate+Cofactor	Mutation
+3JW3	ILE_96_B	Q81R22	PHE_96	Substrate+Cofactor	Mutation
+3JWC	PHE_102_A	Q81R22	TYR_102	Substrate+Cofactor	Mutation
+3JWC	PHE_102_B	Q81R22	TYR_102	Substrate+Cofactor	Mutation
+3JWF	PHE_102_A	Q81R22	TYR_102	Substrate+Cofactor	Mutation
+3JWF	PHE_102_B	Q81R22	TYR_102	Substrate+Cofactor	Mutation
+3JW5	PHE_102_A	Q81R22	TYR_102	Substrate+Cofactor	Mutation
+3JW5	PHE_102_B	Q81R22	TYR_102	Substrate+Cofactor	Mutation
+3GSI	ALA_552_A	Q9AGP8	ASP_552	Substrate+Cofactor	Mutation
+3KPF	MET_300_A	O64411	LYS_328	Substrate+Cofactor	Mutation
+3KPF	MET_300_B	O64411	LYS_328	Substrate+Cofactor	Mutation
+3KU9	MET_300_A	O64411	LYS_328	Substrate+Cofactor	Mutation
+3KU9	MET_300_B	O64411	LYS_328	Substrate+Cofactor	Mutation
+3L1R	MET_300_A	O64411	LYS_328	Substrate+Cofactor	Mutation
+3L1R	MET_300_B	O64411	LYS_328	Substrate+Cofactor	Mutation
+1QX4	PRO_127_A	P20070	SER_127	Cofactor only	Mutation
+1QX4	PRO_127_B	P20070	SER_127	Cofactor only	Mutation
+1HZV	ALA_369_A	P24474	HIS_394	Substrate+Cofactor	Mutation
+3D9D	ASN_402_A	Q8X1D8	ASP_402	Substrate+Cofactor	Mutation
+3D9D	ASN_402_B	Q8X1D8	ASP_402	Substrate+Cofactor	Mutation
+3D9D	ASN_402_C	Q8X1D8	ASP_402	Substrate+Cofactor	Mutation
+3D9D	ASN_402_D	Q8X1D8	ASP_402	Substrate+Cofactor	Mutation
+3D9E	ASN_402_A	Q8X1D8	ASP_402	Substrate+Cofactor	Mutation
+3D9E	ASN_402_B	Q8X1D8	ASP_402	Substrate+Cofactor	Mutation
+3D9E	ASN_402_C	Q8X1D8	ASP_402	Substrate+Cofactor	Mutation
+3D9E	ASN_402_D	Q8X1D8	ASP_402	Substrate+Cofactor	Mutation
+3D9F	ALA_276_A	Q8X1D8	SER_276	Substrate+Cofactor	Mutation
+3D9F	ALA_276_B	Q8X1D8	SER_276	Substrate+Cofactor	Mutation
+3D9F	ALA_276_C	Q8X1D8	SER_276	Substrate+Cofactor	Mutation
+3D9F	ALA_276_D	Q8X1D8	SER_276	Substrate+Cofactor	Mutation
+3SZF	ALA_198_A	B7JBP8	HIS_198	Substrate+Cofactor	Mutation
+8DHK	GLU_207_A	Q9Y6N5	LYS_207	Substrate+Cofactor	Mutation
+8DHK	GLU_207_B	Q9Y6N5	LYS_207	Substrate+Cofactor	Mutation
+6WK1	MET_73_Y	P63261	HIS_73	Substrate+Cofactor	Mutation
+1EQB	PHE_65_A	P00477	TYR_65	Substrate+Cofactor	Mutation
+1EQB	PHE_65_B	P00477	TYR_65	Substrate+Cofactor	Mutation
+1EQB	PHE_65_C	P00477	TYR_65	Substrate+Cofactor	Mutation
+1EQB	PHE_65_D	P00477	TYR_65	Substrate+Cofactor	Mutation
+2VIB	ALA_172_A	Q7SIB6	SER_172	Substrate+Cofactor	Mutation
+4S2B	TYR_178_A	P0A870	PHE_178	Substrate only	Mutation
+4S2B	TYR_178_B	P0A870	PHE_178	Substrate only	Mutation
+4S2C	GLN_96_A	P0A870	GLU_96	Substrate only	Mutation
+4S2C	GLN_96_B	P0A870	GLU_96	Substrate only	Mutation
+4XZ9	GLN_60_B	Q9HKI3	GLU_60	Substrate only	Mutation
+4XZ9	TYR_132_B	Q9HKI3	PHE_132	Substrate only	Mutation
+4XZ9	GLN_60_C	Q9HKI3	GLU_60	Substrate only	Mutation
+4XZ9	TYR_132_C	Q9HKI3	PHE_132	Substrate only	Mutation
+5Z0A	ASN_97_F	Q975F9	TYR_97	Substrate only	Mutation
+3HLF	ALA_76_A	Q9Y7D1	SER_76	Substrate only	Mutation
+3HLG	ALA_76_A	Q9Y7D1	SER_76	Substrate only	Mutation
+3HLE	ALA_76_A	Q9Y7D1	SER_76	Substrate only	Mutation
+4BMK	ALA_265_A	Q93UV0	LYS_265	Substrate+Cofactor	Mutation
+4BMK	ALA_265_B	Q93UV0	LYS_265	Substrate+Cofactor	Mutation
+2H3W	ALA_554_A	Q3V1Y3	SER_554	Substrate+Cofactor	Mutation
+2H3W	GLY_564_A	Q3V1Y3	MET_564	Substrate+Cofactor	Mutation
+2H3W	ALA_554_B	Q3V1Y3	SER_554	Substrate+Cofactor	Mutation
+2H3W	GLY_564_B	Q3V1Y3	MET_564	Substrate+Cofactor	Mutation
+1OWB	LEU_109_A	P0ABH7	ARG_110	Substrate only	Mutation
+1OWB	LEU_1109_B	P0ABH7	ARG_110	Substrate only	Mutation
+6PWQ	ALA_164_A	A0PFL2	SER_164	Substrate only	Mutation
+6PWQ	ALA_164_B	A0PFL2	SER_164	Substrate only	Mutation
+4FRA	GLY_268_A	H6A2X0	ALA_268	Substrate only	Mutation
+5N6V	ASP_331_A	Q9ZEU2	VAL_339	Substrate only	Mutation
+1MVY	GLN_328_A	4107260	GLU_336	Substrate only	Mutation
+5N7J	VAL_228_A	Q9ZEU2	ILE_236	Substrate only	Mutation
+5N7J	ILE_289_A	Q9ZEU2	ALA_297	Substrate only	Mutation
+5N7J	TYR_290_A	Q9ZEU2	PHE_298	Substrate only	Mutation
+5N7J	THR_331_A	Q9ZEU2	VAL_339	Substrate only	Mutation
+1S46	GLN_328_A	Q9ZEU2	GLU_336	Substrate only	Mutation
+3GBR	GLY_83_A	P50384	ASP_83	Substrate only	Mutation
+3GBR	GLY_83_B	P50384	ASP_83	Substrate only	Mutation
+1EFZ	ALA_103_A	P28720	SER_102	Substrate only	Mutation
+2IIB	ASN_141_A	Q15KI8	ASP_141	Substrate only	Mutation
+2XM5	SER_215_A	Q8GHB2	CYS_215	Substrate only	Mutation
+3D5J	SER_30_A	P17695	CYS_64	Cofactor only	Mutation
+3D5J	SER_30_B	P17695	CYS_64	Cofactor only	Mutation
+2PVQ	ALA_10_A	P81065	CYS_10	Cofactor only	Mutation
+3VWX	ALA_70_A	Q9U795	PRO_70	Cofactor only	Mutation
+3VWX	ALA_70_B	Q9U795	PRO_70	Cofactor only	Mutation
+3VWX	ALA_70_C	Q9U795	PRO_70	Cofactor only	Mutation
+3VWX	ALA_70_D	Q9U795	PRO_70	Cofactor only	Mutation
+1IX7	PHE_39_A	P00509	VAL_35	Substrate+Cofactor	Mutation
+1ASB	ALA_223_A	P00509	ASP_211	Substrate+Cofactor	Mutation
+1ASG	PHE_226_A	P00509	TYR_214	Substrate+Cofactor	Mutation
+1AIB	HIS_258_A	P00509	LYS_246	Substrate+Cofactor	Mutation
+1AIB	HIS_258_B	P00509	LYS_246	Substrate+Cofactor	Mutation
+1GCK	SER_101_A	Q56232	LYS_101	Substrate+Cofactor	Mutation
+1GCK	SER_601_B	Q56232	LYS_101	Substrate+Cofactor	Mutation
+1GC3	VAL_16_A	Q56232	THR_16	Substrate+Cofactor	Mutation
+1GC3	SER_101_A	Q56232	LYS_101	Substrate+Cofactor	Mutation
+1GC3	SER_601_B	Q56232	LYS_101	Substrate+Cofactor	Mutation
+1GC3	ASP_1014_C	Q56232	SER_14	Substrate+Cofactor	Mutation
+1GC3	VAL_1016_C	Q56232	THR_16	Substrate+Cofactor	Mutation
+1GC3	SER_1101_C	Q56232	LYS_101	Substrate+Cofactor	Mutation
+1GC3	VAL_1516_D	Q56232	THR_16	Substrate+Cofactor	Mutation
+1GC3	SER_1601_D	Q56232	LYS_101	Substrate+Cofactor	Mutation
+1GC3	ASP_2014_E	Q56232	SER_14	Substrate+Cofactor	Mutation
+1GC3	VAL_2016_E	Q56232	THR_16	Substrate+Cofactor	Mutation
+1GC3	SER_2101_E	Q56232	LYS_101	Substrate+Cofactor	Mutation
+1GC3	SER_2601_F	Q56232	LYS_101	Substrate+Cofactor	Mutation
+1GC3	ASP_3014_G	Q56232	SER_14	Substrate+Cofactor	Mutation
+1GC3	VAL_3016_G	Q56232	THR_16	Substrate+Cofactor	Mutation
+1GC3	SER_3101_G	Q56232	LYS_101	Substrate+Cofactor	Mutation
+1GC3	ASP_3514_H	Q56232	SER_14	Substrate+Cofactor	Mutation
+1GC3	VAL_3516_H	Q56232	THR_16	Substrate+Cofactor	Mutation
+1GC3	SER_3601_H	Q56232	LYS_101	Substrate+Cofactor	Mutation
+1GC4	ASP_14_A	Q56232	SER_14	Substrate+Cofactor	Mutation
+1GC4	VAL_16_A	Q56232	THR_16	Substrate+Cofactor	Mutation
+1GC4	SER_101_A	Q56232	LYS_101	Substrate+Cofactor	Mutation
+1GC4	ASP_514_B	Q56232	SER_14	Substrate+Cofactor	Mutation
+1GC4	VAL_516_B	Q56232	THR_16	Substrate+Cofactor	Mutation
+1GC4	SER_601_B	Q56232	LYS_101	Substrate+Cofactor	Mutation
+1GC4	ASP_1014_C	Q56232	SER_14	Substrate+Cofactor	Mutation
+1GC4	VAL_1016_C	Q56232	THR_16	Substrate+Cofactor	Mutation
+1GC4	SER_1101_C	Q56232	LYS_101	Substrate+Cofactor	Mutation
+1GC4	ASP_1514_D	Q56232	SER_14	Substrate+Cofactor	Mutation
+1GC4	VAL_1516_D	Q56232	THR_16	Substrate+Cofactor	Mutation
+1GC4	SER_1601_D	Q56232	LYS_101	Substrate+Cofactor	Mutation
+4E3R	PHE_57_A	F2XBU9	TRP_57	Substrate only	Mutation
+4E3R	ALA_153_A	F2XBU9	VAL_153	Substrate only	Mutation
+4E3R	VAL_259_A	F2XBU9	ILE_259	Substrate only	Mutation
+4E3R	PHE_57_B	F2XBU9	TRP_57	Substrate only	Mutation
+4E3R	ALA_153_B	F2XBU9	VAL_153	Substrate only	Mutation
+4E3R	VAL_259_B	F2XBU9	ILE_259	Substrate only	Mutation
+4E3R	PHE_57_C	F2XBU9	TRP_57	Substrate only	Mutation
+4E3R	ALA_153_C	F2XBU9	VAL_153	Substrate only	Mutation
+4E3R	VAL_259_C	F2XBU9	ILE_259	Substrate only	Mutation
+4E3R	PHE_57_D	F2XBU9	TRP_57	Substrate only	Mutation
+4E3R	ALA_153_D	F2XBU9	VAL_153	Substrate only	Mutation
+4E3R	VAL_259_D	F2XBU9	ILE_259	Substrate only	Mutation
+6CH4	ASN_376_D	P0A0C1	SER_376	Substrate only	Mutation
+7S2P	LEU_337_A	Q4E4E1	PHE_337	Substrate only	Mutation
+7S2P	LEU_337_B	Q4E4E1	PHE_337	Substrate only	Mutation
+4GP7	MSE_44_A	A3DJ38	VAL_44	Substrate only	Mutation
+4GP7	MSE_93_A	A3DJ38	ILE_93	Substrate only	Mutation
+4GP7	MSE_137_A	A3DJ38	LEU_137	Substrate only	Mutation
+4GP7	MSE_44_B	A3DJ38	VAL_44	Substrate only	Mutation
+4GP7	MSE_93_B	A3DJ38	ILE_93	Substrate only	Mutation
+4GP7	MSE_137_B	A3DJ38	LEU_137	Substrate only	Mutation
+4JT4	MSE_44_A	A3DJ38	VAL_44	Substrate only	Mutation
+4JT4	MSE_137_A	A3DJ38	LEU_137	Substrate only	Mutation
+4JT4	MSE_44_B	A3DJ38	VAL_44	Substrate only	Mutation
+4JT4	MSE_137_B	A3DJ38	LEU_137	Substrate only	Mutation
+4JST	MSE_44_A	A3DJ38	VAL_44	Substrate only	Mutation
+4JST	MSE_137_A	A3DJ38	LEU_137	Substrate only	Mutation
+4JST	MSE_44_B	A3DJ38	VAL_44	Substrate only	Mutation
+4JST	MSE_137_B	A3DJ38	LEU_137	Substrate only	Mutation
+4JSY	MSE_44_A	A3DJ38	VAL_44	Substrate only	Mutation
+4JSY	MSE_137_A	A3DJ38	LEU_137	Substrate only	Mutation
+4JSY	MSE_44_B	A3DJ38	VAL_44	Substrate only	Mutation
+4JSY	MSE_137_B	A3DJ38	LEU_137	Substrate only	Mutation
+4JT2	MSE_44_A	A3DJ38	VAL_44	Substrate only	Mutation
+4JT2	MSE_137_A	A3DJ38	LEU_137	Substrate only	Mutation
+4JT2	MSE_44_B	A3DJ38	VAL_44	Substrate only	Mutation
+4JT2	MSE_137_B	A3DJ38	LEU_137	Substrate only	Mutation
+3EKH	VAL_116_A	P42212	THR_203	Substrate only	Mutation
+3EKH	TRP_378_A	P0DP29	LYS_76	Substrate only	Mutation
+3EK8	VAL_116_A	P42212	THR_203	Substrate only	Mutation
+1GUP	GLY_166_A	P09148	HIS_166	Substrate only	Mutation
+1GUP	GLY_166_B	P09148	HIS_166	Substrate only	Mutation
+1GUP	GLY_166_C	P09148	HIS_166	Substrate only	Mutation
+1GUP	GLY_166_D	P09148	HIS_166	Substrate only	Mutation
+1GUQ	GLY_166_A	P09148	HIS_166	Substrate only	Mutation
+1GUQ	GLY_166_B	P09148	HIS_166	Substrate only	Mutation
+1GUQ	GLY_166_C	P09148	HIS_166	Substrate only	Mutation
+1GUQ	GLY_166_D	P09148	HIS_166	Substrate only	Mutation
+8GFU	ALA_145_A	P0DTD1	CYS_3408	Substrate only	Mutation
+8GFN	ALA_145_A	P0DTD1	CYS_3408	Substrate only	Mutation
+8GFN	ALA_145_B	P0DTD1	CYS_3408	Substrate only	Mutation
+8E4R	ALA_41_A	P0DTD1	HIS_3304	Substrate only	Mutation
+8E4R	ALA_41_B	P0DTD1	HIS_3304	Substrate only	Mutation
+8E25	ILE_49_A	P0DTD1	MET_3312	Substrate only	Mutation
+8GFO	ALA_145_A	P0DTD1	CYS_3408	Substrate only	Mutation
+8GFR	ALA_145_A	P0DTD1	CYS_3408	Substrate only	Mutation
+8DZ1	ILE_49_A	P0DTD1	MET_3312	Substrate only	Mutation
+8DZ1	ILE_49_B	P0DTD1	MET_3312	Substrate only	Mutation
+1H4C	ALA_19_A	P32173	ARG_19	Substrate only	Mutation
+1H4D	LEU_22_A	P32173	GLY_22	Substrate only	Mutation
+4EUB	ALA_294_A	B3EY95	GLU_294	Substrate only	Mutation
+4EUB	ALA_294_B	B3EY95	GLU_294	Substrate only	Mutation
+4EUC	ALA_294_A	B3EY95	GLU_294	Substrate only	Mutation
+4EUC	ALA_294_B	B3EY95	GLU_294	Substrate only	Mutation
+2ZYH	ALA_136_A	O28511	SER_136	Substrate only	Mutation
+2ZYH	ALA_136_B	O28511	SER_136	Substrate only	Mutation
+4G4I	ALA_213_A	G2QJR6	SER_213	Substrate only	Mutation
+4G4J	ALA_213_A	G2QJR6	SER_213	Substrate only	Mutation
+1NX9	ALA_205_A	Q8VRK8	SER_205	Substrate only	Mutation
+1NX9	ALA_205_B	Q8VRK8	SER_205	Substrate only	Mutation
+1NX9	ALA_205_C	Q8VRK8	SER_205	Substrate only	Mutation
+1NX9	ALA_205_D	Q8VRK8	SER_205	Substrate only	Mutation
+4DI9	ALA_248_A	O87170	ASP_246	Substrate only	Mutation
+4DI8	ALA_248_A	O87170	ASP_246	Substrate only	Mutation
+4DI8	ALA_248_B	O87170	ASP_246	Substrate only	Mutation
+4ZRS	LEU_195_A	E7DJY5	HIS_195	Substrate only	Mutation
+4ZRS	LEU_195_B	E7DJY5	HIS_195	Substrate only	Mutation
+5HC2	ALA_188_A	H6BDX1	SER_188	Substrate only	Mutation
+5HC2	ALA_188_B	H6BDX1	SER_188	Substrate only	Mutation
+5HC2	ALA_188_C	H6BDX1	SER_188	Substrate only	Mutation
+5HC2	ALA_188_D	H6BDX1	SER_188	Substrate only	Mutation
+3IDA	LYS_169_A	Q9L9D7	LEU_169	Substrate only	Mutation
+3I2H	LYS_169_A	Q9L9D7	LEU_169	Substrate only	Mutation
+1V2G	PRO_109_A	P29679	LEU_135	Substrate only	Mutation
+3BJK	ALA_44_A	P44886	ASP_44	Substrate only	Mutation
+3BJK	ALA_44_E	P44886	ASP_44	Substrate only	Mutation
+3DH8	ALA_182_A	P20581	GLU_182	Substrate only	Mutation
+1KH5	ASN_330_A	P00634	ASP_352	Substrate only	Mutation
+1KH5	ASN_830_B	P00634	ASP_352	Substrate only	Mutation
+1HJK	GLN_331_A	P00634	HIS_353	Substrate only	Mutation
+1HJK	GLN_331_B	P00634	HIS_353	Substrate only	Mutation
+1KHJ	HIS_153_A	P00634	ASP_175	Substrate only	Mutation
+1KHJ	ASN_330_A	P00634	ASP_352	Substrate only	Mutation
+1KHJ	HIS_153_B	P00634	ASP_175	Substrate only	Mutation
+1KHJ	ASN_330_B	P00634	ASP_352	Substrate only	Mutation
+1RDZ	ALA_243_A	P00636	ARG_243	Substrate only	Mutation
+1RDZ	ALA_243_B	P00636	ARG_243	Substrate only	Mutation
+1RDY	ALA_243_A	P00636	ARG_243	Substrate only	Mutation
+1RDY	ALA_243_B	P00636	ARG_243	Substrate only	Mutation
+1RDX	ALA_243_A	P00636	ARG_243	Substrate only	Mutation
+1RDX	ALA_243_B	P00636	ARG_243	Substrate only	Mutation
+3OI7	ALA_13_A	P36136	HIS_13	Substrate only	Mutation
+3OI7	ALA_13_B	P36136	HIS_13	Substrate only	Mutation
+3OI7	ALA_13_C	P36136	HIS_13	Substrate only	Mutation
+3OI7	ALA_13_D	P36136	HIS_13	Substrate only	Mutation
+3LL4	ALA_13_A	P36136	HIS_13	Substrate only	Mutation
+3LL4	ALA_13_B	P36136	HIS_13	Substrate only	Mutation
+1AAX	SER_215_A	P18031	CYS_215	Substrate only	Mutation
+1PTV	SER_215_A	P18031	CYS_215	Substrate only	Mutation
+7PTH	SER_54_A	A0A410NSD	CYS_54	Substrate only	Mutation
+7PTH	SER_54_B	A0A410NSD	CYS_54	Substrate only	Mutation
+7PTH	SER_54_C	A0A410NSD	CYS_54	Substrate only	Mutation
+7PTH	SER_54_D	A0A410NSD	CYS_54	Substrate only	Mutation
+7PTJ	SER_54_A	A0A410NSD	CYS_54	Substrate only	Mutation
+7PTJ	SER_54_B	A0A410NSD	CYS_54	Substrate only	Mutation
+7PTJ	SER_54_C	A0A410NSD	CYS_54	Substrate only	Mutation
+7PTJ	SER_54_D	A0A410NSD	CYS_54	Substrate only	Mutation
+1D4F	GLU_244_A	P10760	ASP_244	Substrate only	Mutation
+1D4F	GLU_244_B	P10760	ASP_244	Substrate only	Mutation
+1D4F	GLU_244_C	P10760	ASP_244	Substrate only	Mutation
+1D4F	GLU_244_D	P10760	ASP_244	Substrate only	Mutation
+2OSX	SER_351_A	O33853	GLU_351	Substrate only	Mutation
+1UR9	ASN_142_A	Q54276	ASP_142	Substrate only	Mutation
+1UR9	ASN_142_B	Q54276	ASP_142	Substrate only	Mutation
+7WDV	ALA_356_A	A0A1E1FFN	GLU_356	Substrate only	Mutation
+7WDR	ALA_356_A	A0A1E1FFN	GLU_356	Substrate only	Mutation
+1E55	ASP_191_A	P49235	GLU_245	Substrate only	Mutation
+1E55	ASP_191_B	P49235	GLU_245	Substrate only	Mutation
+1E4N	ASP_191_A	P49235	GLU_245	Substrate only	Mutation
+1E4N	ASP_191_B	P49235	GLU_245	Substrate only	Mutation
+1E56	ASP_191_A	P49235	GLU_245	Substrate only	Mutation
+1E56	ASP_191_B	P49235	GLU_245	Substrate only	Mutation
+4ZOC	ALA_270_A	Q92AS9	ASP_270	Substrate only	Mutation
+4ZOC	ALA_270_B	Q92AS9	ASP_270	Substrate only	Mutation
+4ZO9	ALA_270_A	Q92AS9	ASP_270	Substrate only	Mutation
+4ZO9	ALA_270_B	Q92AS9	ASP_270	Substrate only	Mutation
+4ZO7	ALA_270_A	Q92AS9	ASP_270	Substrate only	Mutation
+3DYO	ASN_418_A	P00722	HIS_419	Substrate only	Mutation
+3DYO	ASN_418_B	P00722	HIS_419	Substrate only	Mutation
+3DYO	ASN_418_C	P00722	HIS_419	Substrate only	Mutation
+3DYO	ASN_418_D	P00722	HIS_419	Substrate only	Mutation
+3MV1	ALA_599_1	B8LFD6	ARG_600	Substrate only	Mutation
+3MV1	ALA_599_2	B8LFD6	ARG_600	Substrate only	Mutation
+3MV1	ALA_599_3	B8LFD6	ARG_600	Substrate only	Mutation
+3MV1	ALA_599_4	B8LFD6	ARG_600	Substrate only	Mutation
+3MUY	ALA_599_2	C6UB28	ARG_600	Substrate only	Mutation
+3MUY	ALA_599_3	C6UB28	ARG_600	Substrate only	Mutation
+5C71	ASP_414_A	A7XS03	GLU_414	Substrate only	Mutation
+5C71	ASP_505_A	A7XS03	GLU_505	Substrate only	Mutation
+5C71	ASP_414_C	A7XS03	GLU_414	Substrate only	Mutation
+5C71	ASP_505_C	A7XS03	GLU_505	Substrate only	Mutation
+8I5S	ASN_593_A	F6BL85	ASP_593	Substrate only	Mutation
+7DKT	ALA_441_A	F6BL85	GLU_441	Substrate only	Mutation
+7W2W	LYS_786_A	F6BL85	ARG_786	Substrate only	Mutation
+7W2V	ALA_786_A	F6BL85	ARG_786	Substrate only	Mutation
+7W2S	ALA_730_A	F6BL85	GLU_730	Substrate only	Mutation
+7W2T	GLN_730_A	F6BL85	GLU_730	Substrate only	Mutation
+7W2T	GLN_730_B	F6BL85	GLU_730	Substrate only	Mutation
+3CZL	GLN_322_A	Q6UVM5	GLU_322	Substrate only	Mutation
+2PC8	GLN_292_A	Q5AIZ3	GLU_330	Substrate only	Mutation
+2X8T	ALA_318_B	HIS	318_ENGINEERED	Substrate only	Mutation
+4COT	GLN_318_A	B3FRL6	HIS_318	Substrate only	Mutation
+6W0M	CYS_207_A	O15527	TYR_207	Substrate only	Mutation
+4R9K	LYS_76_A	Q9ZAG3	THR_76	Substrate only	Mutation
+4R9K	LYS_76_B	Q9ZAG3	THR_76	Substrate only	Mutation
+4R9K	LYS_76_C	Q9ZAG3	THR_76	Substrate only	Mutation
+4R9L	LYS_76_A	Q9ZAG3	THR_76	Substrate only	Mutation
+4R9L	LYS_76_B	Q9ZAG3	THR_76	Substrate only	Mutation
+4R9L	CYS_84_B	Q9ZAG3	GLU_84	Substrate only	Mutation
+4R9L	LYS_76_C	Q9ZAG3	THR_76	Substrate only	Mutation
+4R9L	CYS_84_C	Q9ZAG3	GLU_84	Substrate only	Mutation
+7XEF	PHE_53_A	Q9ZAG3	TYR_53	Substrate only	Mutation
+7XEF	ALA_55_A	Q9ZAG3	ASN_55	Substrate only	Mutation
+7XEF	PHE_53_B	Q9ZAG3	TYR_53	Substrate only	Mutation
+7XEF	ALA_55_B	Q9ZAG3	ASN_55	Substrate only	Mutation
+7XEF	PHE_53_C	Q9ZAG3	TYR_53	Substrate only	Mutation
+7XEF	ALA_55_C	Q9ZAG3	ASN_55	Substrate only	Mutation
+7XEF	PHE_53_D	Q9ZAG3	TYR_53	Substrate only	Mutation
+7XEF	ALA_55_D	Q9ZAG3	ASN_55	Substrate only	Mutation
+7XEE	PHE_53_A	Q9ZAG3	TYR_53	Substrate only	Mutation
+7XEE	ALA_55_A	Q9ZAG3	ASN_55	Substrate only	Mutation
+7XEE	PHE_53_B	Q9ZAG3	TYR_53	Substrate only	Mutation
+7XEE	ALA_55_B	Q9ZAG3	ASN_55	Substrate only	Mutation
+7VWM	PHE_53_A	Q9ZAG3	TYR_53	Substrate only	Mutation
+7VWM	ALA_55_A	Q9ZAG3	ASN_55	Substrate only	Mutation
+7VWM	VAL_116_A	Q9ZAG3	ILE_116	Substrate only	Mutation
+7VWM	PHE_53_B	Q9ZAG3	TYR_53	Substrate only	Mutation
+7VWM	ALA_55_B	Q9ZAG3	ASN_55	Substrate only	Mutation
+7VWM	VAL_116_B	Q9ZAG3	ILE_116	Substrate only	Mutation
+7VWM	PHE_53_C	Q9ZAG3	TYR_53	Substrate only	Mutation
+7VWM	ALA_55_C	Q9ZAG3	ASN_55	Substrate only	Mutation
+7VWM	VAL_116_C	Q9ZAG3	ILE_116	Substrate only	Mutation
+7VWM	PHE_53_D	Q9ZAG3	TYR_53	Substrate only	Mutation
+7VWM	ALA_55_D	Q9ZAG3	ASN_55	Substrate only	Mutation
+7VWM	VAL_116_D	Q9ZAG3	ILE_116	Substrate only	Mutation
+7VWD	PHE_53_B	Q9ZAG3	TYR_53	Substrate only	Mutation
+7VWD	ALA_55_B	Q9ZAG3	ASN_55	Substrate only	Mutation
+7VWD	PHE_53_D	Q9ZAG3	TYR_53	Substrate only	Mutation
+7VWD	ALA_55_D	Q9ZAG3	ASN_55	Substrate only	Mutation
+5YQT	PHE_74_C	Q9ZAG3	LEU_74	Substrate only	Mutation
+5YQT	VAL_78_C	Q9ZAG3	MET_78	Substrate only	Mutation
+5YQT	VAL_80_C	Q9ZAG3	ILE_80	Substrate only	Mutation
+5YQT	PHE_74_D	Q9ZAG3	LEU_74	Substrate only	Mutation
+5YQT	VAL_78_D	Q9ZAG3	MET_78	Substrate only	Mutation
+5YQT	VAL_80_D	Q9ZAG3	ILE_80	Substrate only	Mutation
+5YQT	PHE_74_A	Q9ZAG3	LEU_74	Substrate only	Mutation
+5YQT	VAL_80_A	Q9ZAG3	ILE_80	Substrate only	Mutation
+5YQT	PHE_74_B	Q9ZAG3	LEU_74	Substrate only	Mutation
+5YQT	VAL_78_B	Q9ZAG3	MET_78	Substrate only	Mutation
+5YQT	VAL_80_B	Q9ZAG3	ILE_80	Substrate only	Mutation
+5YQT	PHE_74_H	Q9ZAG3	LEU_74	Substrate only	Mutation
+5YQT	VAL_78_H	Q9ZAG3	MET_78	Substrate only	Mutation
+5YQT	VAL_80_H	Q9ZAG3	ILE_80	Substrate only	Mutation
+7VX2	PHE_53_A	Q9ZAG3	TYR_53	Substrate only	Mutation
+7VX2	ALA_55_A	Q9ZAG3	ASN_55	Substrate only	Mutation
+7VX2	PHE_80_A	Q9ZAG3	ILE_80	Substrate only	Mutation
+7VX2	VAL_114_A	Q9ZAG3	LEU_114	Substrate only	Mutation
+7VX2	VAL_116_A	Q9ZAG3	ILE_116	Substrate only	Mutation
+7VX2	PHE_53_C	Q9ZAG3	TYR_53	Substrate only	Mutation
+7VX2	ALA_55_C	Q9ZAG3	ASN_55	Substrate only	Mutation
+7VX2	PHE_80_C	Q9ZAG3	ILE_80	Substrate only	Mutation
+7VX2	VAL_114_C	Q9ZAG3	LEU_114	Substrate only	Mutation
+7VX2	VAL_116_C	Q9ZAG3	ILE_116	Substrate only	Mutation
+7VX2	PHE_53_D	Q9ZAG3	TYR_53	Substrate only	Mutation
+7VX2	ALA_55_D	Q9ZAG3	ASN_55	Substrate only	Mutation
+7VX2	PHE_80_D	Q9ZAG3	ILE_80	Substrate only	Mutation
+7VX2	VAL_114_D	Q9ZAG3	LEU_114	Substrate only	Mutation
+7VX2	VAL_116_D	Q9ZAG3	ILE_116	Substrate only	Mutation
+5YNG	TYR_80_A	Q9ZAG3	ILE_80	Substrate only	Mutation
+5YNG	VAL_114_A	Q9ZAG3	LEU_114	Substrate only	Mutation
+5YNG	VAL_116_A	Q9ZAG3	ILE_116	Substrate only	Mutation
+5YNG	TYR_80_B	Q9ZAG3	ILE_80	Substrate only	Mutation
+5YNG	VAL_114_B	Q9ZAG3	LEU_114	Substrate only	Mutation
+5YNG	VAL_116_B	Q9ZAG3	ILE_116	Substrate only	Mutation
+5CK6	TYR_80_A	Q9ZAG3	ILE_80	Substrate only	Mutation
+5CK6	VAL_114_A	Q9ZAG3	LEU_114	Substrate only	Mutation
+5CK6	VAL_116_A	Q9ZAG3	ILE_116	Substrate only	Mutation
+5CK6	TYR_80_B	Q9ZAG3	ILE_80	Substrate only	Mutation
+5CK6	VAL_114_B	Q9ZAG3	LEU_114	Substrate only	Mutation
+5CK6	VAL_116_B	Q9ZAG3	ILE_116	Substrate only	Mutation
+5CLK	TYR_80_A	Q9ZAG3	ILE_80	Substrate only	Mutation
+5CLK	VAL_114_A	Q9ZAG3	LEU_114	Substrate only	Mutation
+5CLK	VAL_116_A	Q9ZAG3	ILE_116	Substrate only	Mutation
+5CLK	TYR_80_B	Q9ZAG3	ILE_80	Substrate only	Mutation
+5CLK	VAL_114_B	Q9ZAG3	LEU_114	Substrate only	Mutation
+5CLK	VAL_116_B	Q9ZAG3	ILE_116	Substrate only	Mutation
+4K3N	GLN_546_A	Q8IL11	ASN_546	Substrate only	Mutation
+4K3N	GLN_546_B	Q8IL11	ASN_546	Substrate only	Mutation
+4K3N	GLN_546_C	Q8IL11	ASN_546	Substrate only	Mutation
+4K3N	GLN_546_D	Q8IL11	ASN_546	Substrate only	Mutation
+4K3N	GLN_546_E	Q8IL11	ASN_546	Substrate only	Mutation
+4K3N	GLN_515_F	Q8IL11	ASN_515	Substrate only	Mutation
+4K3N	GLN_546_F	Q8IL11	ASN_546	Substrate only	Mutation
+4K3N	GLN_546_G	Q8IL11	ASN_546	Substrate only	Mutation
+4K3N	GLN_546_H	Q8IL11	ASN_546	Substrate only	Mutation
+4K3N	GLN_546_I	Q8IL11	ASN_546	Substrate only	Mutation
+4K3N	GLN_515_J	Q8IL11	ASN_515	Substrate only	Mutation
+4K3N	GLN_546_J	Q8IL11	ASN_546	Substrate only	Mutation
+4K3N	GLN_546_K	Q8IL11	ASN_546	Substrate only	Mutation
+4K3N	GLN_515_L	Q8IL11	ASN_515	Substrate only	Mutation
+4K3N	GLN_546_L	Q8IL11	ASN_546	Substrate only	Mutation
+4X2T	GLN_546_A	Q8IL11	ASN_546	Substrate only	Mutation
+4X2T	GLN_546_B	Q8IL11	ASN_546	Substrate only	Mutation
+4X2T	GLN_546_C	Q8IL11	ASN_546	Substrate only	Mutation
+4X2T	GLN_546_D	Q8IL11	ASN_546	Substrate only	Mutation
+4X2T	GLN_546_E	Q8IL11	ASN_546	Substrate only	Mutation
+4X2T	GLN_546_F	Q8IL11	ASN_546	Substrate only	Mutation
+4X2T	GLN_546_G	Q8IL11	ASN_546	Substrate only	Mutation
+4X2T	GLN_546_H	Q8IL11	ASN_546	Substrate only	Mutation
+4X2T	GLN_546_I	Q8IL11	ASN_546	Substrate only	Mutation
+4X2T	GLN_546_J	Q8IL11	ASN_546	Substrate only	Mutation
+4X2T	GLN_546_K	Q8IL11	ASN_546	Substrate only	Mutation
+4X2T	GLN_546_L	Q8IL11	ASN_546	Substrate only	Mutation
+4R7M	GLN_546_A	Q8IL11	ASN_546	Substrate only	Mutation
+4R7M	GLN_546_B	Q8IL11	ASN_546	Substrate only	Mutation
+4R7M	GLN_546_C	Q8IL11	ASN_546	Substrate only	Mutation
+4R7M	GLN_546_D	Q8IL11	ASN_546	Substrate only	Mutation
+4R7M	GLN_546_E	Q8IL11	ASN_546	Substrate only	Mutation
+4R7M	GLN_546_F	Q8IL11	ASN_546	Substrate only	Mutation
+4R7M	GLN_546_G	Q8IL11	ASN_546	Substrate only	Mutation
+4R7M	GLN_546_H	Q8IL11	ASN_546	Substrate only	Mutation
+4R7M	GLN_546_I	Q8IL11	ASN_546	Substrate only	Mutation
+4R7M	GLN_546_J	Q8IL11	ASN_546	Substrate only	Mutation
+4R7M	GLN_546_K	Q8IL11	ASN_546	Substrate only	Mutation
+4R7M	GLN_546_L	Q8IL11	ASN_546	Substrate only	Mutation
+7UQW	DPP_132_A	P73832	SER_132	Substrate only	Mutation
+7UQW	DPP_132_B	P73832	SER_132	Substrate only	Mutation
+7UQW	DPP_132_C	P73832	SER_132	Substrate only	Mutation
+4IAV	SER_215_A	P29068	GLY_313	Substrate only	Mutation
+4IAV	GLY_251_A	P29068	ALA_349	Substrate only	Mutation
+4IAV	ALA_257_A	P29068	THR_355	Substrate only	Mutation
+4IAV	ASP_262_A	P29068	THR_360	Substrate only	Mutation
+6F79	GLN_211_A	P29068	LEU_309	Substrate only	Mutation
+7V83	ASN_20_A	P0DTC2	THR_20	Substrate only	Mutation
+7V83	TYR_655_A	P0DTC2	HIS_655	Substrate only	Mutation
+7V83	ASN_20_B	P0DTC2	THR_20	Substrate only	Mutation
+7V83	SER_190_B	P0DTC2	ARG_190	Substrate only	Mutation
+7V83	TYR_655_B	P0DTC2	HIS_655	Substrate only	Mutation
+7V83	TYR_655_C	P0DTC2	HIS_655	Substrate only	Mutation
+7V82	ASN_20_A	P0DTC2	THR_20	Substrate only	Mutation
+7V82	SER_190_A	P0DTC2	ARG_190	Substrate only	Mutation
+7V82	TYR_655_A	P0DTC2	HIS_655	Substrate only	Mutation
+7V82	ASN_20_B	P0DTC2	THR_20	Substrate only	Mutation
+7V82	SER_190_B	P0DTC2	ARG_190	Substrate only	Mutation
+7V82	TYR_655_B	P0DTC2	HIS_655	Substrate only	Mutation
+7V82	ASN_20_C	P0DTC2	THR_20	Substrate only	Mutation
+7V82	SER_190_C	P0DTC2	ARG_190	Substrate only	Mutation
+7V82	TYR_655_C	P0DTC2	HIS_655	Substrate only	Mutation
+7Y9Z	ASP_339_A	P0DTC2	GLY_339	Substrate only	Mutation
+7Y9Z	LEU_371_A	P0DTC2	SER_371	Substrate only	Mutation
+7Y9Z	ASP_339_B	P0DTC2	GLY_339	Substrate only	Mutation
+7Y9Z	LEU_371_B	P0DTC2	SER_371	Substrate only	Mutation
+7Y9Z	GLY_614_B	P0DTC2	ASP_614	Substrate only	Mutation
+7Y9Z	ASP_339_C	P0DTC2	GLY_339	Substrate only	Mutation
+7Y9Z	LEU_371_C	P0DTC2	SER_371	Substrate only	Mutation
+8IOU	SER_27_A	P0DTC2	ALA_27	Substrate only	Mutation
+8IOU	HIS_339_A	P0DTC2	GLY_339	Substrate only	Mutation
+8IOU	THR_346_A	P0DTC2	ARG_346	Substrate only	Mutation
+8IOU	PHE_371_A	P0DTC2	SER_371	Substrate only	Mutation
+8IOU	TYR_655_A	P0DTC2	HIS_655	Substrate only	Mutation
+8IOU	TYR_796_A	P0DTC2	ASP_796	Substrate only	Mutation
+8IOU	TYR_655_B	P0DTC2	HIS_655	Substrate only	Mutation
+8IOU	TYR_796_B	P0DTC2	ASP_796	Substrate only	Mutation
+8IOU	SER_27_C	P0DTC2	ALA_27	Substrate only	Mutation
+8IOU	TYR_655_C	P0DTC2	HIS_655	Substrate only	Mutation
+8IOU	TYR_796_C	P0DTC2	ASP_796	Substrate only	Mutation
+7V81	ASN_20_A	P0DTC2	THR_20	Substrate only	Mutation
+7V81	TYR_655_A	P0DTC2	HIS_655	Substrate only	Mutation
+7V81	SER_190_C	P0DTC2	ARG_190	Substrate only	Mutation
+7V81	TYR_655_C	P0DTC2	HIS_655	Substrate only	Mutation
+7V81	TYR_655_B	P0DTC2	HIS_655	Substrate only	Mutation
+7Y1Y	SER_27_A	P0DTC2	ALA_27	Substrate only	Mutation
+7Y1Y	GLY_614_A	P0DTC2	ASP_614	Substrate only	Mutation
+7Y1Y	TYR_655_A	P0DTC2	HIS_655	Substrate only	Mutation
+7Y1Y	TYR_796_A	P0DTC2	ASP_796	Substrate only	Mutation
+7Y1Y	SER_26_B	P0DTC2	PRO_26	Substrate only	Mutation
+7Y1Y	SER_27_B	P0DTC2	ALA_27	Substrate only	Mutation
+7Y1Y	GLY_614_B	P0DTC2	ASP_614	Substrate only	Mutation
+7Y1Y	TYR_655_B	P0DTC2	HIS_655	Substrate only	Mutation
+7Y1Y	SER_27_C	P0DTC2	ALA_27	Substrate only	Mutation
+7Y1Y	GLY_614_C	P0DTC2	ASP_614	Substrate only	Mutation
+7Y1Y	TYR_655_C	P0DTC2	HIS_655	Substrate only	Mutation
+7V85	ASP_142_B	P0DTC2	GLY_142	Substrate only	Mutation
+7V85	LYS_154_B	P0DTC2	GLU_154	Substrate only	Mutation
+7XID	ASP_339_A	P0DTC2	GLY_339	Substrate only	Mutation
+7XID	LEU_371_A	P0DTC2	SER_371	Substrate only	Mutation
+7XID	GLY_614_A	P0DTC2	ASP_614	Substrate only	Mutation
+7XID	TYR_655_A	P0DTC2	HIS_655	Substrate only	Mutation
+7XID	LEU_371_B	P0DTC2	SER_371	Substrate only	Mutation
+7XID	GLY_614_B	P0DTC2	ASP_614	Substrate only	Mutation
+7XID	TYR_655_B	P0DTC2	HIS_655	Substrate only	Mutation
+7XID	LEU_371_C	P0DTC2	SER_371	Substrate only	Mutation
+7XID	GLY_614_C	P0DTC2	ASP_614	Substrate only	Mutation
+7XID	TYR_655_C	P0DTC2	HIS_655	Substrate only	Mutation
+7XO7	SER_27_A	P0DTC2	ALA_27	Substrate only	Mutation
+7XO7	TYR_655_A	P0DTC2	HIS_655	Substrate only	Mutation
+7XO7	TYR_796_A	P0DTC2	ASP_796	Substrate only	Mutation
+7XO7	PRO_942_A	P0DTC2	ALA_942	Substrate only	Mutation
+7XO7	SER_27_B	P0DTC2	ALA_27	Substrate only	Mutation
+7XO7	TYR_655_B	P0DTC2	HIS_655	Substrate only	Mutation
+7XO7	TYR_796_B	P0DTC2	ASP_796	Substrate only	Mutation
+7XO7	PRO_942_B	P0DTC2	ALA_942	Substrate only	Mutation
+7XO7	SER_27_C	P0DTC2	ALA_27	Substrate only	Mutation
+7XO7	TYR_655_C	P0DTC2	HIS_655	Substrate only	Mutation
+7XO7	TYR_796_C	P0DTC2	ASP_796	Substrate only	Mutation
+7XO7	PRO_942_C	P0DTC2	ALA_942	Substrate only	Mutation
+7Y1Z	GLY_614_A	P0DTC2	ASP_614	Substrate only	Mutation
+7Y1Z	TYR_655_A	P0DTC2	HIS_655	Substrate only	Mutation
+7Y1Z	GLY_614_B	P0DTC2	ASP_614	Substrate only	Mutation
+7Y1Z	TYR_655_B	P0DTC2	HIS_655	Substrate only	Mutation
+7Y1Z	GLY_614_C	P0DTC2	ASP_614	Substrate only	Mutation
+7Y1Z	TYR_655_C	P0DTC2	HIS_655	Substrate only	Mutation
+7XO8	SER_27_A	P0DTC2	ALA_27	Substrate only	Mutation
+7XO8	GLY_614_A	P0DTC2	ASP_614	Substrate only	Mutation
+7XO8	TYR_655_A	P0DTC2	HIS_655	Substrate only	Mutation
+7XO8	TYR_796_A	P0DTC2	ASP_796	Substrate only	Mutation
+7XO8	PRO_942_A	P0DTC2	ALA_942	Substrate only	Mutation
+7XO8	SER_27_B	P0DTC2	ALA_27	Substrate only	Mutation
+7XO8	GLY_614_B	P0DTC2	ASP_614	Substrate only	Mutation
+7XO8	TYR_655_B	P0DTC2	HIS_655	Substrate only	Mutation
+7XO8	TYR_796_B	P0DTC2	ASP_796	Substrate only	Mutation
+7XO8	PRO_899_B	P0DTC2	ALA_899	Substrate only	Mutation
+7XO8	PRO_942_B	P0DTC2	ALA_942	Substrate only	Mutation
+7XO8	SER_27_C	P0DTC2	ALA_27	Substrate only	Mutation
+7XO8	ASP_142_C	P0DTC2	GLY_142	Substrate only	Mutation
+7XO8	TYR_655_C	P0DTC2	HIS_655	Substrate only	Mutation
+7XO8	TYR_796_C	P0DTC2	ASP_796	Substrate only	Mutation
+7YR3	SER_27_B	P0DTC2	ALA_27	Substrate only	Mutation
+7YR3	LEU_157_B	P0DTC2	PHE_157	Substrate only	Mutation
+7YR3	SER_257_B	P0DTC2	GLY_257	Substrate only	Mutation
+7YR3	ASN_405_B	P0DTC2	ASP_405	Substrate only	Mutation
+7YR3	SER_408_B	P0DTC2	ARG_408	Substrate only	Mutation
+7YR3	ASN_417_B	P0DTC2	LYS_417	Substrate only	Mutation
+7YR3	TYR_655_B	P0DTC2	HIS_655	Substrate only	Mutation
+7YR3	TYR_796_B	P0DTC2	ASP_796	Substrate only	Mutation
+7YR3	SER_27_C	P0DTC2	ALA_27	Substrate only	Mutation
+7YR3	ARG_152_C	P0DTC2	TRP_152	Substrate only	Mutation
+7YR3	LEU_157_C	P0DTC2	PHE_157	Substrate only	Mutation
+7YR3	SER_257_C	P0DTC2	GLY_257	Substrate only	Mutation
+7YR3	LYS_440_C	P0DTC2	ASN_440	Substrate only	Mutation
+7YR3	TYR_655_C	P0DTC2	HIS_655	Substrate only	Mutation
+7YR3	TYR_796_C	P0DTC2	ASP_796	Substrate only	Mutation
+7YR3	SER_27_F	P0DTC2	ALA_27	Substrate only	Mutation
+7YR3	ARG_152_F	P0DTC2	TRP_152	Substrate only	Mutation
+7YR3	LEU_157_F	P0DTC2	PHE_157	Substrate only	Mutation
+7YR3	SER_257_F	P0DTC2	GLY_257	Substrate only	Mutation
+7YR3	PHE_371_F	P0DTC2	SER_371	Substrate only	Mutation
+7YR3	SER_408_F	P0DTC2	ARG_408	Substrate only	Mutation
+7YR3	ASN_417_F	P0DTC2	LYS_417	Substrate only	Mutation
+7YR3	LYS_460_F	P0DTC2	ASN_460	Substrate only	Mutation
+7YR3	TYR_655_F	P0DTC2	HIS_655	Substrate only	Mutation
+7YR3	TYR_796_F	P0DTC2	ASP_796	Substrate only	Mutation
+2AQV	PHE_137_A	P39377	TYR_137	Substrate only	Mutation
+2AQV	PHE_137_B	P39377	TYR_137	Substrate only	Mutation
+1YBQ	ASN_285_A	P39377	ASP_285	Substrate only	Mutation
+1YBQ	ASN_285_B	P39377	ASP_285	Substrate only	Mutation
+5XGX	GLN_80_A	Q484B6	GLU_80	Substrate only	Mutation
+5XGX	GLN_80_B	Q484B6	GLU_80	Substrate only	Mutation
+4L8F	ALA_108_D	Q6NY42	CYS_129	Substrate only	Mutation
+4L8F	ALA_108_B	Q6NY42	CYS_129	Substrate only	Mutation
+4L8W	ASN_218_I	Q6NY42	HIS_239	Substrate only	Mutation
+4L8W	ASN_218_G	Q6NY42	HIS_239	Substrate only	Mutation
+3B44	ALA_136_A	P09391	TRP_136	Substrate only	Mutation
+4RKO	THR_195_B	P00734	SER_568	Substrate only	Mutation
+6O44	CYS_221_A	A0A024B5N	SER_327	Substrate only	Mutation
+6PAK	CYS_222_A	P04189	SER_327	Substrate only	Mutation
+5JJS	MET_5_A	Q6DLV0	GLN_2495	Substrate only	Mutation
+5JJS	ILE_72_A	Q6DLV0	VAL_2562	Substrate only	Mutation
+1N1L	THR_164_A	P27958	ALA_1190	Substrate only	Mutation
+5QC8	SER_25_A	P25774	CYS_139	Substrate only	Mutation
+5QC8	SER_25_B	P25774	CYS_139	Substrate only	Mutation
+5QBV	SER_25_A	P25774	CYS_139	Substrate only	Mutation
+5QBV	SER_25_B	P25774	CYS_139	Substrate only	Mutation
+5QCC	SER_25_A	P25774	CYS_139	Substrate only	Mutation
+5QCC	SER_25_B	P25774	CYS_139	Substrate only	Mutation
+5QC7	SER_25_A	P25774	CYS_139	Substrate only	Mutation
+5QC7	SER_25_B	P25774	CYS_139	Substrate only	Mutation
+5QC0	SER_25_A	P25774	CYS_139	Substrate only	Mutation
+5QC0	SER_25_B	P25774	CYS_139	Substrate only	Mutation
+5QCD	SER_25_A	P25774	CYS_139	Substrate only	Mutation
+5QC3	SER_25_A	P25774	CYS_139	Substrate only	Mutation
+5QC3	SER_25_B	P25774	CYS_139	Substrate only	Mutation
+5QC4	SER_25_A	P25774	CYS_139	Substrate only	Mutation
+5QC4	SER_25_B	P25774	CYS_139	Substrate only	Mutation
+5QC9	SER_25_A	P25774	CYS_139	Substrate only	Mutation
+5QC9	SER_25_B	P25774	CYS_139	Substrate only	Mutation
+5QC1	SER_25_A	P25774	CYS_139	Substrate only	Mutation
+5QC1	SER_25_B	P25774	CYS_139	Substrate only	Mutation
+5QCF	SER_25_A	P25774	CYS_139	Substrate only	Mutation
+5QC6	SER_25_A	P25774	CYS_139	Substrate only	Mutation
+5QC6	SER_25_B	P25774	CYS_139	Substrate only	Mutation
+5QBX	SER_25_A	P25774	CYS_139	Substrate only	Mutation
+5QBX	SER_25_B	P25774	CYS_139	Substrate only	Mutation
+5QCI	SER_25_A	P25774	CYS_139	Substrate only	Mutation
+3IEJ	SER_25_A	P25774	CYS_139	Substrate only	Mutation
+3IEJ	SER_25_B	P25774	CYS_139	Substrate only	Mutation
+5QCB	SER_25_A	P25774	CYS_139	Substrate only	Mutation
+5QCB	SER_25_B	P25774	CYS_139	Substrate only	Mutation
+5QCH	SER_25_A	P25774	CYS_139	Substrate only	Mutation
+5QCH	SER_25_B	P25774	CYS_139	Substrate only	Mutation
+5QCH	SER_25_C	P25774	CYS_139	Substrate only	Mutation
+5QCH	SER_25_D	P25774	CYS_139	Substrate only	Mutation
+5QBY	SER_25_A	P25774	CYS_139	Substrate only	Mutation
+5QBY	SER_25_B	P25774	CYS_139	Substrate only	Mutation
+5QC2	SER_25_A	P25774	CYS_139	Substrate only	Mutation
+5QC2	SER_25_B	P25774	CYS_139	Substrate only	Mutation
+5QCA	SER_25_A	P25774	CYS_139	Substrate only	Mutation
+5QCA	SER_25_B	P25774	CYS_139	Substrate only	Mutation
+5QC5	SER_25_A	P25774	CYS_139	Substrate only	Mutation
+5QC5	SER_25_B	P25774	CYS_139	Substrate only	Mutation
+5QCG	SER_25_A	P25774	CYS_139	Substrate only	Mutation
+5QCG	SER_25_B	P25774	CYS_139	Substrate only	Mutation
+5QCE	SER_25_A	P25774	CYS_139	Substrate only	Mutation
+5QCE	SER_25_B	P25774	CYS_139	Substrate only	Mutation
+5QBU	SER_25_A	P25774	CYS_139	Substrate only	Mutation
+5QBU	SER_25_B	P25774	CYS_139	Substrate only	Mutation
+5QBZ	SER_25_A	P25774	CYS_139	Substrate only	Mutation
+5QBW	SER_25_A	P25774	CYS_139	Substrate only	Mutation
+3QZR	ALA_71_A	E7E815	GLU_71	Substrate only	Mutation
+3QZR	ALA_71_B	E7E815	GLU_71	Substrate only	Mutation
+3R0F	GLY_133_A	E7E815	HIS_133	Substrate only	Mutation
+3R0F	GLY_133_B	E7E815	HIS_133	Substrate only	Mutation
+3QZQ	ASP_71_A	E7E815	GLU_71	Substrate only	Mutation
+3QZQ	ASP_71_B	E7E815	GLU_71	Substrate only	Mutation
+3QZQ	ASP_71_C	E7E815	GLU_71	Substrate only	Mutation
+3QZQ	ASP_71_D	E7E815	GLU_71	Substrate only	Mutation
+3A2O	LYS_107_B	Q9EKL4	GLN_7	Substrate only	Mutation
+3A2O	ILE_133_B	Q9EKL4	VAL_33	Substrate only	Mutation
+3FX5	LYS_107_B	Q9EKL4	GLN_7	Substrate only	Mutation
+3FX5	ILE_133_B	Q9EKL4	VAL_33	Substrate only	Mutation
+2QD7	ILE_133_B	P03367	LEU_533	Substrate only	Mutation
+2QD7	ALA_182_B	P03367	VAL_582	Substrate only	Mutation
+2QCI	ASN_130_B	P03367	ASP_530	Substrate only	Mutation
+2QCI	ILE_133_B	P03367	LEU_533	Substrate only	Mutation
+2QD6	ILE_133_B	P03367	LEU_533	Substrate only	Mutation
+2QD6	VAL_150_B	P03367	ILE_550	Substrate only	Mutation
+2QD8	ILE_133_B	P03367	LEU_533	Substrate only	Mutation
+2QD8	VAL_184_B	P03367	ILE_584	Substrate only	Mutation
+3UCB	ASN_30_A	P03367	ASP_530	Substrate only	Mutation
+3UCB	ILE_32_A	P03367	VAL_532	Substrate only	Mutation
+3UCB	PHE_33_A	P03367	LEU_533	Substrate only	Mutation
+3UCB	VAL_47_A	P03367	ILE_547	Substrate only	Mutation
+3UCB	VAL_84_A	P03367	ILE_584	Substrate only	Mutation
+3UCB	ASP_88_A	P03367	ASN_588	Substrate only	Mutation
+3UCB	VAL_47_B	P03367	ILE_547	Substrate only	Mutation
+3UCB	LEU_54_B	P03367	ILE_554	Substrate only	Mutation
+3UCB	GLU_58_B	P03367	GLN_558	Substrate only	Mutation
+3UFN	LYS_7_A	P03367	GLN_507	Substrate only	Mutation
+3UFN	PHE_10_A	P03367	LEU_510	Substrate only	Mutation
+3UFN	ASN_30_A	P03367	ASP_530	Substrate only	Mutation
+3UFN	ILE_32_A	P03367	VAL_532	Substrate only	Mutation
+3UFN	PHE_33_A	P03367	LEU_533	Substrate only	Mutation
+3UFN	VAL_47_A	P03367	ILE_547	Substrate only	Mutation
+3UFN	LEU_54_A	P03367	ILE_554	Substrate only	Mutation
+3UFN	VAL_84_A	P03367	ILE_584	Substrate only	Mutation
+3UFN	ASP_88_A	P03367	ASN_588	Substrate only	Mutation
+1DAZ	LYS_107_D	P03367	GLN_75	Substrate only	Mutation
+1DAZ	ILE_133_D	P03367	LEU_91	Substrate only	Mutation
+2R43	VAL_50_B	Q5RZ08	ILE_50	Substrate only	Mutation
+2Z4O	LYS_107_B	P03367	GLN_507	Substrate only	Mutation
+2Z4O	ILE_133_B	P03367	LEU_533	Substrate only	Mutation
+3UF3	PHE_33_A	P03367	LEU_533	Substrate only	Mutation
+3UF3	ASP_35_A	P03367	GLU_535	Substrate only	Mutation
+3UF3	ILE_36_A	P03367	MET_536	Substrate only	Mutation
+3GGU	PHE_33_B	P03367	LEU_533	Substrate only	Mutation
+3GGU	ARG_45_B	P03367	LYS_545	Substrate only	Mutation
+3GGU	LEU_46_B	P03367	MET_546	Substrate only	Mutation
+3GGU	THR_82_B	P03367	VAL_582	Substrate only	Mutation
+3GGU	VAL_84_B	P03367	ILE_584	Substrate only	Mutation
+2ZYE	LYS_7_A	Q9EKL4	GLN_7	Substrate only	Mutation
+2ZYE	ILE_33_A	Q9EKL4	VAL_33	Substrate only	Mutation
+2ZYE	ILE_63_A	Q9EKL4	LEU_63	Substrate only	Mutation
+2ZYE	ALA_67_A	Q9EKL4	CYS_67	Substrate only	Mutation
+2ZYE	ALA_95_A	Q9EKL4	CYS_95	Substrate only	Mutation
+2ZYE	LYS_107_B	Q9EKL4	GLN_7	Substrate only	Mutation
+2ZYE	ILE_133_B	Q9EKL4	VAL_33	Substrate only	Mutation
+2ZYE	ILE_163_B	Q9EKL4	LEU_63	Substrate only	Mutation
+2ZYE	ALA_167_B	Q9EKL4	CYS_67	Substrate only	Mutation
+2ZYE	ALA_195_B	Q9EKL4	CYS_95	Substrate only	Mutation
+1A8K	LYS_7_A	P03367	GLN_75	Substrate only	Mutation
+1A8K	ILE_33_A	P03367	LEU_101	Substrate only	Mutation
+1A8K	LYS_7_E	P03367	GLN_75	Substrate only	Mutation
+1A8K	ILE_33_E	P03367	LEU_101	Substrate only	Mutation
+1A94	LYS_7_A	P03367	GLN_75	Substrate only	Mutation
+1A94	ILE_33_A	P03367	LEU_101	Substrate only	Mutation
+1A94	LYS_7_E	P03367	GLN_75	Substrate only	Mutation
+1A94	ILE_33_E	P03367	LEU_101	Substrate only	Mutation
+3T3C	SER_4_A	P03367	THR_504	Substrate only	Mutation
+3T3C	VAL_10_A	P03367	LEU_510	Substrate only	Mutation
+3T3C	ALA_13_A	P03367	ILE_513	Substrate only	Mutation
+3T3C	VAL_22_A	P03367	ALA_522	Substrate only	Mutation
+3T3C	ILE_33_A	P03367	LEU_533	Substrate only	Mutation
+3T3C	ALA_48_A	P03367	GLY_548	Substrate only	Mutation
+3T3C	PHE_66_A	P03367	ILE_566	Substrate only	Mutation
+3T3C	LYS_69_A	P03367	HIS_569	Substrate only	Mutation
+3T3C	ALA_82_A	P03367	VAL_582	Substrate only	Mutation
+3T3C	VAL_84_A	P03367	ILE_584	Substrate only	Mutation
+3T3C	SER_4_B	P03367	THR_504	Substrate only	Mutation
+3T3C	VAL_10_B	P03367	LEU_510	Substrate only	Mutation
+3T3C	ALA_13_B	P03367	ILE_513	Substrate only	Mutation
+3T3C	PHE_66_B	P03367	ILE_566	Substrate only	Mutation
+3T3C	LYS_69_B	P03367	HIS_569	Substrate only	Mutation
+3TTP	ILE_32_A	P03367	VAL_532	Substrate only	Mutation
+3TTP	PHE_33_A	P03367	LEU_533	Substrate only	Mutation
+3TTP	VAL_47_A	P03367	ILE_547	Substrate only	Mutation
+3TTP	LEU_82_A	P03367	VAL_582	Substrate only	Mutation
+3S43	LYS_7_A	Q7SSE3	GLN_7	Substrate only	Mutation
+3S43	ILE_32_A	Q7SSE3	VAL_32	Substrate only	Mutation
+3S43	ILE_33_A	Q7SSE3	LEU_33	Substrate only	Mutation
+3S43	VAL_47_A	Q7SSE3	ILE_47	Substrate only	Mutation
+3S43	ILE_63_A	Q7SSE3	LEU_63	Substrate only	Mutation
+3S43	ALA_67_A	Q7SSE3	CYS_67	Substrate only	Mutation
+3S43	HIS_69_A	Q7SSE3	TYR_69	Substrate only	Mutation
+3S43	VAL_147_B	Q7SSE3	ILE_47	Substrate only	Mutation
+3S43	ILE_163_B	Q7SSE3	LEU_63	Substrate only	Mutation
+3S43	ALA_167_B	Q7SSE3	CYS_67	Substrate only	Mutation
+3S43	HIS_169_B	Q7SSE3	TYR_69	Substrate only	Mutation
+3EZG	GLN_18_A	Q99497	GLU_18	Substrate only	Mutation
+3F71	ASP_18_A	Q99497	GLU_18	Substrate only	Mutation
+3CYF	ASN_18_A	Q99497	GLU_18	Substrate only	Mutation
+4HGD	SER_169_A	P47016	CYS_169	Substrate only	Mutation
+4HGD	SER_169_B	P47016	CYS_169	Substrate only	Mutation
+4HGD	SER_169_C	P47016	CYS_169	Substrate only	Mutation
+4HGD	SER_169_D	P47016	CYS_169	Substrate only	Mutation
+5JOC	ALA_61_A	A7TUE6	SER_80	Substrate only	Mutation
+5JOC	ALA_61_B	A7TUE6	SER_80	Substrate only	Mutation
+3IOG	GLY_220_A	P26918	ASN_192	Substrate only	Mutation
+3IOF	GLY_220_A	P26918	ASN_192	Substrate only	Mutation
+1X8H	GLY_220_A	P26918	ASN_192	Substrate only	Mutation
+1X8I	GLY_220_A	P26918	ASN_192	Substrate only	Mutation
+6RJ7	K5H_213_A	Q6XEC0	THR_213	Substrate only	Mutation
+6RJ7	K5H_213_B	Q6XEC0	THR_213	Substrate only	Mutation
+7ASS	PHE_67_A	Q6XEC0	LEU_67	Substrate only	Mutation
+7ASS	PHE_67_B	Q6XEC0	LEU_67	Substrate only	Mutation
+7ASS	PHE_67_C	Q6XEC0	LEU_67	Substrate only	Mutation
+7ASS	PHE_67_D	Q6XEC0	LEU_67	Substrate only	Mutation
+6Q5B	ALA_68_A	Q6XEC0	PRO_68	Substrate only	Mutation
+6Q5B	ALA_68_C	Q6XEC0	PRO_68	Substrate only	Mutation
+6Q5F	ALA_68_A	Q6XEC0	PRO_68	Substrate only	Mutation
+6Q5F	ALA_68_B	Q6XEC0	PRO_68	Substrate only	Mutation
+6Q5F	ALA_68_C	Q6XEC0	PRO_68	Substrate only	Mutation
+6Q5F	ALA_68_D	Q6XEC0	PRO_68	Substrate only	Mutation
+4D1W	TYR_224_A	Q840P9	HIS_200	Substrate only	Mutation
+1H70	SER_249_A	Q9I4E3	CYS_249	Substrate only	Mutation
+3BPB	GLY_162_A	Q9I4E3	HIS_162	Substrate only	Mutation
+7FH9	GLN_69_A	O41078	GLU_69	Substrate only	Mutation
+7FH4	GLN_69_A	O41078	GLU_69	Substrate only	Mutation
+7FH4	GLN_69_B	O41078	GLU_69	Substrate only	Mutation
+2Z3I	GLN_56_A	P0C2P0	GLU_56	Substrate only	Mutation
+2Z3I	GLN_56_B	P0C2P0	GLU_56	Substrate only	Mutation
+2Z3I	GLN_56_C	P0C2P0	GLU_56	Substrate only	Mutation
+2Z3I	GLN_56_D	P0C2P0	GLU_56	Substrate only	Mutation
+3QU9	ASN_13_A	Q8A5V9	ASP_13	Substrate only	Mutation
+1V8V	GLN_86_A	Q84CU3	GLU_86	Substrate only	Mutation
+5Y5Q	ASN_88_A	Q77J78	ASP_88	Substrate only	Mutation
+5Y5Q	ASN_88_B	Q77J78	ASP_88	Substrate only	Mutation
+5Y5Q	ASN_88_C	Q77J78	ASP_88	Substrate only	Mutation
+4M4S	ALA_221_A	Q980A5	PHE_221	Substrate only	Mutation
+4M4S	ALA_225_A	Q980A5	LYS_225	Substrate only	Mutation
+4QFM	ALA_152_A	Q980A5	ASP_152	Substrate only	Mutation
+4NBS	PHE_20_A	Q980A5	HIS_20	Substrate only	Mutation
+4QHY	PHE_20_A	Q980A5	HIS_20	Substrate only	Mutation
+4QHY	ALA_152_A	Q980A5	ASP_152	Substrate only	Mutation
+4D5G	ALA_28_A	P0CH62	HIS_28	Substrate+Cofactor	Mutation
+4D5G	ALA_28_B	P0CH62	HIS_28	Substrate+Cofactor	Mutation
+3R3Y	ASN_280_A	Q6NAM1	HIS_280	Substrate only	Mutation
+3R3Y	ASN_280_B	Q6NAM1	HIS_280	Substrate only	Mutation
+3R3V	ASN_110_A	Q6NAM1	ASP_110	Substrate only	Mutation
+5K3A	ASN_280_A	Q6NAM1	HIS_280	Substrate only	Mutation
+5K3A	ASN_280_B	Q6NAM1	HIS_280	Substrate only	Mutation
+5K3E	ASN_110_A	Q6NAM1	ASP_110	Substrate only	Mutation
+5SWN	ASN_110_A	Q6NAM1	ASP_110	Substrate only	Mutation
+5K3B	ASN_110_A	Q6NAM1	ASP_110	Substrate only	Mutation
+3R3W	ASN_110_A	Q6NAM1	ASP_110	Substrate only	Mutation
+3R3X	ASN_110_A	Q6NAM1	ASP_110	Substrate only	Mutation
+4FWB	TYR_176_A	P0A3G2	CYS_176	Apo only	Mutation
+4FWB	PHE_245_A	P0A3G2	VAL_245	Apo only	Mutation
+4FWB	ILE_246_A	P0A3G2	LEU_246	Apo only	Mutation
+4FWB	PHE_273_A	P0A3G2	TYR_273	Apo only	Mutation
+5FLK	ARG_80_A	P0A3G2	PHE_80	Substrate only	Mutation
+4F5Z	VAL_172_A	P0A3G2	ALA_172	Substrate only	Mutation
+3FBW	TYR_176_A	P0A3G2	CYS_176	Substrate only	Mutation
+7O3O	LEU_148_A	P0A3G2	THR_148	Substrate only	Mutation
+7O3O	GLN_171_A	P0A3G2	GLY_171	Substrate only	Mutation
+7O3O	VAL_172_A	P0A3G2	ALA_172	Substrate only	Mutation
+7O3O	PHE_176_A	P0A3G2	CYS_176	Substrate only	Mutation
+4FWB	TYR_176_A	P0A3G2	CYS_176	Substrate only	Mutation
+4FWB	PHE_245_A	P0A3G2	VAL_245	Substrate only	Mutation
+4FWB	ILE_246_A	P0A3G2	LEU_246	Substrate only	Mutation
+4FWB	PHE_273_A	P0A3G2	TYR_273	Substrate only	Mutation
+4F60	LEU_148_A	P0A3G2	THR_148	Substrate only	Mutation
+4WCV	LEU_148_A	P0A3G3	THR_148	Substrate only	Mutation
+4WCV	GLN_171_A	P0A3G3	GLY_171	Substrate only	Mutation
+4WCV	VAL_172_A	P0A3G3	ALA_172	Substrate only	Mutation
+4WCV	GLY_176_A	P0A3G3	CYS_176	Substrate only	Mutation
+7O8B	LEU_148_A	P0A3G2	THR_148	Substrate only	Mutation
+7O8B	GLN_171_A	P0A3G2	GLY_171	Substrate only	Mutation
+7O8B	VAL_172_A	P0A3G2	ALA_172	Substrate only	Mutation
+7O8B	PHE_176_A	P0A3G2	CYS_176	Substrate only	Mutation
+4FWB	TYR_176_A	P0A3G2	CYS_176	Apo only	Mutation
+4FWB	PHE_245_A	P0A3G2	VAL_245	Apo only	Mutation
+4FWB	ILE_246_A	P0A3G2	LEU_246	Apo only	Mutation
+4FWB	PHE_273_A	P0A3G2	TYR_273	Apo only	Mutation
+2UYB	ALA_161_A	O34714	SER_161	Substrate only	Mutation
+3S0M	VAL_165_A	O34714	THR_165	Substrate only	Mutation
+4DPU	ALA_192_A	Q9FD73	SER_192	Substrate only	Mutation
+4DPU	ALA_192_B	Q9FD73	SER_192	Substrate only	Mutation
+4DPX	ALA_192_A	Q9FD73	SER_192	Substrate only	Mutation
+4DU8	ALA_283_A	Q9FD73	ASP_283	Substrate only	Mutation
+4DU8	ALA_283_B	Q9FD73	ASP_283	Substrate only	Mutation
+4DPY	ALA_192_A	Q9FD73	SER_192	Substrate only	Mutation
+4DPY	ALA_192_B	Q9FD73	SER_192	Substrate only	Mutation
+4DPW	ALA_283_A	Q9FD73	ASP_283	Substrate only	Mutation
+4DPW	ALA_283_B	Q9FD73	ASP_283	Substrate only	Mutation
+4DPW	ALA_283_C	Q9FD73	ASP_283	Substrate only	Mutation
+4DPW	ALA_283_D	Q9FD73	ASP_283	Substrate only	Mutation
+4DPW	ALA_283_E	Q9FD73	ASP_283	Substrate only	Mutation
+4DPW	ALA_283_F	Q9FD73	ASP_283	Substrate only	Mutation
+4DPW	ALA_283_G	Q9FD73	ASP_283	Substrate only	Mutation
+4DPW	ALA_283_H	Q9FD73	ASP_283	Substrate only	Mutation
+4IWW	GLU_10_A	Q06121	LYS_10	Substrate only	Mutation
+4IWW	MET_110_A	Q06121	LYS_110	Substrate only	Mutation
+4IWW	BP5_133_A	Q06121	ILE_133	Substrate only	Mutation
+4IWW	THR_161_A	Q06121	ASN_161	Substrate only	Mutation
+4IWW	GLN_182_A	Q06121	ARG_182	Substrate only	Mutation
+4IWW	ASP_184_A	Q06121	LEU_184	Substrate only	Mutation
+4IWW	ASP_210_A	Q06121	GLU_210	Substrate only	Mutation
+4IWW	GLU_10_B	Q06121	LYS_10	Substrate only	Mutation
+4IWW	MET_110_B	Q06121	LYS_110	Substrate only	Mutation
+4IWW	BP5_133_B	Q06121	ILE_133	Substrate only	Mutation
+4IWW	THR_161_B	Q06121	ASN_161	Substrate only	Mutation
+4IWW	SER_180_B	Q06121	ASN_180	Substrate only	Mutation
+4IWW	GLN_182_B	Q06121	ARG_182	Substrate only	Mutation
+4IWW	ASP_184_B	Q06121	LEU_184	Substrate only	Mutation
+4IWW	ASP_210_B	Q06121	GLU_210	Substrate only	Mutation
+4IX0	GLU_10_A	Q06121	LYS_10	Substrate only	Mutation
+4IX0	MET_110_A	Q06121	LYS_110	Substrate only	Mutation
+4IX0	BP5_133_A	Q06121	ILE_133	Substrate only	Mutation
+4IX0	THR_161_A	Q06121	ASN_161	Substrate only	Mutation
+4IX0	SER_180_A	Q06121	ASN_180	Substrate only	Mutation
+4IX0	GLN_182_A	Q06121	ARG_182	Substrate only	Mutation
+4IX0	ASP_184_A	Q06121	LEU_184	Substrate only	Mutation
+4IX0	ASP_210_A	Q06121	GLU_210	Substrate only	Mutation
+5D2G	PRO_155_A	Q1XGK3	LEU_155	Substrate only	Mutation
+1FWR	GLN_133_A	P0A955	LYS_133	Substrate only	Mutation
+1FWR	LYS_161_A	P0A955	THR_161	Substrate only	Mutation
+1FWR	GLN_133_B	P0A955	LYS_133	Substrate only	Mutation
+1FWR	LYS_161_B	P0A955	THR_161	Substrate only	Mutation
+1FWR	GLN_133_C	P0A955	LYS_133	Substrate only	Mutation
+1FWR	LYS_161_C	P0A955	THR_161	Substrate only	Mutation
+1E4B	GLN_29_P	P11550	ASN_29	Substrate only	Mutation
+1E48	GLN_73_P	P11550	GLU_73	Substrate only	Mutation
+1E47	GLN_73_P	P11550	GLU_73	Substrate only	Mutation
+1E49	LEU_29_P	P11550	ASN_29	Substrate only	Mutation
+5C55	PHE_138_A	Q8NMD2	TYR_138	Substrate only	Mutation
+5C55	PHE_138_B	Q8NMD2	TYR_138	Substrate only	Mutation
+1TT8	SER_81_A	P26602	CYS_81	Substrate only	Mutation
+1JD3	SER_81_A	P26602	CYS_81	Substrate only	Mutation
+1JD3	ALA_90_A	P26602	GLY_90	Substrate only	Mutation
+2AHC	SER_81_A	P26602	CYS_81	Substrate only	Mutation
+2AHC	SER_81_B	P26602	CYS_81	Substrate only	Mutation
+2AHC	SER_81_C	P26602	CYS_81	Substrate only	Mutation
+2AHC	SER_81_D	P26602	CYS_81	Substrate only	Mutation
+1G0E	ALA_64_A	P00918	HIS_63	Substrate only	Mutation
+1G45	VAL_131_A	P00918	PHE_129	Substrate only	Mutation
+1G4J	VAL_131_A	P00918	PHE_129	Substrate only	Mutation
+1G46	VAL_131_A	P00918	PHE_129	Substrate only	Mutation
+1I9O	VAL_131_A	P00918	PHE_129	Substrate only	Mutation
+1G48	VAL_131_A	P00918	PHE_129	Substrate only	Mutation
+1G4O	VAL_131_A	P00918	PHE_129	Substrate only	Mutation
+3NOQ	SER_101_A	Q4K977	CYS_101	Substrate only	Mutation
+3NOQ	SER_103_B	Q4K977	CYS_101	Substrate only	Mutation
+3NOO	ALA_101_B	Q4K977	CYS_101	Substrate only	Mutation
+3NOR	SER_105_A	Q4K977	THR_102	Substrate only	Mutation
+4GE0	PRO_114_A	Q10356	THR_114	Substrate only	Mutation
+4GE0	PRO_114_B	Q10356	THR_114	Substrate only	Mutation
+4GE0	PRO_114_C	Q10356	THR_114	Substrate only	Mutation
+4GE0	PRO_114_D	Q10356	THR_114	Substrate only	Mutation
+4GE3	VAL_114_A	Q10356	THR_114	Substrate only	Mutation
+4GE3	VAL_114_B	Q10356	THR_114	Substrate only	Mutation
+4GE3	VAL_114_C	Q10356	THR_114	Substrate only	Mutation
+4GE3	VAL_114_D	Q10356	THR_114	Substrate only	Mutation
+6CUZ	ALA_161_A	Q8U093	LEU_161	Substrate only	Mutation
+6CUZ	ALA_161_D	Q8U093	LEU_161	Substrate only	Mutation
+6CUT	ALA_161_A	Q8U093	LEU_161	Substrate only	Mutation
+6CUT	ALA_161_B	Q8U093	LEU_161	Substrate only	Mutation
+6CUT	ALA_161_C	Q8U093	LEU_161	Substrate only	Mutation
+6CUT	ALA_161_D	Q8U093	LEU_161	Substrate only	Mutation
+6AM8	VAL_16_B	Q8U093	ILE_16	Substrate only	Mutation
+6AM8	SER_274_B	Q8U093	PHE_274	Substrate only	Mutation
+5B1I	ALA_42_A	F9UT54	LYS_42	Substrate only	Mutation
+5B1I	ALA_42_B	F9UT54	LYS_42	Substrate only	Mutation
+5B1I	ALA_42_C	F9UT54	LYS_42	Substrate only	Mutation
+5B1I	ALA_42_D	F9UT54	LYS_42	Substrate only	Mutation
+5B1I	ALA_42_E	F9UT54	LYS_42	Substrate only	Mutation
+5B1I	ALA_42_F	F9UT54	LYS_42	Substrate only	Mutation
+5B1I	ALA_42_G	F9UT54	LYS_42	Substrate only	Mutation
+5B1I	ALA_42_H	F9UT54	LYS_42	Substrate only	Mutation
+1JDF	ASP_341_A	P76637	ASN_341	Substrate only	Mutation
+1JDF	ASP_341_B	P76637	ASN_341	Substrate only	Mutation
+1JDF	ASP_341_C	P76637	ASN_341	Substrate only	Mutation
+1JDF	ASP_341_D	P76637	ASN_341	Substrate only	Mutation
+1JCT	LEU_341_A	P76637	ASN_341	Substrate only	Mutation
+1JCT	LEU_341_B	P76637	ASN_341	Substrate only	Mutation
+6Z82	VAL_97_A	Q67A25	MET_97	Substrate only	Mutation
+1UGR	SER_109_A	Q7SID2	THR_108	Substrate only	Mutation
+7KJG	MET_96_A	A0A6M9XZI	PHE_96	Substrate only	Mutation
+7KJD	MET_96_A	A0A6M9XZI	PHE_96	Substrate only	Mutation
+7KJE	SER_96_A	A0A6M9XZI	PHE_96	Substrate only	Mutation
+1KIY	GLU_100_A	P13513	ASP_100	Substrate only	Mutation
+1KIZ	GLU_100_B	P13513	ASP_100	Substrate only	Mutation
+2FPB	MSE_65_A	P68175	ILE_65	Substrate only	Mutation
+2FPB	MSE_116_A	P68175	LEU_116	Substrate only	Mutation
+2FPB	MSE_190_A	P68175	ILE_190	Substrate only	Mutation
+2FPB	MSE_203_A	P68175	LEU_203	Substrate only	Mutation
+2FPB	MSE_65_B	P68175	ILE_65	Substrate only	Mutation
+2FPB	MSE_116_B	P68175	LEU_116	Substrate only	Mutation
+2FPB	MSE_190_B	P68175	ILE_190	Substrate only	Mutation
+2FPB	MSE_203_B	P68175	LEU_203	Substrate only	Mutation
+5FAW	ALA_502_A	Q30W70	THR_502	Substrate only	Mutation
+5FAW	ALA_502_B	Q30W70	THR_502	Substrate only	Mutation
+5FAY	PHE_208_A	Q30W70	TYR_208	Substrate only	Mutation
+5FAY	PHE_208_B	Q30W70	TYR_208	Substrate only	Mutation
+5M3Z	HIS_115_A	A0A0A5P8W	CYS_115	Substrate+Cofactor	Mutation
+5D5S	ALA_339_A	A0A0A5P8W	SER_339	Substrate+Cofactor	Mutation
+5E4Z	ALA_115_A	A0A0A5P8W	CYS_115	Substrate+Cofactor	Mutation
+4PYA	ALA_51_A	W0KCK5	LYS_51	Substrate only	Mutation
+4RSK	ALA_7_A	P61823	LYS_33	Substrate only	Mutation
+4RSK	ALA_10_A	P61823	ARG_36	Substrate only	Mutation
+1D5E	NLE_8_A	P61823	PHE_8	Substrate only	Mutation
+2QD2	ALA_110_A	Q7KZA3	PHE_103	Substrate only	Mutation
+2QD2	ALA_110_B	Q7KZA3	PHE_103	Substrate only	Mutation
+3B8T	ALA_219_A	P0A6B4	PRO_219	Substrate+Cofactor	Mutation
+3B8T	ALA_219_B	P0A6B4	PRO_219	Substrate+Cofactor	Mutation
+3B8T	ALA_219_C	P0A6B4	PRO_219	Substrate+Cofactor	Mutation
+1XQL	PHE_265_A	P10724	TYR_265	Substrate+Cofactor	Mutation
+1XQL	PHE_265_B	P10724	TYR_265	Substrate+Cofactor	Mutation
+1MDL	ARG_166_A	P11444	LYS_166	Substrate only	Mutation
+1DTN	GLN_317_A	P11444	GLU_317	Substrate only	Mutation
+1A9Y	ALA_124_A	P09147	SER_124	Substrate+Cofactor	Mutation
+1A9Y	PHE_149_A	P09147	TYR_149	Substrate+Cofactor	Mutation
+1A9Z	ALA_124_A	P09147	SER_124	Substrate+Cofactor	Mutation
+1A9Z	PHE_149_A	P09147	TYR_149	Substrate+Cofactor	Mutation
+1TPU	ASN_95_A	P00940	HIS_94	Substrate only	Mutation
+1TPU	ASN_95_B	P00940	HIS_94	Substrate only	Mutation
+1TPV	ASN_95_A	P00940	HIS_94	Substrate only	Mutation
+1TPV	PRO_96_A	P00940	SER_95	Substrate only	Mutation
+1TPV	ASN_95_B	P00940	HIS_94	Substrate only	Mutation
+1TPV	PRO_96_B	P00940	SER_95	Substrate only	Mutation
+3M0M	PHE_329_A	Q75WH8	SER_329	Substrate only	Mutation
+3M0M	PHE_329_B	Q75WH8	SER_329	Substrate only	Mutation
+3M0M	PHE_329_C	Q75WH8	SER_329	Substrate only	Mutation
+3M0M	PHE_329_D	Q75WH8	SER_329	Substrate only	Mutation
+3M0H	PHE_329_A	Q75WH8	SER_329	Substrate only	Mutation
+3M0H	PHE_329_B	Q75WH8	SER_329	Substrate only	Mutation
+3M0H	PHE_329_C	Q75WH8	SER_329	Substrate only	Mutation
+3M0H	PHE_329_D	Q75WH8	SER_329	Substrate only	Mutation
+3ITV	LYS_329_A	Q75WH8	SER_329	Substrate only	Mutation
+3ITV	LYS_329_B	Q75WH8	SER_329	Substrate only	Mutation
+3ITV	LYS_329_C	Q75WH8	SER_329	Substrate only	Mutation
+3ITV	LYS_329_D	Q75WH8	SER_329	Substrate only	Mutation
+3ITL	ASN_327_A	Q75WH8	ASP_327	Substrate only	Mutation
+3ITL	ASN_327_B	Q75WH8	ASP_327	Substrate only	Mutation
+3ITL	ASN_327_C	Q75WH8	ASP_327	Substrate only	Mutation
+3ITL	ASN_327_D	Q75WH8	ASP_327	Substrate only	Mutation
+3M0V	LEU_329_A	Q75WH8	SER_329	Substrate only	Mutation
+3M0V	LEU_329_B	Q75WH8	SER_329	Substrate only	Mutation
+3M0V	LEU_329_C	Q75WH8	SER_329	Substrate only	Mutation
+3M0V	LEU_329_D	Q75WH8	SER_329	Substrate only	Mutation
+3M0X	LEU_329_A	Q75WH8	SER_329	Substrate only	Mutation
+3M0X	LEU_329_B	Q75WH8	SER_329	Substrate only	Mutation
+3M0X	LEU_329_C	Q75WH8	SER_329	Substrate only	Mutation
+3M0X	LEU_329_D	Q75WH8	SER_329	Substrate only	Mutation
+3M0L	PHE_329_A	Q75WH8	SER_329	Substrate only	Mutation
+3M0L	PHE_329_B	Q75WH8	SER_329	Substrate only	Mutation
+3M0L	PHE_329_C	Q75WH8	SER_329	Substrate only	Mutation
+3M0L	PHE_329_D	Q75WH8	SER_329	Substrate only	Mutation
+3ITO	ASN_327_A	Q75WH8	ASP_327	Substrate only	Mutation
+3ITO	ASN_327_B	Q75WH8	ASP_327	Substrate only	Mutation
+3ITO	ASN_327_C	Q75WH8	ASP_327	Substrate only	Mutation
+3ITO	ASN_327_D	Q75WH8	ASP_327	Substrate only	Mutation
+3ITT	LYS_329_A	Q75WH8	SER_329	Substrate only	Mutation
+3ITT	LYS_329_B	Q75WH8	SER_329	Substrate only	Mutation
+3ITT	LYS_329_C	Q75WH8	SER_329	Substrate only	Mutation
+3ITT	LYS_329_D	Q75WH8	SER_329	Substrate only	Mutation
+3M0Y	ALA_329_C	Q75WH8	SER_329	Substrate only	Mutation
+3M0Y	ALA_329_D	Q75WH8	SER_329	Substrate only	Mutation
+3VM6	SER_133_A	Q5JFM9	CYS_133	Substrate only	Mutation
+3VM6	SER_133_B	Q5JFM9	CYS_133	Substrate only	Mutation
+3VM6	SER_133_C	Q5JFM9	CYS_133	Substrate only	Mutation
+6QRS	GLN_186_A	P24300	GLU_186	Substrate only	Mutation
+6QRT	GLN_186_A	P24300	GLU_186	Substrate only	Mutation
+2PAE	ASN_49_A	Q6T1W8	HIS_49	Substrate only	Mutation
+2PAM	ASN_49_A	Q6T1W8	HIS_49	Substrate only	Mutation
+5D81	ASN_40_A	P07445	ASP_40	Substrate only	Mutation
+5G2G	LYS_116_A	P07445	MET_116	Substrate only	Mutation
+5G2G	LYS_116_B	P07445	MET_116	Substrate only	Mutation
+1E3R	ASN_40_A	P07445	ASP_40	Substrate only	Mutation
+1E3R	ASN_40_B	P07445	ASP_40	Substrate only	Mutation
+2PWF	ALA_200_A	Q2PS28	ASP_227	Substrate only	Mutation
+2PWF	ALA_200_B	Q2PS28	ASP_227	Substrate only	Mutation
+2PWF	ALA_200_C	Q2PS28	ASP_227	Substrate only	Mutation
+2PWF	ALA_200_D	Q2PS28	ASP_227	Substrate only	Mutation
+3HFK	ALA_52_A	C5MR76	HIS_52	Substrate only	Mutation
+3HFK	ALA_52_B	C5MR76	HIS_52	Substrate only	Mutation
+3HFK	ALA_52_C	C5MR76	HIS_52	Substrate only	Mutation
+3HFK	ALA_52_D	C5MR76	HIS_52	Substrate only	Mutation
+4U8I	ALA_66_A	Q4W1X2	PHE_66	Substrate+Cofactor	Mutation
+4U8I	ALA_66_B	Q4W1X2	PHE_66	Substrate+Cofactor	Mutation
+4U8I	ALA_66_C	Q4W1X2	PHE_66	Substrate+Cofactor	Mutation
+4U8I	ALA_66_D	Q4W1X2	PHE_66	Substrate+Cofactor	Mutation
+4U8P	ALA_317_A	Q4W1X2	TYR_317	Substrate+Cofactor	Mutation
+4U8P	ALA_317_B	Q4W1X2	TYR_317	Substrate+Cofactor	Mutation
+4U8P	ALA_317_C	Q4W1X2	TYR_317	Substrate+Cofactor	Mutation
+4U8P	ALA_317_D	Q4W1X2	TYR_317	Substrate+Cofactor	Mutation
+4WX1	ALA_66_A	Q4W1X2	PHE_66	Substrate+Cofactor	Mutation
+4WX1	ALA_66_B	Q4W1X2	PHE_66	Substrate+Cofactor	Mutation
+4WX1	ALA_66_C	Q4W1X2	PHE_66	Substrate+Cofactor	Mutation
+4WX1	ALA_66_D	Q4W1X2	PHE_66	Substrate+Cofactor	Mutation
+4U8N	ALA_66_A	Q4W1X2	PHE_66	Substrate+Cofactor	Mutation
+4U8N	ALA_66_B	Q4W1X2	PHE_66	Substrate+Cofactor	Mutation
+4U8N	ALA_66_C	Q4W1X2	PHE_66	Substrate+Cofactor	Mutation
+4U8N	ALA_66_D	Q4W1X2	PHE_66	Substrate+Cofactor	Mutation
+5HHF	ALA_63_A	Q4W1X2	HIS_63	Substrate+Cofactor	Mutation
+5HHF	ALA_63_B	Q4W1X2	HIS_63	Substrate+Cofactor	Mutation
+5HHF	ALA_63_C	Q4W1X2	HIS_63	Substrate+Cofactor	Mutation
+5HHF	ALA_63_D	Q4W1X2	HIS_63	Substrate+Cofactor	Mutation
+4U8J	ALA_104_A	Q4W1X2	TYR_104	Substrate+Cofactor	Mutation
+3UKK	LYS_182_A	Q4W1X2	ARG_182	Substrate+Cofactor	Mutation
+3UKK	LYS_182_B	Q4W1X2	ARG_182	Substrate+Cofactor	Mutation
+3UKK	LYS_182_C	Q4W1X2	ARG_182	Substrate+Cofactor	Mutation
+3UKK	LYS_182_D	Q4W1X2	ARG_182	Substrate+Cofactor	Mutation
+3UKP	ALA_327_A	Q4W1X2	ARG_327	Substrate+Cofactor	Mutation
+3UKP	ALA_327_B	Q4W1X2	ARG_327	Substrate+Cofactor	Mutation
+3UKP	ALA_327_C	Q4W1X2	ARG_327	Substrate+Cofactor	Mutation
+3UKP	ALA_327_D	Q4W1X2	ARG_327	Substrate+Cofactor	Mutation
+3UKP	ALA_327_E	Q4W1X2	ARG_327	Substrate+Cofactor	Mutation
+3UKP	ALA_327_F	Q4W1X2	ARG_327	Substrate+Cofactor	Mutation
+3UKP	ALA_327_G	Q4W1X2	ARG_327	Substrate+Cofactor	Mutation
+3UKP	ALA_327_H	Q4W1X2	ARG_327	Substrate+Cofactor	Mutation
+3UKQ	LYS_327_A	Q4W1X2	ARG_327	Substrate+Cofactor	Mutation
+3UKQ	LYS_327_B	Q4W1X2	ARG_327	Substrate+Cofactor	Mutation
+3UKQ	LYS_327_C	Q4W1X2	ARG_327	Substrate+Cofactor	Mutation
+3UKQ	LYS_327_D	Q4W1X2	ARG_327	Substrate+Cofactor	Mutation
+1F9V	ALA_598_A	P17119	ARG_598	Substrate only	Mutation
+4HJX	ARG_32_A	Q57834	TYR_32	Substrate only	Mutation
+4HJX	TYR_65_A	Q57834	LEU_65	Substrate only	Mutation
+4HJX	GLY_70_A	Q57834	HIS_70	Substrate only	Mutation
+4HJX	ASN_158_A	Q57834	ASP_158	Substrate only	Mutation
+4HJX	ARG_32_B	Q57834	TYR_32	Substrate only	Mutation
+4HJX	TYR_65_B	Q57834	LEU_65	Substrate only	Mutation
+4HJX	GLY_70_B	Q57834	HIS_70	Substrate only	Mutation
+4HJX	ASN_158_B	Q57834	ASP_158	Substrate only	Mutation
+3TW6	ALA_882_A	Q2K340	THR_882	Substrate+Cofactor	Mutation
+3TW6	ALA_882_B	Q2K340	THR_882	Substrate+Cofactor	Mutation
+3TW6	ALA_882_C	Q2K340	THR_882	Substrate+Cofactor	Mutation
+3TW6	ALA_882_D	Q2K340	THR_882	Substrate+Cofactor	Mutation
