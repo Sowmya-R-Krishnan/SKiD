@@ -1,0 +1,130 @@
+EC_number	UniProt_ID	Organism_name	Cofactor_only	Substrate_site	Reference_PDB	Comments
+1.1.1.1	Q4J9F2	Sulfolobus acidocaldarius	4FN4_A,4FN4_B,4FN4_C,4FN4_D	Undetermined	-	No analogues
+1.1.1.12	Q7SI09	Neurospora crassa	3M6I_A,3M6I_B	Undetermined	-	No analogues
+1.1.1.121	Q5SLC4	Thermus thermophilus HB8	2D1Y_A,2D1Y_B,2D1Y_C,2D1Y_D	Proximal	3LQF	
+1.1.1.169	A0A0J9X283	Staphylococcus aureus	4YCA_A,4YCA_B	Proximal	3HWR	
+1.1.1.184	Q9Y8Y1	Aeropyrum pernix	5B1Y_A,5B1Y_B	Proximal	1CYD	
+1.1.1.184	Q8WNV7	Sus scrofa	2ZAT_A,2ZAT_B,2ZAT_C,2ZAT_D	Proximal	3BHJ	
+1.1.1.184	O75828	Homo sapiens	2HRB_A	Proximal	3BHJ	
+1.1.1.184	Q28960	Sus scrofa	1N5D_A	Proximal	3BHJ	
+1.1.1.206	P50162	Datura stramonium	1AE1_A,1AE1_B	Proximal	2AE2	
+1.1.1.248	Q071N0	Papaver somniferum	3O26_A	Undetermined	-	No analogues with substrate
+1.1.1.267	Q8ZH62	Yersinia pestis	5DUL_A,5DUL_B,5DUL_C,5DUL_D	Proximal	4RCV	
+1.1.1.28	A0A0M3KL04	Sporolactobacillus inulinus	4XKJ_A,4XKJ_B	Proximal	3KB6	
+1.1.1.282	Q88JP1	Pseudomonas putida	4K28_A,4K28_B	Undetermined	-	No analogues with substrate
+1.1.1.292	Q2I8V6	Ensifer adhaerens	2GLX_A,2GLX_B,2GLX_C,2GLX_D,2GLX_E,2GLX_F	Undetermined	-	No analogues
+1.1.1.337	P14295	Weissella confusa	1HYH_A,1HYH_B,1HYH_C,1HYH_D	Undetermined	-	Analogue with flexible domain
+1.1.1.357	P17516	Homo sapiens	2FVL_A,2FVL_B,2FVL_C	Proximal	4L1W	
+1.1.1.37	O08349	Archaeoglobus fulgidus	2X0I_A,2X0J_A	Proximal	4PLH	
+1.1.1.375	Q60176	Methanocaldococcus jannaschii	1HYG_A,1HYG_B,1HYE_A	Undetermined	-	No analogues with substrate
+1.1.1.381	Q05016	Saccharomyces cerevisiae	3RKU_A,3RKU_B,3RKU_C,3RKU_D	Undetermined	-	No analogues with substrate
+1.1.1.42	O88844	Mus musculus	5YZI_A,5YZI_B,5YZH_A,5YZH_B	Proximal	1AI2	
+1.1.1.42	P9WKL1	Mycobacterium tuberculosis	4HCX_A,4HCX_B	Proximal	2QFX	
+1.1.1.47	P40288	Priestia megaterium	1GEE_A,1GEE_B,1GEE_E,1GEE_F,1RWB_A,1RWB_B,1RWB_E,1RWB_F,1GCO_A,1GCO_B,1GCO_E,1GCO_F,1G6K_A,1G6K_B,1G6K_E,1G6K_F	Undetermined	-	No analogues with substrate
+1.1.1.9	Q8GR61	Gluconobacter oxydans	1ZEM_A,1ZEM_B,1ZEM_C,1ZEM_D,1ZEM_E,1ZEM_F,1ZEM_G,1ZEM_H	Undetermined	-	No analogues
+1.1.3.13	T2M2J4	Phanerodontia chrysosporium	6H3O_A,6H3O_B,6H3O_C,6H3O_D,6H3O_E,6H3O_F,6H3O_G,6H3O_H,6H3G_A,6H3G_B,6H3G_C,6H3G_D,6H3G_E,6H3G_F,6H3G_G,6H3G_H	Proximal	2VAO	
+1.1.3.13	P04842	Komagataella pastoris	5I68_A	Proximal	2VAO	
+1.1.3.6	B5MGF8	Chromobacterium sp.	3JS8_A	Proximal	1COY	
+1.11.1.14	Q60FD2	Trametopsis cervina	3Q3U_A	Undetermined	-	No analogues with substrate
+1.11.1.16	Q9UR19	Pleurotus eryngii	4BLK_A,4BLL_A,4BLN_A,4BLX_A,4BLY_A,4BLZ_A,4BLZ_B,4BM0_A	Undetermined	-	No analogues with substrate
+1.11.1.19	Q9KQ59	Vibrio cholerae	5DE0_A,5DE0_B,5DE0_C,5DE0_D	Undetermined	-	No analogues with substrate
+1.11.1.19	K7N5M8	Amycolatopsis sp.	4G2C_A,4G2C_B	Undetermined	-	No analogues with substrate
+1.11.1.5	P14532	Pseudomonas aeruginosa	2VHD_A,2VHD_B,1EB7_A	Undetermined	-	Ligand is a protein (CytC)
+1.11.2.1	Q972I2	Sulfurisphaera tokodaii	3B4X_A,1UE8_A	Undetermined	-	Ligand is a protein (CytC)
+1.11.2.5	B0CN28	Streptomyces lavendulae	6VE0_A,6VDQ_A,6VDP_A,6VDZ_A	Proximal	Associated article	No analogues with substrate
+1.13.11.49	Q3SPU6	Nitrobacter winogradskyi	3QPI_A,3QPI_B	Proximal	5K91,3NN1	
+1.13.12.16	Q9HWH9	Pseudomonas aeruginosa	4Q4K_A,4Q4K_B	Undetermined	-	No analogues with substrate
+1.14.12.17	P24232	Escherichia coli	1GVH_A	Proximal	4G1B	Covalently attached to Heme; Double cofactor structure
+1.14.13.54	O50641	Rhodococcus rhodochrous	4AOX_A,4AOS_A,4AP3_A,4AP1_A	Undetermined	-	No analogues with substrate
+1.14.13.59	Q5Z1T5	Nocardia farcinica	4D7E_A,4D7E_B,4D7E_C,4D7E_D	Undetermined	-	No analogues with substrate
+1.16.1.1	D9J041	Lysinibacillus sphaericus	5X1Y_B,5X1Y_A,5X1Y_C,5X1Y_D,5X1Y_E,5X1Y_F	Undetermined	-	No analogues with substrate
+1.16.1.1	A4YG49	Metallosphaera sedula	4YWO_A	Undetermined	-	No analogues with substrate
+1.18.1.2	Q8PMH0	Xanthomonas axonopodis	4B4D_A	Proximal	1GJR	Substantial movement of cofactor group (flavin) when NADP+ binds
+1.18.1.2	O05268	Bacillus subtilis	3LZX_A,3LZX_B,3LZW_A	Proximal	Substrate-bound	False negative case
+1.18.1.2	Q8KCB2	Chlorobaculum tepidum	3AB1_A,3AB1_B	Proximal	1GJR	Substantial movement of cofactor group (flavin) when NADP+ binds
+1.18.1.2	Q8EY89	Leptospira interrogans	2RC6_A,2RC6_B,2RC6_C,2RC6_D,2RC5_A,2RC5_B,2RC5_C,2RC5_D	Proximal	Substrate-bound	False negative case
+1.18.1.4	Q8U1K9	Pyrococcus furiosus	1XHC_A	Proximal	5VN0	
+1.18.1.6	P9WIQ3	Mycobacterium tuberculosis	1LQU_A,1LQU_B,1LQT_A,1LQT_B,2C7G_A	Proximal	Substrate-bound	False negative case
+1.2.1.11	Q51344	Pseudomonas aeruginosa	5BNT_C,5BNT_B,5BNT_A,5BNT_D	Proximal	2GZ3	
+1.2.1.19	Q93YB2	Pisum sativum	3IWJ_A,3IWJ_B	Distal	4I9B	Intermediate-bound; Distant from cofactor, but clear tunnel pocket
+1.2.1.27	P42412	Bacillus subtilis	1T90_A,1T90_B,1T90_C,1T90_D	Undetermined	-	No analogues with substrate
+1.2.1.30	B2HN69	Mycobacterium marinum	5MSO_A,5MSU_C,5MSU_A,5MSU_B	Proximal	5MSV	
+1.2.1.36	Q63639	Rattus norvegicus	1BI9_A,1BI9_B,1BI9_C,1BI9_D	Undetermined	-	No analogues with substrate
+1.2.1.79	P25526	Escherichia coli	3JZ4_A,3JZ4_B,3JZ4_C,3JZ4_D	Undetermined	-	No analogues with substrate
+1.2.1.88	A0A2H4PMI3	Zea mays	6D97_A,6D97_B,6D97_C,6D97_D	Proximal	5FHZ	Tunnel-shaped site; Only the functional group of interest is near cofactor
+1.3.1.24	P53004	Homo sapiens	2H63_A,2H63_B,2H63_C,2H63_D	Undetermined	-	No analogues with substrate
+1.3.1.27	Q08257	Homo sapiens	1YB5_A,1YB5_B	Undetermined	-	No analogues with substrate
+1.3.1.33	Q59987	Synechocystis sp.	6R48_A,6R48_B,6L1G_A,6L1G_B	Proximal	7JK9	
+1.3.1.85	M1SQA1	Streptomyces sp.	4Y0K_A,4Y1B_A	Undetermined	-	No analogues with substrate
+1.3.1.98	P61431	Staphylococcus aureus	1HSK_A	Proximal	2GQU	
+1.3.8.1	D2RIQ3	Acidaminococcus fermentans	4KPU_A,4KPU_B,4L2I_A,4L2I_B	Undetermined	-	Ligand is a protein
+1.4.3.16	Q972D2	Sulfurisphaera tokodaii	2E5V_A,2E5V_B	Proximal	1KNP	
+1.4.3.19	Q81HQ7	Bacillus cereus	7CYX_A,7CYX_B	Proximal	1NG3	
+1.4.3.3	A0A499UB99	Rasamsonia emersonii	7CT4_A,7CT4_B,7CT4_C,7CT4_D	Proximal	1AN9	
+1.5.1.34	Q86A17	Dictyostelium discoideum	3ORF_A,3ORF_B,3ORF_C,3ORF_D	Undetermined	-	No analogues with substrate
+1.5.1.40	Q47RA9	Thermobifida fusca	5N2I_A,5N2I_B,5N2I_C,5N2I_D	Undetermined	-	No analogues
+1.5.3.1	B9L163	Thermomicrobium roseum	7EXS_A	Proximal	1EL5	
+1.5.3.5	A0A075BSX9	Shinella sp.	6CR0_A	Proximal	3NN0	
+1.5.8.4	Q9UI17	Homo sapiens	5L46_A,5L46_B	Undetermined	-	No analogues
+1.6.2.2	P83686	Sus scrofa	3W2F_A,3W2E_A,3W2I_A,3W2H_A,1NDH_A,3W2G_A,5GV8_A,3W5H_A,5GV7_A	Undetermined	-	Ligand is a protein (CytB5)
+1.6.2.2	P20070	Rattus norvegicus	1QX4_A,1QX4_B,1IB0_A,1I7P_A	Undetermined	-	Ligand is a protein (CytB5)
+1.6.2.4	P16435	Homo sapiens	3QFS_A,5FA6_A,5FA6_B,3QFR_A,3QFR_B,3QE2_A,3QE2_B,3QFT_A,5EMN_A,5EMN_B,3QFC_A,3QFC_B,1B1C_A,3FJO_A	Undetermined	-	No analogues with substrate
+1.6.5.5	Q53FA7	Homo sapiens	2J8Z_A,2OBY_A,2OBY_B,2OBY_C,2OBY_D,2OBY_E	Undetermined	-	No analogues with substrate
+1.7.2.1	B2UHR8	Ralstonia pickettii	2YQB_A,3ZIY_A,4AX3_A,4AX3_B,4AX3_C,4AX3_D,3ZBM_A	Distal	5OCF	Distinct domains with Cu+ mediating electron transport from Heme
+1.7.2.2	B3E641	Trichlorobacter lovleyi	6V0A_A,6V0A_B,6V0A_C,6V0A_D,6V0A_E,6V0A_F	Proximal	3D1I	Multiple copies of heme cofactor; Ambiguous site
+1.7.2.2	Q8EAC7	Shewanella oneidensis	6P73_A,6P73_B,3UBR_A,3UBR_B	Proximal	3D1I	Multiple copies of heme cofactor; Ambiguous site
+1.7.2.2	Q8VNU2	Desulfovibrio desulfuricans	1OAH_A,1OAH_B	Proximal	3D1I	Multiple copies of heme cofactor; Ambiguous site
+1.7.3.1	B2AM55	Podospora anserina	3MKH_A,3MKH_B,3MKH_C,3MKH_D	Proximal	3FCJ	
+1.8.1.14	Q2FIA5	Staphylococcus aureus	4EQX_A,4EQX_B,4EM3_A,4EM3_B,4EQW_A,4EQW_B,4EM4_A,4EM4_B,4EMW_A,4EMW_B,4EQR_A,4EQR_B,4EQS_A,4EQS_B	Undetermined	-	No analogues with substrate
+1.8.1.9	P91938	Drosophila melanogaster	3DGH_A,3DGH_B,3DH9_A,3DH9_B,2NVK_X	Undetermined	-	Ligand is a protein (Thioredoxin)
+1.8.1.9	Q39243	Arabidopsis thaliana	1VDC_A	Undetermined	-	Ligand is a protein (Thioredoxin)
+1.8.2.1	Q9LA16	Starkeya novella	2BPB_A,2BPB_B,2CA4_A,2CA4_B,2C9X_A,2C9X_B,2CA3_A,2CA3_B,2BLF_A,2BLF_B	Distal	2BLF	On the basis of a bound sulphate ion
+1.8.3.1	Q9S850	Arabidopsis thaliana	1OGP_A,1OGP_B,1OGP_C,1OGP_D,1OGP_E,1OGP_F	Undetermined	-	No analogues
+1.8.3.1	P51687	Homo sapiens	1MJ4_A	Distal	2BLF	On the basis of a bound sulphate ion
+1.8.3.2	Q6IUU3	Rattus norvegicus	4P2L_A,4P2L_B	Undetermined	-	No analogues with substrate
+1.8.3.2	Q585M6	Trypanosoma brucei	3QD9_A,3QD9_B,3QD9_C,3QD9_D,3QCP_A	Undetermined	-	No analogues with substrate
+2.1.1.103	Q944H0	Arabidopsis thaliana	5WP5_A,5WP5_B	Proximal	5WP4	2 tandem domains with same binding site
+2.1.1.104	Q6YI95	Mesembryanthemum crystallinum	3C3Y_A,3C3Y_B	Undetermined	-	No analogues
+2.1.1.204	P40999	Schizosaccharomyces pombe	6FDF_A,6FDF_B,6FDF_C,6FDF_D	Undetermined	-	No analogues
+2.1.1.215	O67010	Aquifex aeolicus	3AXS_A,3AXT_A	Undetermined	-	Ligand is a tRNA
+2.1.1.228	Q02RL6	Pseudomonas aeruginosa	5WYQ_A,5WYQ_B,5WYR_A,5WYR_B	Undetermined	-	Ligand is a tRNA
+2.1.1.228	P0A873	Escherichia coli	1P9P_A	Undetermined	-	Ligand is a tRNA
+2.1.1.278	Q9FLN8	Arabidopsis thaliana	3B5I_A,3B5I_B	Undetermined	-	No analogues
+2.1.1.72	P23192	Moraxella bovis	1G60_A,1G60_B	Undetermined	-	No analogues
+2.1.1.77	Q27869	Drosophila melanogaster	1R18_A	Undetermined	-	No analogues with substrate
+2.1.1.9	Q0WP12	Arabidopsis thaliana	3LCC_A	Undetermined	-	No analogues
+2.2.1.1	P9WG25	Mycobacterium tuberculosis	3RIM_A,3RIM_B,3RIM_C,3RIM_D	Proximal	8CI0	
+2.2.1.1	Q8MPM3	Leishmania mexicana	1R9J_A,1R9J_B	Proximal	8CI0	
+2.2.1.7	Q9RUB5	Deinococcus radiodurans	2O1X_A,2O1X_B,2O1X_C,2O1X_D,6OUV_A,6OUV_B,6OUW_A	Undetermined	-	No analogues with substrate
+2.3.1.159	U3KRF0	Citrus x microcarpa	3WD7_A,3WD7_B	Undetermined	-	No analogues with substrate
+2.3.1.97	D0AB09	Leishmania donovani	2WUU_A	Undetermined	-	Ligand is a protein
+2.5.1.18	Q86LL8	Wuchereria bancrofti	5D73_A,5D73_B	Undetermined	-	Ligand is a protein
+2.5.1.18	P46436	Ascaris suum	4Q5F_A,4Q5F_D	Undetermined	-	Ligand is a protein
+2.5.1.18	Q9U795	Musca domestica	3VWX_A,3VWX_B,3VWX_C,3VWX_D	Undetermined	-	Ligand is a protein
+2.5.1.18	P81065	Brucella anthropi	2PVQ_A,2NTO_A	Undetermined	-	Ligand is a protein
+2.5.1.18	P46427	Onchocerca volvulus	1TU8_A,1TU8_B,1TU8_C,1TU8_D,1TU7_A,1TU7_B	Undetermined	-	Ligand is a protein
+2.5.1.18	P0A9D2	Escherichia coli	1A0F_A,1A0F_B,1N2A_A,1N2A_B	Undetermined	-	Ligand is a protein
+2.5.1.46	Q4GZD1	Trypanosoma brucei brucei	6DFT_A,6DFT_B,6DFT_C,6DFT_D,6DFT_E,6DFT_F,6DFT_G,6DFT_H,6DFT_I,6DFT_J,6DFT_K,6DFT_L	Undetermined	-	Ligand is a protein
+2.5.1.47	A8YBS4	Microcystis aeruginosa	4LMA_A,4LMA_B	Proximal	2ECO	
+2.6.1.1	Q4D080	Trypanosoma cruzi	6EZL_A,6EZL_B	Proximal	1YOO	
+2.6.1.2	Q9P9M8	Pyrococcus furiosus	1XI9_A,1XI9_B,1XI9_C,1XI9_D	Undetermined	-	No analogues with substrate
+2.6.1.42	D1CCW1	Thermobaculum terrenum	7NEA_A,7NEB_A,6GKR_A,6GKR_B,6GKR_C,6Q8E_A	Proximal	4CXQ	
+2.6.1.42	D0LR31	Haliangium ochraceum	6H65_A,6H65_B,6H65_C,6H65_D,6H65_E,6H65_F	Proximal	4CXQ	
+2.6.1.52	Q59196	Niallia circulans	2C0R_A,2C0R_B,1BT4_A,1W3U_A	Proximal	4AZJ	Covalently attached to PLP
+2.6.1.57	P04693	Escherichia coli	3FSL_A,3FSL_B,3FSL_C,3FSL_D,3FSL_E,3FSL_F,3TAT_A,3TAT_B,3TAT_C,3TAT_D,3TAT_E,3TAT_F	Undetermined	-	No analogues with substrate
+2.7.1.86	Q06892	Saccharomyces cerevisiae	3AFO_A,3AFO_B	Undetermined	-	No analogues
+4.1.1.1	A9H275	Ipomoea batatas	4COK_A,4COK_B	Proximal	2VJY	
+4.1.1.12	Q845W8	Pseudomonas dacunhae	3FDD_A	Undetermined	-	No analogues with substrate
+4.1.1.12	Q53IZ1	Pseudomonas sp.	2ZY2_A	Undetermined	-	No analogues with substrate
+4.1.1.19	P28629	Escherichia coli	2VYC_A,2VYC_B,2VYC_C,2VYC_D,2VYC_E,2VYC_F,2VYC_G,2VYC_H,2VYC_I,2VYC_J	Distal	3N2O	
+4.1.1.28	Q88JU5	Pseudomonas putida	7XIN_A,7XIN_C,7XIN_E	Proximal	1JS3	Covalently attached to PLP
+4.1.2.10	B9X0I1	Prunus mume	3RED_A,3RED_B,3RED_C,3RED_D,3RED_E,3RED_F,3RED_G,3RED_H,3RED_I,3RED_J,3RED_K,3RED_L	Proximal	3GDN	Two cofactor structure; Both cofactors covalently bound
+4.1.2.26	Q59IT3	Pseudomonas putida	1V72_A	Undetermined	-	No analogues
+4.1.2.27	Q63IP8	Burkholderia pseudomallei	5K1R_A,5K1R_B	Undetermined	-	No analogues
+4.2.1.46	P27830	Escherichia coli	1BXK_A,1BXK_B	Proximal	1KEP	
+4.2.3.1	P9WG59	Mycobacterium tuberculosis	2D1F_A,2D1F_B	Proximal	6CGQ	Covalently attached to PLP
+4.3.1.19	P04968	Escherichia coli	1TDJ_A	Undetermined	-	No analogues with substrate
+4.3.1.25	C5XXT8	Sorghum bicolor	6AT7_A,6AT7_B	Undetermined	-	No analogues
+4.4.1.1	P31373	Saccharomyces cerevisiae	1N8P_A,1N8P_B,1N8P_C,1N8P_D	Proximal	8BIX	
+4.4.1.9	T1KF23	Tetranychus urticae	6PMU_A,6PMU_B,6XO2_A	Undetermined	-	No analogues with substrate
+5.3.3.2	B2ILS5	Streptococcus pneumoniae	4N02_A	Proximal	2ZRY	

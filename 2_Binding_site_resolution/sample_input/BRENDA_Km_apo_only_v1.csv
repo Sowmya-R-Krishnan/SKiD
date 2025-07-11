@@ -1,0 +1,195 @@
+EC_number	UniProt_ID	Organism_name	Apo_structures	Holo_mapping
+1.1.1.133	Q9LQ04	Arabidopsis thaliana	4QQR_A,4QQR_B	No other examples
+1.1.1.14	Q5FNX9	Gluconobacter oxydans	3AWD_A,3AWD_B,3AWD_C,3AWD_D	No similarity
+1.1.1.140	D4I194	Erwinia amylovora	5O3Z_A,5O3Z_B,5O3Z_C,5O3Z_D,5O3Z_E,5O3Z_F,5O3Z_G,5O3Z_H,5O3Z_I,5O3Z_J,5O3Z_K,5O3Z_L	No other examples
+1.1.1.198	A0A1B3EB36	Pseudomonas sp.	6M5N_A	No other examples
+1.1.1.2	P14550	Homo sapiens	2ALR_A	No similarity
+1.1.1.200	A5JUQ9	Prunus persica	7S5I_A,7S5I_B	No other examples
+1.1.1.202	A0NIJ1	Oenococcus oeni	4FR2_A	No other examples
+1.1.1.202	Q59477	Klebsiella pneumoniae	3BFJ_A,3BFJ_B,3BFJ_C,3BFJ_D,3BFJ_E,3BFJ_F,3BFJ_G,3BFJ_H,3BFJ_I,3BFJ_J,3BFJ_K,3BFJ_L,3BFJ_M,3BFJ_N,3BFJ_O,3BFJ_P,3BFJ_Q,3BFJ_R,3BFJ_S,3BFJ_T	No other examples
+1.1.1.202	Q7WRJ3	Klebsiella pneumoniae	3BFJ_A,3BFJ_B,3BFJ_C,3BFJ_D,3BFJ_E,3BFJ_F,3BFJ_G,3BFJ_H,3BFJ_I,3BFJ_J,3BFJ_K,3BFJ_L,3BFJ_M,3BFJ_N,3BFJ_O,3BFJ_P,3BFJ_Q,3BFJ_R,3BFJ_S,3BFJ_T	No other examples
+1.1.1.247	Q9SQ68	Papaver somniferum	7MBF_A,7MBF_B,7MBF_C,7MBF_D,7MBF_E,7MBF_F	No other examples
+1.1.1.264	P39346	Escherichia coli	6DKH_A,6DKH_B,6DKH_C,6DKH_D	No other examples
+1.1.1.371	O32223	Bacillus subtilis	3GDO_A,3GDO_B,3GFG_A,3GFG_B,3GFG_C,3GFG_D,3GFG_E,3GFG_F,3GFG_G,3GFG_H,3GFG_I,3GFG_J,3GFG_K,3GFG_L	No other examples
+1.1.1.38	P26616	Escherichia coli	6AGS_A	No other examples
+1.1.1.4	O34788	Bacillus subtilis subsp. subtilis	6IE0_A,6IE0_B,6IE0_C,6IE0_D	No other examples
+1.1.1.42	V5VCI0	Acinetobacter baumannii	5Z16_A,5Z16_B	No similarity
+1.1.1.427	Q97YM2	Saccharolobus solfataricus	2H6E_A	No other examples
+1.1.1.79	Q9LSV0	Arabidopsis thaliana	3DOJ_A	No other examples
+1.1.1.82	Q9YEA1	Aeropyrum pernix	2D4A_B,2D4A_A,2D4A_D,2D4A_C	No other examples
+1.1.98.2	Q0RVH7	Mycobacterium tuberculosis	5LXE_A,5LXE_B	No other examples
+1.11.1.18	Q8LLW7	Corallina officinalis	1QHB_A,1QHB_B,1QHB_C,1QHB_D,1QHB_E,1QHB_F	No other examples
+1.11.1.24	G0RHF8	Trichoderma reesei	6VPD_A,6VPD_B	No similarity
+1.13.11.20	Q96SZ5	Homo sapiens	7REI_A	No similarity
+1.13.11.6	P47096	Saccharomyces cerevisiae	1ZVF_A,1ZVF_B	No other examples
+1.13.12.5	Q9BLZ2	Gaussia princeps	7D2O_A	No similarity
+1.14.13.131	E9JFX9	Hyphomicrobium sulfonivorans	6AK1_A,6AK1_B	No other examples
+1.14.13.163	F8G0M4	Pseudomonas putida	7DA9_A,7DA9_B	No similarity
+1.14.14.12	P9WJA1	Mycobacterium tuberculosis	3AFE_A,3AFE_B,3AFE_C,3AFE_D,3AFF_A,3AFF_B	No other examples
+1.14.14.5	P80645	Escherichia coli	1M41_A,1M41_B,1NQK_A	No other examples
+1.14.18.1	P14679	Homo sapiens	7RK7_A,7RK7_B,7RK7_C,7RK7_D,7RK7_E	No similarity
+1.2.1.12	P39460	Saccharolobus solfataricus	1B7G_O,1B7G_Q	No similarity
+1.20.4.1	P74313	Synechocystis sp.	2MYT_A,2L18_A,2MYU_A,2MYN_A,2L19_A,2L17_A,2MYP_A	No other examples
+1.3.1.103	Q59I44	Burkholderia sp.	1WLY_A	No other examples
+1.3.1.112	Q5FB34	Vitis vinifera	3HFS_A,3HFS_B,2RH8_A	No other examples
+1.4.1.19	W8CV45	Nostoc punctiforme	5B37_A,5B37_B,5B37_C,5B37_D,5B37_E,5B37_F	No other examples
+1.4.1.28	I0IJU1	Sporosarcina psychrophila	3VPX_A,3VPX_B	No similarity
+1.4.1.9	B1YLR3	Exiguobacterium sibiricum	8GXD_A	No other examples
+1.5.1.39	A1BCD5	Paracoccus denitrificans	7QW4_A,7QW4_B,7QW4_C,7QW4_D,7QW4_E,7QW4_F,7QW4_G,7QW4_H,7QW4_I,7QW4_J,7QW4_K,7QW4_L,7QW4_M,7QW4_N,7QW4_O,7QW4_P,7QW4_Q,7QW4_R,7QW4_S,7QW4_T	No other examples
+1.5.98.2	Q8TXY4	Methanopyrus kandleri	1EZW_A	No other examples
+1.8.1.6	Q9BRA2	Homo sapiens	1WOU_A	No other examples
+1.8.4.12	Q78J03	Mus musculus	2L1U_A	No other examples
+1.8.4.9	P92979	Arabidopsis thaliana	5YRY_A	No other examples
+2.1.1.193	P0AGL7	Escherichia coli	4E8B_A	No other examples
+2.1.1.217	P54471	Bacillus subtilis	6Q56_A,6Q56_B,6Q56_C,6Q56_D	No other examples
+2.1.1.343	K4RFM2	Streptomyces davaonensis	4D7K_A,4D7K_B,4D7K_C,4D7K_D,4D7K_E,4D7K_F	No other examples
+2.3.1.160	Q70PR7	Rauvolfia serpentina x Rhazya stricta	2BGH_A,2BGH_B	No other examples
+2.3.1.20	K9LL63	Brassica napus	5UZL_A	No similarity
+2.3.1.20	P9WQP3	Mycobacterium tuberculosis	1SFR_A,1SFR_B,1SFR_C	No similarity
+2.3.1.220	Q8SAS8	Hypericum androsaemum	5UCO_A,5UCO_B	No other examples
+2.3.1.282	P9WIN5	Mycobacterium tuberculosis	1Q9J_A,1Q9J_B	No other examples
+2.3.1.30	D2Z028	Streptomyces lavendulae	3VVM_A,3VVM_B,3VVL_A,3VVL_B	No similarity
+2.3.1.31	Q8F4I0	Leptospira interrogans	2PL5_A	No other examples
+2.3.1.37	P08680	Mus musculus	1H7J_A,1H7D_A	No similarity
+2.3.1.51	Q9DBL9	Mus musculus	5A4H_A	No other examples
+2.3.1.75	A1TX06	Marinobacter nauticus	6CHJ_A,6CHJ_B	No other examples
+2.3.2.13	P81453	Streptomyces mobaraensis	3IU0_A,1IU4_A,1IU4_B,1IU4_C,1IU4_D	No other examples
+2.3.2.5	Q8P8M4	Xanthomonas campestris	3MBR_X	No similarity
+2.4.1.310	P96559	Amycolatopsis orientalis	1IIR_A	No other examples
+2.4.1.337	Q93P60	Acholeplasma laidlawii	1Z2T_A	No other examples
+2.4.2.30	Q49TP5	Aeromonas hydrophila	3NTS_A,3NTS_B,4FML_A,4FML_B,4FML_C	No similarity
+2.4.2.30	W2E3J5	Paenibacillus larvae subsp. larvae	5DZQ_A,5DZQ_O,4TR5_A	No similarity
+2.5.1.18	Q60GK5	Bombyx mori	3VK9_A,3VK9_B,3VK9_C,3VK9_D	No similarity
+2.5.1.30	Q2FYG6	Staphylococcus aureus	5H9D_A,5H9D_B,5H9D_C,5H9D_D,5H9D_K,5H9D_L	No other examples
+2.7.1.1	Q5SLJ4	Thermus thermophilus	3VOV_A,3VOV_B,3VOV_C,3VOV_D	No similarity
+2.7.1.31	P42938	Saccharomyces cerevisiae	1ODF_A	No other examples
+2.7.1.32	Q22942	Caenorhabditis elegans	1NW1_A,1NW1_B	No similarity
+2.7.1.52	Q58T34	Bacteroides fragilis	5YYS_A,5YYS_B,5YYS_C,5YYS_D	No other examples
+2.7.2.12	C4M1C3	Entamoeba histolytica	4H0O_A,4H0O_B	No other examples
+2.7.3.1	Q6AW43	Namalycastis sp.	3L2E_A,3L2E_B,3L2E_C,3L2E_D	No other examples
+2.7.4.14	P30085	Homo sapiens	7E9V_A,1TEV_A	No other examples
+2.7.4.2	Q15126	Homo sapiens	3CH4_B	No other examples
+2.7.4.8	Q16774	Homo sapiens	6NUI_A	No other examples
+2.7.7.4	O66036	Allochromatium vinosum	4DNX_A,4DNX_B	No similarity
+2.7.7.8	Q8CST1	Staphylococcus epidermidis	5YJJ_A,5YJJ_B,5YJJ_C,5YJJ_D,5YJJ_E,5YJJ_F	No other examples
+2.7.9.1	O76283	Trypanosoma brucei	2X0S_A	No other examples
+2.7.9.2	P42850	Pyrococcus furiosus	8A8E_A,8A8E_B,8A8E_C,8A8E_D,8A8E_E,8A8E_F,8A8E_G,8A8E_H,8A8E_I,8A8E_J,8A8E_K,8A8E_L,8A8E_M,8A8E_N,8A8E_O,8A8E_P,8A8E_Q,8A8E_R,8A8E_S,8A8E_T,8A8E_U,8A8E_V,8A8E_W,8A8E_X	No other examples
+2.8.1.1	Q8NFU3	Homo sapiens	6BEV_A,6BEV_B	No similarity
+2.8.3.19	P76518	Escherichia coli	4HL6_A,4HL6_B,4HL6_C,4HL6_D,4HL6_E,4HL6_F	No other examples
+3.1.1.112	P41734	Saccharomyces cerevisiae	3MIL_A,3MIL_B	No other examples
+3.1.1.17	B0RN69	Xanthomonas campestris	3DR2_A,3DR2_B	No other examples
+3.1.1.2	B5BLW5	Saccharolobus solfataricus	5L2P_A,5L2P_B,5L2P_C,5L2P_D	No similarity
+3.1.1.2	P27169	Homo sapiens	1V04_A	No similarity
+3.1.1.29	P0A7D1	Escherichia coli	2PTH_A,3VJR_A,3VJR_B,3VJR_C,3VJR_D	No other examples
+3.1.1.29	Q9Y3E5	Homo sapiens	1Q7S_A,1Q7S_B	No other examples
+3.1.1.73	A0A0M4UW33	Streptomyces cinnamoneus	5YAE_A,5YAL_A	No similarity
+3.1.1.73	Q3IL66	Pseudoalteromonas haloplanktis	3LS2_A,3LS2_B,3LS2_C,3LS2_D	No similarity
+3.1.1.96	P0A6M4	Escherichia coli	1JKE_A,1JKE_B,1JKE_C,1JKE_D	No other examples
+3.1.2.2	O00154	Homo sapiens	2QQ2_A,2QQ2_B,2QQ2_C,2QQ2_D,2QQ2_E,2QQ2_F,2QQ2_G,2QQ2_H,2QQ2_I,2QQ2_J,2QQ2_K,2QQ2_L	No similarity
+3.1.21.2	P9WQ13	Mycobacterium tuberculosis	5ZHZ_A	No other examples
+3.1.26.4	O29634	Archaeoglobus fulgidus	3P83_A,3P83_B,3P83_C,3P83_D,3P83_E,3P83_F,1I3A_A,1I39_A	No other examples
+3.1.26.4	O67644	Aquifex aeolicus	3VN5_A	No other examples
+3.1.26.4	O75792	Homo sapiens	3PUF_A,3PUF_B,3PUF_C,3PUF_D,3PUF_E,3PUF_F,3PUF_G,3PUF_H,3PUF_I,3PUF_J,3PUF_K,3PUF_L,3PUF_M,3PUF_N,3PUF_O,3PUF_P,3PUF_Q,3PUF_R,3P56_A,3P56_B,3P56_C,3P56_D,3P56_E,3P56_F	No other examples
+3.1.26.4	Q6L6Q4	Geobacillus stearothermophilus	3ASM_A,2D0C_A,2D0B_A,2D0A_A	No other examples
+3.1.3.104	Q8A947	Bacteroides thetaiotaomicron	4JB3_A	No other examples
+3.1.3.11	Q8TZH9	Pyrococcus furiosus	1XI6_A	No similarity
+3.1.3.12	P9WFZ5	Mycobacterium tuberculosis	5GVX_A	No similarity
+3.1.3.2	Q71EB8	Salmonella enterica subsp. enterica serovar Typhimurium	2IPB_A,2IPB_B,2IPB_C,2IPB_D	No similarity
+3.1.3.21	O33194	Mycobacterium tuberculosis	4I9G_A,4I9G_B	No other examples
+3.1.3.48	Q16828	Homo sapiens	1HZM_A,1MKP_A	No similarity
+3.1.3.48	Q6MNP0	Bdellovibrio bacteriovorus	4NX8_A,4NX8_B	No similarity
+3.1.4.16	P67095	Escherichia coli	1SU1_A,1SU1_B,1SU1_C,1SU1_D	No other examples
+3.1.4.52	Q9HV27	Pseudomonas aeruginosa	4R8Z_A,4R8Z_B	No similarity
+3.1.6.19	F8KAY7	Pseudomonas sp. DSM 6611	2YHE_A,2YHE_B,2YHE_C,2YHE_D,2YHE_E,2YHE_F,4AXH_A,4AXH_B,4AV7_A,4AV7_B,4AV7_C,4AV7_D,4AV7_E,4AV7_F	No other examples
+3.1.8.1	A0A077JBW9	Sphingobium sp. TCM1	5HRM_A,5HRM_B,5HRM_C,5HRM_D,5IOJ_A,5IOJ_B	No similarity
+3.2.1.133	A3DM60	Staphylothermus marinus	4AEE_A,4AEE_B	No similarity
+3.2.1.196	P15067	Escherichia coli	2WSK_A	No other examples
+3.2.1.214	A6LGF6	Parabacteroides distasonis	5Z06_A,5Z06_B	No other examples
+3.2.1.40	Q93RE7	Bacillus sp. (in: Bacteria)	2OKX_A,2OKX_B	No similarity
+3.2.1.52	Q9WZR6	Thermotoga maritima MSB8	3WO8_A,3WO8_B	No similarity
+3.2.1.54	Q8TZP8	Pyrococcus furiosus	4AEF_A,4AEF_B	No other examples
+3.2.1.67	Q9WYR8	Thermotoga maritima	3JUR_A,3JUR_B,3JUR_C,3JUR_D	No other examples
+3.2.1.70	Q5FMB7	Lactobacillus acidophilus	4AIE_A	No other examples
+3.2.1.78	Q8WPJ2	Mytilus edulis	2C0H_A	No similarity
+3.2.2.15	C6Y1J8	Pedobacter heparinus	5H0K_A,5H0J_A	No other examples
+3.4.11.1	B8D484	Desulfurococcus amylolyticus	4WWV_A,4WWV_B	No similarity
+3.4.11.1	Q9WXP9	Thermotoga maritima	2ZSG_A,2ZSG_B	No similarity
+3.4.11.7	Q8I2J3	Plasmodium falciparum	4EME_A,4EME_B,4EME_C,4EME_D	No other examples
+3.4.13.20	Q59632	Brucella anthropi	1B65_A,1B65_B,1B65_C,1B65_D,1B65_E,1B65_F	No similarity
+3.4.13.22	Q06241	Enterococcus faecium	1R44_A,1R44_B,1R44_C,1R44_D,1R44_E,1R44_F	No other examples
+3.4.14.4	Q08225	Saccharomyces cerevisiae	3CSK_A	No similarity
+3.4.17.22	O75976	Homo sapiens	5AQ0_A,5AQ0_B	No other examples
+3.4.19.5	Q9ZSD6	Lupinus luteus	2GEZ_A,2GEZ_B,2GEZ_C,2GEZ_D,2GEZ_E,2GEZ_F,2GEZ_G,2GEZ_H	No similarity
+3.4.21.108	P83110	Homo sapiens	4RI0_A,4RI0_B,4RI0_C,2P3W_A,2P3W_B	No similarity
+3.4.21.114	A1E8J1	porcine reproductive and respiratory syndrome virus	5Y4L_B,5Y4L_A,5Y4L_C,5Y4L_D,3FAO_A,3FAN_A	No other examples
+3.4.21.2	Q99895	Homo sapiens	4H4F_A,4H4F_B,4H4F_Q	No other examples
+3.4.21.4	Q54137	Saccharopolyspora erythraea	5KWM_A,5DJ7_A,5DKM_A	No similarity
+3.4.21.79	P18291	Rattus norvegicus	1FI8_A,1FI8_C,1FI8_D,1FI8_B,1FI8_E,1FI8_F	No other examples
+3.4.21.9	A4UWM5	Oryzias latipes	3W94_A,3W94_B	No similarity
+3.4.21.92	O97252	Plasmodium falciparum	2F6I_A,2F6I_B,2F6I_C,2F6I_D,2F6I_E,2F6I_F,2F6I_G	No similarity
+3.5.1.105	A6P4T5	Vibrio parahaemolyticus	3WX7_A,3WX7_B	No similarity
+3.5.1.124	A0A0H3AFW5	Vibrio cholerae	5JZO_A,5JZO_B,5JZO_C,5JZO_D,5JZO_E,5JZO_F,4I46_A,4I46_B,4I46_C,4I46_D,4I46_E,4I46_F,5JZM_A,5JZM_B,5JZM_C,5JZM_D,5JZM_E,5JZM_F,5K4A_C,5K4A_F,5K4A_A,5K4A_B,5K4A_D,5K4A_E,4I4N_A,4I4N_B,4I4N_C,4I4N_D,4I4N_E,4I4N_F,4I2N_A,4I2N_B,4I2N_C,4I2N_D,4I2N_E,4I2N_F	No similarity
+3.5.1.135	P67603	Escherichia coli	1TE7_A	No other examples
+3.5.1.41	Q6DWK3	Colletotrichum lindemuthianum	2IW0_A	No other examples
+3.5.1.42	A9CJ26	Agrobacterium fabrum	2A9S_A,2A9S_B	No other examples
+3.5.1.81	Q9AGH8	Alcaligenes faecalis	1RJQ_A,1V4Y_A,1RK5_A,1M7J_A,1V51_A,1RJR_A,1RJP_A,1RK6_A	No other examples
+3.5.2.17	A6T926	Klebsiella pneumoniae	3QVA_A,3QVA_B,3QVA_C,3QVA_D	No other examples
+3.5.3.8	Q4DSA0	Trypanosoma cruzi	4MYL_A,4MXR_A,4MXR_B,4MYN_A,4MYK_A,2A0M_A,4MYF_A	No other examples
+3.5.4.11	P0CI72	unidentified prokaryotic organism	2PAJ_A	No other examples
+3.5.4.3	P76641	Escherichia coli	6OHB_A,6OHB_B,6OHB_C,6OHB_D,6OHC_A,6OHC_B,6OHC_C,6OHC_D	No similarity
+3.5.5.1	Q55949	Synechocystis sp. PCC 6803	3WUY_A,3WUY_B	No other examples
+3.6.1.40	P25552	Escherichia coli	6PBZ_A,6PBZ_B,6PBZ_C,6PBZ_D	No other examples
+3.6.1.65	P77788	Escherichia coli	2RRK_A	No other examples
+3.6.1.73	P39411	Escherichia coli	1U5W_A,1U5W_B,1U5W_C,1U5W_D,1U5W_E,1U5W_F,1U5W_G,1U5W_H	No other examples
+3.6.1.74	O13297	Saccharomyces cerevisiae	1D8I_A,1D8I_B,1D8I_C,3KYH_A,3KYH_B,3KYH_C,3KYH_D,1D8H_A,1D8H_B,1D8H_C	No other examples
+3.6.1.74	P08411	Semliki forest virus	5FW5_A,5FW5_B,5FW5_C,5DRV_A,5DRV_B,1FW5_A	No other examples
+3.6.1.9	P22413	Homo sapiens	2YS0_A	No similarity
+3.6.1.9	P25536	Escherichia coli	4P0E_A,4P0E_B	No similarity
+3.6.5.3	P0A6M8	Escherichia coli	3J0E_A,3J0E_B,3J0E_C,3J0E_D,3J0E_E,3J0E_e,3J0E_F,3J0E_G,3J0E_H,2RDO_A,2RDO_B,2RDO_V,2RDO_C,2RDO_D,2RDO_E,2RDO_F,2RDO_G,2RDO_J,2RDO_K,2RDO_L,2RDO_M,2RDO_N,2RDO_O,2RDO_P,2RDO_Q,2RDO_R,2RDO_S,2RDO_T,2RDO_U,2RDO_W,2RDO_X,2RDO_Y,2RDO_Z,2RDO_0,2RDO_1,2RDO_2,2RDO_3,2RDO_4,2RDO_I,2RDO_H,2RDO_9,2RDO_7,2RDO_8	No similarity
+3.7.1.13	Q84II3	Janthinobacterium sp. J3	1J1I_A	No other examples
+3.7.1.14	P77044	Escherichia coli	1U2E_A,1U2E_B,1U2E_C,1U2E_D	No other examples
+4.1.1.19	P21170	Escherichia coli	3NZQ_A,3NZQ_B	No other examples
+4.1.2.10	E8WYN5	Granulicella tundricola	4BIF_A,4BIF_B,4BIF_C,4BIF_D,4BIF_E,4BIF_F,4BIF_G,4BIF_H,4UXA_A,4UXA_B,4UXA_C,4UXA_D,4UXA_E,4UXA_F,4UXA_G,4UXA_H,4UXA_I,4UXA_J,4UXA_K,4UXA_L,4UXA_M,4UXA_N,4UXA_O,4UXA_P,4UXA_Q,4UXA_R,4UXA_S,4UXA_T	No similarity
+4.1.2.43	Q9LBW4	Mycobacterium gastri	3AJX_A,3AJX_B,3AJX_C,3AJX_D	No other examples
+4.2.1.154	P39890	Streptomyces glaucescens	1TUW_A	No other examples
+4.2.1.171	A0NXQ8	Roseibium aggregatum	4MGG_A,4MGG_B,4MGG_C,4MGG_D,4MGG_E,4MGG_F,4MGG_G,4MGG_H	No other examples
+4.2.1.176	A0NP48	Roseibium aggregatum	3STP_A	No other examples
+4.2.1.18	Q13825	Homo sapiens	2ZQR_A,2ZQR_B,2ZQR_C,2ZQR_D,2ZQR_E,2ZQR_F,1HZD_A,1HZD_B,1HZD_C,1HZD_D,1HZD_E,1HZD_F,2ZQQ_A,2ZQQ_B,2ZQQ_C,2ZQQ_D,2ZQQ_E,2ZQQ_F	No other examples
+4.2.1.20	P0A877	Escherichia coli	1WQ5_A,1WQ5_B,1V7Y_A,1V7Y_B,1XC4_A,1XC4_B,1XCF_A,1XCF_B	No similarity
+4.2.1.75	P10746	Homo sapiens	1JR2_A,1JR2_B	No other examples
+4.2.1.77	Q96EM0	Homo sapiens	7QPO_A,7QPO_B	No other examples
+4.2.3.132	Q38710	Abies grandis	3S9V_A,3S9V_B,3S9V_C,3S9V_D	No other examples
+4.2.3.153	Q58499	Methanocaldococcus jannaschii	4RC1_A,4RC1_B,4RC1_C,4RC1_D,4RC1_E,4RC1_F,4RC1_G,4RC1_H,4RC1_I,4U9P_A,4U9P_B,4U9P_C	No other examples
+4.2.3.81	E3W202	Santalum album	5ZZJ_A,5ZZJ_B,5ZZJ_C,5ZZJ_D	No other examples
+4.3.2.1	P04424	Homo sapiens	1AOS_A,1AOS_B,1K62_A,1K62_B	No similarity
+4.3.2.2	A0R4I6	Mycolicibacterium smegmatis	4NLE_A,4NLE_B	No similarity
+4.3.2.7	Q8WUX2	Homo sapiens	6KY1_A,6KY1_B,6KY1_C,6K95_A,6K95_B,6K95_C,6KY0_A,6KY0_B,6KY0_C	No other examples
+4.3.3.7	Q3MFY8	Trichormus variabilis	5KT0_A	No similarity
+4.4.1.19	Q57703	Methanocaldococcus jannaschii	1QWG_A	No other examples
+4.6.1.23	P00655	Aspergillus giganteus	1DE3_A,1R4Y_A	No other examples
+4.99.1.3	P61816	Methanosarcina barkeri	6M2A_A,6M2A_B	No other examples
+5.1.1.19	D2Z026	Streptomyces lavendulae subsp. lavendulae	7VDY_A,7VDY_B	No other examples
+5.1.1.20	P51981	Escherichia coli	1JPD_X	No similarity
+5.1.1.8	Q9I476	Pseudomonas aeruginosa	2AZP_A	No other examples
+5.1.3.31	N0DP12	Mesorhizobium loti	3VYL_A,3VYL_B,3VYL_C,3VYL_D,3VYL_E,3VYL_F,3VYL_G,3VYL_H	No other examples
+5.1.99.3	E3SAZ9	Pseudomonas fluorescens	5LG5_A,5LG5_B,5LG5_C,5LG5_D,5LG5_F,5LG5_G,5LFD_A,5LFD_B	No other examples
+5.1.99.8	P0AC19	Escherichia coli	1B9L_A,1B9L_B,1B9L_C,1B9L_D,1B9L_E,1B9L_F,1B9L_G,1B9L_H	No other examples
+5.3.2.6	A2SL37	Methylibium petroleiphilum	4FDX_A,4FDX_B	No other examples
+5.3.2.6	A9W9U6	Chloroflexus aurantiacus	3MB2_A,3MB2_B,3MB2_C,3MB2_D,3MB2_E,3MB2_F,3MB2_G,3MB2_H,3MB2_I,3MB2_J,3MB2_K,3MB2_L	No other examples
+5.3.2.6	O29588	Archaeoglobus fulgidus	3M20_A,3M20_B,3M20_C	No other examples
+5.3.3.6	Q0QLE6	Eubacterium barkeri	3G7K_A,3G7K_B,3G7K_C,3G7K_D	No other examples
+5.4.2.2	Q4QCF1	Leishmania major	4QG5_A,4QG5_B,4QG5_C,4QG5_D	No similarity
+5.5.1.2	Q2HNZ1	Agrobacterium tumefaciens	2FEL_A,2FEL_B,2FEL_D,2FEL_C,2FEL_E,2FEL_F,2FEL_G,2FEL_H,2FEL_I,2FEL_J,2FEL_L,2FEL_K,2FEN_A,2FEN_B,2FEN_D,2FEN_C,2FEN_E,2FEN_F,2FEN_H,2FEN_G,2FEN_I,2FEN_J,2FEN_L,2FEN_K	No other examples
+5.5.1.7	Q8G9L1	Rhodococcus opacus	4M0X_A,4M0X_B	No other examples
+5.6.1.3	Q61768	Mus musculus	6IGV_A,6IGN_A	No similarity
+5.6.2.3	Q96RR1	Homo sapiens	7T8C_A,7T8C_B,7T8C_C,7T8C_D,7T8C_E,7T8C_F,7T8C_G,7T8B_A,7T8B_B,7T8B_C,7T8B_D,7T8B_E,7T8B_F,7T8B_G,7T8B_H	No similarity
+5.6.2.4	P17888	Escherichia coli	2DWL_E,2DWL_F,2DWL_A,2DWL_B,2DWL_C,2DWL_D,2D7H_A,2D7H_B,2D7H_C,2D7H_D,2D7H_E,6DCR_A,6DCR_B,2D7G_A,2D7G_B,2D7G_C,2D7G_D,2D7G_E,2D7G_F,2D7G_G,2D7G_H,2DWN_A,2DWN_B,2DWN_C,2DWN_D,2DWN_E,2DWN_F,2D7E_A,2D7E_B,2D7E_C,2D7E_D,2DWM_E,2DWM_F,2DWM_G,2DWM_A,2DWM_B,2DWM_C,2DWM_D	No similarity
+6.1.1.12	Q6PI48	Homo sapiens	4AH6_A,4AH6_B,4AH6_C,4AH6_D	No similarity
+6.1.1.15	Q58635	Methanocaldococcus jannaschii	1NJ8_A,1NJ8_B,1NJ8_C,1NJ8_D	No other examples
+6.1.1.18	P47897	Homo sapiens	4R3Z_A,4R3Z_B,4R3Z_C,4YE6_A,4YE9_A,4YE8_A	No similarity
+6.1.1.4	O58698	Pyrococcus horikoshii	1WZ2_C,1WZ2_D,1WZ2_A,1WZ2_B,1WKB_A	No similarity
+6.2.2.2	B2KYG8	uncultured Prochloron sp. 06037A	4BS9_A	No other examples
+6.3.1.2	O04998	Medicago truncatula	4IS4_A,4IS4_B,4IS4_C,4IS4_D,4IS4_E,4IS4_F,4IS4_G,4IS4_H,4IS4_I,4IS4_J	No similarity
+6.3.1.9	Q711P7	Leishmania major	2VOB_A,2VOB_B,2VPS_A,2VPM_A,2VPM_B	No other examples
+6.3.3.1	P08178	Escherichia coli	1CLI_A,1CLI_B,1CLI_C,1CLI_D	No other examples
+6.3.4.21	Q6XQN6	Homo sapiens	4YUB_A,4YUB_B	No other examples
