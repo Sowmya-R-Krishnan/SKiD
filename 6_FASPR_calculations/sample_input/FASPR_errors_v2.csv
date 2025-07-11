@@ -1,0 +1,30 @@
+affin.pdb_id	mutation	affin.chain	Reason	Resolution	Type
+1DIN	Q35H/F38L/C123S/Y145C/K154D/E199G/S208G/G211D	A	Backbone incomplete CYS123	Backbone modelling	Automated
+1DIN	Q35H/F38L/C123S/Y137C/Y145C/E199G/S208G/G211D	A	Backbone incomplete CYS123	Backbone modelling	Automated
+1DIN	Q35H/F38L/C123S/Y145C/E199G/S208G/G211D	A	Backbone incomplete CYS123	Backbone modelling	Automated
+1DIN	Q35H/F38L/Q110L/C123S/Y145C/K154D/E199G/S208G/G211D	A	Backbone incomplete CYS123	Backbone modelling	Automated
+1DIN	Q35H/F38L/Q110L/C123S/Y137C/Y145C/K154D/E199G/S208G/G211D	A	Backbone incomplete CYS123	Backbone modelling	Automated
+1DIN	Q35H/F38L/Q110L/C123S/Y145C/E199G/S208G/G211D	A	Backbone incomplete CYS123	Backbone modelling	Automated
+5EHT	C64C/F68C	A	Residue is non-canonical	Drop	Automated
+3C6B	C60K/I197I	A	Residue is non-canonical	Drop	Automated
+3C6B	C60Q/I197I	A	Residue is non-canonical	Drop	Automated
+3C6B	C60R/I197I	A	Residue is non-canonical	Drop	Automated
+3C6B	M162H/C60S/I197I	A	Residue is non-canonical	Drop	Automated
+3C6B	C60H/I197I	A	Residue is non-canonical	Drop	Automated
+3C6B	C60S/I197I	A	Residue is non-canonical	Drop	Automated
+3C6B	I197I/C60S	A	Residue is non-canonical	Drop	Automated
+1KCZ	C361A	A	Residue is non-canonical	Drop	Automated
+3D3W	C138A	A	Residue is non-canonical	Drop	Automated
+1XRH	M253A	A	Residue is non-canonical	Drop	Automated
+4PR3	M144A	A	Residue is non-canonical	Drop	Automated
+2IY7	M144D	A	Residue is non-canonical	Drop	Automated
+2IY7	M144H	A	Residue is non-canonical	Drop	Automated
+3C6B	C60S	A	Residue is non-canonical	Drop	Automated
+3C6B	C60A	A	Residue is non-canonical	Drop	Automated
+6G60	A54S	A	Residue is non-canonical	Drop	Automated
+7JZG	K161A	A	Residue is non-canonical	Drop	Automated
+7JZG	K161R	A	Residue is non-canonical	Drop	Automated
+3MKJ	C115A	A	Residue is non-canonical	Drop	Automated
+3MKJ	C115H	A	Residue is non-canonical	Drop	Automated
+1JBW	K185A	A	Residue is non-canonical	Drop	Automated
+7RMU	H312C	A	Residue is non-canonical	Drop	Automated

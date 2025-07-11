@@ -1,0 +1,406 @@
+affin.pdb_id	mutation	affin.chain	Reason	Resolution	Type
+1PJ3	K3057S/E3059N/K3073E/D3102S	A	Chain ID wrong	Chain ID must be D	Automated
+1NFR	T6T/M47M/K69K	A	Already mutated residues	Omit	Manual
+1GPE	H520A	C	Chain ID of heteroatom mapped	Chain ID must be A	Automated
+1GPE	N518T	C	Chain ID of heteroatom mapped	Chain ID must be A	Automated
+1GPE	F418V	C	Chain ID of heteroatom mapped	Chain ID must be A	Automated
+1GPE	R516K	C	Chain ID of heteroatom mapped	Chain ID must be A	Automated
+1GPE	R516Q	C	Chain ID of heteroatom mapped	Chain ID must be A	Automated
+1GPE	H520V	C	Chain ID of heteroatom mapped	Chain ID must be A	Automated
+1D7B	M83F	C	Chain ID of heteroatom mapped	Chain ID must be A	Automated
+1D7B	M83H	C	Chain ID of heteroatom mapped	Chain ID must be A	Automated
+2Q9O	L609A	A	Wrong mutation	L559A	Automated
+6EKX	T163V/S269G/T363R	A	Wrong mutation	T120V/S226G/T320R	Automated
+6EKX	T163V/S269G/T363N	A	Wrong mutation	T120V/S226G/T320N	Automated
+2OK8	H341Q	A	Residue missing	Drop	Automated
+2OK8	H341A	A	Residue missing	Drop	Automated
+2OK8	H341L	A	Residue missing	Drop	Automated
+2OK8	H341K	A	Residue missing	Drop	Automated
+4C3X	Y487F	I	Chain ID of heteroatom mapped	Chain ID must be A	Automated
+4C3X	Y119F	I	Chain ID of heteroatom mapped	Chain ID must be A	Automated
+6G1H	E102A	A	Backbone incomplete GLY292	Backbone modelling	Automated
+2C10	L469G	A	Backbone incomplete HIS762	Backbone modelling	Automated
+2C10	M211V/Y394N/L469G	A	Backbone incomplete HIS762	Backbone modelling	Automated
+2W3W	L32D	A	Backbone incomplete ASP167	Backbone modelling	Automated
+2W3W	D31E	A	Backbone incomplete ASP167	Backbone modelling	Automated
+2W3W	D31A	A	Backbone incomplete ASP167	Backbone modelling	Automated
+2W3W	L32F	A	Backbone incomplete ASP167	Backbone modelling	Automated
+2W3W	L32A	A	Backbone incomplete ASP167	Backbone modelling	Automated
+2W3W	D31Q	A	Backbone incomplete ASP167	Backbone modelling	Automated
+2W3W	D31N	A	Backbone incomplete ASP167	Backbone modelling	Automated
+2W3W	D31L	A	Backbone incomplete ASP167	Backbone modelling	Automated
+1KMV	Q36K	A	Backbone incomplete ASP186	Backbone modelling	Automated
+1KMV	N65S	A	Backbone incomplete ASP186	Backbone modelling	Automated
+1KMV	F32S/Q36E	A	Backbone incomplete ASP186	Backbone modelling	Automated
+1KMV	N65F	A	Backbone incomplete ASP186	Backbone modelling	Automated
+1KMV	F32R/F35A/Q36N	A	Backbone incomplete ASP186	Backbone modelling	Automated
+1KMV	F32A/F35V/Q36H	A	Backbone incomplete ASP186	Backbone modelling	Automated
+1KMV	Q36S	A	Backbone incomplete ASP186	Backbone modelling	Automated
+1KMV	Q36S/N65F	A	Backbone incomplete ASP186	Backbone modelling	Automated
+1KMV	Q36K/N65F	A	Backbone incomplete ASP186	Backbone modelling	Automated
+1KMV	F32R/Q36E	A	Backbone incomplete ASP186	Backbone modelling	Automated
+1KMV	Q36S/N65S	A	Backbone incomplete ASP186	Backbone modelling	Automated
+1KMV	F32P/Q36E	A	Backbone incomplete ASP186	Backbone modelling	Automated
+1KMV	F32P/Q36H	A	Backbone incomplete ASP186	Backbone modelling	Automated
+1KMV	Q36K/N65S	A	Backbone incomplete ASP186	Backbone modelling	Automated
+1KMV	F32R/F35T/Q36R	A	Backbone incomplete ASP186	Backbone modelling	Automated
+1KMV	F32G/Q36N	A	Backbone incomplete ASP186	Backbone modelling	Automated
+1KMV	F32R/F35T/Q36S	A	Backbone incomplete ASP186	Backbone modelling	Automated
+7F3Y	W48Y	C	Chain ID wrong	Chain ID must be A	Automated
+7F3Y	N51N/N108S/L164L	C	Chain ID wrong	Chain ID must be A	Automated
+7F3Y	I51I/L164L/K96N	C	Chain ID wrong	Chain ID must be A	Automated
+1W1O	E381A	B	Chain ID of heteroatom mapped	Chain ID must be A	Automated
+1W1O	E381S	B	Chain ID of heteroatom mapped	Chain ID must be A	Automated
+6QYQ	T51S	A	Wrong mutation	T63S	Automated
+4BMK	N100C	A	Backbone incomplete GLY420	Backbone modelling	Automated
+4BMK	R378K	A	Backbone incomplete GLY420	Backbone modelling	Automated
+4BMK	R378N	A	Backbone incomplete GLY420	Backbone modelling	Automated
+4BMK	N100W	A	Backbone incomplete GLY420	Backbone modelling	Automated
+4BMK	R378A	A	Backbone incomplete GLY420	Backbone modelling	Automated
+4BMK	N100Y	A	Backbone incomplete GLY420	Backbone modelling	Automated
+5O6H	V181A	A	Backbone incomplete GLU379	Backbone modelling	Automated
+5O6H	Y180F/N246A	A	Backbone incomplete GLU379	Backbone modelling	Automated
+5O6H	V181L	A	Backbone incomplete GLU379	Backbone modelling	Automated
+5O6H	Y180A	A	Backbone incomplete GLU379	Backbone modelling	Automated
+5O6H	Y192A	A	Backbone incomplete GLU379	Backbone modelling	Automated
+2E0W	S463T	A	Wrong mutation	S439T	Automated
+4IRP	Y199F	A	Backbone incomplete HIS127	Backbone modelling	Automated
+4IRP	V164A	A	Backbone incomplete HIS127	Backbone modelling	Automated
+4IRP	D165E	A	Backbone incomplete HIS127	Backbone modelling	Automated
+4IRP	D228E	A	Backbone incomplete HIS127	Backbone modelling	Automated
+2BO4	D135A	A	Backbone incomplete ASN382	Backbone modelling	Automated
+2BO4	H217A	A	Backbone incomplete ASN382	Backbone modelling	Automated
+2BO4	T139A	A	Backbone incomplete ASN382	Backbone modelling	Automated
+2BO4	R218A	A	Backbone incomplete ASN382	Backbone modelling	Automated
+2BO4	M229A	A	Backbone incomplete ASN382	Backbone modelling	Automated
+2JBM	R163A	A	Backbone incomplete VAL292	Backbone modelling	Automated
+1F8Y	F213R/D292S/N323S	A	Residue missing	Drop	Automated
+1F8Y	F213R/D292S	A	Residue missing	Drop	Automated
+2IY7	D141A	A	Backbone incomplete SER373	Backbone modelling	Automated
+2IY7	H311A	A	Backbone incomplete SER373	Backbone modelling	Automated
+6JWQ	S436A/A437G	A	Chain ID wrong	Chain ID must be B	Automated
+6JWQ	S436F/A437G/A613S	A	Chain ID wrong	Chain ID must be B	Automated
+6JWQ	A437G/K540E	A	Chain ID wrong	Chain ID must be B	Automated
+6JWQ	S436F/A613T	A	Chain ID wrong	Chain ID must be B	Automated
+6JWQ	S436F/A437G/A613T	A	Chain ID wrong	Chain ID must be B	Automated
+6JWQ	S436F/A613S	A	Chain ID wrong	Chain ID must be B	Automated
+6JWQ	A437G	A	Chain ID wrong	Chain ID must be B	Automated
+6D5X	D64G	A	Wrong mutation	D10G	Automated
+6D5X	S68F	A	Wrong mutation	S14F	Automated
+6D5X	G63E	A	Wrong mutation	G9E	Automated
+6D5X	K78R	A	Wrong mutation	K24R	Automated
+1X06	S71A	B	Chain ID wrong	Chain ID must be A	Automated
+1X06	N74A	B	Chain ID wrong	Chain ID must be A	Automated
+1X06	E81A	B	Chain ID wrong	Chain ID must be A	Automated
+1X06	R77A	B	Chain ID wrong	Chain ID must be A	Automated
+1H0C	R118A	A	Backbone incomplete LYS391	Backbone modelling	Automated
+5C40	E202L	A	Backbone incomplete HIS329	Backbone modelling	Automated
+5C40	N199L	A	Backbone incomplete HIS329	Backbone modelling	Automated
+7FS3	D12D	A	Residue missing	Drop	Automated
+3C4W	S5A	A	Residue missing	Drop	Automated
+7BES	F81W/S96A	A	Wrong mutation	F101W/S116A	Automated
+7BES	R82H	A	Wrong mutation	R102H	Automated
+7BES	F81W	A	Wrong mutation	F101W	Automated
+1DIN	Q35H/F38L/C123S/Y145C/K154D/E199G/S208G/G211D	A	Backbone incomplete CYS123	Backbone modelling	Automated
+1DIN	Q35H/F38L/C123S/Y137C/Y145C/E199G/S208G/G211D	A	Backbone incomplete CYS123	Backbone modelling	Automated
+1DIN	Q35H/F38L/C123S/Y145C/E199G/S208G/G211D	A	Backbone incomplete CYS123	Backbone modelling	Automated
+1DIN	Q35H/F38L/Q110L/C123S/Y145C/K154D/E199G/S208G/G211D	A	Backbone incomplete CYS123	Backbone modelling	Automated
+1DIN	Q35H/F38L/Q110L/C123S/Y137C/Y145C/K154D/E199G/S208G/G211D	A	Backbone incomplete CYS123	Backbone modelling	Automated
+1DIN	Q35H/F38L/Q110L/C123S/Y145C/E199G/S208G/G211D	A	Backbone incomplete CYS123	Backbone modelling	Automated
+5EHT	C64C/F68C	A	Residue is non-canonical	Drop	Automated
+3C6B	C60K/I197I	A	Residue is non-canonical	Drop	Automated
+3C6B	C60Q/I197I	A	Residue is non-canonical	Drop	Automated
+3C6B	C60R/I197I	A	Residue is non-canonical	Drop	Automated
+3C6B	M162H/C60S/I197I	A	Residue is non-canonical	Drop	Automated
+3C6B	C60H/I197I	A	Residue is non-canonical	Drop	Automated
+3C6B	C60S/I197I	A	Residue is non-canonical	Drop	Automated
+3C6B	I197I/C60S	A	Residue is non-canonical	Drop	Automated
+2VW8	E182A	A	Backbone incomplete LEU298	Backbone modelling	Automated
+2UY5	A283S	A	Backbone incomplete LEU295	Backbone modelling	Automated
+2UY5	F210W/A283S	A	Backbone incomplete LEU295	Backbone modelling	Automated
+1E8U	S418A	A	Backbone incomplete GLY570	Backbone modelling	Automated
+1E8U	Y262F	A	Backbone incomplete GLY570	Backbone modelling	Automated
+1H49	V198V	A	Backbone incomplete LYS502	Backbone modelling	Automated
+1H49	V198V/F259L/P431A	A	Backbone incomplete LYS502	Backbone modelling	Automated
+5BPK	T398S	A	Chain ID wrong	Chain ID must be C	Automated
+4Q0M	K274E	A	Wrong mutation	K275E	Automated
+4Q0M	T53Q/K274E	A	Wrong mutation	T54Q/K275E	Automated
+1OR0	F177L	A	Chain ID wrong	Chain ID must be B	Automated
+1OR0	M73V/Q93K/T176S	A	Chain ID wrong	Chain ID must be B	Automated
+2WK0	E180C	A	Backbone incomplete ASN291	Backbone modelling	Automated
+3ISG	D70Y	A	Wrong mutation	D45Y	Automated
+3ISG	D70M	A	Wrong mutation	D45M	Automated
+3ISG	D70N	A	Wrong mutation	D45N	Automated
+3ISG	D70A	A	Wrong mutation	D45A	Automated
+3ISG	D70W	A	Wrong mutation	D45W	Automated
+1P6O	D292E	A	Chain ID wrong	Chain ID must be B	Automated
+1P6O	A223L/D292E/V308I/I340L	A	Chain ID wrong	Chain ID must be B	Automated
+3B8I	H235Q	A	Backbone incomplete ARG14	Backbone modelling	Automated
+3B8I	Y212F	A	Backbone incomplete ARG14	Backbone modelling	Automated
+3B8I	H235A	A	Backbone incomplete ARG14	Backbone modelling	Automated
+2V5K	H45Q	A	Backbone incomplete ALA252	Backbone modelling	Automated
+2V5K	H45A	A	Backbone incomplete ALA252	Backbone modelling	Automated
+1BXK	C587A	A	Chain ID wrong	Chain ID must be B	Automated
+1BXK	E536A	A	Chain ID wrong	Chain ID must be B	Automated
+1BXK	C587S	A	Chain ID wrong	Chain ID must be B	Automated
+1BXK	H632A	A	Chain ID wrong	Chain ID must be B	Automated
+1BXK	K599R	A	Chain ID wrong	Chain ID must be B	Automated
+1BXK	H632N	A	Chain ID wrong	Chain ID must be B	Automated
+1BXK	T534V	A	Chain ID wrong	Chain ID must be B	Automated
+1BXK	T534S	A	Chain ID wrong	Chain ID must be B	Automated
+1BXK	K564A	A	Chain ID wrong	Chain ID must be B	Automated
+1BXK	N590D	A	Chain ID wrong	Chain ID must be B	Automated
+1BXK	E536Q	A	Chain ID wrong	Chain ID must be B	Automated
+1BXK	N590A	A	Chain ID wrong	Chain ID must be B	Automated
+1BXK	Y560A	A	Chain ID wrong	Chain ID must be B	Automated
+1BXK	D535N/E536Q	A	Chain ID wrong	Chain ID must be B	Automated
+1BXK	K564M	A	Chain ID wrong	Chain ID must be B	Automated
+1BXK	D535N	A	Chain ID wrong	Chain ID must be B	Automated
+1BXK	H632Q	A	Chain ID wrong	Chain ID must be B	Automated
+1BXK	K599M	A	Chain ID wrong	Chain ID must be B	Automated
+1BXK	D535A	A	Chain ID wrong	Chain ID must be B	Automated
+1BXK	T534A	A	Chain ID wrong	Chain ID must be B	Automated
+1BXK	N590H	A	Chain ID wrong	Chain ID must be B	Automated
+1BXK	Y560F	A	Chain ID wrong	Chain ID must be B	Automated
+1KCZ	C361A	A	Residue is non-canonical	Drop	Automated
+3ACZ	C1610G	A	Chain ID wrong	Chain ID must be D	Automated
+3ACZ	Y1608F	A	Chain ID wrong	Chain ID must be D	Automated
+3ACZ	C1610S	A	Chain ID wrong	Chain ID must be D	Automated
+3HCN	H763A	A	Chain ID wrong	Chain ID must be B	Automated
+3HCN	Y691H	A	Chain ID wrong	Chain ID must be B	Automated
+3HCN	M767I	A	Chain ID wrong	Chain ID must be B	Automated
+3HCN	S764L	A	Chain ID wrong	Chain ID must be B	Automated
+3HCN	N575A	A	Chain ID wrong	Chain ID must be B	Automated
+3HCN	F837A	A	Chain ID wrong	Chain ID must be B	Automated
+3HCN	E843D	A	Chain ID wrong	Chain ID must be B	Automated
+3HCN	R615L	A	Chain ID wrong	Chain ID must be B	Automated
+4YWI	S96S	A	Backbone incomplete GLY173, LYS174	Backbone modelling	Automated
+4YWI	T75C	A	Backbone incomplete GLY173, LYS174	Backbone modelling	Automated
+4YWI	T75N	A	Backbone incomplete GLY173, LYS174	Backbone modelling	Automated
+4YWI	S96Y	A	Backbone incomplete GLY173, LYS174	Backbone modelling	Automated
+4YWI	S96S/V167V	A	Backbone incomplete GLY173, LYS174	Backbone modelling	Automated
+4YWI	S96H	A	Backbone incomplete GLY173, LYS174	Backbone modelling	Automated
+4YWI	S96W	A	Backbone incomplete GLY173, LYS174	Backbone modelling	Automated
+4YWI	C126T	A	Backbone incomplete GLY173, LYS174	Backbone modelling	Automated
+4YWI	E97Q	A	Backbone incomplete GLY173, LYS174	Backbone modelling	Automated
+4YWI	S96S/S73A	A	Backbone incomplete GLY173, LYS174	Backbone modelling	Automated
+4YWI	S96A	A	Backbone incomplete GLY173, LYS174	Backbone modelling	Automated
+4YWI	E165A	A	Backbone incomplete GLY173, LYS174	Backbone modelling	Automated
+4YWI	C126V	A	Backbone incomplete GLY173, LYS174	Backbone modelling	Automated
+4YWI	C126S	A	Backbone incomplete GLY173, LYS174	Backbone modelling	Automated
+4YWI	C126A	A	Backbone incomplete GLY173, LYS174	Backbone modelling	Automated
+4YWI	C126M	A	Backbone incomplete GLY173, LYS174	Backbone modelling	Automated
+4YWI	T75V	A	Backbone incomplete GLY173, LYS174	Backbone modelling	Automated
+4YWI	T75S	A	Backbone incomplete GLY173, LYS174	Backbone modelling	Automated
+1OH0	Y257F	A	Chain ID wrong	Chain ID must be B	Automated
+1OH0	Y232F	A	Chain ID wrong	Chain ID must be B	Automated
+1OH0	Y232F/Y257F	A	Chain ID wrong	Chain ID must be B	Automated
+1OH0	Y216F	A	Chain ID wrong	Chain ID must be B	Automated
+5X8F	R382A	A	Backbone incomplete LEU2	Backbone modelling	Automated
+5X8F	T152A	A	Backbone incomplete LEU2	Backbone modelling	Automated
+5X8F	R382K	A	Backbone incomplete LEU2	Backbone modelling	Automated
+3D3W	C138A	A	Residue is non-canonical	Drop	Automated
+1XRH	M253A	A	Residue is non-canonical	Drop	Automated
+3QVP	T52V/I116V/A184T/R559K/M578V	B	Chain ID of heteroatom mapped	Chain ID must be A	Automated
+3QVP	T52V/I116V/A184T	B	Chain ID of heteroatom mapped	Chain ID must be A	Automated
+3QVP	T52V/R59K/I116V/V128I/A184T/M578V	B	Chain ID of heteroatom mapped	Chain ID must be A	Automated
+1GPE	W430A	C	Chain ID of heteroatom mapped	Chain ID must be A	Automated
+1GPE	K424I	C	Chain ID of heteroatom mapped	Chain ID must be A	Automated
+1MXT	G384N	A	Wrong mutation	G342N	Automated
+1MXT	N522L	A	Wrong mutation	N480L	Automated
+1MXT	N522D	A	Wrong mutation	N480D	Automated
+1MXT	F396W	A	Wrong mutation	F354W	Automated
+4QI5	N721S	A	Wrong mutation	N478S	Automated
+4QI5	M330K	A	Wrong mutation	M87K	Automated
+4QI5	M330K/L345C	A	Wrong mutation	M87K/L102C	Automated
+4QI5	M330K/M430S	A	Wrong mutation	M87K/M187S	Automated
+4QI5	M430S	A	Wrong mutation	M187S	Automated
+4QI5	L345C/M430S	A	Wrong mutation	L102C/M187S	Automated
+4QI5	M330V	A	Wrong mutation	M87V	Automated
+4QI5	L345C	A	Wrong mutation	L102C	Automated
+1D7B	F184Y	A	Wrong mutation	F166Y	Automated
+1KDG	M756S	A	Wrong mutation	M529S	Automated
+4H7U	N277Q	A	Wrong mutation	N252Q	Automated
+4H7U	H128Y	A	Wrong mutation	H103Y	Automated
+4H7U	N100G/N200Q	A	Wrong mutation	N75G/N175Q	Automated
+4H7U	N200Q/N277Q	A	Wrong mutation	N175Q/N252Q	Automated
+4H7U	N100G/N277Q	A	Wrong mutation	N75G/N252Q	Automated
+4H7U	N100G	A	Wrong mutation	N75G	Automated
+4H7U	N100Q	A	Wrong mutation	N75Q	Automated
+4H7U	N200Q	A	Wrong mutation	N175Q	Automated
+4H7U	N100G/N200Q/N277Q	A	Wrong mutation	N75G/N175Q/N252Q	Automated
+7RMU	H312C	A	Residue is non-canonical	Drop	Automated
+5AG0	W438S	A	Wrong mutation	W375S	Automated
+4QWT	A993H	C	Wrong mutation	T626H	Automated
+3NT1	L517P	A	Wrong mutation	L500P	Automated
+3NT1	L517A	A	Wrong mutation	L500A	Automated
+1NQO	D189G	O	Residue missing	Drop	Automated
+2G5C	R250Q	A	Wrong mutation	R221Q	Automated
+1IVH	R414L	A	Wrong mutation	R382L	Automated
+3WEU	Y211F	A	Chain ID wrong	Chain ID must be B	Automated
+2C10	M211V	E	Chain ID of heteroatom mapped	Chain ID must be A	Automated
+2C10	Y394N	E	Chain ID of heteroatom mapped	Chain ID must be A	Automated
+2C10	T212A	E	Chain ID of heteroatom mapped	Chain ID must be A	Automated
+2W3W	V76A	A	Backbone incomplete ASP167	Backbone modelling	Automated
+1J3K	K27E	C	Chain ID wrong	Chain ID must be A	Automated
+1J3K	Y35Q/F37R	C	Chain ID wrong	Chain ID must be A	Automated
+1J3K	Y35L/F37R	C	Chain ID wrong	Chain ID must be A	Automated
+1KMV	F32P	A	Wrong mutation	F31P	Automated
+1J3K	Y35G/F37L	C	Chain ID wrong	Chain ID must be A	Automated
+1J3K	Y35L/F37T	C	Chain ID wrong	Chain ID must be A	Automated
+1B5Q	E198Q	A	Wrong mutation	E170Q	Automated
+1B5Q	Y326F	A	Wrong mutation	Y298F	Automated
+1B5Q	E90Q	A	Wrong mutation	E62Q	Automated
+1UMY	F74A	A	Backbone incomplete GLU399	Backbone modelling	Automated
+1UMY	D26A	A	Backbone incomplete GLU399	Backbone modelling	Automated
+1UMY	T73G	A	Backbone incomplete GLU399	Backbone modelling	Automated
+1UMY	C186A	A	Backbone incomplete GLU399	Backbone modelling	Automated
+1UMY	T184G	A	Backbone incomplete GLU399	Backbone modelling	Automated
+1UMY	E21A	A	Backbone incomplete GLU399	Backbone modelling	Automated
+1UMY	E21K	A	Backbone incomplete GLU399	Backbone modelling	Automated
+1UMY	C186S	A	Backbone incomplete GLU399	Backbone modelling	Automated
+1UMY	A119G	A	Backbone incomplete GLU399	Backbone modelling	Automated
+4BMK	G385F	A	Backbone incomplete GLY420	Backbone modelling	Automated
+4BMK	V246M	A	Backbone incomplete GLY420	Backbone modelling	Automated
+5O6H	K221E/K252E	A	Backbone incomplete GLU379	Backbone modelling	Automated
+4JAG	G1181E	A	Chain ID wrong	Chain ID must be B	Automated
+4JAG	T1204R	A	Chain ID wrong	Chain ID must be B	Automated
+4IRP	E227D	A	Backbone incomplete HIS127	Backbone modelling	Automated
+4IRP	H195Q	A	Backbone incomplete HIS127	Backbone modelling	Automated
+4IRP	W224H	A	Backbone incomplete HIS127	Backbone modelling	Automated
+4IRP	F221Y	A	Backbone incomplete HIS127	Backbone modelling	Automated
+4IRP	G223A	A	Backbone incomplete HIS127	Backbone modelling	Automated
+4IRP	R226A	A	Backbone incomplete HIS127	Backbone modelling	Automated
+4IRP	R226K	A	Backbone incomplete HIS127	Backbone modelling	Automated
+4IRP	Y196F	A	Backbone incomplete HIS127	Backbone modelling	Automated
+4IRP	H195A	A	Backbone incomplete HIS127	Backbone modelling	Automated
+4IRP	F221A	A	Backbone incomplete HIS127	Backbone modelling	Automated
+4IRP	L206A	A	Backbone incomplete HIS127	Backbone modelling	Automated
+4IRP	W222F	A	Backbone incomplete HIS127	Backbone modelling	Automated
+4IRP	W222A	A	Backbone incomplete HIS127	Backbone modelling	Automated
+4IRP	H195R	A	Backbone incomplete HIS127	Backbone modelling	Automated
+2BO4	K76A	A	Backbone incomplete ASN382	Backbone modelling	Automated
+2BO4	K9A	A	Backbone incomplete ASN382	Backbone modelling	Automated
+2BO4	W189A	A	Backbone incomplete ASN382	Backbone modelling	Automated
+2BO4	E166A	A	Backbone incomplete ASN382	Backbone modelling	Automated
+2BO4	Q66A	A	Backbone incomplete ASN382	Backbone modelling	Automated
+2BO4	Y37A	A	Backbone incomplete ASN382	Backbone modelling	Automated
+2BO4	Y220A	A	Backbone incomplete ASN382	Backbone modelling	Automated
+2BO4	Y220F	A	Backbone incomplete ASN382	Backbone modelling	Automated
+2BO4	R73A	A	Backbone incomplete ASN382	Backbone modelling	Automated
+2BO4	R73G	A	Backbone incomplete ASN382	Backbone modelling	Automated
+4PR3	M144A	A	Residue is non-canonical	Drop	Automated
+2IY7	M144D	A	Residue is non-canonical	Drop	Automated
+2IY7	M144H	A	Residue is non-canonical	Drop	Automated
+6D5X	R76G	A	Wrong mutation	R22G	Automated
+3SGV	W75A	B	Chain ID wrong	Chain ID must be A	Automated
+5ZE6	K225L	A	Chain ID wrong	Chain ID must be B	Automated
+2QB2	A305D	A	Backbone incomplete ASP23	Backbone modelling	Automated
+1H0C	F152A	A	Backbone incomplete LYS391	Backbone modelling	Automated
+1H0C	F238S	A	Backbone incomplete LYS391	Backbone modelling	Automated
+1H0C	P11R	A	Backbone incomplete LYS391	Backbone modelling	Automated
+1H0C	F240S	A	Backbone incomplete LYS391	Backbone modelling	Automated
+2AXN	S461D	A	Wrong mutation	S460D	Automated
+2AXN	H254A/S461D	A	Wrong mutation	H253A/S460D	Automated
+1BX4	K358A	A	Wrong mutation	K341A	Automated
+1BX4	Q91A/F355A	A	Wrong mutation	Q74A/F338A	Automated
+1BX4	F355A	A	Wrong mutation	F338A	Automated
+3DQW	H384Y/Y416F	A	Wrong mutation	H137Y/Y169F	Automated
+3DQW	H384Q/Y416F	A	Wrong mutation	H137Q/Y169F	Automated
+3C4W	T8A	A	Residue missing	Drop	Automated
+3C4W	T8E	A	Residue missing	Drop	Automated
+4XPC	F814H	A	Wrong mutation	F136H	Automated
+4XPC	Q743A	A	Wrong mutation	Q65A	Automated
+3C6B	C60S	A	Residue is non-canonical	Drop	Automated
+3C6B	C60A	A	Residue is non-canonical	Drop	Automated
+5TIF	H183A	A	Wrong mutation	H160A	Automated
+6G60	A54S	A	Residue is non-canonical	Drop	Automated
+1HT6	H419A	A	Wrong mutation	H395A	Automated
+1HT6	Y404A/H419A	A	Wrong mutation	Y380A/H395A	Automated
+1J11	S265A/Y279A/W479F/W525F	A	Wrong mutation	S235A/Y249A/W449F/W495F	Automated
+1J11	W479F/W525F	A	Wrong mutation	W449F/W495F	Automated
+1H49	P431A	A	Wrong mutation	P377A	Automated
+1H49	M317F	A	Wrong mutation	M263F	Automated
+1H49	Y527F	A	Wrong mutation	Y473F	Automated
+1H49	D315N	A	Wrong mutation	D261N	Automated
+1H49	F520S	A	Wrong mutation	F466S	Automated
+1H49	F259L	A	Wrong mutation	F205L	Automated
+1H49	F520S/A521S	A	Wrong mutation	F466S/A467S	Automated
+2W91	N335Q	A	Backbone incomplete THR808	Backbone modelling	Automated
+2W91	N335A	A	Backbone incomplete THR808	Backbone modelling	Automated
+1RTQ	S334A	A	Wrong mutation	S228A	Automated
+4F8Z	D351G	A	Wrong mutation	D253G	Automated
+6M3B	K275A	A	Wrong mutation	K64A	Automated
+6M3B	R272A	A	Wrong mutation	R61A	Automated
+6M3B	R271A	A	Wrong mutation	R60A	Automated
+3DNZ	N348A	A	Wrong mutation	N116A	Automated
+3DNZ	N348T	A	Wrong mutation	N116T	Automated
+3DNZ	N348Q	A	Wrong mutation	N116Q	Automated
+3DNZ	N348D	A	Wrong mutation	N116D	Automated
+1OR0	Q248N/K396A	B	Wrong mutation	Q50N/K198A	Automated
+1OR0	Q248N	B	Wrong mutation	Q50N	Automated
+1OR0	K396A	B	Wrong mutation	K198A	Automated
+1OR0	R319A	B	Wrong mutation	R121A	Automated
+1OR0	D484A	B	Wrong mutation	D286A	Automated
+2QDS	H97A	A	Wrong mutation	H70A	Automated
+2QDS	N192G	A	Wrong mutation	N165G	Automated
+2QDS	N95H/N192G	A	Wrong mutation	N68H/N165G	Automated
+2QDS	T135A	A	Wrong mutation	T108A	Automated
+2QDS	D99T	A	Wrong mutation	D72T	Automated
+2QDS	H231A	A	Wrong mutation	H204A	Automated
+2QDS	K198Q	A	Wrong mutation	K171Q	Automated
+2QDS	N95H/N192G/K196Q	A	Wrong mutation	N68H/N165G/K169Q	Automated
+2QDS	V48A	A	Wrong mutation	V21A	Automated
+2QDS	K196Q	A	Wrong mutation	K169Q	Automated
+2QDS	H174A	A	Wrong mutation	H147A	Automated
+2QDS	D99A	A	Wrong mutation	D72A	Automated
+2QDS	V48D	A	Wrong mutation	V21D	Automated
+2QDS	V48I	A	Wrong mutation	V21I	Automated
+1P6O	A223L/V308I/I340L	A	Chain ID wrong	Chain ID must be B	Automated
+5Y5Q	V160D	A	Wrong mutation	V163D	Automated
+5Y5Q	E158W	A	Wrong mutation	R161W	Automated
+5Y5Q	R161K	A	Wrong mutation	R164K	Automated
+5Y5Q	E158A	A	Wrong mutation	R161A	Automated
+5Y5Q	E158E	A	Wrong mutation	R161E	Automated
+6EEI	F338Y	A	Residue missing	Drop	Automated
+2JI6	S553A	A	Wrong mutation	S553A	Automated
+5Y02	N131Q	A	Wrong mutation	N106Q	Automated
+2VSS	Y239F	B	Backbone incomplete GLU251	Backbone modelling	Automated
+2VSS	S123A	B	Backbone incomplete GLU251	Backbone modelling	Automated
+5LKY	K165C	A	Wrong mutation	K172C	Automated
+1BXK	E598Q	A	Chain ID wrong	Chain ID must be B	Automated
+1BXK	Y701F	A	Chain ID wrong	Chain ID must be B	Automated
+3CZO	Q292C/S565S	A	Chain ID wrong	Chain ID must be B	Automated
+7JZG	K161A	A	Residue is non-canonical	Drop	Automated
+7JZG	K161R	A	Residue is non-canonical	Drop	Automated
+3MKJ	C115A	A	Residue is non-canonical	Drop	Automated
+3MKJ	C115H	A	Residue is non-canonical	Drop	Automated
+3ACZ	R1555A	A	Chain ID wrong	Chain ID must be D	Automated
+6ETK	D147K	A	Wrong mutation	D121K	Automated
+6ETK	K33H/R36H/H38K/H145Q	A	Wrong mutation	K7H/R10H/H12K/H119Q	Automated
+6ETK	D147E	A	Wrong mutation	D121E	Automated
+6ETK	D147A	A	Wrong mutation	D121A	Automated
+6SIR	E132K/C201D	A	Wrong mutation	E58K/C127D	Automated
+3HCN	I686T	A	Chain ID wrong	Chain ID must be B	Automated
+3HCN	K879N	A	Chain ID wrong	Chain ID must be B	Automated
+3HCN	H888A	A	Chain ID wrong	Chain ID must be B	Automated
+3HCN	F760L	A	Chain ID wrong	Chain ID must be B	Automated
+3HCN	P834L	A	Chain ID wrong	Chain ID must be B	Automated
+3HCN	C736Y	A	Chain ID wrong	Chain ID must be B	Automated
+3HCN	Q639L	A	Chain ID wrong	Chain ID must be B	Automated
+4LUS	K39A	A	Residue missing	Drop	Automated
+4LUS	K271T	A	Residue missing	Drop	Automated
+2JGQ	D213Q	A	Backbone incomplete LYS167	Backbone modelling	Automated
+2JGQ	K183A	A	Backbone incomplete LYS167	Backbone modelling	Automated
+2JGQ	K183S	A	Backbone incomplete LYS167	Backbone modelling	Automated
+2JGQ	D213A	A	Backbone incomplete LYS167	Backbone modelling	Automated
+4YWI	C13D	A	Backbone incomplete GLY173, LYS174	Backbone modelling	Automated
+4YWI	Y74G	A	Backbone incomplete GLY173, LYS174	Backbone modelling	Automated
+2VKL	G101A	A	Wrong mutation	G86A	Automated
+3UKH	N207A	A	Chain ID wrong	Chain ID must be B	Automated
+5X8F	T155A/T156A	A	Backbone incomplete LEU2	Backbone modelling	Automated
+5X8F	T155A	A	Backbone incomplete LEU2	Backbone modelling	Automated
+5X8F	T156A	A	Backbone incomplete LEU2	Backbone modelling	Automated
+5X8F	G154P	A	Backbone incomplete LEU2	Backbone modelling	Automated
+5X8F	G157P	A	Backbone incomplete LEU2	Backbone modelling	Automated
+1JBW	K185A	A	Residue is non-canonical	Drop	Automated
