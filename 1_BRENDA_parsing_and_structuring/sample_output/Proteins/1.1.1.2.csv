@@ -1,0 +1,53 @@
+Protein_ID	Accession	Source	Comments
+1	-----	-----	[{'comment': '#1# SULT1A2 <16,17,21,22,26,33>; #1# member of class II of dicotyledonous CPR <21>'}, {'comment': '#1# SULT1A2 <16,17,21,22,26,33>; #1# member of class II of dicotyledonous CPR <21>'}]
+2	-----	-----	[{'comment': '#2# isoform NrdE <9,16>'}, {'comment': '#2# isoform NrdE <9,16>'}]
+3	-----	-----	[{'comment': '#3# ERp27 <75>'}, {'comment': '#3# ERp27 <75>'}]
+5	-----	-----	[{'comment': '#5# isozyme GSTM3-3 <11,14,16,20,21,33>; #5# isozyme LPOA <21>'}, {'comment': '#5# isozyme GSTM3-3 <11,14,16,20,21,33>; #5# isozyme LPOA <21>'}]
+7	-----	-----	[{'comment': '#7# gene ACL5-1 <1,2,7,9,12,14,15,16,20,21,23,25,26,33,36,38,51,52,55,57>'}, {'comment': '#7# gene ACL5-1 <1,2,7,9,12,14,15,16,20,21,23,25,26,33,36,38,51,52,55,57>'}]
+8	-----	-----	[{'comment': '#8# succinate dehydrogenase cytochrome B small subunit <3,4,5,9,11,12,13,14,15,16,20,21,22,28,30,33,41,50,51>; #8# isoform NirS <21>; #8# isoform PAO5 <13,14>'}, {'comment': '#8# succinate dehydrogenase cytochrome B small subunit <3,4,5,9,11,12,13,14,15,16,20,21,22,28,30,33,41,50,51>; #8# isoform NirS <21>; #8# isoform PAO5 <13,14>'}]
+9	-----	-----	[{'comment': '#9# fragment NCED52 <4,5,6,7,9,10,11,12,13,15,16,17,18,19,20,21,24,27,33>'}, {'comment': '#9# fragment NCED52 <4,5,6,7,9,10,11,12,13,15,16,17,18,19,20,21,24,27,33>'}]
+10	-----	-----	[{'comment': '#10# DegP <8,9,16,18,29,34,35,38,39,40,44>; #10# isoform Riox2 <40>'}, {'comment': '#10# DegP <8,9,16,18,29,34,35,38,39,40,44>; #10# isoform Riox2 <40>'}]
+11	-----	-----	[{'comment': '#11# of teleomorph Pichia guilliermondii NRRL Y-2075, identical sequence of domains D1 and D2 <5,14,17,18,23,28,54>; #11# fragment CYP153A11 <3,4,20,22,33,56>'}, {'comment': '#11# of teleomorph Pichia guilliermondii NRRL Y-2075, identical sequence of domains D1 and D2 <5,14,17,18,23,28,54>; #11# fragment CYP153A11 <3,4,20,22,33,56>'}]
+12	-----	-----	[{'comment': '#12# fragment of dihydropteroate synthase <3,4,6,15,16,21,33>; #12# isoform PCO1 <21>'}, {'comment': '#12# fragment of dihydropteroate synthase <3,4,6,15,16,21,33>; #12# isoform PCO1 <21>'}]
+17	-----	-----	[{'comment': '#17# adh, fragment <11,20,21,28,33>; #17# MTHFD1 <11,20,21,28,33>'}, {'comment': '#17# adh, fragment <11,20,21,28,33>; #17# MTHFD1 <11,20,21,28,33>'}]
+25	-----	-----	[{'comment': '#25# P4H alpha 1 subunit <46>'}, {'comment': '#25# P4H alpha 1 subunit <46>'}]
+27	-----	-----	[{'comment': '#27# O52378 i.e. reductase component NagAa, O52381 i.e. ferredoxin component NagAb, O52379 i.e. large oxygenase component NagH, O52380 i.e. small oxygenase component NagH <21>'}, {'comment': '#27# O52378 i.e. reductase component NagAa, O52381 i.e. ferredoxin component NagAb, O52379 i.e. large oxygenase component NagH, O52380 i.e. small oxygenase component NagH <21>'}]
+34	-----	-----	[{'comment': '#34# isoform Riox1, cf. EC 1.14.11.27 <47>'}, {'comment': '#34# isoform Riox1, cf. EC 1.14.11.27 <47>'}]
+35	-----	-----	[{'comment': '#35# P07001 i.e. subunit PntA, P0AB67 i.e. subunit PntB <31>'}, {'comment': '#35# P07001 i.e. subunit PntA, P0AB67 i.e. subunit PntB <31>'}]
+36	-----	-----	[{'comment': '#36# fragment CYP153A8 <42>'}, {'comment': '#36# fragment CYP153A8 <42>'}]
+44	-----	-----	[{'comment': '#44# O87681 i.e. subunit KdhA/KdhM, O87682 i.e. subunit KdhB/KdhS, Q933N0 i.e. sunbunit KdhC/KdhL <34>'}, {'comment': '#44# O87681 i.e. subunit KdhA/KdhM, O87682 i.e. subunit KdhB/KdhS, Q933N0 i.e. sunbunit KdhC/KdhL <34>'}]
+49	-----	-----	[{'comment': '#49# O86717 i.e. catalytic subunit NarG, O86716 i.e. beta chain NarH, O86714 i.e. gamma chain NarI, O86715 i.e. delta chain NarJ <34>'}, {'comment': '#49# O86717 i.e. catalytic subunit NarG, O86716 i.e. beta chain NarH, O86714 i.e. gamma chain NarI, O86715 i.e. delta chain NarJ <34>'}]
+50	-----	-----	[{'comment': '#50# P09140 i.e. alpha subunit LuxA, P09141 i.e. beta subunit LuxB <34>'}, {'comment': '#50# P09140 i.e. alpha subunit LuxA, P09141 i.e. beta subunit LuxB <34>'}]
+53	-----	-----	[{'comment': '#53# NYC1 <91>'}, {'comment': '#53# NYC1 <91>'}]
+56	-----	-----	[{'comment': '#56# Q75ZQ5: subunit alpha, Q75ZQ6: subunit beta, Q75ZQ4: subunit gamma <7,9,10>'}, {'comment': '#56# Q75ZQ5: subunit alpha, Q75ZQ6: subunit beta, Q75ZQ4: subunit gamma <7,9,10>'}]
+57	-----	-----	[{'comment': '#57# P13674: prolyl 4-hydroxylase subunit alpha-1 (P4HA1) <35>'}, {'comment': '#57# P13674: prolyl 4-hydroxylase subunit alpha-1 (P4HA1) <35>'}]
+59	-----	-----	[{'comment': '#59# O52379 i.e. large oxygenase component NagG, O52380 i.e. small oxygenase component NagH <29>; #59# O67333 i.e. subunit NuoA2, O67334 i.e. subunit NuoB, O67335 i.e. subunit NuoD2, O66841 i.e. subunit NuoF, O66748 i.e. subunit NuoG, O67336 i.e. subunit NuoH1, O67338 i.e. subunit NuoJ1, O67339 i.e. subunit NuoK1, O67340 i.e. subunit NuoL1, O67341 i.e. subunit NuoM1, O67342 i.e subunit NuoN1 <34>; #59# O67392 i.e. subunit NuoA1, O67334 i.e. subunit NuoB, O66826 i.e. subunit NouD1, O66842 i.e. subunit NuoE, O66841 i.e. subunit NuoF, O66748 i.e. subunit NuoG, O67384 i.e. subunit NuoH2, O67386 i.e. subunit NuoI2, O67338 i.e. subunit NuoJ1, O67339 i.e. subunit NuoK1, O67027 i.e. subunit NuoL2, O67390 i.e. subunit NuoM2, O67391 i.e. subunit NuoN2 <34>'}, {'comment': '#59# O52379 i.e. large oxygenase component NagG, O52380 i.e. small oxygenase component NagH <29>; #59# O67333 i.e. subunit NuoA2, O67334 i.e. subunit NuoB, O67335 i.e. subunit NuoD2, O66841 i.e. subunit NuoF, O66748 i.e. subunit NuoG, O67336 i.e. subunit NuoH1, O67338 i.e. subunit NuoJ1, O67339 i.e. subunit NuoK1, O67340 i.e. subunit NuoL1, O67341 i.e. subunit NuoM1, O67342 i.e subunit NuoN1 <34>; #59# O67392 i.e. subunit NuoA1, O67334 i.e. subunit NuoB, O66826 i.e. subunit NouD1, O66842 i.e. subunit NuoE, O66841 i.e. subunit NuoF, O66748 i.e. subunit NuoG, O67384 i.e. subunit NuoH2, O67386 i.e. subunit NuoI2, O67338 i.e. subunit NuoJ1, O67339 i.e. subunit NuoK1, O67027 i.e. subunit NuoL2, O67390 i.e. subunit NuoM2, O67391 i.e. subunit NuoN2 <34>'}]
+61	-----	-----	[{'comment': '#61# AdhA fragment <9,20,21,23>'}, {'comment': '#61# AdhA fragment <9,20,21,23>'}]
+62	-----	-----	[{'comment': '#62# oxygenase subunit CntA <38>'}, {'comment': '#62# oxygenase subunit CntA <38>'}]
+64	-----	-----	[{'comment': '#64# O52378 i.e. reductase component NagAa, O52381 i.e. ferredoxin component NagAb cf. EC 1.18.1.7, O52379 i.e. large oxygenase component NagH, O52380 i.e. small oxygenase component NagH <21>'}, {'comment': '#64# O52378 i.e. reductase component NagAa, O52381 i.e. ferredoxin component NagAb cf. EC 1.18.1.7, O52379 i.e. large oxygenase component NagH, O52380 i.e. small oxygenase component NagH <21>'}]
+65	-----	-----	[{'comment': '#65# isoform RBOHQ, member of group six of orthologues based on phylogenetic analysis with their Arabidopsis counterparts <7,11,38>'}, {'comment': '#65# isoform RBOHQ, member of group six of orthologues based on phylogenetic analysis with their Arabidopsis counterparts <7,11,38>'}]
+71	-----	-----	[{'comment': '#71# isozyme PLDA <43>'}, {'comment': '#71# isozyme PLDA <43>'}]
+76	-----	-----	[{'comment': '#76# gene R4CL, putative 4-coumarate coenzyme A ligase, i.e. Os02g0177600 protein <64>'}, {'comment': '#76# gene R4CL, putative 4-coumarate coenzyme A ligase, i.e. Os02g0177600 protein <64>'}]
+77	P49384	uniprot	-----
+78	Q9JII6	uniprot	-----
+82	C1IWT4	uniprot	-----
+83	A4ISB9	uniprot	-----
+84	P50578	uniprot	-----
+85	P14941	uniprot	-----
+86	P35630	uniprot	-----
+87	P14550	uniprot	-----
+88	P07943	uniprot	-----
+89	C6A190	uniprot	-----
+90	O73949	uniprot	-----
+91	Q8ZUP0	uniprot	-----
+92	B0K3U7	uniprot	-----
+93	B0KB53	uniprot	-----
+96	A1R6C3	uniprot	-----
+97	P51635	uniprot	-----
+98	U6CL97	uniprot	-----
+99	F8S123	uniprot	-----
+100	A3GHR6	uniprot	-----
+101	A3GHL4	uniprot	-----
+102	Q46856	uniprot	-----
+103	A0A125SUY5	uniprot	-----
+104	A0A0Q2QQL1	uniprot	-----

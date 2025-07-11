@@ -1,0 +1,5 @@
+Protein_ID	Accession	Source	Comments
+3	-----	-----	[{'comment': '#3# Q96HY7 i.e. E1 component of the 2-oxoadipate dehydrogenase complex, Q02218 i.e. E1 component of the 2-oxoglutarate dehydrogenase complex, cf. EC 1.2.4.2 <3>; #3# SdhA, SdhB, SdhC, and SdhD proteins forming one subunit of the heterotrimeric enzyme <7>'}, {'comment': '#3# Q96HY7 i.e. E1 component of the 2-oxoadipate dehydrogenase complex, Q02218 i.e. E1 component of the 2-oxoglutarate dehydrogenase complex, cf. EC 1.2.4.2 <3>; #3# SdhA, SdhB, SdhC, and SdhD proteins forming one subunit of the heterotrimeric enzyme <7>'}]
+4	-----	-----	[{'comment': '#4# subunit 1/MoxF/XoxF, subunit 2/moxI/XoxJ, and cytochrome cL/moxG/XoxG <1>'}, {'comment': '#4# subunit 1/MoxF/XoxF, subunit 2/moxI/XoxJ, and cytochrome cL/moxG/XoxG <1>'}]
+8	Q308C1	uniprot	-----
+9	A0A2K9VPX3	uniprot	-----

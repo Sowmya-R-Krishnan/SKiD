@@ -1,0 +1,27 @@
+Protein_ID	Accession	Source	Comments
+5	-----	-----	[{'comment': '#5# alpha1 subunit <7>'}, {'comment': '#5# alpha1 subunit <7>'}]
+6	-----	-----	[{'comment': '#6# gene VPE3 <1>'}, {'comment': '#6# gene VPE3 <1>'}]
+7	-----	-----	[{'comment': '#7# isozyme 1T <14>; #7# isoform CysK <14>'}, {'comment': '#7# isozyme 1T <14>; #7# isoform CysK <14>'}]
+8	-----	-----	[{'comment': '#8# hoxH, beta-subunit <1,7,10>'}, {'comment': '#8# hoxH, beta-subunit <1,7,10>'}]
+9	-----	-----	[{'comment': '#9# ST6GalNAc VI <2,3,4,5>'}, {'comment': '#9# ST6GalNAc VI <2,3,4,5>'}]
+11	-----	-----	[{'comment': '#11# isoform CysK <22>'}, {'comment': '#11# isoform CysK <22>'}]
+13	-----	-----	[{'comment': '#13# tag single polymorphism at location 47,560,484, genomic T/G exchange <7>'}, {'comment': '#13# tag single polymorphism at location 47,560,484, genomic T/G exchange <7>'}]
+18	Q56R01	uniprot	-----
+19	Q3S3F6	uniprot	-----
+20	O65027	uniprot	-----
+21	O63067	uniprot	-----
+22	D8WXQ1	uniprot	-----
+23	D8WXQ2	uniprot	-----
+24	P31116	uniprot	-----
+25	Q5AIA2	uniprot	-----
+26	O58802	uniprot	-----
+27	P08499	uniprot	-----
+28	A0A0H2WVX4	uniprot	-----
+29	P46806	uniprot	-----
+30	F9VNG5	uniprot	-----
+32	C1G1C3	uniprot	-----
+33	C1GTZ6	uniprot	-----
+34	P00561	uniprot	-----
+35	P19582	uniprot	-----
+36	Q9WZ17	uniprot	-----
+37	Q5SL04	uniprot	-----
