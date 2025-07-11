@@ -1,0 +1,559 @@
+Substrate	Protein_ID	Protein_details	Organism_ID	Organism_name	kcat_value	Conditions	References
+1-butanol	10	{'comment': '#10# isoform GtlS <51>; #10# isoform HAOX-1 <50>'}	10	Rattus norvegicus	0.833	#10# isoenzyme ADH-3, pH 10.0 <49>	49
+ethanol	10	{'comment': '#10# isoform GtlS <51>; #10# isoform HAOX-1 <50>'}	10	Rattus norvegicus	1.0	#10# isoenzyme ADH-3, pH 10.0 <49>	49
+benzyl alcohol	10	{'comment': '#10# isoform GtlS <51>; #10# isoform HAOX-1 <50>'}	10	Rattus norvegicus	1.0	#10# isoenzyme ADH-3, pH 10.0 <49>	49
+1-Octanol	10	{'comment': '#10# isoform GtlS <51>; #10# isoform HAOX-1 <50>'}	10	Rattus norvegicus	1.0	#10# isoenzyme ADH-3, pH 10.0 <49>	49
+Cyclohexanol	10	{'comment': '#10# isoform GtlS <51>; #10# isoform HAOX-1 <50>'}	10	Rattus norvegicus	1.5	#10# isoenzyme ADH-3, pH 10.0 <49>	49
+1-Pentanol	10	{'comment': '#10# isoform GtlS <51>; #10# isoform HAOX-1 <50>'}	10	Rattus norvegicus	1.17	#10# isoenzyme ADH-3, pH 10.0 <49>	49
+12-hydroxydodecanoate	10	{'comment': '#10# isoform GtlS <51>; #10# isoform HAOX-1 <50>'}	10	Rattus norvegicus	20.0	#10# isoenzyme ADH-1, pH 10.0 <49>	49
+2-Buten-1-ol	10	{'comment': '#10# isoform GtlS <51>; #10# isoform HAOX-1 <50>'}	10	Rattus norvegicus	1.67	#10# isoenzyme ADH-3, pH 10.0 <49>	49
+12-hydroxydodecanoate	10	{'comment': '#10# isoform GtlS <51>; #10# isoform HAOX-1 <50>'}	10	Rattus norvegicus	3.83	#10# isoenzyme ADH-12, pH 10.0 <49>	49
+12-hydroxydodecanoate	10	{'comment': '#10# isoform GtlS <51>; #10# isoform HAOX-1 <50>'}	10	Rattus norvegicus	1.27	#10# isoenzyme ADH-3, pH 10.0 <49>	49
+2-Buten-1-ol	10	{'comment': '#10# isoform GtlS <51>; #10# isoform HAOX-1 <50>'}	10	Rattus norvegicus	5.83	#10# isoenzyme ADH-2, pH 10.0 <49>	49
+1-Octanol	10	{'comment': '#10# isoform GtlS <51>; #10# isoform HAOX-1 <50>'}	10	Rattus norvegicus	2.33	#10# isoenzyme ADH-2, pH 10.0 <49>	49
+Cyclohexanol	10	{'comment': '#10# isoform GtlS <51>; #10# isoform HAOX-1 <50>'}	10	Rattus norvegicus	0.383	#10# isoenzyme ADH-2, pH 10.0 <49>	49
+2-Buten-1-ol	10	{'comment': '#10# isoform GtlS <51>; #10# isoform HAOX-1 <50>'}	10	Rattus norvegicus	213.0	#10# isoenzyme ADH-1, pH 10.0 <49>	49
+1-Pentanol	10	{'comment': '#10# isoform GtlS <51>; #10# isoform HAOX-1 <50>'}	10	Rattus norvegicus	3.53	#10# isoenzyme ADH-2, pH 10.0 <49>	49
+1-butanol	10	{'comment': '#10# isoform GtlS <51>; #10# isoform HAOX-1 <50>'}	10	Rattus norvegicus	48.8	#10# isoenzyme ADH-1, pH 10.0 <49>	49
+1-Pentanol	10	{'comment': '#10# isoform GtlS <51>; #10# isoform HAOX-1 <50>'}	10	Rattus norvegicus	48.8	#10# isoenzyme ADH-1, pH 10.0 <49>	49
+1-Octanol	10	{'comment': '#10# isoform GtlS <51>; #10# isoform HAOX-1 <50>'}	10	Rattus norvegicus	60.8	#10# isoenzyme ADH-1, pH 10.0 <49>	49
+ethanol	10	{'comment': '#10# isoform GtlS <51>; #10# isoform HAOX-1 <50>'}	10	Rattus norvegicus	62.7	#10# isoenzyme ADH-1, pH 10.0 <49>	49
+benzyl alcohol	10	{'comment': '#10# isoform GtlS <51>; #10# isoform HAOX-1 <50>'}	10	Rattus norvegicus	89.7	#10# isoenzyme ADH-1, pH 10.0 <49>	49
+Cyclohexanol	10	{'comment': '#10# isoform GtlS <51>; #10# isoform HAOX-1 <50>'}	10	Rattus norvegicus	1.75	#38# isoenzyme BB-ADH <95>; #10# isoenzyme ADH-1, pH 10.0 <49>	49,95
+ethanol	103	{'accessions': ['Q6L0S1'], 'source': 'uniprot'}	103	Picrophilus torridus	0.00086	-----	173
+NAD+	109	{'accessions': ['P39462'], 'source': 'uniprot'}	109	Saccharolobus solfataricus	0.52	#109# mutant enzyme W95L, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C <207>	207
+(R)-2-pentanol	109	{'accessions': ['P39462'], 'source': 'uniprot'}	109	Saccharolobus solfataricus	1.1	#109# wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C <207>	207
+(R)-2-butanol	109	{'accessions': ['P39462'], 'source': 'uniprot'}	109	Saccharolobus solfataricus	1.0	#109# wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C <207>	207
+3-Pentanol	109	{'accessions': ['P39462'], 'source': 'uniprot'}	109	Saccharolobus solfataricus	1.5	#109# wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C <207>	207
+(S)-2-pentanol	109	{'accessions': ['P39462'], 'source': 'uniprot'}	109	Saccharolobus solfataricus	2.6	#109# wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C <207>	207
+1-Heptanol	109	{'accessions': ['P39462'], 'source': 'uniprot'}	109	Saccharolobus solfataricus	1.6	#109# wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C <207>	207
+2-ethoxyethanol	109	{'accessions': ['P39462'], 'source': 'uniprot'}	109	Saccharolobus solfataricus	1.6	#109# wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C <207>	207
+1-Hexanol	109	{'accessions': ['P39462'], 'source': 'uniprot'}	109	Saccharolobus solfataricus	2.0	#109# wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C <207>	207
+trans-cinnamaldehyde	109	{'accessions': ['P39462'], 'source': 'uniprot'}	109	Saccharolobus solfataricus	2.1	#109# wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C <207>	207
+trans-cinnamaldehyde	109	{'accessions': ['P39462'], 'source': 'uniprot'}	109	Saccharolobus solfataricus	0.21	#109# mutant enzyme W95L,, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C <207>	207
+1-Pentanol	109	{'accessions': ['P39462'], 'source': 'uniprot'}	109	Saccharolobus solfataricus	0.53	#109# mutant enzyme W95L, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C <207>	207
+ethanol	109	{'accessions': ['P39462'], 'source': 'uniprot'}	109	Saccharolobus solfataricus	3.1	#109# wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C <207>	207
+1-butanol	109	{'accessions': ['P39462'], 'source': 'uniprot'}	109	Saccharolobus solfataricus	3.1	#109# wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C <207>	207
+(R)-2-butanol	109	{'accessions': ['P39462'], 'source': 'uniprot'}	109	Saccharolobus solfataricus	1.7	#109# mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C <207>	207
+4-methoxybenzyl alcohol	109	{'accessions': ['P39462'], 'source': 'uniprot'}	109	Saccharolobus solfataricus	2.9	#109# wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C <207>	207
+NAD+	109	{'accessions': ['P39462'], 'source': 'uniprot'}	109	Saccharolobus solfataricus	21.0	#109# Km above 50 mM, mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C <207>	207
+1-propanol	109	{'accessions': ['P39462'], 'source': 'uniprot'}	109	Saccharolobus solfataricus	2.5	#109# wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C <207>	207
+1-Pentanol	109	{'accessions': ['P39462'], 'source': 'uniprot'}	109	Saccharolobus solfataricus	2.5	#109# wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C <207>	207
+Isobutyraldehyde	109	{'accessions': ['P39462'], 'source': 'uniprot'}	109	Saccharolobus solfataricus	0.82	#109# mutant enzyme W95L, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C <207>	207
+1-Pentanol	109	{'accessions': ['P39462'], 'source': 'uniprot'}	109	Saccharolobus solfataricus	16.3	#109# mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C <207>	207
+benzyl alcohol	109	{'accessions': ['P39462'], 'source': 'uniprot'}	109	Saccharolobus solfataricus	20.0	#109# mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C <207>	207
+(S)-2-butanol	109	{'accessions': ['P39462'], 'source': 'uniprot'}	109	Saccharolobus solfataricus	4.8	#109# mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C <207>	207
+(R)-2-pentanol	109	{'accessions': ['P39462'], 'source': 'uniprot'}	109	Saccharolobus solfataricus	1.9	#109# mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C <207>	207
+benzaldehyde	109	{'accessions': ['P39462'], 'source': 'uniprot'}	109	Saccharolobus solfataricus	13.1	#109# mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C <207>	207
+1-butanol	109	{'accessions': ['P39462'], 'source': 'uniprot'}	109	Saccharolobus solfataricus	15.1	#109# mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C <207>	207
+4-methoxybenzyl alcohol	109	{'accessions': ['P39462'], 'source': 'uniprot'}	109	Saccharolobus solfataricus	16.8	#109# mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C <207>	207
+Isobutyraldehyde	109	{'accessions': ['P39462'], 'source': 'uniprot'}	109	Saccharolobus solfataricus	18.1	#109# mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C <207>	207
+NADH	109	{'accessions': ['P39462'], 'source': 'uniprot'}	109	Saccharolobus solfataricus	0.38	#109# mutant enzyme W95L, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C <207>	207
+(S)-2-butanol	109	{'accessions': ['P39462'], 'source': 'uniprot'}	109	Saccharolobus solfataricus	1.2	#109# wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C <207>	207
+Isobutyraldehyde	109	{'accessions': ['P39462'], 'source': 'uniprot'}	109	Saccharolobus solfataricus	29.0	#109# wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C <207>	207
+4-methoxybenzyl alcohol	109	{'accessions': ['P39462'], 'source': 'uniprot'}	109	Saccharolobus solfataricus	0.37	#109# wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C <207>	207
+Cyclohexanol	109	{'accessions': ['P39462'], 'source': 'uniprot'}	109	Saccharolobus solfataricus	12.4	#109# mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C <207>	207
+benzyl alcohol	109	{'accessions': ['P39462'], 'source': 'uniprot'}	109	Saccharolobus solfataricus	0.35	#109# mutant enzyme W95L, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C <207>	207
+(S)-2-pentanol	109	{'accessions': ['P39462'], 'source': 'uniprot'}	109	Saccharolobus solfataricus	6.7	#109# mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C <207>	207
+1-Hexanol	109	{'accessions': ['P39462'], 'source': 'uniprot'}	109	Saccharolobus solfataricus	13.3	#109# mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C <207>	207
+benzaldehyde	109	{'accessions': ['P39462'], 'source': 'uniprot'}	109	Saccharolobus solfataricus	0.36	#109# mutant enzyme W95L, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C <207>	207
+Butyraldehyde	109	{'accessions': ['P39462'], 'source': 'uniprot'}	109	Saccharolobus solfataricus	0.36	#109# mutant enzyme W95L, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C <207>	207
+1-Hexanol	109	{'accessions': ['P39462'], 'source': 'uniprot'}	109	Saccharolobus solfataricus	0.42	#109# mutant enzyme W95L, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C <207>	207
+1-Heptanol	109	{'accessions': ['P39462'], 'source': 'uniprot'}	109	Saccharolobus solfataricus	11.9	#109# mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C <207>	207
+trans-cinnamaldehyde	109	{'accessions': ['P39462'], 'source': 'uniprot'}	109	Saccharolobus solfataricus	18.9	#109# mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C <207>	207
+ethanol	109	{'accessions': ['P39462'], 'source': 'uniprot'}	109	Saccharolobus solfataricus	4.1	#109# mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C <207>	207
+NADH	109	{'accessions': ['P39462'], 'source': 'uniprot'}	109	Saccharolobus solfataricus	34.8	#109# mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C <207>	207
+Butyraldehyde	109	{'accessions': ['P39462'], 'source': 'uniprot'}	109	Saccharolobus solfataricus	19.7	#109# mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C <207>; #109# wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C <207>	207
+1-propanol	109	{'accessions': ['P39462'], 'source': 'uniprot'}	109	Saccharolobus solfataricus	15.7	#109# mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C <207>	207
+1-Heptanol	109	{'accessions': ['P39462'], 'source': 'uniprot'}	109	Saccharolobus solfataricus	0.51	#109# mutant enzyme W95L, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C <207>	207
+propanal	11	{'comment': '#11# isoform GLO1 <91>; #11# isoform GLO3 <87>'}	11	Saccharomyces cerevisiae	0.73	#11# pH 7.0, 30°C <284>	284
+formaldehyde	11	{'comment': '#11# isoform GLO1 <91>; #11# isoform GLO3 <87>'}	11	Saccharomyces cerevisiae	1.28	#11# pH 7.0, 30°C <284>	284
+furfural	11	{'comment': '#11# isoform GLO1 <91>; #11# isoform GLO3 <87>'}	11	Saccharomyces cerevisiae	1.58	#11# pH 7.0, 30°C <284>	284
+Butanal	11	{'comment': '#11# isoform GLO1 <91>; #11# isoform GLO3 <87>'}	11	Saccharomyces cerevisiae	1.99	#11# pH 7.0, 30°C <284>	284
+ethanol	11	{'comment': '#11# isoform GLO1 <91>; #11# isoform GLO3 <87>'}	11	Saccharomyces cerevisiae	251.3	#11# 10°C, pH 9.0 <144>	144
+ethanol	11	{'comment': '#11# isoform GLO1 <91>; #11# isoform GLO3 <87>'}	11	Saccharomyces cerevisiae	432.3	#11# 20°C, pH 9.0 <144>	144
+ethanol	11	{'comment': '#11# isoform GLO1 <91>; #11# isoform GLO3 <87>'}	11	Saccharomyces cerevisiae	786.1	#11# 30°C, pH 9.0 <144>	144
+ethanol	11	{'comment': '#11# isoform GLO1 <91>; #11# isoform GLO3 <87>'}	11	Saccharomyces cerevisiae	895.4	#11# 40°C, pH 9.0 <144>	144
+glycolaldehyde	11	{'comment': '#11# isoform GLO1 <91>; #11# isoform GLO3 <87>'}	11	Saccharomyces cerevisiae	18.65	#11# pH 7.0, 30°C <284>	284
+NADP+	118	{'accessions': ['A4IP64'], 'source': 'uniprot'}	118	Geobacillus thermodenitrificans	43.9	#118# cosubstrate ethanol, pH 8, 60°C <308>	308
+ethanol	118	{'accessions': ['A4IP64'], 'source': 'uniprot'}	118	Geobacillus thermodenitrificans	638.7	#118# pH 8, 60°C <308>	308
+acetaldehyde	118	{'accessions': ['A4IP64'], 'source': 'uniprot'}	118	Geobacillus thermodenitrificans	404.8	#118# pH 8, 60°C <308>	308
+NAD+	118	{'accessions': ['A4IP64'], 'source': 'uniprot'}	118	Geobacillus thermodenitrificans	443.1	#118# cosubstrate ethanol, pH 8, 60°C <308>	308
+NADH	118	{'accessions': ['A4IP64'], 'source': 'uniprot'}	118	Geobacillus thermodenitrificans	1645.7	#118# cosubstrate acetaldehyde, pH 8, 60°C <308>	308
+ethanol	120	{'accessions': ['P00330'], 'source': 'uniprot'}	120	Saccharomyces cerevisiae	143.0	#120# in 50 mM Tris-HCl, pH 8.0 at 25°C <209>	209
+4-amino-1-butanol	121	{'accessions': ['P00327'], 'source': 'uniprot'}	121	Equus caballus	380.0	#121# pH 9.0, 25°C, recombinant enzyme <297>	297
+NAD+	122	{'accessions': ['P42328'], 'source': 'uniprot'}	122	Geobacillus stearothermophilus	8.0	#122# wild-type, 30°C, pH not specified in the publication <256>	256
+NAD+	122	{'accessions': ['P42328'], 'source': 'uniprot'}	122	Geobacillus stearothermophilus	3.0	#122# mutant W49F/W87F, 30°C, pH not specified in the publication <256>	256
+benzyl alcohol	122	{'accessions': ['P42328'], 'source': 'uniprot'}	122	Geobacillus stearothermophilus	5.5	#122# mutant W87A, pH 7.0, 30°C <259>	259
+NAD+	122	{'accessions': ['P42328'], 'source': 'uniprot'}	122	Geobacillus stearothermophilus	2.5	#122# mutant Y25A/W49F/W167Y, 30°C, pH not specified in the publication <256>; #122# mutant Y25A/W49F/W87F/V260A, 30°C, pH not specified in the publication <256>	256
+benzyl alcohol	122	{'accessions': ['P42328'], 'source': 'uniprot'}	122	Geobacillus stearothermophilus	24.9	#122# wild-type, pH 7.0, 30°C <259>	259
+benzyl alcohol	122	{'accessions': ['P42328'], 'source': 'uniprot'}	122	Geobacillus stearothermophilus	14.0	#122# mutant Y25A, pH 7.0, 30°C <259>	259
+NAD+	122	{'accessions': ['P42328'], 'source': 'uniprot'}	122	Geobacillus stearothermophilus	1.9	#122# mutant V260A, 30°C, pH not specified in the publication <256>; #122# mutant Y25A/W49F/W167Y/V260A, 30°C, pH not specified in the publication <256>	256
+1,3-Propanediol	122	{'accessions': ['P42328'], 'source': 'uniprot'}	122	Geobacillus stearothermophilus	0.041	#122# pH 7.5, 23°C <305>	305
+n-butanol	122	{'accessions': ['P42328'], 'source': 'uniprot'}	122	Geobacillus stearothermophilus	195.0	#122# wild-type, pH 8.0, 60°C <245>	245
+1-butanol	122	{'accessions': ['P42328'], 'source': 'uniprot'}	122	Geobacillus stearothermophilus	0.004	#122# pH 7.5, 23°C <305>	305
+NAD+	122	{'accessions': ['P42328'], 'source': 'uniprot'}	122	Geobacillus stearothermophilus	6.3	#122# mutant Y25A/W49F/W87F, 30°C, pH not specified in the publication <256>	256
+NAD+	122	{'accessions': ['P42328'], 'source': 'uniprot'}	122	Geobacillus stearothermophilus	5.1	#122# mutant Y25A, 30°C, pH not specified in the publication <256>	256
+ethanol	122	{'accessions': ['P42328'], 'source': 'uniprot'}	122	Geobacillus stearothermophilus	365.0	#122# mutant C257L, pH 8.0, 60°C <245>	245
+tert-butanol	122	{'accessions': ['P42328'], 'source': 'uniprot'}	122	Geobacillus stearothermophilus	0.026	#122# pH 7.5, 23°C <305>	305
+12-oxolauric acid methyl ester	122	{'accessions': ['P42328'], 'source': 'uniprot'}	122	Geobacillus stearothermophilus	308.0	#122# wild-type, pH 8.0, 60°C <245>	245
+methanol	122	{'accessions': ['P42328'], 'source': 'uniprot'}	122	Geobacillus stearothermophilus	0.013	#122# pH 7.5, 23°C <305>	305
+ethanol	122	{'accessions': ['P42328'], 'source': 'uniprot'}	122	Geobacillus stearothermophilus	305.0	#122# wild-type, pH 8.0, 60°C <245>	245
+12-hydroxylauric acid methyl ester	122	{'accessions': ['P42328'], 'source': 'uniprot'}	122	Geobacillus stearothermophilus	27.6	#122# wild-type, pH 8.0, 60°C <245>	245
+2-butanol	122	{'accessions': ['P42328'], 'source': 'uniprot'}	122	Geobacillus stearothermophilus	0.094	#122# pH 7.5, 23°C <305>	305
+iso-propanol	122	{'accessions': ['P42328'], 'source': 'uniprot'}	122	Geobacillus stearothermophilus	0.076	#122# pH 7.5, 23°C <305>	305
+ethanol	122	{'accessions': ['P42328'], 'source': 'uniprot'}	122	Geobacillus stearothermophilus	0.019	#122# pH 7.5, 23°C <305>	305
+1-propanol	122	{'accessions': ['P42328'], 'source': 'uniprot'}	122	Geobacillus stearothermophilus	0.019	#122# pH 7.5, 23°C <305>	305
+NAD+	122	{'accessions': ['P42328'], 'source': 'uniprot'}	122	Geobacillus stearothermophilus	34.2	#122# wild-type, pH 8.0, 60°C <245>	245
+12-hydroxylauric acid methyl ester	122	{'accessions': ['P42328'], 'source': 'uniprot'}	122	Geobacillus stearothermophilus	34.3	#122# mutant C257L, pH 8.0, 60°C <245>	245
+Butyraldehyde	122	{'accessions': ['P42328'], 'source': 'uniprot'}	122	Geobacillus stearothermophilus	931.0	#122# wild-type, pH 8.0, 60°C <245>	245
+acetaldehyde	122	{'accessions': ['P42328'], 'source': 'uniprot'}	122	Geobacillus stearothermophilus	681.0	#122# wild-type, pH 8.0, 60°C <245>	245
+NADH	122	{'accessions': ['P42328'], 'source': 'uniprot'}	122	Geobacillus stearothermophilus	326.0	#122# wild-type, pH 8.0, 60°C <245>	245
+3-methylcyclohexanone	126	{'accessions': ['Q4J702'], 'source': 'uniprot'}	126	Sulfolobus acidocaldarius	3.8	#126# 65°C, pH 5.5 <218>	218
+1-phenyl-1,2-propanedione	126	{'accessions': ['Q4J702'], 'source': 'uniprot'}	126	Sulfolobus acidocaldarius	3.1	#126# 65°C, pH 5.5 <218>	218
+2,2,2-trifluoroacetophenone	126	{'accessions': ['Q4J702'], 'source': 'uniprot'}	126	Sulfolobus acidocaldarius	10.0	#126# 65°C, pH 5.5 <218>	218
+cis-decahydro-1-naphthol	126	{'accessions': ['Q4J702'], 'source': 'uniprot'}	126	Sulfolobus acidocaldarius	0.98	#126# 65°C, pH 8.0 <218>	218
+methyl benzoylformate	126	{'accessions': ['Q4J702'], 'source': 'uniprot'}	126	Sulfolobus acidocaldarius	6.2	#126# 65°C, pH 5.5 <218>	218
+ethyl benzoylformate	126	{'accessions': ['Q4J702'], 'source': 'uniprot'}	126	Sulfolobus acidocaldarius	2.35	#126# 65°C, pH 5.5 <218>	218
+NADH	126	{'accessions': ['Q4J702'], 'source': 'uniprot'}	126	Sulfolobus acidocaldarius	-----	#127# pH 5.5, 65°C <218>; #126# 65°C, pH 5.5 <218>	218
+NAD+	126	{'accessions': ['Q4J702'], 'source': 'uniprot'}	126	Sulfolobus acidocaldarius	3.7	#127# pH 8.0, 65°C <218>; #126# 65°C, pH 8.0 <218>	218
+(S)-alpha-tetralol	126	{'accessions': ['Q4J702'], 'source': 'uniprot'}	126	Sulfolobus acidocaldarius	2.1	#127# pH 8.0, 65°C <218>; #126# 65°C, pH 8.0 <218>	218
+isatin	126	{'accessions': ['Q4J702'], 'source': 'uniprot'}	126	Sulfolobus acidocaldarius	22.0	#127# pH 5.5, 65°C <218>; #126# 65°C, pH 5.5 <218>	218
+methyl o-chlorobenzoylformate	126	{'accessions': ['Q4J702'], 'source': 'uniprot'}	126	Sulfolobus acidocaldarius	9.2	#127# pH 5.5, 65°C <218>; #126# 65°C, pH 5.5 <218>	218
+(R)-alpha-tetralol	126	{'accessions': ['Q4J702'], 'source': 'uniprot'}	126	Sulfolobus acidocaldarius	13.5	#127# pH 8.0, 65°C <218>; #126# 65°C, pH 8.0 <218>	218
+cycloheptanol	126	{'accessions': ['Q4J702'], 'source': 'uniprot'}	126	Sulfolobus acidocaldarius	4.4	#127# pH 8.0, 65°C <218>; #126# 65°C, pH 8.0 <218>	218
+(R)-1-indanol	126	{'accessions': ['Q4J702'], 'source': 'uniprot'}	126	Sulfolobus acidocaldarius	7.1	#127# pH 8.0, 65°C <218>; #126# 65°C, pH 8.0 <218>	218
+(S)-1-indanol	126	{'accessions': ['Q4J702'], 'source': 'uniprot'}	126	Sulfolobus acidocaldarius	13.7	#127# pH 8.0, 65°C <218>; #126# 65°C, pH 8.0 <218>	218
+cycloheptanol	127	{'accessions': ['Q4J9F2'], 'source': 'uniprot'}	127	Sulfolobus acidocaldarius	7.0	#127# 65°C, pH 10.5 <217>	217
+benzil	127	{'accessions': ['Q4J9F2'], 'source': 'uniprot'}	127	Sulfolobus acidocaldarius	1.6	#127# 65°C, pH 5.0 <217>	217
+2',3',4',5',6'-pentafluoroacetophenone	127	{'accessions': ['Q4J9F2'], 'source': 'uniprot'}	127	Sulfolobus acidocaldarius	3.2	#127# 65°C, pH 5.0 <217>	217
+2,2,2-trifluoroacetophenone	127	{'accessions': ['Q4J9F2'], 'source': 'uniprot'}	127	Sulfolobus acidocaldarius	1.7	#127# 65°C, pH 5.0 <217>	217
+2,2-dichloroacetophenone	127	{'accessions': ['Q4J9F2'], 'source': 'uniprot'}	127	Sulfolobus acidocaldarius	0.65	#127# 65°C, pH 5.0 <217>	217
+ethyl benzoylformate	127	{'accessions': ['Q4J9F2'], 'source': 'uniprot'}	127	Sulfolobus acidocaldarius	1.9	#127# 65°C, pH 5.0 <217>	217
+tetralin-1-ol	127	{'accessions': ['Q4J9F2'], 'source': 'uniprot'}	127	Sulfolobus acidocaldarius	9.6	#127# 65°C, pH 10.5 <217>	217
+1-phenyl-1,2-propanedione	127	{'accessions': ['Q4J9F2'], 'source': 'uniprot'}	127	Sulfolobus acidocaldarius	5.3	#127# 65°C, pH 5.0 <217>	217
+ethyl 3-methyl-2-oxobutyrate	127	{'accessions': ['Q4J9F2'], 'source': 'uniprot'}	127	Sulfolobus acidocaldarius	26.0	#127# 65°C, pH 5.0 <217>	217
+NADH	127	{'accessions': ['Q4J9F2'], 'source': 'uniprot'}	127	Sulfolobus acidocaldarius	26.2	#127# 65°C, pH 5.0 <217>	217
+1-Indanol	127	{'accessions': ['Q4J9F2'], 'source': 'uniprot'}	127	Sulfolobus acidocaldarius	6.2	#127# 65°C, pH 10.5 <217>	217
+NAD+	127	{'accessions': ['Q4J9F2'], 'source': 'uniprot'}	127	Sulfolobus acidocaldarius	19.3	#127# 65°C, pH 10.5 <217>	217
+isoborneol	127	{'accessions': ['Q4J9F2'], 'source': 'uniprot'}	127	Sulfolobus acidocaldarius	16.6	#127# 65°C, pH 10.5 <217>	217
+ethanol	130	{'accessions': ['H9ZGN0'], 'source': 'uniprot'}	130	Ogataea angusta	3000.0	#130# pH 9.0, 22°C, recombinant enzyme <221>	221
+acetaldehyde	130	{'accessions': ['H9ZGN0'], 'source': 'uniprot'}	130	Ogataea angusta	3500.0	#130# pH 6.0, 22°C, recombinant enzyme <221>	221
+Octanol	134	{'accessions': ['P86884'], 'source': 'uniprot'}	134	Scyliorhinus canicula	3.17	#134# pH and temperature not specified in the publication <226>	226
+NADH	135	{'accessions': ['Q9Y9P9'], 'source': 'uniprot'}	135	Aeropyrum pernix	0.41	#135# pH 8.0, 60°C <238>	238
+1-butanol	135	{'accessions': ['Q9Y9P9'], 'source': 'uniprot'}	135	Aeropyrum pernix	0.41	#135# pH 8.0, 60°C <238>	238
+Cyclohexanol	135	{'accessions': ['Q9Y9P9'], 'source': 'uniprot'}	135	Aeropyrum pernix	0.52	#135# pH 8.0, 60°C <238>	238
+1-propanol	135	{'accessions': ['Q9Y9P9'], 'source': 'uniprot'}	135	Aeropyrum pernix	0.26	#135# pH 8.0, 60°C <238>	238
+NAD+	135	{'accessions': ['Q9Y9P9'], 'source': 'uniprot'}	135	Aeropyrum pernix	0.4	#135# pH 8.0, 60°C <238>	238
+2-decanone	135	{'accessions': ['Q9Y9P9'], 'source': 'uniprot'}	135	Aeropyrum pernix	0.4	#135# pH 8.0, 60°C <238>	238
+2-propanol	135	{'accessions': ['Q9Y9P9'], 'source': 'uniprot'}	135	Aeropyrum pernix	0.24	#135# pH 8.0, 60°C <238>	238
+2-Heptanone	135	{'accessions': ['Q9Y9P9'], 'source': 'uniprot'}	135	Aeropyrum pernix	0.73	#135# pH 8.0, 60°C <238>	238
+2-Octanone	135	{'accessions': ['Q9Y9P9'], 'source': 'uniprot'}	135	Aeropyrum pernix	0.74	#135# pH 8.0, 60°C <238>	238
+2-Pentanone	135	{'accessions': ['Q9Y9P9'], 'source': 'uniprot'}	135	Aeropyrum pernix	0.77	#135# pH 8.0, 60°C <238>	238
+4-methoxybenzyl alcohol	135	{'accessions': ['Q9Y9P9'], 'source': 'uniprot'}	135	Aeropyrum pernix	0.6	#135# pH 8.0, 60°C <238>	238
+2-Pentanol	135	{'accessions': ['Q9Y9P9'], 'source': 'uniprot'}	135	Aeropyrum pernix	0.6	#135# pH 8.0, 60°C <238>	238
+1-Pentanol	135	{'accessions': ['Q9Y9P9'], 'source': 'uniprot'}	135	Aeropyrum pernix	0.45	#135# pH 8.0, 60°C <238>	238
+cyclohexanone	135	{'accessions': ['Q9Y9P9'], 'source': 'uniprot'}	135	Aeropyrum pernix	1.27	#135# pH 8.0, 60°C <238>	238
+1-Hexanol	135	{'accessions': ['Q9Y9P9'], 'source': 'uniprot'}	135	Aeropyrum pernix	0.37	#135# pH 8.0, 60°C <238>	238
+benzyl alcohol	135	{'accessions': ['Q9Y9P9'], 'source': 'uniprot'}	135	Aeropyrum pernix	1.02	#135# pH 8.0, 60°C <238>	238
+2-Hexanone	135	{'accessions': ['Q9Y9P9'], 'source': 'uniprot'}	135	Aeropyrum pernix	1.08	#135# pH 8.0, 60°C <238>	238
+4-methoxyphenylacetone	135	{'accessions': ['Q9Y9P9'], 'source': 'uniprot'}	135	Aeropyrum pernix	0.071	#135# pH 8.0, 60°C <238>	238
+benzaldehyde	135	{'accessions': ['Q9Y9P9'], 'source': 'uniprot'}	135	Aeropyrum pernix	1.22	#135# pH 8.0, 60°C <238>	238
+2-butanol	135	{'accessions': ['Q9Y9P9'], 'source': 'uniprot'}	135	Aeropyrum pernix	0.48	#135# pH 8.0, 60°C <238>	238
+ethanol	135	{'accessions': ['Q9Y9P9'], 'source': 'uniprot'}	135	Aeropyrum pernix	0.23	#135# pH 8.0, 60°C <238>	238
+2-nonanone	135	{'accessions': ['Q9Y9P9'], 'source': 'uniprot'}	135	Aeropyrum pernix	-----	#135# pH 8.0, 60°C <238>	238
+tert-butyl acetoacetate	135	{'accessions': ['Q9Y9P9'], 'source': 'uniprot'}	135	Aeropyrum pernix	0.072	#135# pH 8.0, 60°C <238>	238
+ethanol	139	{'accessions': ['G3FFC9'], 'source': 'uniprot'}	139	Kluyveromyces marxianus	142.0	#139# pH 7.0, temperature not specified in the publication <251>	251
+acetaldehyde	139	{'accessions': ['G3FFC9'], 'source': 'uniprot'}	139	Kluyveromyces marxianus	283.0	#139# pH 7.0, temperature not specified in the publication <251>	251
+cinnamaldehyde	-----	-----	14	Geobacillus stearothermophilus	55.0	#14# pH 7.7, 60°C <233>	233
+NAD+	-----	-----	14	Geobacillus stearothermophilus	33.0	#14# pH 7.7, 60°C <233>	233
+NADH	-----	-----	14	Geobacillus stearothermophilus	43.0	#14# pH 7.7, 60°C <233>	233
+cinnamyl alcohol	-----	-----	14	Geobacillus stearothermophilus	43.0	#14# pH 7.7, 60°C <233>	233
+2-propanol	-----	-----	14	Geobacillus stearothermophilus	287.0	#14# pH 7.7, 60°C <233>	233
+ethanol	140	{'accessions': ['V9SDP6'], 'source': 'uniprot'}	140	Kluyveromyces marxianus	4.5	#140# pH 7.0, temperature not specified in the publication <251>	251
+acetaldehyde	140	{'accessions': ['V9SDP6'], 'source': 'uniprot'}	140	Kluyveromyces marxianus	53.0	#140# pH 7.0, temperature not specified in the publication <251>	251
+ethanol	141	{'accessions': ['V9SCJ1'], 'source': 'uniprot'}	141	Kluyveromyces marxianus	33.0	#141# pH 7.0, temperature not specified in the publication <251>	251
+ethanol	142	{'accessions': ['V9SFA1'], 'source': 'uniprot'}	142	Kluyveromyces marxianus	158.0	#142# pH 7.0, temperature not specified in the publication <251>	251
+benzyl alcohol	145	{'accessions': ['Q8GIX7'], 'source': 'uniprot'}	145	Moraxella sp.	3.8	#145# mutant A25Y, pH 7.0, 30°C <259>	259
+benzyl alcohol	145	{'accessions': ['Q8GIX7'], 'source': 'uniprot'}	145	Moraxella sp.	6.9	#145# wild-type, pH 7.0, 30°C <259>	259
+NADP+	152	{'accessions': ['Q5JI09'], 'source': 'uniprot'}	152	Thermococcus kodakarensis	30.0	#152# cosubstrate 2,3-butanediol, pH 9.0, 70°C <242>	242
+NADH	152	{'accessions': ['Q5JI09'], 'source': 'uniprot'}	152	Thermococcus kodakarensis	17.3	#152# cosubstrate acetoin, pH 6.0, 70°C <242>	242
+NADH	152	{'accessions': ['Q5JI09'], 'source': 'uniprot'}	152	Thermococcus kodakarensis	15.6	#152# cosubstrate acetoin, pH 6.0, 70°C <242>	242
+NADP+	152	{'accessions': ['Q5JI09'], 'source': 'uniprot'}	152	Thermococcus kodakarensis	10.5	#152# cosubstrate 1-phenylethanol, pH 9.0, 70°C <242>	242
+NAD+	152	{'accessions': ['Q5JI09'], 'source': 'uniprot'}	152	Thermococcus kodakarensis	10.4	#152# cosubstrate 1-phenylethanol, pH 9.0, 70°C <242>	242
+2,3-Butanediol	152	{'accessions': ['Q5JI09'], 'source': 'uniprot'}	152	Thermococcus kodakarensis	43.8	#152# pH 9.0, 70°C <242>	242
+acetoin	152	{'accessions': ['Q5JI09'], 'source': 'uniprot'}	152	Thermococcus kodakarensis	13.7	#152# pH 6.0, 70°C <242>	242
+NAD+	152	{'accessions': ['Q5JI09'], 'source': 'uniprot'}	152	Thermococcus kodakarensis	30.8	#152# cosubstrate 2,3-butanediol, pH 9.0, 70°C <242>	242
+1-phenylethanol	152	{'accessions': ['Q5JI09'], 'source': 'uniprot'}	152	Thermococcus kodakarensis	35.7	#152# pH 9.0, 70°C <242>	242
+NADPH	153	{'accessions': ['W6CX26'], 'source': 'uniprot'}	153	Yokenella sp.	433.0	#153# pH 6.5, 65°C <243>	243
+benzaldehyde	153	{'accessions': ['W6CX26'], 'source': 'uniprot'}	153	Yokenella sp.	360.0	#153# pH 6.5, 65°C <243>	243
+NADP+	153	{'accessions': ['W6CX26'], 'source': 'uniprot'}	153	Yokenella sp.	194.0	#153# pH 8.0, 55°C <243>	243
+(2E)-but-2-en-1-ol	153	{'accessions': ['W6CX26'], 'source': 'uniprot'}	153	Yokenella sp.	101.0	#153# pH 8.0, 55°C <243>	243
+(2E)-but-2-enal	153	{'accessions': ['W6CX26'], 'source': 'uniprot'}	153	Yokenella sp.	405.0	#153# pH 6.5, 65°C <243>	243
+benzyl alcohol	153	{'accessions': ['W6CX26'], 'source': 'uniprot'}	153	Yokenella sp.	93.3	#153# pH 8.0, 55°C <243>	243
+butan-1-ol	157	{'accessions': ['W8VSK8'], 'source': 'uniprot'}	157	Mycobacterium sp.	2.0	#157# cosubstrate NAD+, pH 7.0, 30°C <270>	270
+NADH	157	{'accessions': ['W8VSK8'], 'source': 'uniprot'}	157	Mycobacterium sp.	153.0	#157# cosubstrate butanal, pH 7.0, 30°C <270>	270
+Butanal	157	{'accessions': ['W8VSK8'], 'source': 'uniprot'}	157	Mycobacterium sp.	102.0	#157# cosubstrate NADH, pH 7.0, 30°C <270>	270
+1,4-Butanediol	163	{'accessions': ['A3MVR8'], 'source': 'uniprot'}	163	Pyrobaculum calidifontis	1.98	#163# pH 10, 60°C <285>	285
+Glutaraldehyde	163	{'accessions': ['A3MVR8'], 'source': 'uniprot'}	163	Pyrobaculum calidifontis	93.13	#163# pH 6, 60°C <285>	285
+ethanol	-----	-----	165	Citrobacter sp. S-77	3.2	#165# pH 7.0, 30°C <287>	287
+acetaldehyde	-----	-----	165	Citrobacter sp. S-77	2.5	#165# pH 7.0, 30°C <287>	287
+D-altronate	168	{'accessions': ['A0A075B5H4'], 'source': 'uniprot'}	168	Sphingomonas sp. A1	0.19	#168# at pH 7.9 and 25°C <291>	291
+D-mannonate	168	{'accessions': ['A0A075B5H4'], 'source': 'uniprot'}	168	Sphingomonas sp. A1	0.53	#168# at pH 7.9 and 25°C <291>	291
+2-dehydro-3-deoxy-D-gluconate	168	{'accessions': ['A0A075B5H4'], 'source': 'uniprot'}	168	Sphingomonas sp. A1	1.4	#168# at pH 7.9 and 25°C <291>	291
+D-gluconate	168	{'accessions': ['A0A075B5H4'], 'source': 'uniprot'}	168	Sphingomonas sp. A1	0.98	#168# at pH 7.9 and 25°C <291>	291
+D-talonate	168	{'accessions': ['A0A075B5H4'], 'source': 'uniprot'}	168	Sphingomonas sp. A1	0.021	#168# at pH 7.9 and 25°C <291>	291
+D-allonate	168	{'accessions': ['A0A075B5H4'], 'source': 'uniprot'}	168	Sphingomonas sp. A1	0.18	#168# at pH 7.9 and 25°C <291>	291
+D-arabitol	168	{'accessions': ['A0A075B5H4'], 'source': 'uniprot'}	168	Sphingomonas sp. A1	0.0019	#168# at pH 7.9 and 25°C <291>	291
+D-xylonate	168	{'accessions': ['A0A075B5H4'], 'source': 'uniprot'}	168	Sphingomonas sp. A1	0.032	#168# at pH 7.9 and 25°C <291>	291
+D-sorbitol	168	{'accessions': ['A0A075B5H4'], 'source': 'uniprot'}	168	Sphingomonas sp. A1	0.0052	#168# at pH 7.9 and 25°C <291>	291
+D-ribonate	168	{'accessions': ['A0A075B5H4'], 'source': 'uniprot'}	168	Sphingomonas sp. A1	0.0052	#168# at pH 7.9 and 25°C <291>	291
+ethanol	172	{'accessions': ['P06525'], 'source': 'uniprot'}	172	Arabidopsis thaliana	31.5	#172# recombinant His-tagged wild-type enzyme, pH 7.5, temperature not specified in the publication <302>	302
+ethanol	172	{'accessions': ['P06525'], 'source': 'uniprot'}	172	Arabidopsis thaliana	52.1	#172# recombinant His-tagged mutant C243S, pH 7.5, temperature not specified in the publication <302>	302
+furfural	178	{'accessions': ['P28625'], 'source': 'uniprot'}	178	Saccharomyces cerevisiae	36.9	#178# pH 7.0, 30°C, with NADH <307>	307
+acetaldehyde	178	{'accessions': ['P28625'], 'source': 'uniprot'}	178	Saccharomyces cerevisiae	313.14	#178# pH 7.0, 30°C, with NADH <307>	307
+glycolaldehyde	178	{'accessions': ['P28625'], 'source': 'uniprot'}	178	Saccharomyces cerevisiae	15.44	#178# pH 7.0, 30°C, with NADH <307>	307
+NADP+	-----	-----	25	Pyrococcus furiosus	0.52	#25# pH 8.8, 45°C, mutant enzyme G211InsG <292>	292
+2,3-Butanediol	-----	-----	25	Pyrococcus furiosus	0.52	#25# pH 8.8, 45°C, mutant enzyme G211InsG, cofactor: NADP+ <292>	292
+NAD+	-----	-----	25	Pyrococcus furiosus	1.1	#25# pH 8.8, 45°C, mutant enzyme G211C <292>	292
+NADH	-----	-----	25	Pyrococcus furiosus	1.1	#25# 45°C, pH 6.1, cosubstrate: 3-hydroxy-2-butanone, mutant enzyme K249G/H255R <289>	289
+2,3-Butanediol	-----	-----	25	Pyrococcus furiosus	1.1	#25# pH 8.8, 45°C, mutant enzyme G211C, cofactor: NAD+ <292>	292
+3-hydroxy-2-butanone	-----	-----	25	Pyrococcus furiosus	1.1	#25# 45°C, pH 6.1, cosubstrate: NADH, mutant enzyme K249G/H255R <289>	289
+NAD+	-----	-----	25	Pyrococcus furiosus	15.0	#25# 45°C, pH 8.8, cosubstrate: 2,3-butanediol, mutant enzyme K249G/H255R <289>	289
+2,3-Butanediol	-----	-----	25	Pyrococcus furiosus	15.0	#25# 45°C, pH 8.8, cosubstrate: NAD+, mutant enzyme K249G/H255R <289>	289
+NADPH	-----	-----	25	Pyrococcus furiosus	0.2	#25# 45°C, pH 6.1, cosubstrate: 3-hydroxy-2-butanone, wild-type enzyme <289>	289
+3-hydroxy-2-butanone	-----	-----	25	Pyrococcus furiosus	0.2	#25# 45°C, pH 6.1, cosubstrate: NADPH, wild-type enzyme <289>	289
+2,3-Butanediol	-----	-----	25	Pyrococcus furiosus	1.0	#25# 45°C, pH 8.8, cosubstrate: NAD+, wild-type enzyme <289>	289
+NAD+	-----	-----	25	Pyrococcus furiosus	2.6	#25# pH 8.8, 45°C, wild-type enzyme <292>	292
+2,3-Butanediol	-----	-----	25	Pyrococcus furiosus	2.6	#25# pH 8.8, 45°C, wild-type enzyme, cofactor: NAD+ <292>	292
+NADP+	-----	-----	25	Pyrococcus furiosus	2.1	#25# pH 8.8, 45°C, mutant enzyme G211InsA <292>; #25# pH 8.8, 45°C, mutant enzyme G211InsS <292>	292
+2,3-Butanediol	-----	-----	25	Pyrococcus furiosus	2.1	#25# pH 8.8, 45°C, mutant enzyme G211InsA, cofactor: NADP+ <292>; #25# pH 8.8, 45°C, mutant enzyme G211InsS, cofactor: NADP+ <292>	292
+NAD+	-----	-----	25	Pyrococcus furiosus	1.7	#25# pH 8.8, 45°C, mutant enzyme G211InsA <292>	292
+2,3-Butanediol	-----	-----	25	Pyrococcus furiosus	1.7	#25# pH 8.8, 45°C, mutant enzyme G211InsA, cofactor: NAD+ <292>	292
+NADP+	-----	-----	25	Pyrococcus furiosus	0.86	#25# pH 8.8, 45°C, mutant enzyme G211InsC <292>	292
+2,3-Butanediol	-----	-----	25	Pyrococcus furiosus	0.86	#25# pH 8.8, 45°C, mutant enzyme G211InsC, cofactor: NADP+ <292>	292
+NADP+	-----	-----	25	Pyrococcus furiosus	0.073	#25# pH 8.8, 45°C, wild-type enzyme <292>	292
+2,3-Butanediol	-----	-----	25	Pyrococcus furiosus	0.073	#25# pH 8.8, 45°C, wild-type enzyme, cofactor: NAP+ <292>	292
+NAD+	-----	-----	25	Pyrococcus furiosus	4.0	#25# pH 8.8, 45°C, mutant enzyme G211S <292>	292
+2,3-Butanediol	-----	-----	25	Pyrococcus furiosus	4.0	#25# pH 8.8, 45°C, mutant enzyme G211S, cofactor: NAD+ <292>	292
+NAD+	-----	-----	25	Pyrococcus furiosus	6.5	#25# pH 8.8, 45°C, mutant enzyme G211InsG <292>	292
+2,3-Butanediol	-----	-----	25	Pyrococcus furiosus	6.5	#25# pH 8.8, 45°C, mutant enzyme G211InsG, cofactor: NAD+ <292>	292
+NADPH	-----	-----	25	Pyrococcus furiosus	1.2	#25# 45°C, pH 6.1, cosubstrate: 3-hydroxy-2-butanone, mutant enzyme K249G/H255R <289>	289
+3-hydroxy-2-butanone	-----	-----	25	Pyrococcus furiosus	1.2	#25# 45°C, pH 6.1, cosubstrate: NADPH, mutant enzyme K249G/H255R <289>	289
+NAD+	-----	-----	25	Pyrococcus furiosus	6.7	#25# pH 8.8, 45°C, mutant enzyme G211InsS <292>	292
+2,3-Butanediol	-----	-----	25	Pyrococcus furiosus	6.7	#25# pH 8.8, 45°C, mutant enzyme G211InsS, cofactor: NAD+ <292>	292
+NADH	-----	-----	25	Pyrococcus furiosus	0.36	#25# 45°C, pH 6.1, cosubstrate: 3-hydroxy-2-butanone, wild-type enzyme <289>	289
+3-hydroxy-2-butanone	-----	-----	25	Pyrococcus furiosus	0.36	#25# 45°C, pH 6.1, cosubstrate: NADH, wild-type enzyme <289>	289
+NADP+	-----	-----	25	Pyrococcus furiosus	4.7	#25# 45°C, pH 8.8, cosubstrate: 2,3-butanediol, mutant enzyme K249G/H255R <289>	289
+2,3-Butanediol	-----	-----	25	Pyrococcus furiosus	4.7	#25# 45°C, pH 8.8, cosubstrate: NADP+, mutant enzyme K249G/H255R <289>	289
+NADP+	-----	-----	25	Pyrococcus furiosus	0.03	#25# 45°C, pH 8.8, cosubstrate: 2,3-butanediol, wild-type enzyme <289>	289
+2,3-Butanediol	-----	-----	25	Pyrococcus furiosus	0.03	#25# 45°C, pH 8.8, cosubstrate: NADP+, wild-type enzyme <289>	289
+NAD+	-----	-----	25	Pyrococcus furiosus	0.43	#25# pH 8.8, 45°C, mutant enzyme G211InsC <292>	292
+2,3-Butanediol	-----	-----	25	Pyrococcus furiosus	0.43	#25# pH 8.8, 45°C, mutant enzyme G211InsC, cofactor: NAD+ <292>	292
+NADP+	-----	-----	25	Pyrococcus furiosus	0.29	#25# pH 8.8, 45°C, mutant enzyme G211S <292>	292
+2,3-Butanediol	-----	-----	25	Pyrococcus furiosus	0.29	#25# pH 8.8, 45°C, mutant enzyme G211S, cofactor: NADP+ <292>	292
+NADP+	-----	-----	25	Pyrococcus furiosus	0.92	#25# pH 8.8, 45°C, mutant enzyme G211C <292>	292
+2,3-Butanediol	-----	-----	25	Pyrococcus furiosus	0.92	#25# pH 8.8, 45°C, mutant enzyme G211C, cofactor: NADP+ <292>	292
+NAD+	122	{'accessions': ['P42328'], 'source': 'uniprot'}	25	Pyrococcus furiosus	1.0	#122# mutant W49F/W87F/V260A, 30°C, pH not specified in the publication <256>; #157# cosubstrate butan-1-ol, pH 7.0, 30°C <270>; #25# 45°C, pH 8.8, cosubstrate: 2,3-butanediol, wild-type enzyme <289>	256,270,289
+ethylene glycol	-----	-----	29	Pseudomonas aeruginosa	4.5	-----	129
+acetaldehyde	-----	-----	33	Natronomonas pharaonis	0.3	#33# 40°C, pH 9.0, 50 mM Tris-HCl, 4 M NaCl <181>	181
+acetaldehyde	-----	-----	33	Natronomonas pharaonis	5.4	#33# 70°C, pH 9.0, 50 mM Tris-HCl, 4 M NaCl <181>	181
+ethanol	-----	-----	33	Natronomonas pharaonis	8.2	#33# 70°C, pH 9.0, 50 mM Tris-HCl, 4 M NaCl <181>	181
+ethanol	82	{'comment': '#82# isoform HAOX-4 <24>'}	82	Saimiri sciureus	0.4	#82# pyrazole-sensitive enzyme, pH 7.5 <24>; #33# 40°C, pH 9.0, 50 mM Tris-HCl, 4 M NaCl <181>	24,181
+ethanol	38	{'comment': '#38# isoform PYCR1 <95>'}	38	Mesocricetus auratus	8.0	-----	47
+all-trans retinol	38	{'comment': '#38# isoform PYCR1 <95>'}	38	Mesocricetus auratus	1.3	#38# isoenzyme TT-ADH <95>	47,95
+12-hydroxydodecanoate	38	{'comment': '#38# isoform PYCR1 <95>'}	38	Mesocricetus auratus	2.2	#38# isoenzyme BB-ADH <95>	95
+n-Hexanol	38	{'comment': '#38# isoform PYCR1 <95>'}	38	Mesocricetus auratus	2.8	#38# isoenzyme AA-ADH <95>	95
+methylcrotonyl alcohol	38	{'comment': '#38# isoform PYCR1 <95>'}	38	Mesocricetus auratus	3.0	#38# isoenzyme AA-ADH <95>	95
+12-hydroxydodecanoate	38	{'comment': '#38# isoform PYCR1 <95>'}	38	Mesocricetus auratus	1.03	#38# isoenzyme TT-ADH <95>	95
+benzyl alcohol	38	{'comment': '#38# isoform PYCR1 <95>'}	38	Mesocricetus auratus	1.37	-----	47
+all-trans retinol	38	{'comment': '#38# isoform PYCR1 <95>'}	38	Mesocricetus auratus	1.9	#38# isoenzyme BB-ADH <95>	95
+ethanol	38	{'comment': '#38# isoform PYCR1 <95>'}	38	Mesocricetus auratus	2.83	#38# isoenzyme AA-ADH <95>	95
+1-butanol	38	{'comment': '#38# isoform PYCR1 <95>'}	38	Mesocricetus auratus	7.5	-----	47
+Cyclohexanol	38	{'comment': '#38# isoform PYCR1 <95>'}	38	Mesocricetus auratus	2.4	#38# isoenzyme AA-ADH <95>	95
+Cyclohexanol	38	{'comment': '#38# isoform PYCR1 <95>'}	38	Mesocricetus auratus	8.5	#38# isoenzyme TT-ADH <95>	95
+n-butanol	38	{'comment': '#38# isoform PYCR1 <95>'}	38	Mesocricetus auratus	3.33	#38# isoenzyme AA-ADH <95>	95
+all-trans retinol	38	{'comment': '#38# isoform PYCR1 <95>'}	38	Mesocricetus auratus	0.35	#38# isoenzyme AA-ADH <95>	95
+methylcrotonyl alcohol	38	{'comment': '#38# isoform PYCR1 <95>'}	38	Mesocricetus auratus	8.58	#38# isoenzyme TT-ADH <95>	95
+Cyclohexanol	38	{'comment': '#38# isoform PYCR1 <95>'}	38	Mesocricetus auratus	2.03	-----	47
+n-Hexanol	38	{'comment': '#38# isoform PYCR1 <95>'}	38	Mesocricetus auratus	2.35	#38# isoenzyme BB-ADH <95>	95
+12-hydroxydodecanoate	38	{'comment': '#38# isoform PYCR1 <95>'}	38	Mesocricetus auratus	2.43	-----	47
+n-butanol	38	{'comment': '#38# isoform PYCR1 <95>'}	38	Mesocricetus auratus	2.58	#38# isoenzymee BB-ADH <95>	95
+methylcrotonyl alcohol	38	{'comment': '#38# isoform PYCR1 <95>'}	38	Mesocricetus auratus	2.63	#38# isoenzyme BB-ADH <95>	95
+12-hydroxydodecanoate	38	{'comment': '#38# isoform PYCR1 <95>'}	38	Mesocricetus auratus	2.77	#38# isoenzyme AA-ADH <95>	95
+1-Hexanol	38	{'comment': '#38# isoform PYCR1 <95>'}	38	Mesocricetus auratus	3.03	-----	47
+ethanol	38	{'comment': '#38# isoform PYCR1 <95>'}	38	Mesocricetus auratus	3.38	#38# isoenzyme BB-ADH <95>	95
+n-Hexanol	38	{'comment': '#38# isoform PYCR1 <95>'}	38	Mesocricetus auratus	4.08	#38# isoenzyme TT-ADH <95>	95
+2-butanol	38	{'comment': '#38# isoform PYCR1 <95>'}	38	Mesocricetus auratus	4.75	-----	47
+n-butanol	38	{'comment': '#38# isoform PYCR1 <95>'}	38	Mesocricetus auratus	7.18	#38# isoenzyme TT-ADH <95>	95
+NAD+	38	{'comment': '#38# isoform PYCR1 <95>'}	38	Mesocricetus auratus	7.75	#38# oxidation of ethanol <47>	47
+ethanol	38	{'comment': '#38# isoform PYCR1 <95>'}	38	Mesocricetus auratus	9.58	#38# isoenzyme TT-ADH <95>	95
+hexyl alcohol	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	0.99	-----	42
+(S)-2-butanol	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	1.0	-----	31
+5beta-Pregnan-21-ol-3,20-dione hemisuccinate	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	0.9	-----	42
+(R)-2-butanol	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	2.0	-----	31
+3-oxo-5beta-androstan-17beta-ol	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	2.05	-----	42
+p-nitrophenyl octanoate	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	0.24	-----	39
+all-trans-retinal	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	2.5	#43# reduction with NADH <93>	93
+Propyl alcohol	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	1.17	-----	42
+benzyl alcohol	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	0.78	-----	42
+(S)-2-pentanol	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	0.87	-----	31
+(R)-2-pentanol	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	1.01	-----	31
+3-methyl-1-butanol	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	0.08	#43# mutant enzyme W54L <92>	92
+propan-2-ol	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	5.8	#43# mutant enzyme W54L <92>	92
+2-butanone	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	0.12	-----	31
+9-cis-retinol	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	0.025	#43# oxidation with NAD+ <93>	93
+ethanol	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	1.27	-----	42
+all-trans-retinol	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	1.55	#43# oxidation with NAD+ <93>	93
+cyclohexanone	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	5.9	-----	42
+4-Methyl-1-pentanol	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	6.7	#43# wild-type enzyme Adh 1 <92>	92
+13-cis-retinal	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	0.018	#43# reduction with NADH <93>	93
+13-cis-retinol	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	0.018	#43# oxidation with NAD+ <93>	93
+3-Pentanone	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	0.36	-----	31
+11-cis-retinal	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	0.021	#43# reduction with NADH <93>	93
+cinnamyl alcohol	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	133.0	#43# wild-type enzyme Adh 1 <92>	92
+(R)-2-octanol	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	0.053	-----	31
+ethanol	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	308.0	#43# wild-type enzyme Adh 1 <92>	92
+cinnamyl alcohol	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	98.0	#43# mutant enzyme W54L <92>	92
+ethanol	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	102.0	#43# mutant enzyme W54L <92>	92
+butan-2-ol	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	11.9	#43# wild-type enzyme Adh 1 <92>	92
+butan-2-ol	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	0.31	#43# mutant enzyme W54L <92>	92
+Hexanol	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	29.6	#43# wild-type enzyme Adh 1 <92>	92
+(S)-2-octanol	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	1.52	-----	31
+butanol	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	118.0	#43# wild-type enzyme Adh 1 <92>	92
+4-Methyl-1-pentanol	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	18.6	#43# mutant enzyme W54L <92>	92
+Hexanol	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	23.9	#43# mutant enzyme W54L <92>	92
+all-trans-retinal	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	0.022	#43# oxidation with NAD+ <93>	93
+11-cis-retinol	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	0.022	#43# oxidation with NAD+ <93>	93
+ethanol	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	123.0	#43# wild-type enzyme Adh 1 <92>	92
+3-methyl-1-butanol	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	0.27	#43# wild-type enzyme Adh 1 <92>	92
+acetone	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	0.33	-----	31
+propan-2-ol	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	53.1	#43# wild-type enzyme Adh 1 <92>	92
+Propanol	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	28.7	#43# mutant enzyme W54L <92>	92
+hexaldehyde	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	56.6	-----	42
+9-cis-retinal	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	0.023	#43# reduction with NADH <93>	93
+2-Pentanone	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	0.0713	-----	31
+Isopropanol	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	0.58	-----	31
+Butyl alcohol	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	0.94	-----	42
+3-Pentanol	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	2.26	-----	31
+Pentanol	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	18.4	#43# mutant enzyme W54L <92>	92
+benzaldehyde	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	29.5	-----	42
+acetaldehyde	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	31.8	-----	42
+butanol	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	32.7	#43# mutant enzyme W54L <92>	92
+Butyraldehyde	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	35.4	-----	42
+propionaldehyde	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	41.9	-----	42
+Pentanol	43	{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}	43	Equus caballus	56.2	#43# wild-type enzyme Adh 1 <92>	92
+4-chloroacetophenone	-----	-----	46	Rhodococcus ruber	230.0	#46# pH 6.0, 37°C, recombinant enzyme expressed from Saccharomyces cerevisiae <231>	231
+capronaldehyde	-----	-----	46	Rhodococcus ruber	317.0	#46# pH 6.0, 37°C, recombinant enzyme expressed from Arxula adeninivorans <231>	231
+capronaldehyde	-----	-----	46	Rhodococcus ruber	576.0	#46# pH 6.0, 37°C, recombinant enzyme expressed from Saccharomyces cerevisiae <231>	231
+phenylacetaldehyde	-----	-----	46	Rhodococcus ruber	303.0	#46# pH 6.0, 37°C, recombinant enzyme expressed from Arxula adeninivorans <231>	231
+Valeraldehyde	-----	-----	46	Rhodococcus ruber	418.0	#46# pH 6.0, 37°C, recombinant enzyme expressed from Saccharomyces cerevisiae <231>	231
+4-chloroacetophenone	-----	-----	46	Rhodococcus ruber	145.0	#46# pH 6.0, 37°C, recombinant enzyme expressed from Hansenula polymorpha <231>	231
+phenylacetaldehyde	-----	-----	46	Rhodococcus ruber	264.0	#46# pH 6.0, 37°C, recombinant enzyme expressed from Hansenula polymorpha <231>	231
+capronaldehyde	-----	-----	46	Rhodococcus ruber	410.0	#46# pH 6.0, 37°C, recombinant enzyme expressed from Hansenula polymorpha <231>	231
+acetophenone	-----	-----	46	Rhodococcus ruber	211.0	#46# pH 6.0, 37°C, recombinant enzyme expressed from Hansenula polymorpha <231>	231
+phenylacetaldehyde	-----	-----	46	Rhodococcus ruber	202.0	#46# pH 6.0, 37°C, recombinant enzyme expressed from Saccharomyces cerevisiae <231>	231
+acetophenone	-----	-----	46	Rhodococcus ruber	259.0	#46# pH 6.0, 37°C, recombinant enzyme expressed from Saccharomyces cerevisiae <231>	231
+acetophenone	-----	-----	46	Rhodococcus ruber	288.0	#46# pH 6.0, 37°C, recombinant enzyme expressed from Arxula adeninivorans <231>	231
+Valeraldehyde	-----	-----	46	Rhodococcus ruber	432.0	#46# pH 6.0, 37°C, recombinant enzyme expressed from Arxula adeninivorans <231>	231
+4-chloroacetophenone	-----	-----	46	Rhodococcus ruber	432.0	#46# pH 6.0, 37°C, recombinant enzyme expressed from Arxula adeninivorans <231>	231
+Valeraldehyde	-----	-----	46	Rhodococcus ruber	528.0	#46# pH 6.0, 37°C, recombinant enzyme expressed from Hansenula polymorpha <231>	231
+4-methoxybenzaldehyde	-----	-----	48	Saccharolobus solfataricus	3.3	#48# wild type enzyme, at 65°C <154>	154
+4-methoxybenzyl alcohol	-----	-----	48	Saccharolobus solfataricus	3.3	#48# wild type enzyme, at 65°C <154>	154
+ethanol	-----	-----	48	Saccharolobus solfataricus	0.5	#48# in the presence of 3 mM NAD+, in 0.1 M glycine-NaOH, pH 9.2, at 65°C <163>; #48# native enzyme, at 55°C <153>	153,163
+4-bromobenzyl alcohol	-----	-----	48	Saccharolobus solfataricus	1.1	#48# native enzyme, at 55°C <153>	153
+4-bromobenzylalcohol	-----	-----	48	Saccharolobus solfataricus	1.1	#48# in the presence of 3 mM NAD+, in 0.1 M glycine-NaOH, pH 9.2, at 65°C <163>	163
+benzaldehyde	-----	-----	48	Saccharolobus solfataricus	3.5	#48# in 50 mM Tris-HCl (pH 7.5) containing 0.2 mM NADH + H+, at 65°C <163>; #48# native enzyme, at 55°C <153>	153,163
+4-bromobenzyl alcohol	-----	-----	48	Saccharolobus solfataricus	3.5	#48# carboxymethylated enzyme, at 55°C <153>	153
+Cyclohexanol	-----	-----	48	Saccharolobus solfataricus	15.9	#48# mutant enzyme N249Y, at 65°C <154>	154
+4-methoxybenzyl alcohol	-----	-----	48	Saccharolobus solfataricus	1.5	#48# native enzyme, at 55°C <153>	153
+4-methoxybenzylalcohol	-----	-----	48	Saccharolobus solfataricus	1.5	#48# in the presence of 3 mM NAD+, in 0.1 M glycine-NaOH, pH 9.2, at 65°C <163>	163
+1-propanol	-----	-----	48	Saccharolobus solfataricus	2.6	#48# wild type enzyme, at 65°C <154>	154
+4-carboxybenzaldehyde	-----	-----	48	Saccharolobus solfataricus	0.7	#48# in 50 mM Tris-HCl (pH 7.5) containing 0.2 mM NADH + H+, at 65°C <163>; #48# native enzyme, at 55°C <153>	153,163
+NADH	-----	-----	48	Saccharolobus solfataricus	2.0	#48# carboxymethylated enzyme, at 55°C <153>	153
+3-bromobenzyl alcohol	-----	-----	48	Saccharolobus solfataricus	2.0	#48# carboxymethylated enzyme, at 55°C <153>	153
+1-propanol	-----	-----	48	Saccharolobus solfataricus	2.2	#48# carboxymethylated enzyme, at 55°C <153>	153
+methanol	-----	-----	48	Saccharolobus solfataricus	3.1	-----	66
+benzyl alcohol	-----	-----	48	Saccharolobus solfataricus	1.4	#48# native enzyme, at 55°C <153>	153
+benzylalcohol	-----	-----	48	Saccharolobus solfataricus	1.4	#48# in the presence of 3 mM NAD+, in 0.1 M glycine-NaOH, pH 9.2, at 65°C <163>	163
+3-Methoxybenzyl alcohol	-----	-----	48	Saccharolobus solfataricus	1.4	#48# native enzyme, at 55°C <153>	153
+3-methoxybenzylalcohol	-----	-----	48	Saccharolobus solfataricus	1.4	#48# in the presence of 3 mM NAD+, in 0.1 M glycine-NaOH, pH 9.2, at 65°C <163>	163
+3-Methoxybenzyl alcohol	-----	-----	48	Saccharolobus solfataricus	16.0	#48# carboxymethylated enzyme, at 55°C <153>	153
+Cyclohexanol	-----	-----	48	Saccharolobus solfataricus	0.65	#48# in the presence of 3 mM NAD+, in 0.1 M glycine-NaOH, pH 9.2, at 65°C <163>; #48# native enzyme, at 55°C <153>	153,163
+benzyl alcohol	-----	-----	48	Saccharolobus solfataricus	21.7	#48# mutant enzyme N249Y, at 65°C <154>	154
+4-methoxybenzaldehyde	-----	-----	48	Saccharolobus solfataricus	0.6	#48# in 50 mM Tris-HCl (pH 7.5) containing 0.2 mM NADH + H+, at 65°C <163>; #48# native enzyme, at 55°C <153>	153,163
+NAD+	-----	-----	48	Saccharolobus solfataricus	50.0	#48# mutant enzyme N249Y, at 65°C, in the presence of benzyl alcohol <154>	154
+4-methoxybenzaldehyde	-----	-----	48	Saccharolobus solfataricus	20.5	#48# mutant enzyme N249Y, at 65°C <154>	154
+4-methoxybenzyl alcohol	-----	-----	48	Saccharolobus solfataricus	20.5	#48# carboxymethylated enzyme, at 55°C <153>	153
+2-propanol	-----	-----	48	Saccharolobus solfataricus	0.45	#48# carboxymethylated enzyme, at 55°C <153>	153
+4-nitrobenzaldehyde	-----	-----	48	Saccharolobus solfataricus	4.6	#48# in 50 mM Tris-HCl (pH 7.5) containing 0.2 mM NADH + H+, at 65°C <163>; #48# native enzyme, at 55°C <153>	153,163
+1-propanol	-----	-----	48	Saccharolobus solfataricus	1.2	#48# in the presence of 3 mM NAD+, in 0.1 M glycine-NaOH, pH 9.2, at 65°C <163>; #48# native enzyme, at 55°C <153>	153,163
+3-methoxybenzylalcohol	-----	-----	48	Saccharolobus solfataricus	1.2	#48# in the presence of 5 mM benzylalcohol, in 0.1 M glycine-NaOH, pH 9.2, at 65°C <163>	163
+3-bromobenzyl alcohol	-----	-----	48	Saccharolobus solfataricus	1.2	#48# native enzyme, at 55°C <153>	153
+3-bromobenzylalcohol	-----	-----	48	Saccharolobus solfataricus	1.2	#48# in the presence of 3 mM NAD+, in 0.1 M glycine-NaOH, pH 9.2, at 65°C <163>	163
+NADH	-----	-----	48	Saccharolobus solfataricus	4.5	#48# in 50 mM Tris-HCl (pH 7.5) containing 0.25 mM benzaldehyde, at 65°C <163>; #48# native enzyme, at 55°C <153>	153,163
+benzaldehyde	-----	-----	48	Saccharolobus solfataricus	1.8	#48# carboxymethylated enzyme, at 55°C <153>	153
+3-methylcyclohexanone	-----	-----	48	Saccharolobus solfataricus	2.17	-----	66
+Cyclopentanone	-----	-----	48	Saccharolobus solfataricus	1.02	-----	66
+2-propanol	-----	-----	48	Saccharolobus solfataricus	0.25	#48# in the presence of 3 mM NAD+, in 0.1 M glycine-NaOH, pH 9.2, at 65°C <163>; #48# native enzyme, at 55°C <153>	153,163
+benzaldehyde	-----	-----	48	Saccharolobus solfataricus	25.5	#48# mutant enzyme N249Y, at 65°C <154>	154
+4-methoxybenzyl alcohol	-----	-----	48	Saccharolobus solfataricus	25.5	#48# mutant enzyme N249Y, at 65°C <154>	154
+ethanol	-----	-----	48	Saccharolobus solfataricus	0.85	#48# carboxymethylated enzyme, at 55°C <153>	153
+acetone	-----	-----	48	Saccharolobus solfataricus	0.317	-----	66
+benzyl alcohol	-----	-----	48	Saccharolobus solfataricus	14.5	#48# carboxymethylated enzyme, at 55°C <153>	153
+3-methyl-cyclohexanol	-----	-----	48	Saccharolobus solfataricus	7.72	-----	66
+Anisaldehyde	-----	-----	48	Saccharolobus solfataricus	0.983	-----	66
+3-methylbutan-2-one	-----	-----	48	Saccharolobus solfataricus	1.22	-----	66
+benzyl alcohol	-----	-----	48	Saccharolobus solfataricus	1.68	-----	66
+ethanol	-----	-----	48	Saccharolobus solfataricus	1.88	-----	66
+butan-2-one	-----	-----	48	Saccharolobus solfataricus	1.93	-----	66
+butan-1-ol	-----	-----	48	Saccharolobus solfataricus	1.97	-----	66
+pentan-3-ol	-----	-----	48	Saccharolobus solfataricus	2.92	-----	66
+butan-2-ol	-----	-----	48	Saccharolobus solfataricus	3.55	-----	66
+pentan2-ol	-----	-----	48	Saccharolobus solfataricus	3.82	-----	66
+propan-1-ol	-----	-----	48	Saccharolobus solfataricus	4.03	-----	66
+propan-2-ol	-----	-----	48	Saccharolobus solfataricus	6.92	-----	66
+1-propanol	-----	-----	48	Saccharolobus solfataricus	16.6	#48# mutant enzyme N249Y, at 65°C <154>	154
+NADH	-----	-----	48	Saccharolobus solfataricus	25.3	#48# mutant enzyme N249Y, at 65°C, in the presence of benzaldehyde <154>	154
+NAD+	-----	-----	48	Saccharolobus solfataricus	18.5	#48# carboxymethylated enzyme, at 55°C <153>	153
+benzaldehyde	109	{'accessions': ['P39462'], 'source': 'uniprot'}	48	Saccharolobus solfataricus	11.3	#48# wild type enzyme, at 65°C <154>; #109# wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C <207>	154,207
+benzyl alcohol	109	{'accessions': ['P39462'], 'source': 'uniprot'}	48	Saccharolobus solfataricus	3.6	#48# wild type enzyme, at 65°C <154>; #109# wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C <207>	154,207
+NADH	109	{'accessions': ['P39462'], 'source': 'uniprot'}	48	Saccharolobus solfataricus	10.3	#48# wild type enzyme, at 65°C, in the presence of benzaldehyde <154>; #109# wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C <207>	154,207
+Cyclohexanol	109	{'accessions': ['P39462'], 'source': 'uniprot'}	48	Saccharolobus solfataricus	1.2	#48# carboxymethylated enzyme, at 55°C <153>; #48# wild type enzyme, at 65°C <154>; #109# wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C <207>	153,154,207
+NAD+	122	{'accessions': ['P42328'], 'source': 'uniprot'}	48	Saccharolobus solfataricus	3.4	#48# wild type enzyme, at 65°C, in the presence of benzyl alcohol <154>; #109# wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C <207>; #122# mutant W49F/W167Y, 30°C, pH not specified in the publication <256>	154,207,256
+NAD+	122	{'accessions': ['P42328'], 'source': 'uniprot'}	48	Saccharolobus solfataricus	1.4	#48# in 0.1 M glycine-NaOH, pH 9.2, at 65°C <163>; #48# native enzyme, at 55°C <153>; #122# mutant W49F/W167Y/V260A, 30°C, pH not specified in the publication <256>	153,163,256
+ethanol	-----	-----	5	Bacillus subtilis	2.47	#5# in the presence of 0.025 mM Cu2+, at pH 9.5 and 37°C <304>	304
+ethanol	-----	-----	5	Bacillus subtilis	1.78	#5# in the presence of 0.025 mM Zn2+, at pH 9.5 and 37°C <304>	304
+Hexanol	6	{'comment': '#6# isoform GLOX2, cf. EC 1.2.3.1 <48>; #6# isoform Glox3 <9>'}	6	Mus musculus	0.45	#6# recombinant isozyme ADH1, pH 7.5, 25°C <119>	119
+Hexanol	6	{'comment': '#6# isoform GLOX2, cf. EC 1.2.3.1 <48>; #6# isoform Glox3 <9>'}	6	Mus musculus	3.83	#6# recombinant isozyme ADH1, pH 10.5, 25°C <119>	119
+ethanol	6	{'comment': '#6# isoform GLOX2, cf. EC 1.2.3.1 <48>; #6# isoform Glox3 <9>'}	6	Mus musculus	1.92	#6# recombinant isozyme ADH1, pH 7.5, 25°C <119>	119
+ethanol	6	{'comment': '#6# isoform GLOX2, cf. EC 1.2.3.1 <48>; #6# isoform Glox3 <9>'}	6	Mus musculus	4.42	#6# recombinant isozyme ADH1, pH 10.5, 25°C <119>	119
+Hexanol	6	{'comment': '#6# isoform GLOX2, cf. EC 1.2.3.1 <48>; #6# isoform Glox3 <9>'}	6	Mus musculus	30.8	#6# recombinant isozyme ADH4, pH 7.5, 25°C <119>	119
+ethanol	6	{'comment': '#6# isoform GLOX2, cf. EC 1.2.3.1 <48>; #6# isoform Glox3 <9>'}	6	Mus musculus	41.3	#6# recombinant isozyme ADH4, pH 7.5, 25°C <119>	119
+ethanol	6	{'comment': '#6# isoform GLOX2, cf. EC 1.2.3.1 <48>; #6# isoform Glox3 <9>'}	6	Mus musculus	215.0	#6# recombinant isozyme ADH4, pH 10.5, 25°C <119>	119
+Hexanol	6	{'comment': '#6# isoform GLOX2, cf. EC 1.2.3.1 <48>; #6# isoform Glox3 <9>'}	6	Mus musculus	86.5	#6# recombinant isozyme ADH4, pH 10.5, 25°C <119>	119
+(S)-1-phenylethanol	-----	-----	7	Thermus thermophilus	1.1	#7# pH 10.5, 65°C <169>	169
+(S)-(-)-1-phenylethanol	-----	-----	7	Thermus thermophilus	1.1	#7# 65°C <169>	169
+4-methoxybenzyl alcohol	-----	-----	7	Thermus thermophilus	1.6	#7# 65°C <169>; #7# pH 10.5, 65°C <169>	169
+4-methoxybenzaldehyde	-----	-----	7	Thermus thermophilus	3.1	#7# pH 6.0, 65°C <169>	169
+3-Methoxybenzaldehyde	-----	-----	7	Thermus thermophilus	3.1	#7# 65°C <169>	169
+NAD+	-----	-----	7	Thermus thermophilus	0.84	#7# 65°C <169>; #7# pH 10.5, 65°C <169>	169
+alpha-tetralone	-----	-----	7	Thermus thermophilus	7.7	#7# 65°C <169>; #7# pH 10.5, 65°C <169>	169
+1-Indanol	-----	-----	7	Thermus thermophilus	45.7	#7# 65°C <169>	169
+1-Indanone	-----	-----	7	Thermus thermophilus	8.3	#7# 65°C <169>; #7# pH 10.5, 65°C <169>	169
+NADH	-----	-----	7	Thermus thermophilus	52.4	#7# 65°C <169>; #7# pH 10.5, 65°C <169>	169
+(S)-alpha-tetralol	-----	-----	7	Thermus thermophilus	57.0	#7# pH 10.5, 65°C <169>	169
+(S)-(+)-alpha-tetraol	-----	-----	7	Thermus thermophilus	57.0	#7# 65°C <169>	169
+1-phenyl-1,2-propanedione	-----	-----	7	Thermus thermophilus	17.1	#7# 65°C <169>	169
+1-phenyl-1,2-propandione	-----	-----	7	Thermus thermophilus	17.1	#7# pH 10.5, 65°C <169>	169
+2,2,2-trifluoroacetophenone	-----	-----	7	Thermus thermophilus	25.5	#7# 65°C <169>; #7# pH 10.5, 65°C <169>	169
+methylbenzoylformate	-----	-----	7	Thermus thermophilus	38.1	#7# 65°C <169>	169
+methyl oxo(phenyl)acetate	-----	-----	7	Thermus thermophilus	38.1	#7# pH 10.5, 65°C <169>	169
+ethyl benzoylformate	-----	-----	7	Thermus thermophilus	50.1	#7# 65°C <169>	169
+ethyl oxo(phenyl)acetate	-----	-----	7	Thermus thermophilus	50.1	#7# pH 10.5, 65°C <169>	169
+alpha-tetralol	-----	-----	7	Thermus thermophilus	48.1	#7# 65°C <169>	169
+(S)-1-indanol	-----	-----	7	Thermus thermophilus	61.4	#7# pH 10.5, 65°C <169>	169
+(S)-(+)-1-indanol	-----	-----	7	Thermus thermophilus	61.4	#7# 65°C <169>	169
+ethanol	71	{'comment': '#71# isoform PYRC2 <60>'}	71	Coturnix coturnix	4.92	#71# enzyme form ADH-2 <60>	60
+octanal	71	{'comment': '#71# isoform PYRC2 <60>'}	71	Coturnix coturnix	17.0	#71# enzyme form ADH-3 <60>	60
+NADH	71	{'comment': '#71# isoform PYRC2 <60>'}	71	Coturnix coturnix	8.88	#71# enzyme form ADH-3 <60>	60
+Cyclohexanol	71	{'comment': '#71# isoform PYRC2 <60>'}	71	Coturnix coturnix	0.75	#71# enzyme form ADH-2 <60>	60
+butan-1-ol	71	{'comment': '#71# isoform PYRC2 <60>'}	71	Coturnix coturnix	7.22	#71# enzyme form ADH-3 <60>	60
+12-hydroxydodecanoate	71	{'comment': '#71# isoform PYRC2 <60>'}	71	Coturnix coturnix	1.45	#71# enzyme form ADH-3 <60>	60
+benzyl alcohol	71	{'comment': '#71# isoform PYRC2 <60>'}	71	Coturnix coturnix	2.52	#71# enzyme form ADH-3 <60>	60
+octan-1-ol	71	{'comment': '#71# isoform PYRC2 <60>'}	71	Coturnix coturnix	1.85	#71# enzyme form ADH-3 <60>	60
+NAD+	71	{'comment': '#71# isoform PYRC2 <60>'}	71	Coturnix coturnix	4.67	#71# enzyme form ADH-2 <60>	60
+pentan-1-ol	71	{'comment': '#71# isoform PYRC2 <60>'}	71	Coturnix coturnix	2.92	#71# enzyme form ADH-3 <60>	60
+Cyclohexanol	71	{'comment': '#71# isoform PYRC2 <60>'}	71	Coturnix coturnix	3.55	#71# enzyme form ADH-3 <60>	60
+NAD+	71	{'comment': '#71# isoform PYRC2 <60>'}	71	Coturnix coturnix	6.18	#71# enzyme form ADH-3 <60>	60
+ethanol	71	{'comment': '#71# isoform PYRC2 <60>'}	71	Coturnix coturnix	6.63	#71# enzyme form ADH-3 <60>	60
+acetaldehyde	-----	-----	75	Parageobacillus thermoglucosidasius	350.0	#75# alcohol dehydrogenase domain, 60°C, pH 6.0, presence of 0.1 mM Zn2+ <240>	240
+acetaldehyde	-----	-----	75	Parageobacillus thermoglucosidasius	83.0	#75# wild-type, 60°C, pH 6.0, presence of 0.1 mM Zn2+ <240>	240
+methanol	82	{'comment': '#82# isoform HAOX-4 <24>'}	82	Saimiri sciureus	0.117	#82# pyrazole-sensitive enzyme, pH 7.5 <24>	24
+acetaldehyde	82	{'comment': '#82# isoform HAOX-4 <24>'}	82	Saimiri sciureus	16.7	#82# pyrazole-sensitive enzyme, pH 7.0 <24>	24
+ethanol	82	{'comment': '#82# isoform HAOX-4 <24>'}	82	Saimiri sciureus	0.45	#82# pyrazole-insensitive enzyme, pH 10.0 <24>	24
+butanol	82	{'comment': '#82# isoform HAOX-4 <24>'}	82	Saimiri sciureus	0.45	#82# pyrazole-sensitive enzyme and pyrazole-insensitive enzyme, pH 10.0 <24>	24
+acetaldehyde	82	{'comment': '#82# isoform HAOX-4 <24>'}	82	Saimiri sciureus	3.33	#82# pyrazole-insensitive enzyme, pH 7.0 <24>	24
+Pentanol	82	{'comment': '#82# isoform HAOX-4 <24>'}	82	Saimiri sciureus	0.333	#82# pyrazole-sensitive enzyme, pH 10.0 <24>	24
+butanol	82	{'comment': '#82# isoform HAOX-4 <24>'}	82	Saimiri sciureus	0.35	#82# pyrazole-sensitive enzyme, pH 7.5 <24>	24
+methanol	82	{'comment': '#82# isoform HAOX-4 <24>'}	82	Saimiri sciureus	0.217	#82# pyrazole-sensitive enzyme, pH 10.0 <24>	24
+ethanol	82	{'comment': '#82# isoform HAOX-4 <24>'}	82	Saimiri sciureus	0.567	#82# pyrazole-sensitive enzyme <24>	24
+ethanol	82	{'comment': '#82# isoform HAOX-4 <24>'}	82	Saimiri sciureus	0.0833	#82# pyrazole-insensitive enzyme, pH 7.5 <24>	24
+butanol	82	{'comment': '#82# isoform HAOX-4 <24>'}	82	Saimiri sciureus	0.0833	#82# pyrazole-insensitive enzyme, pH 7.5 <24>	24
+Pentanol	82	{'comment': '#82# isoform HAOX-4 <24>'}	82	Saimiri sciureus	0.283	#82# pyrazole-sensitive enzyme, pH 7.5 <24>	24
+butanol	-----	-----	86	Alligator mississippiensis	1.1	-----	101
+methanol	-----	-----	86	Alligator mississippiensis	0.05	-----	101
+Octanol	-----	-----	86	Alligator mississippiensis	0.15	-----	101
+Cyclohexanol	-----	-----	86	Alligator mississippiensis	0.167	-----	101
+Hexanol	-----	-----	86	Alligator mississippiensis	0.167	-----	101
+ethanol	-----	-----	86	Alligator mississippiensis	0.467	-----	101
+ethyl pyruvate	-----	-----	88	Carboxydothermus hydrogenoformans	3.97	#88# pH 6.5, 50°C, recombinant enzyme <225>	225
+all-trans-retinal	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	0.55	#9# pH 7.5, 25°C, isozyme ADH1B2 <107>	107
+all-trans-retinol	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	0.4	-----	53
+Pentanol	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	8.0	-----	14
+ethanol	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	0.7	#9# pH 7.5, anodic enzyme form <18>	18
+butanol	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	0.7	#9# pH 7.5, anodic enzyme form <18>	18
+all-trans-retinol	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	0.9	#9# pH 7.5, 25°C, isozyme ADH4 <107>	107
+Octanol	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	0.04	#9# recombinant allozyme Val308, pH 7.5, 25°C <115>	115
+Pentanol	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	16.0	-----	53
+ethanol	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	2.5	#9# per active site <12>	12
+3,4-dihydro-retinol	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	2.5	#9# pH 7.5, 25°C, isozyme ADH4 <107>	107
+16-hydroxyhexadecanoate	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	6.17	-----	14
+4-oxo-retinal	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	20.0	#9# pH 7.5, 25°C, isozyme ADH4 <107>	107
+ethanol	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	4.0	#9# isoenzyme alpha,gamma1 <13>	13
+12-hydroxydodecanoate	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	4.0	-----	14
+retinol	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	0.11	#9# recombinant allozyme Val308, pH 7.5, 25°C <115>	115
+ethanol	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	3.83	#9# isoenzyme gamma1,gamma1 <13>	13
+Octanol	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	4.33	#9# isoenzyme alpha,gamma1 <13>	13
+ethanol	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	0.167	#9# recombinant allozyme Ile308, pH 7.5, 25°C <115>	115
+4-oxo-retinal	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	0.167	#9# pH 7.5, 25°C, isozyme ADH1B1 <107>	107
+1-Pentanol	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	0.183	-----	11
+Cyclohexanol	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	0.583	-----	14
+2-propanol	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	0.75	-----	14
+ethylene glycol	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	0.75	-----	14
+1-Octanol	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	2.83	-----	11
+2-deoxy-D-ribose	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	2.83	-----	14
+4-hydroxy-retinol	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	2.83	#9# pH 7.5, 25°C, isozyme ADH1B2 <107>	107
+3-Phenyl-1-propanol	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	7.5	-----	14
+octanal	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	3.33	-----	16
+Octanol	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	7.33	-----	16
+12-Hydroxydodecanoic acid	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	0.333	-----	11
+(S)-2-butanol	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	2.17	-----	53
+all-trans-retinal	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	0.018	#9# pH 7.5, 25°C, isozyme ADH1B1 <107>	107
+4-hydroxy-retinol	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	0.092	#9# pH 7.5, 25°C, isozyme ADH1B1 <107>	107
+all-trans-retinol	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	0.25	#9# pH 7.5, 25°C, isozyme ADH1B2 <107>	107
+Pentanol	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	0.667	#9# pH 7.5, anodic enzyme form <18>	18
+Octanol	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	0.038	#9# recombinant allozyme Ile308, pH 7.5, 25°C <115>	115
+12-hydroxydodecanoate	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	2.95	-----	53
+Octanol	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	8.33	-----	14
+benzyl alcohol	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	9.17	-----	14
+3,4-dihydro-retinal	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	0.22	#9# pH 7.5, 25°C, isozyme ADH1B2 <107>	107
+benzyl alcohol	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	4.67	#9# isoenzyme alpha,gamma1 <13>	13
+Propanol	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	17.2	-----	53
+Pentanol	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	0.245	-----	16
+NAD+	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	0.717	#9# pH 7.5, anodic enzyme form <18>	18
+all-trans-retinal	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	1.83	#9# pH 7.5, 25°C, isozyme ADH4 <107>	107
+tryptophol	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	1.83	-----	14
+methanol	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	0.102	-----	12
+Vanillyl alcohol	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	0.467	-----	16
+3-Pyridylcarbinol	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	0.683	#9# pH 7.5, anodic enzyme form <18>	18
+3,4-dihydro-retinal	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	1.22	#9# pH 7.5, 25°C, isozyme ADH4 <107>	107
+12-hydroxydodecanoate	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	3.03	-----	16
+ethanol	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	7.83	-----	14
+4-oxo-retinal	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	7.83	#9# pH 7.5, 25°C, isozyme ADH1B2 <107>	107
+Vanillyl alcohol	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	8.67	-----	14
+ethanol	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	10.2	#9# pH 10.0, anodic enzyme form <18>	18
+Hexanol	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	19.5	-----	53
+ethanol	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	30.7	-----	53
+butanol	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	34.8	-----	53
+ethanol	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	0.175	#9# recombinant allozyme Val308, pH 7.5, 25°C <115>	115
+all-trans-retinol	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	0.028	#9# pH 7.5, 25°C, isozyme ADH1B1 <107>	107
+retinol	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	0.087	#9# recombinant allozyme Ile308, pH 7.5, 25°C <115>	115
+4-hydroxy-retinol	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	34.2	#9# pH 7.5, 25°C, isozyme ADH4 <107>	107
+3,4-dihydro-retinol	9	{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}	9	Homo sapiens	0.088	#9# pH 7.5, 25°C, isozyme ADH1B2 <107>	107
+ethanol	96	{'accessions': ['Q8L3C9'], 'source': 'uniprot'}	96	Flavobacterium frigidimaris	39.9	#96# 10°C, pH 9.0 <144>	144
+ethanol	96	{'accessions': ['Q8L3C9'], 'source': 'uniprot'}	96	Flavobacterium frigidimaris	62.48	#96# 20°C, pH 9.0 <144>	144
+ethanol	96	{'accessions': ['Q8L3C9'], 'source': 'uniprot'}	96	Flavobacterium frigidimaris	109.5	#96# 30°C, pH 9.0 <144>	144
+ethanol	96	{'accessions': ['Q8L3C9'], 'source': 'uniprot'}	96	Flavobacterium frigidimaris	160.8	#96# 40°C, pH 9.0 <144>	144
+ethanol	96	{'accessions': ['Q8L3C9'], 'source': 'uniprot'}	96	Flavobacterium frigidimaris	262.3	#96# 50°C, pH 9.0 <144>	144
+ethanol	96	{'accessions': ['Q8L3C9'], 'source': 'uniprot'}	96	Flavobacterium frigidimaris	474.9	#96# 60°C, pH 9.0 <144>	144
