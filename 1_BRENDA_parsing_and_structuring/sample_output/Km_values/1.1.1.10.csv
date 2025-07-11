@@ -1,0 +1,145 @@
+Substrate	Protein_ID	Protein_details	Organism_ID	Organism_name	Km_value	Conditions	References
+L-xylulose	1	{'comment': '#1# SULT1A2 <1,2,6,7>'}	1	Cavia porcellus	0.29	-----	1
+xylitol	12	{'comment': '#12# multienzyme complex <4>'}	12	Pantoea ananatis	48.0	-----	4
+xylitol	-----	-----	14	Erwinia sp.	72.0	-----	3
+NADH	18	{'accessions': ['Q7Z4W1'], 'source': 'uniprot'}	18	Homo sapiens	0.17	#18# pH 7.0, 25°C <14>	14
+NADP+	18	{'accessions': ['Q7Z4W1'], 'source': 'uniprot'}	18	Homo sapiens	0.001	#18# pH 7.0, 25°C <14>	14
+L-xylulose	18	{'accessions': ['Q7Z4W1'], 'source': 'uniprot'}	18	Homo sapiens	0.21	#18# pH 7.0, 25°C <14>	14
+diacetyl	18	{'accessions': ['Q7Z4W1'], 'source': 'uniprot'}	18	Homo sapiens	0.22	#18# mutant enzyme C138A, in 10 mM potassium phosphate buffer <29>	29
+D-erythrose	18	{'accessions': ['Q7Z4W1'], 'source': 'uniprot'}	18	Homo sapiens	2.4	#18# pH 7.0, 25°C <14>	14
+DL-glyceraldehyde	18	{'accessions': ['Q7Z4W1'], 'source': 'uniprot'}	18	Homo sapiens	1.2	#18# pH 7.0, 25°C <14>	14
+acetoin	18	{'accessions': ['Q7Z4W1'], 'source': 'uniprot'}	18	Homo sapiens	1.5	#18# pH 7.0, 25°C <14>	14
+D-threose	18	{'accessions': ['Q7Z4W1'], 'source': 'uniprot'}	18	Homo sapiens	1.9	#18# pH 7.0, 25°C <14>	14
+L-erythrulose	18	{'accessions': ['Q7Z4W1'], 'source': 'uniprot'}	18	Homo sapiens	2.5	#18# pH 7.0, 25°C <14>	14
+D-xylulose	18	{'accessions': ['Q7Z4W1'], 'source': 'uniprot'}	18	Homo sapiens	4.8	#18# pH 7.0, 25°C <14>	14
+NAD+	18	{'accessions': ['Q7Z4W1'], 'source': 'uniprot'}	18	Homo sapiens	0.85	#18# pH 7.0, 25°C <14>	14
+dihydroxyacetone	18	{'accessions': ['Q7Z4W1'], 'source': 'uniprot'}	18	Homo sapiens	1.6	#18# pH 7.0, 25°C <14>	14
+L-threose	18	{'accessions': ['Q7Z4W1'], 'source': 'uniprot'}	18	Homo sapiens	4.2	#18# pH 7.0, 25°C <14>	14
+D-ribulose	18	{'accessions': ['Q7Z4W1'], 'source': 'uniprot'}	18	Homo sapiens	5.0	#18# pH 7.0, 25°C <14>	14
+diacetyl	18	{'accessions': ['Q7Z4W1'], 'source': 'uniprot'}	18	Homo sapiens	26.0	#18# pH 7.0, 25°C, mutant N107D <17>	17
+xylitol	18	{'accessions': ['Q7Z4W1'], 'source': 'uniprot'}	18	Homo sapiens	25.0	#18# pH 7.0, 25°C <14>	14
+diacetyl	18	{'accessions': ['Q7Z4W1'], 'source': 'uniprot'}	18	Homo sapiens	0.077	#18# pH 7.0, 25°C, wild-type enzyme <17>; #18# pH 7.0, 25°C <14>	14,17
+D-threitol	18	{'accessions': ['Q7Z4W1'], 'source': 'uniprot'}	18	Homo sapiens	18.0	#18# pH 7.0, 25°C <14>	14
+diacetyl	18	{'accessions': ['Q7Z4W1'], 'source': 'uniprot'}	18	Homo sapiens	31.0	#18# pH 7.0, 25°C, mutant N107L <17>	17
+NADPH	18	{'accessions': ['Q7Z4W1'], 'source': 'uniprot'}	18	Homo sapiens	95.0	#18# pH 7.0, 25°C, mutant N107D <17>	17
+NADPH	18	{'accessions': ['Q7Z4W1'], 'source': 'uniprot'}	18	Homo sapiens	97.0	#18# pH 7.0, 25°C, mutant N107L <17>	17
+diacetyl	18	{'accessions': ['Q7Z4W1'], 'source': 'uniprot'}	18	Homo sapiens	0.0945	#18# wild type enzyme, in 10 mM potassium phosphate buffer <29>	29
+D-ribulose	19	{'accessions': ['Q70FD1'], 'source': 'uniprot'}	19	Ambrosiozyma monospora	4.7	#19# pH 7.0, 30°C, purified recombinant enzyme <15>	15
+D-arabinitol	19	{'accessions': ['Q70FD1'], 'source': 'uniprot'}	19	Ambrosiozyma monospora	2.7	#19# pH 9.0, 30°C, purified recombinant enzyme <15>	15
+L-xylulose	19	{'accessions': ['Q70FD1'], 'source': 'uniprot'}	19	Ambrosiozyma monospora	9.6	#19# pH 7.0, 30°C, purified recombinant enzyme <15>	15
+L-xylitol	19	{'accessions': ['Q70FD1'], 'source': 'uniprot'}	19	Ambrosiozyma monospora	7.2	#19# pH 9.0, 30°C, purified recombinant enzyme <15>	15
+NADH	20	{'accessions': ['Q91X52'], 'source': 'uniprot'}	20	Mus musculus	0.22	#20# pH 7.0, 25°C <14>	14
+diacetyl	20	{'accessions': ['Q91X52'], 'source': 'uniprot'}	20	Mus musculus	0.67	#20# pH 7.0, 25°C <14>	14
+D-threose	20	{'accessions': ['Q91X52'], 'source': 'uniprot'}	20	Mus musculus	2.4	#20# pH 7.0, 25°C <14>	14
+D-ribulose	20	{'accessions': ['Q91X52'], 'source': 'uniprot'}	20	Mus musculus	5.7	#20# pH 7.0, 25°C <14>	14
+D-erythrose	20	{'accessions': ['Q91X52'], 'source': 'uniprot'}	20	Mus musculus	5.7	#20# pH 7.0, 25°C <14>	14
+acetoin	20	{'accessions': ['Q91X52'], 'source': 'uniprot'}	20	Mus musculus	9.0	#20# pH 7.0, 25°C <14>	14
+L-erythrulose	20	{'accessions': ['Q91X52'], 'source': 'uniprot'}	20	Mus musculus	4.8	#20# pH 7.0, 25°C <14>	14
+L-threose	20	{'accessions': ['Q91X52'], 'source': 'uniprot'}	20	Mus musculus	5.6	#20# pH 7.0, 25°C <14>	14
+L-xylulose	20	{'accessions': ['Q91X52'], 'source': 'uniprot'}	20	Mus musculus	0.24	#20# pH 7.0, 25°C <14>	14
+DL-glyceraldehyde	20	{'accessions': ['Q91X52'], 'source': 'uniprot'}	20	Mus musculus	6.0	#20# pH 7.0, 25°C <14>	14
+xylitol	20	{'accessions': ['Q91X52'], 'source': 'uniprot'}	20	Mus musculus	15.0	#20# pH 7.0, 25°C <14>	14
+D-threitol	20	{'accessions': ['Q91X52'], 'source': 'uniprot'}	20	Mus musculus	37.0	#20# pH 7.0, 25°C <14>	14
+NAD+	20	{'accessions': ['Q91X52'], 'source': 'uniprot'}	20	Mus musculus	0.99	#20# pH 7.0, 25°C <14>	14
+dihydroxyacetone	20	{'accessions': ['Q91X52'], 'source': 'uniprot'}	20	Mus musculus	47.0	#20# pH 7.0, 25°C <14>	14
+NADPH	20	{'accessions': ['Q91X52'], 'source': 'uniprot'}	20	Mus musculus	0.005	#20,22# pH 7.0, 25°C <14>	14
+D-xylulose	20	{'accessions': ['Q91X52'], 'source': 'uniprot'}	20	Mus musculus	12.0	#20,23# pH 7.0, 25°C <14>	14
+L-xylulose	21	{'accessions': ['Q920P0'], 'source': 'uniprot'}	21	Rattus norvegicus	0.23	#21# pH 7.0, 25°C <14>	14
+NAD+	21	{'accessions': ['Q920P0'], 'source': 'uniprot'}	21	Rattus norvegicus	1.5	#21# pH 7.0, 25°C <14>	14
+D-threose	21	{'accessions': ['Q920P0'], 'source': 'uniprot'}	21	Rattus norvegicus	4.0	#21# pH 7.0, 25°C <14>	14
+NADH	21	{'accessions': ['Q920P0'], 'source': 'uniprot'}	21	Rattus norvegicus	0.36	#21# pH 7.0, 25°C <14>	14
+L-threose	21	{'accessions': ['Q920P0'], 'source': 'uniprot'}	21	Rattus norvegicus	8.3	#21# pH 7.0, 25°C <14>	14
+diacetyl	21	{'accessions': ['Q920P0'], 'source': 'uniprot'}	21	Rattus norvegicus	1.1	#21# pH 7.0, 25°C <14>	14
+DL-glyceraldehyde	21	{'accessions': ['Q920P0'], 'source': 'uniprot'}	21	Rattus norvegicus	2.7	#21# pH 7.0, 25°C <14>	14
+xylitol	21	{'accessions': ['Q920P0'], 'source': 'uniprot'}	21	Rattus norvegicus	11.0	#21# pH 7.0, 25°C <14>	14
+D-threitol	21	{'accessions': ['Q920P0'], 'source': 'uniprot'}	21	Rattus norvegicus	16.0	#21# pH 7.0, 25°C <14>	14
+D-erythrose	21	{'accessions': ['Q920P0'], 'source': 'uniprot'}	21	Rattus norvegicus	6.0	#21# pH 7.0, 25°C <14>	14
+L-erythrulose	21	{'accessions': ['Q920P0'], 'source': 'uniprot'}	21	Rattus norvegicus	5.5	#21# pH 7.0, 25°C <14>	14
+acetoin	21	{'accessions': ['Q920P0'], 'source': 'uniprot'}	21	Rattus norvegicus	6.9	#21# pH 7.0, 25°C <14>	14
+D-xylulose	21	{'accessions': ['Q920P0'], 'source': 'uniprot'}	21	Rattus norvegicus	18.0	#21,22# pH 7.0, 25°C <14>	14
+dihydroxyacetone	21	{'accessions': ['Q920P0'], 'source': 'uniprot'}	21	Rattus norvegicus	60.0	#21,23# pH 7.0, 25°C <14>	14
+D-ribulose	21	{'accessions': ['Q920P0'], 'source': 'uniprot'}	21	Rattus norvegicus	6.3	#21,23# pH 7.0, 25°C <14>	14
+L-xylulose	22	{'accessions': ['Q920N9'], 'source': 'uniprot'}	22	Cavia porcellus	0.05	#22# pH 7.0, 25°C <14>	14
+NADP+	22	{'accessions': ['Q920N9'], 'source': 'uniprot'}	22	Cavia porcellus	0.002	#22# pH 7.0, 25°C <14>	14
+L-erythrulose	22	{'accessions': ['Q920N9'], 'source': 'uniprot'}	22	Cavia porcellus	2.0	#22# pH 7.0, 25°C <14>	14
+D-threose	22	{'accessions': ['Q920N9'], 'source': 'uniprot'}	22	Cavia porcellus	2.0	#22# pH 7.0, 25°C <14>	14
+DL-glyceraldehyde	22	{'accessions': ['Q920N9'], 'source': 'uniprot'}	22	Cavia porcellus	1.4	#22# pH 7.0, 25°C <14>	14
+xylitol	22	{'accessions': ['Q920N9'], 'source': 'uniprot'}	22	Cavia porcellus	10.0	#22# pH 7.0, 25°C <14>	14
+D-erythrose	22	{'accessions': ['Q920N9'], 'source': 'uniprot'}	22	Cavia porcellus	0.59	#22# pH 7.0, 25°C <14>	14
+NADH	22	{'accessions': ['Q920N9'], 'source': 'uniprot'}	22	Cavia porcellus	0.69	#22# pH 7.0, 25°C <14>	14
+D-threitol	22	{'accessions': ['Q920N9'], 'source': 'uniprot'}	22	Cavia porcellus	14.0	#22# pH 7.0, 25°C <14>	14
+L-threose	22	{'accessions': ['Q920N9'], 'source': 'uniprot'}	22	Cavia porcellus	2.9	#22# pH 7.0, 25°C <14>	14
+diacetyl	22	{'accessions': ['Q920N9'], 'source': 'uniprot'}	22	Cavia porcellus	0.52	#22# pH 7.0, 25°C <14>	14
+dihydroxyacetone	22	{'accessions': ['Q920N9'], 'source': 'uniprot'}	22	Cavia porcellus	36.0	#22# pH 7.0, 25°C <14>	14
+acetoin	22	{'accessions': ['Q920N9'], 'source': 'uniprot'}	22	Cavia porcellus	13.0	#22# pH 7.0, 25°C <14>	14
+D-ribulose	22	{'accessions': ['Q920N9'], 'source': 'uniprot'}	22	Cavia porcellus	7.8	#22# pH 7.0, 25°C <14>	14
+L-xylulose	23	{'accessions': ['Q91XV4'], 'source': 'uniprot'}	23	Mesocricetus auratus	0.26	#23# pH 7.0, 25°C <14>	14
+NADPH	23	{'accessions': ['Q91XV4'], 'source': 'uniprot'}	23	Mesocricetus auratus	0.003	#23# pH 7.0, 25°C <14>	14
+diacetyl	23	{'accessions': ['Q91XV4'], 'source': 'uniprot'}	23	Mesocricetus auratus	0.2	#23# pH 7.0, 25°C <14>	14
+NADH	23	{'accessions': ['Q91XV4'], 'source': 'uniprot'}	23	Mesocricetus auratus	0.12	#23# pH 7.0, 25°C <14>	14
+acetoin	23	{'accessions': ['Q91XV4'], 'source': 'uniprot'}	23	Mesocricetus auratus	3.3	#23# pH 7.0, 25°C <14>	14
+L-threose	23	{'accessions': ['Q91XV4'], 'source': 'uniprot'}	23	Mesocricetus auratus	4.3	#23# pH 7.0, 25°C <14>	14
+D-threose	23	{'accessions': ['Q91XV4'], 'source': 'uniprot'}	23	Mesocricetus auratus	2.7	#23# pH 7.0, 25°C <14>	14
+NAD+	23	{'accessions': ['Q91XV4'], 'source': 'uniprot'}	23	Mesocricetus auratus	0.91	#23# pH 7.0, 25°C <14>	14
+xylitol	23	{'accessions': ['Q91XV4'], 'source': 'uniprot'}	23	Mesocricetus auratus	40.0	#23# pH 7.0, 25°C <14>	14
+D-erythrose	23	{'accessions': ['Q91XV4'], 'source': 'uniprot'}	23	Mesocricetus auratus	3.9	#23# pH 7.0, 25°C <14>	14
+L-erythrulose	23	{'accessions': ['Q91XV4'], 'source': 'uniprot'}	23	Mesocricetus auratus	2.9	#23# pH 7.0, 25°C <14>	14
+D-threitol	23	{'accessions': ['Q91XV4'], 'source': 'uniprot'}	23	Mesocricetus auratus	34.0	#23# pH 7.0, 25°C <14>	14
+DL-glyceraldehyde	23	{'accessions': ['Q91XV4'], 'source': 'uniprot'}	23	Mesocricetus auratus	5.1	#23# pH 7.0, 25°C <14>	14
+xylitol	24	{'accessions': ['Q8NK50'], 'source': 'uniprot'}	24	Trichoderma reesei	100.0	#24# pH 7.0, 30°C, recombinant enzyme <33>	33
+NADPH	24	{'accessions': ['Q8NK50'], 'source': 'uniprot'}	24	Trichoderma reesei	0.13	#24# pH 7.0, 30°C, recombinant enzyme, with L-xylulose <33>	33
+L-xylulose	24	{'accessions': ['Q8NK50'], 'source': 'uniprot'}	24	Trichoderma reesei	16.0	#24# pH 7.0, 30°C, recombinant enzyme <33>	33
+D-sorbitol	24	{'accessions': ['Q8NK50'], 'source': 'uniprot'}	24	Trichoderma reesei	250.0	#24# pH 7.0, 30°C, recombinant enzyme <33>	33
+D-ribulose	24	{'accessions': ['Q8NK50'], 'source': 'uniprot'}	24	Trichoderma reesei	105.0	#24# pH 7.0, 30°C, recombinant enzyme <33>	33
+L-erythrulose	25	{'accessions': ['Q21929'], 'source': 'uniprot'}	25	Caenorhabditis elegans	0.17	#25# pH 7.0, temperature not specified in the publication <34>	34
+L-ribulose	25	{'accessions': ['Q21929'], 'source': 'uniprot'}	25	Caenorhabditis elegans	0.18	#25# pH 7.0, temperature not specified in the publication <34>	34
+L-xylulose	25	{'accessions': ['Q21929'], 'source': 'uniprot'}	25	Caenorhabditis elegans	0.66	#25# pH 7.0, temperature not specified in the publication <34>	34
+D-erythrose	25	{'accessions': ['Q21929'], 'source': 'uniprot'}	25	Caenorhabditis elegans	0.27	#25# pH 7.0, temperature not specified in the publication <34>	34
+D-threose	25	{'accessions': ['Q21929'], 'source': 'uniprot'}	25	Caenorhabditis elegans	0.68	#25# pH 7.0, temperature not specified in the publication <34>	34
+D-xylulose	25	{'accessions': ['Q21929'], 'source': 'uniprot'}	25	Caenorhabditis elegans	2.58	#25# pH 7.0, temperature not specified in the publication <34>	34
+L-xylulose	26	{'accessions': ['A0A0M4UR95'], 'source': 'uniprot'}	26	Rhizomucor pusillus	13.2	#26# pH 7.0, 25°C, recombinant enzyme <38>	38
+xylitol	26	{'accessions': ['A0A0M4UR95'], 'source': 'uniprot'}	26	Rhizomucor pusillus	225.0	#26# pH 9.6, 25°C, recombinant enzyme <38>	38
+xylitol	26	{'accessions': ['A0A0M4UR95'], 'source': 'uniprot'}	26	Rhizomucor pusillus	253.0	#26# pH 9.6, 25°C, native enzyme <38>	38
+L-xylulose	26	{'accessions': ['A0A0M4UR95'], 'source': 'uniprot'}	26	Rhizomucor pusillus	8.71	#26# pH 7.0, 25°C, native enzyme <38>	38
+1,4-dibromo-2,3-butanedione	-----	-----	4	Rattus norvegicus	0.05	#4# pH 7.0, 25°C, mutant S136A <13>	13
+1,4-dibromo-2,3-butanedione	-----	-----	4	Rattus norvegicus	0.1	#4# pH 7.0, 25°C, mutant K153M <13>	13
+L-xylulose	-----	-----	4	Rattus norvegicus	0.31	#4# pH 7.0, 25°C, mutant N190V <13>	13
+L-xylitol	-----	-----	4	Rattus norvegicus	0.013	#4# pH 7.0, 25°C, mutant S136A <13>	13
+1,4-dibromo-2,3-butanedione	-----	-----	4	Rattus norvegicus	0.005	#4# pH 7.0, 25°C, wild-type enzyme <13>	13
+NADPH	-----	-----	4	Rattus norvegicus	0.0046	#4# pH 7.0, 25°C, mutant S136A <13>	13
+L-xylulose	-----	-----	4	Rattus norvegicus	0.14	#4# pH 7.0, 25°C, wild-type enzyme and mutant L143F <13>	13
+diacetyl	-----	-----	4	Rattus norvegicus	0.78	#4# pH 7.0, 25°C, wild-type enzyme <13>	13
+L-xylitol	-----	-----	4	Rattus norvegicus	0.011	#4# pH 7.0, 25°C, wild-type enzyme <13>	13
+diacetyl	-----	-----	4	Rattus norvegicus	1.2	#4# pH 7.0, 25°C, mutant H146L <13>	13
+diacetyl	-----	-----	4	Rattus norvegicus	3.0	#4# pH 7.0, 25°C, mutant Q137M <13>	13
+L-xylitol	-----	-----	4	Rattus norvegicus	0.085	#4# pH 7.0, 25°C, mutant K153M <13>	13
+L-xylulose	-----	-----	4	Rattus norvegicus	0.33	#4# pH 7.0, 25°C, mutant Q137M <13>	13
+NADP+	-----	-----	4	Rattus norvegicus	0.0013	#4# pH 7.0, 25°C, mutant Y149F <13>	13
+diacetyl	-----	-----	4	Rattus norvegicus	2.7	#4# pH 7.0, 25°C, mutant N190V/W191S/Q137M/L143F/H146L <13>	13
+diacetyl	-----	-----	4	Rattus norvegicus	11.0	#4# pH 7.0, 25°C, mutant Q137M/L143F <13>	13
+NADPH	-----	-----	4	Rattus norvegicus	0.053	#4# pH 7.0, 25°C, mutant K153M <13>	13
+diacetyl	-----	-----	4	Rattus norvegicus	16.0	#4# pH 7.0, 25°C, mutant N190V/W191S <13>	13
+diacetyl	-----	-----	4	Rattus norvegicus	2.6	#4# pH 7.0, 25°C, mutant N190V <13>	13
+L-xylulose	-----	-----	4	Rattus norvegicus	0.092	#4# pH 7.0, 25°C, mutant H146L <13>	13
+L-xylulose	-----	-----	4	Rattus norvegicus	3.6	#4# pH 7.0, 25°C, mutant Q137M/L143F <13>	13
+diacetyl	-----	-----	4	Rattus norvegicus	42.0	#4# pH 7.0, 25°C, mutant W191S <13>	13
+diacetyl	-----	-----	4	Rattus norvegicus	9.6	#4# pH 7.0, 25°C, mutant Q137M/L143F/H146L <13>	13
+diacetyl	-----	-----	4	Rattus norvegicus	5.2	#4# pH 7.0, 25°C, mutant W191F <13>	13
+diacetyl	-----	-----	4	Rattus norvegicus	6.2	#4# pH 7.0, 25°C, mutant L143F <13>	13
+L-xylulose	-----	-----	4	Rattus norvegicus	7.2	#4# pH 7.0, 25°C, mutant W191F <13>	13
+L-xylitol	-----	-----	4	Rattus norvegicus	0.0099	#4# pH 7.0, 25°C, mutant Y149F <13>	13
+1,4-dibromo-2,3-butanedione	-----	-----	4	Rattus norvegicus	0.139	#4# pH 7.0, 25°C, mutant Y149F <13>	13
+NADP+	-----	-----	4	Rattus norvegicus	0.117	#4# pH 7.0, 25°C, mutant K153M <13>	13
+NADP+	-----	-----	4	Rattus norvegicus	0.00067	#4# pH 7.0, 25°C, mutant S136A <13>	13
+NADPH	18	{'accessions': ['Q7Z4W1'], 'source': 'uniprot'}	4	Rattus norvegicus	0.002	#18# pH 7.0, 25°C, wild-type enzyme <17>; #18# pH 7.0, 25°C <14>; #4# pH 7.0, 25°C, mutant Y149F <13>	13,14,17
+NADP+	21	{'accessions': ['Q920P0'], 'source': 'uniprot'}	4	Rattus norvegicus	0.003	#4# pH 7.0, 25°C, wild-type enzyme <13>; #20,21,23# pH 7.0, 25°C <14>	13,14
+NADPH	21	{'accessions': ['Q920P0'], 'source': 'uniprot'}	4	Rattus norvegicus	0.007	#4# pH 7.0, 25°C, wild-type enzyme <13>; #21# pH 7.0, 25°C <14>	13,14
+NADPH	-----	-----	7	Neurospora crassa	0.0026	-----	21
+D-ribulose	-----	-----	7	Neurospora crassa	150.0	-----	21
+NADP+	-----	-----	7	Neurospora crassa	0.153	-----	21
+xylitol	-----	-----	7	Neurospora crassa	1239.0	-----	21
+NADPH	-----	-----	8	Aspergillus niger	0.03	-----	8
+NADP+	-----	-----	8	Aspergillus niger	0.13	-----	8
+L-xylulose	-----	-----	8	Aspergillus niger	17.0	-----	8
+L-xylulose	-----	-----	8	Aspergillus niger	25.0	#8# pH 7.0, 22°C <32>	32
+xylitol	-----	-----	8	Aspergillus niger	925.0	-----	8

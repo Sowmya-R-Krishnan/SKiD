@@ -1,0 +1,153 @@
+Substrate	Protein_ID	Protein_details	Organism_ID	Organism_name	Km_value	Conditions	References
+dihydroxyacetone	-----	-----	10	Ogataea angusta	4.87	-----	20
+glycerol	-----	-----	10	Ogataea angusta	118.0	-----	20
+NAD+	-----	-----	11	Pichia membranifaciens	0.14	#11# 25°C <4>	4
+dihydroxyacetone	-----	-----	11	Pichia membranifaciens	0.77	#11# 25°C <4>	4
+NADH	-----	-----	11	Pichia membranifaciens	0.048	#11# 25°C <4>	4
+glycerol	-----	-----	11	Pichia membranifaciens	58.0	#11# 25°C <4>	4
+1,3-butanediol	-----	-----	12	Klebsiella pneumoniae	20.9	#12# pH 9.5, 30°C <45>	45
+glycerol	-----	-----	13	Arthrobacter sp.	0.8	#13# pH 10, 35°C <23>	23
+dihydroxyacetone	-----	-----	14	Clostridium butyricum	2.0	#14# pH 9.1, 37°C, mutant D <16>; #14# mutant enzyme E5-MD, at pH 9.1 and 37°C <16>	16
+NAD+	-----	-----	14	Clostridium butyricum	4.7	#14# pH 9.7, 37°C, mutant D <16>	16
+dihydroxyacetone	-----	-----	14	Clostridium butyricum	1.18	#14# pH 9.1, 37°C, wild-type enzyme <16>; #14# wild type enzyme, at pH 9.1 and 37°C <16>	16
+NAD+	-----	-----	14	Clostridium butyricum	4.07	#14# pH 9.7, 37°C, wild-type enzyme <16>	16
+glycerol	-----	-----	14	Clostridium butyricum	73.3	#14# pH 9.7, 37°C, mutant D 76.3 mM <16>	16
+glycerol	-----	-----	14	Clostridium butyricum	91.7	#14# pH 9.7, 37°C, wild-type enzyme <16>	16
+1,3-butanediol	-----	-----	15	Salmonella enterica	29.2	#15# pH 9.5, 30°C <45>	45
+2-butanol	-----	-----	2	Thermus thermophilus	0.3	#2# pH and temperature not specified in the publication <59>	59
+NADH	-----	-----	2	Thermus thermophilus	0.005	#2# pH and temperature not specified in the publication <59>	59
+NAD+	-----	-----	2	Thermus thermophilus	0.015	#2# pH and temperature not specified in the publication <59>	59
+D-glyceraldehyde	-----	-----	2	Thermus thermophilus	0.07	#2# pH and temperature not specified in the publication <59>	59
+glycerol	-----	-----	2	Thermus thermophilus	0.2	#2# pH and temperature not specified in the publication <59>	59
+1-phenylethanol	-----	-----	2	Thermus thermophilus	3.0	#2# pH and temperature not specified in the publication <59>	59
+2-propanol	-----	-----	2	Thermus thermophilus	4.0	#2# pH and temperature not specified in the publication <59>	59
+ethylene glycol	-----	-----	2	Thermus thermophilus	56.0	#2# pH and temperature not specified in the publication <59>	59
+ethanol	-----	-----	2	Thermus thermophilus	35.0	#2# pH and temperature not specified in the publication <59>	59
+1-propanol	-----	-----	2	Thermus thermophilus	46.0	#2# pH and temperature not specified in the publication <59>	59
+1,4-Butanediol	-----	-----	2	Thermus thermophilus	71.0	#2# pH and temperature not specified in the publication <59>	59
+benzyl alcohol	-----	-----	2	Thermus thermophilus	76.0	#2# pH and temperature not specified in the publication <59>	59
+1-butanol	-----	-----	2	Thermus thermophilus	840.0	#2# pH and temperature not specified in the publication <59>	59
+1-Octanol	-----	-----	2	Thermus thermophilus	840.0	#2# pH and temperature not specified in the publication <59>	59
+1,2-propanediol	-----	-----	26	Cellulomonas sp.	0.06	#26# pH 8.8, 25°C <17>	17
+NAD+	-----	-----	26	Cellulomonas sp.	0.089	#26# pH 9.0, 25°C <8>	8
+3-mercapto-1,2-propanediol	-----	-----	26	Cellulomonas sp.	4.0	#26# pH 8.8, 25°C <17>	17
+1,2-propanediol	-----	-----	26	Cellulomonas sp.	0.202	-----	15
+3-Chloro-1,2-propanediol	-----	-----	26	Cellulomonas sp.	6.0	#26# pH 8.8, 25°C <17>	17
+glycerol	-----	-----	26	Cellulomonas sp.	5.1	#26# pH 8.8, 25°C <17>	17
+R-1-amino-2-propanol	-----	-----	26	Cellulomonas sp.	4.4	#26# pH 8.8, 25°C <17>	17
+S-1-amino-2-propanol	-----	-----	26	Cellulomonas sp.	500.0	#26# pH 8.8, 25°C <17>	17
+3-bromo-1,2-propanediol	-----	-----	26	Cellulomonas sp.	6.1	#26# pH 8.8, 25°C <17>	17
+3-amino-1,2-propanediol	-----	-----	26	Cellulomonas sp.	180.0	#26# pH 8.8, 25°C <17>	17
+2,3-Butanediol	-----	-----	26	Cellulomonas sp.	0.0238	-----	15
+glycerol	-----	-----	26	Cellulomonas sp.	10.9	#26# pH 9.0, 25°C <8>	5,8,15
+dihydroxyacetone	-----	-----	26	Cellulomonas sp.	0.385	#26# pH 6.0, 25°C <8>	5,8
+NADH	-----	-----	3	Escherichia coli	0.07	#3# pH 6.5, 30°C, recombinant enzyme, in presence of 20 mM KCl <46>	46
+NAD+	-----	-----	3	Escherichia coli	1.0	#3# pH 10.3, 30°C, recombinant enzyme, in presence of 30 mM NH4Cl <46>	46
+Glycerone	-----	-----	3	Escherichia coli	0.22	#3# pH 6.5, 30°C, recombinant enzyme, in presence of 30 mM NH4Cl <46>	46
+Glycerone	-----	-----	3	Escherichia coli	0.15	#3# pH 6.5, 30°C, recombinant enzyme <46>	46
+NAD+	-----	-----	3	Escherichia coli	0.81	#3# pH 10.3, 30°C, recombinant enzyme <46>	46
+Glycerone	-----	-----	3	Escherichia coli	0.24	#3# pH 6.5, 30°C, recombinant enzyme, in presence of 20 mM KCl <46>	46
+1,3-butanediol	-----	-----	3	Escherichia coli	11.9	#3# mutant protein Q70H/G193C/E291Q/A310T, pH 9.5, 30°C <45>	45
+NAD+	-----	-----	3	Escherichia coli	3.2	#3# pH 10.3, 30°C, recombinant enzyme, in presence of 20 mM KCl <46>	46
+NAD+	-----	-----	3	Escherichia coli	0.0182	#3# mutant protein Q70H/G193C/E291Q/A310T, pH 9.5, 30°C <45>	45
+NAD+	-----	-----	3	Escherichia coli	0.0165	#3# wild type protein, pH 9.5, 30°C <45>	45
+1,3-butanediol	-----	-----	3	Escherichia coli	16.2	#3# wild type protein, pH 9.5, 30°C <45>	45
+glycerol	-----	-----	3	Escherichia coli	47.0	#3# pH 10.3, 30°C, recombinant enzyme, in presence of 20 mM KCl <46>	46
+glycerol	-----	-----	3	Escherichia coli	76.0	#3# pH 10.3, 30°C, recombinant enzyme <46>	46
+glycerol	-----	-----	3	Escherichia coli	81.0	#3# pH 10.3, 30°C, recombinant enzyme, in presence of 30 mM NH4Cl <46>	46
+1,3-butanediol	-----	-----	3	Escherichia coli	49.9	#3# mutant protein D121A, pH 9.5, 30°C <45>	45
+1,3-butanediol	-----	-----	3	Escherichia coli	77.8	#3# mutant protein Q70H/D121A/G193C/E291Q/A310T, pH 9.5, 30°C <45>	45
+NAD+	-----	-----	3	Escherichia coli	0.5946	#3# mutant protein D121A, pH 9.5, 30°C <45>	45
+NAD+	-----	-----	3	Escherichia coli	0.4614	#3# mutant protein Q70H/D121A/G193C/E291Q/A310T, pH 9.5, 30°C <45>	45
+NADH	-----	-----	3	Escherichia coli	0.08	#14# pH 9.1, 37°C, wild-type enzyme <16>; #3# pH 6.5, 30°C, recombinant enzyme, in presence of 30 mM NH4Cl <46>	16,46
+NADH	38	{'accessions': ['A0A150JSL8'], 'source': 'uniprot'}	3	Escherichia coli	0.05	#3# pH 6.5, 30°C, recombinant enzyme <46>; #38# wild-type, pH 5.4, 55°C <70>	46,70
+NAD+	30	{'accessions': ['Q9WYQ4'], 'source': 'uniprot'}	30	Thermotoga maritima	0.6	#30# pH 7.4, 50°C, recombinant mutant V44A/I154A/K157G <50>	50
+NADH	30	{'accessions': ['Q9WYQ4'], 'source': 'uniprot'}	30	Thermotoga maritima	0.02	#30# pH 7.9, 50°C, recombinant wild-type enzyme <50>	50
+NAD+	30	{'accessions': ['Q9WYQ4'], 'source': 'uniprot'}	30	Thermotoga maritima	0.021	#30# pH 7.4, 50°C, recombinant mutant V44A/K157G  <50>	50
+NAD+	30	{'accessions': ['Q9WYQ4'], 'source': 'uniprot'}	30	Thermotoga maritima	0.025	#30# pH 7.4, 50°C, recombinant mutant K157N <50>	50
+NAD+	30	{'accessions': ['Q9WYQ4'], 'source': 'uniprot'}	30	Thermotoga maritima	0.07	#30# pH 7.4, 50°C, recombinant mutant V44A <50>	50
+N6-carboxymethyl-NAD+	30	{'accessions': ['Q9WYQ4'], 'source': 'uniprot'}	30	Thermotoga maritima	0.25	#30# pH 7.4, 50°C, recombinant mutant V44A/K157G  <50>; #30# mutant enzyme V44A/K157G, at pH 7.4 and 50°C <50>	50
+N6-carboxymethyl-NAD+	30	{'accessions': ['Q9WYQ4'], 'source': 'uniprot'}	30	Thermotoga maritima	0.37	#30# pH 7.4, 50°C, recombinant wild-type enzyme <50>; #30# wild type enzyme, at pH 7.4 and 50°C <50>	50
+N6-carboxymethyl-NAD+	30	{'accessions': ['Q9WYQ4'], 'source': 'uniprot'}	30	Thermotoga maritima	0.15	#30# pH 7.4, 50°C, recombinant mutant V44A <50>; #30# mutant enzyme V44A, at pH 7.4 and 50°C <50>	50
+N6-carboxymethyl-NAD+	30	{'accessions': ['Q9WYQ4'], 'source': 'uniprot'}	30	Thermotoga maritima	1.5	#30# pH 7.4, 50°C, recombinant mutant I154A/K157G <50>; #30# mutant enzyme I154A/K157G, at pH 7.4 and 50°C <50>	50
+N6-carboxymethyl-NAD+	30	{'accessions': ['Q9WYQ4'], 'source': 'uniprot'}	30	Thermotoga maritima	0.08	#30# pH 7.4, 50°C, recombinant mutant K157G <50>; #30# mutant enzyme K157G, at pH 7.4 and 50°C <50>	50
+NAD+	30	{'accessions': ['Q9WYQ4'], 'source': 'uniprot'}	30	Thermotoga maritima	0.024	#30# pH 7.4, 50°C, recombinant wild-type enzyme <50>	50
+N6-carboxymethyl-NAD+	30	{'accessions': ['Q9WYQ4'], 'source': 'uniprot'}	30	Thermotoga maritima	0.36	#30# pH 7.4, 50°C, recombinant mutant K157N <50>; #30# mutant enzyme K157N, at pH 7.4 and 50°C <50>	50
+N6-carboxymethyl-NAD+	30	{'accessions': ['Q9WYQ4'], 'source': 'uniprot'}	30	Thermotoga maritima	2.3	#30# pH 7.4, 50°C, recombinant mutant V44A/I154A/K157G <50>; #30# mutant enzyme V44A/I154A/K157G, at pH 7.4 and 50°C <50>	50
+NAD+	30	{'accessions': ['Q9WYQ4'], 'source': 'uniprot'}	30	Thermotoga maritima	0.031	#30# pH 7.4, 50°C, recombinant mutant K157G <50>	50
+N6-carboxymethyl-NAD+	30	{'accessions': ['Q9WYQ4'], 'source': 'uniprot'}	30	Thermotoga maritima	0.73	#30# pH 7.4, 50°C, recombinant mutant I154A <50>; #30# mutant enzyme I154A, at pH 7.4 and 50°C <50>	50
+NAD+	30	{'accessions': ['Q9WYQ4'], 'source': 'uniprot'}	30	Thermotoga maritima	0.108	#30# pH 7.4, 50°C, recombinant mutant I154A/K157G <50>	50
+N6-carboxymethyl-NAD+	30	{'accessions': ['Q9WYQ4'], 'source': 'uniprot'}	30	Thermotoga maritima	2.9	#30# pH 7.4, 50°C, recombinant mutant V44A/I154A  <50>; #30# mutant enzyme V44A/ I154A, at pH 7.4 and 50°C <50>	50
+N6-carboxymethyl-NAD+	30	{'accessions': ['Q9WYQ4'], 'source': 'uniprot'}	30	Thermotoga maritima	0.186	#30# pH 7.4, 50°C, recombinant mutant V44A/K157N  <50>; #30# mutant enzyme V44A/ K157N, at pH 7.4 and 50°C <50>	50
+NAD+	30	{'accessions': ['Q9WYQ4'], 'source': 'uniprot'}	30	Thermotoga maritima	0.039	#30# pH 7.4, 50°C, recombinant mutant V44A/K157N  <50>	50
+NAD+	30	{'accessions': ['Q9WYQ4'], 'source': 'uniprot'}	30	Thermotoga maritima	0.051	#30# pH 7.9, 50°C, recombinant wild-type enzyme <50>	50
+NAD+	30	{'accessions': ['Q9WYQ4'], 'source': 'uniprot'}	30	Thermotoga maritima	0.351	#30# pH 7.4, 50°C, recombinant mutant V44A/I154A  <50>	50
+NAD+	30	{'accessions': ['Q9WYQ4'], 'source': 'uniprot'}	30	Thermotoga maritima	0.088	#30# pH 7.4, 50°C, recombinant mutant I154A <50>	50
+NAD+	31	{'accessions': ['A6TGD6'], 'source': 'uniprot'}	31	Klebsiella pneumoniae subsp. pneumoniae	0.23	#31# Mg-GDH, pH 12.0, 45°C, recombinant enzyme <52>	52
+NAD+	31	{'accessions': ['A6TGD6'], 'source': 'uniprot'}	31	Klebsiella pneumoniae subsp. pneumoniae	0.38	#31# wild-type Zn-GDH, pH 12.0, 45°C, recombinant enzyme <52>	52
+NAD+	31	{'accessions': ['A6TGD6'], 'source': 'uniprot'}	31	Klebsiella pneumoniae subsp. pneumoniae	1.12	#31# Mg-GDH, pH 12.0, 45°C, recombinant enzyme <52>	52
+racemic 2,3-butanediol	31	{'accessions': ['A6TGD6'], 'source': 'uniprot'}	31	Klebsiella pneumoniae subsp. pneumoniae	67.3	#31# at pH 8.6 and 35°C <69>	69
+NAD+	36	{'accessions': ['A6TGD6'], 'source': 'uniprot'}	36	Klebsiella pneumoniae	2.6	#36# pH 7.4, 35°C <69>; #31# at pH 8.6 and 35°C <69>	69
+glycerol	36	{'accessions': ['A6TGD6'], 'source': 'uniprot'}	36	Klebsiella pneumoniae	91.0	#36# pH 7.4, 35°C <69>; #31# at pH 8.6 and 35°C <69>	69
+ethylene glycol	36	{'accessions': ['A6TGD6'], 'source': 'uniprot'}	36	Klebsiella pneumoniae	92.7	#36# pH 7.4, 35°C <69>; #31# at pH 8.6 and 35°C <69>	69
+glycerol	32	{'accessions': ['B2ZPN8'], 'source': 'uniprot'}	32	Klebsiella pneumoniae	26.0	#32# pH 10.0, 30°C, immobilized enzyme <58>	58
+glycerol	32	{'accessions': ['B2ZPN8'], 'source': 'uniprot'}	32	Klebsiella pneumoniae	19.4	#32# recombinant chimeric enzyme GDH-NOX, pH 11.0, 37°C <56>	56
+NADH	32	{'accessions': ['B2ZPN8'], 'source': 'uniprot'}	32	Klebsiella pneumoniae	0.0513	#32# recombinant chimeric enzyme GDH-NOX, pH 11.0, 37°C <56>	56
+glycerol	32	{'accessions': ['B2ZPN8'], 'source': 'uniprot'}	32	Klebsiella pneumoniae	21.6	#32# pH 10.0, 30°C, free enzyme <58>	58
+NAD+	34	{'accessions': ['P0A9S5'], 'source': 'uniprot'}	34	Escherichia coli	0.22	#34# pH 7.5, 25°C <65>	65
+glycerol	34	{'accessions': ['P0A9S5'], 'source': 'uniprot'}	34	Escherichia coli	48.9	#34# pH 7.5, 25°C <65>	65
+butane-2,3-diol	36	{'accessions': ['A6TGD6'], 'source': 'uniprot'}	36	Klebsiella pneumoniae	67.3	#36# pH 7.4, 35°C <69>	69
+3-methoxypropane-1,2-diol	37	{'accessions': ['P32816'], 'source': 'uniprot'}	37	Geobacillus stearothermophilus	45.0	#37# wild-type, pH 7.0, 30°C <67>	67
+3-phenoxypropane-1,2-diol	37	{'accessions': ['P32816'], 'source': 'uniprot'}	37	Geobacillus stearothermophilus	7.0	#37# wild-type, pH 7.0, 30°C <67>	67
+3-[(propan-2-yl)oxy]propane-1,2-diol	37	{'accessions': ['P32816'], 'source': 'uniprot'}	37	Geobacillus stearothermophilus	31.2	#37# wild-type, pH 7.0, 30°C <67>	67
+glycerol	37	{'accessions': ['P32816'], 'source': 'uniprot'}	37	Geobacillus stearothermophilus	50.0	#37# wild-type, pH 7.0, 30°C <67>	67
+3-propoxypropane-1,2-diol	37	{'accessions': ['P32816'], 'source': 'uniprot'}	37	Geobacillus stearothermophilus	30.0	#37# wild-type, pH 7.0, 30°C <67>	67
+3-(2,2,2-trifluoroethoxy)propane-1,2-diol	37	{'accessions': ['P32816'], 'source': 'uniprot'}	37	Geobacillus stearothermophilus	78.0	#37# wild-type, pH 7.0, 30°C <67>	67
+3-ethoxypropane-1,2-diol	37	{'accessions': ['P32816'], 'source': 'uniprot'}	37	Geobacillus stearothermophilus	13.4	#37# wild-type, pH 7.0, 30°C <67>	67
+3-propoxypropane-1,2-diol	37	{'accessions': ['P32816'], 'source': 'uniprot'}	37	Geobacillus stearothermophilus	608.0	#37# mutant L252A, pH 7.0, 30°C <67>	67
+3-(2,2,2-trifluoroethoxy)propane-1,2-diol	37	{'accessions': ['P32816'], 'source': 'uniprot'}	37	Geobacillus stearothermophilus	281.0	#37# mutant L252A, pH 7.0, 30°C <67>	67
+3-butoxypropane-1,2-diol	37	{'accessions': ['P32816'], 'source': 'uniprot'}	37	Geobacillus stearothermophilus	162.0	#37# mutant L252A, pH 7.0, 30°C <67>	67
+3-[(propan-2-yl)oxy]propane-1,2-diol	37	{'accessions': ['P32816'], 'source': 'uniprot'}	37	Geobacillus stearothermophilus	707.0	#37# mutant L252A, pH 7.0, 30°C <67>	67
+glycerol	37	{'accessions': ['P32816'], 'source': 'uniprot'}	37	Geobacillus stearothermophilus	1880.0	#37# mutant L252A, pH 7.0, 30°C <67>	67
+3-methoxypropane-1,2-diol	37	{'accessions': ['P32816'], 'source': 'uniprot'}	37	Geobacillus stearothermophilus	977.0	#37# mutant L252A, pH 7.0, 30°C <67>	67
+3-ethoxypropane-1,2-diol	37	{'accessions': ['P32816'], 'source': 'uniprot'}	37	Geobacillus stearothermophilus	371.0	#37# mutant L252A, pH 7.0, 30°C <67>	67
+NADH	38	{'accessions': ['A0A150JSL8'], 'source': 'uniprot'}	38	Weizmannia coagulans	0.1	#38# mutant D121N, pH 5.4, 55°C <70>; #38# mutant F245S, pH 5.4, 55°C <70>	70
+NADH	38	{'accessions': ['A0A150JSL8'], 'source': 'uniprot'}	38	Weizmannia coagulans	0.3	#38# mutant /D121NF245S, pH 5.9, 55°C <70>	70
+NAD+	38	{'accessions': ['A0A150JSL8'], 'source': 'uniprot'}	38	Weizmannia coagulans	0.4	#38# wild-type, pH 8.9, 55°C <70>	70
+D-1,2-propanediol	38	{'accessions': ['A0A150JSL8'], 'source': 'uniprot'}	38	Weizmannia coagulans	1.0	#38# wild-type, pH 8.9, 55°C <70>	70
+D-1,2-propanediol	38	{'accessions': ['A0A150JSL8'], 'source': 'uniprot'}	38	Weizmannia coagulans	8.0	#38# mutant /D121NF245S, pH 8.9, 55°C <70>	70
+NAD+	38	{'accessions': ['A0A150JSL8'], 'source': 'uniprot'}	38	Weizmannia coagulans	1.5	#38# mutant D121N, pH 8.9, 55°C <70>	70
+1,2-Butanediol	38	{'accessions': ['A0A150JSL8'], 'source': 'uniprot'}	38	Weizmannia coagulans	3.0	#38# wild-type, pH 8.9, 55°C <70>	70
+NAD+	38	{'accessions': ['A0A150JSL8'], 'source': 'uniprot'}	38	Weizmannia coagulans	0.7	#38# mutant F245S, pH 8.9, 55°C <70>	70
+glycerol	38	{'accessions': ['A0A150JSL8'], 'source': 'uniprot'}	38	Weizmannia coagulans	4.0	#38# wild-type, pH 8.9, 55°C <70>	70
+1,2-Butanediol	38	{'accessions': ['A0A150JSL8'], 'source': 'uniprot'}	38	Weizmannia coagulans	4.0	#38# mutant D121N, pH 8.9, 55°C <70>	70
+NAD+	38	{'accessions': ['A0A150JSL8'], 'source': 'uniprot'}	38	Weizmannia coagulans	2.3	#38# mutant /D121NF245S, pH 8.9, 55°C <70>	70
+D-2,3-butanediol	38	{'accessions': ['A0A150JSL8'], 'source': 'uniprot'}	38	Weizmannia coagulans	17.0	#38# wild-type, pH 8.9, 55°C <70>	70
+D-1,2-propanediol	38	{'accessions': ['A0A150JSL8'], 'source': 'uniprot'}	38	Weizmannia coagulans	4.5	#38# mutant F245S, pH 8.9, 55°C <70>	70
+D-1,2-propanediol	38	{'accessions': ['A0A150JSL8'], 'source': 'uniprot'}	38	Weizmannia coagulans	19.0	#38# mutant D121N, pH 8.9, 55°C <70>	70
+D-2,3-butanediol	38	{'accessions': ['A0A150JSL8'], 'source': 'uniprot'}	38	Weizmannia coagulans	6.5	#38# mutant F245S, pH 8.9, 55°C <70>	70
+D-2,3-butanediol	38	{'accessions': ['A0A150JSL8'], 'source': 'uniprot'}	38	Weizmannia coagulans	90.0	#38# mutant D121N, pH 8.9, 55°C <70>	70
+1,2-Butanediol	38	{'accessions': ['A0A150JSL8'], 'source': 'uniprot'}	38	Weizmannia coagulans	44.0	#38# mutant /D121NF245S, pH 8.9, 55°C <70>	70
+D-2,3-butanediol	38	{'accessions': ['A0A150JSL8'], 'source': 'uniprot'}	38	Weizmannia coagulans	39.0	#38# mutant /D121NF245S, pH 8.9, 55°C <70>	70
+glycerol	38	{'accessions': ['A0A150JSL8'], 'source': 'uniprot'}	38	Weizmannia coagulans	41.0	#38# mutant F245S, pH 8.9, 55°C <70>	70
+glycerol	38	{'accessions': ['A0A150JSL8'], 'source': 'uniprot'}	38	Weizmannia coagulans	148.0	#38# mutant /D121NF245S, pH 8.9, 55°C <70>	70
+1,2-Butanediol	38	{'accessions': ['A0A150JSL8'], 'source': 'uniprot'}	38	Weizmannia coagulans	23.5	#38# mutant F245S, pH 8.9, 55°C <70>	70
+pyruvate	38	{'accessions': ['A0A150JSL8'], 'source': 'uniprot'}	38	Weizmannia coagulans	55.5	#38# mutant /D121NF245S, pH 5.9, 55°C <70>	70
+pyruvate	38	{'accessions': ['A0A150JSL8'], 'source': 'uniprot'}	38	Weizmannia coagulans	54.5	#38# mutant F245S, pH 5.4, 55°C <70>	70
+pyruvate	38	{'accessions': ['A0A150JSL8'], 'source': 'uniprot'}	38	Weizmannia coagulans	207.0	#38# wild-type, pH 5.4, 55°C <70>	70
+glycerol	38	{'accessions': ['A0A150JSL8'], 'source': 'uniprot'}	38	Weizmannia coagulans	195.0	#38# mutant D121N, pH 8.9, 55°C <70>	70
+pyruvate	38	{'accessions': ['A0A150JSL8'], 'source': 'uniprot'}	38	Weizmannia coagulans	60.5	#38# mutant D121N, pH 5.4, 55°C <70>	70
+NAD+	-----	-----	5	Priestia megaterium	0.3	#5# pH 9.0, 25°C <6>	6
+glycerol	-----	-----	5	Priestia megaterium	1.4	#5# pH 9.0, 25°C <6>	6
+dihydroxyacetone	-----	-----	6	Klebsiella aerogenes	1.3	-----	13
+NADH	-----	-----	6	Klebsiella aerogenes	0.014	-----	13
+NAD+	-----	-----	6	Klebsiella aerogenes	0.15	-----	13
+glycerol	-----	-----	6	Klebsiella aerogenes	39.0	-----	13
+glycerol	-----	-----	6	Klebsiella aerogenes	74.3	#6# in the presence of NH4+ <11>	11
+NADH	-----	-----	8	Thermoanaerobacterium thermosaccharolyticum	0.06	#8# pH 6.0, 60°C, recombinant enzyme <55>	55
+Glycerone	-----	-----	8	Thermoanaerobacterium thermosaccharolyticum	1.08	#8# pH 6.0, 60°C, recombinant enzyme <55>	55
+glycerol	-----	-----	8	Thermoanaerobacterium thermosaccharolyticum	30.29	#8# pH 8.0, 60°C, recombinant enzyme <55>	55
+dihydroxyacetone	-----	-----	9	Schizosaccharomyces pombe	0.06	#9# pH 6.0 <3>	3
+glycerol	-----	-----	9	Schizosaccharomyces pombe	0.5	#9# pH 10.0 <3>	3
+NAD+	-----	-----	9	Schizosaccharomyces pombe	0.13	#9# pH 10.0 <3>	3
+NADH	-----	-----	14	Clostridium butyricum	0.12	#9# pH 6.0 <3>; #14# pH 9.1, 37°C, mutant D <16>	3,16

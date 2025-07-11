@@ -1,0 +1,5 @@
+Substrate	Protein_ID	Protein_details	Organism_ID	Organism_name	Km_value	Conditions	References
+NADH	1	{'comment': '#1# fragment of dihydropteroate synthase <1,2>'}	1	Oryctolagus cuniculus	0.05	-----	2
+Hydroxyacetone phosphate	1	{'comment': '#1# fragment of dihydropteroate synthase <1,2>'}	1	Oryctolagus cuniculus	0.1	-----	2
+DL-propane-1,2-diol 1-phosphate	1	{'comment': '#1# fragment of dihydropteroate synthase <1,2>'}	1	Oryctolagus cuniculus	4.4	-----	2
+Hydroxyacetone phosphate	1	{'comment': '#1# fragment of dihydropteroate synthase <1,2>'}	1	Oryctolagus cuniculus	5.5	-----	1

@@ -1,0 +1,24 @@
+Substrate	Protein_ID	Protein_details	Organism_ID	Organism_name	Km_value	Conditions	References
+NAD+	3	{'comment': '#3# Q96HY7 i.e. E1 component of the 2-oxoadipate dehydrogenase complex, Q02218 i.e. E1 component of the 2-oxoglutarate dehydrogenase complex, cf. EC 1.2.4.2 <3>; #3# SdhA, SdhB, SdhC, and SdhD proteins forming one subunit of the heterotrimeric enzyme <7>'}	3	Klebsiella aerogenes	0.04	-----	3
+D-xylulose	3	{'comment': '#3# Q96HY7 i.e. E1 component of the 2-oxoadipate dehydrogenase complex, Q02218 i.e. E1 component of the 2-oxoglutarate dehydrogenase complex, cf. EC 1.2.4.2 <3>; #3# SdhA, SdhB, SdhC, and SdhD proteins forming one subunit of the heterotrimeric enzyme <7>'}	3	Klebsiella aerogenes	2.0	-----	5
+NADH	3	{'comment': '#3# Q96HY7 i.e. E1 component of the 2-oxoadipate dehydrogenase complex, Q02218 i.e. E1 component of the 2-oxoglutarate dehydrogenase complex, cf. EC 1.2.4.2 <3>; #3# SdhA, SdhB, SdhC, and SdhD proteins forming one subunit of the heterotrimeric enzyme <7>'}	3	Klebsiella aerogenes	0.036	-----	5,6
+D-arabinitol	3	{'comment': '#3# Q96HY7 i.e. E1 component of the 2-oxoadipate dehydrogenase complex, Q02218 i.e. E1 component of the 2-oxoglutarate dehydrogenase complex, cf. EC 1.2.4.2 <3>; #3# SdhA, SdhB, SdhC, and SdhD proteins forming one subunit of the heterotrimeric enzyme <7>'}	3	Klebsiella aerogenes	3.5	-----	7
+D-mannitol	3	{'comment': '#3# Q96HY7 i.e. E1 component of the 2-oxoadipate dehydrogenase complex, Q02218 i.e. E1 component of the 2-oxoglutarate dehydrogenase complex, cf. EC 1.2.4.2 <3>; #3# SdhA, SdhB, SdhC, and SdhD proteins forming one subunit of the heterotrimeric enzyme <7>'}	3	Klebsiella aerogenes	70.0	-----	3
+D-mannitol	3	{'comment': '#3# Q96HY7 i.e. E1 component of the 2-oxoadipate dehydrogenase complex, Q02218 i.e. E1 component of the 2-oxoglutarate dehydrogenase complex, cf. EC 1.2.4.2 <3>; #3# SdhA, SdhB, SdhC, and SdhD proteins forming one subunit of the heterotrimeric enzyme <7>'}	3	Klebsiella aerogenes	6.1	-----	7
+D-xylulose	3	{'comment': '#3# Q96HY7 i.e. E1 component of the 2-oxoadipate dehydrogenase complex, Q02218 i.e. E1 component of the 2-oxoglutarate dehydrogenase complex, cf. EC 1.2.4.2 <3>; #3# SdhA, SdhB, SdhC, and SdhD proteins forming one subunit of the heterotrimeric enzyme <7>'}	3	Klebsiella aerogenes	1.14	-----	6
+D-arabinitol	3	{'comment': '#3# Q96HY7 i.e. E1 component of the 2-oxoadipate dehydrogenase complex, Q02218 i.e. E1 component of the 2-oxoglutarate dehydrogenase complex, cf. EC 1.2.4.2 <3>; #3# SdhA, SdhB, SdhC, and SdhD proteins forming one subunit of the heterotrimeric enzyme <7>'}	7	Scheffersomyces stipitis	20.0	-----	3,9
+NAD+	-----	-----	5	Candida tropicalis	0.12	-----	2
+D-arabinitol	-----	-----	5	Candida tropicalis	39.8	-----	2
+D-arabinitol	-----	-----	6	Gluconobacter oxydans	4.5	#6# pH 8.5, 25°C <11>	11
+xylitol	-----	-----	6	Gluconobacter oxydans	177.2	#6# pH 8.5, 25°C <11>	11
+D-mannitol	8	{'accessions': ['Q308C1'], 'source': 'uniprot'}	6	Gluconobacter oxydans	78.5	#6# pH 8.5, 25°C <11>	11
+D-sorbitol	8	{'accessions': ['Q308C1'], 'source': 'uniprot'}	6	Gluconobacter oxydans	127.3	#6# pH 8.5, 25°C <11>	11
+ribitol	8	{'accessions': ['Q308C1'], 'source': 'uniprot'}	6	Gluconobacter oxydans	242.8	#6# pH 8.5, 25°C <11>	11
+glycerol	8	{'accessions': ['Q308C1'], 'source': 'uniprot'}	6	Gluconobacter oxydans	133.6	#6# pH 8.5, 25°C <11>	11
+NAD+	-----	-----	7	Scheffersomyces stipitis	0.2	-----	9
+D-arabitol	8	{'accessions': ['Q308C1'], 'source': 'uniprot'}	8	Gluconobacter oxydans	4.5	-----	11
+xylitol	8	{'accessions': ['Q308C1'], 'source': 'uniprot'}	8	Gluconobacter oxydans	18.5	-----	11
+NAD+	9	{'accessions': ['A0A2K9VPX3'], 'source': 'uniprot'}	9	Gluconobacter sp. JX-05	0.05	#9# pH 8.5, 30°C, recombinant His-tagged enzyme, with NAD+ <13>	13
+NADH	9	{'accessions': ['A0A2K9VPX3'], 'source': 'uniprot'}	9	Gluconobacter sp. JX-05	0.21	#9# pH 5.5, 30°C, recombinant His-tagged enzyme, with NADH <13>	13
+D-arabitol	9	{'accessions': ['A0A2K9VPX3'], 'source': 'uniprot'}	9	Gluconobacter sp. JX-05	3.8	#9# pH 8.5, 30°C, recombinant His-tagged enzyme, with NAD+ <13>	13
+D-xylulose	9	{'accessions': ['A0A2K9VPX3'], 'source': 'uniprot'}	9	Gluconobacter sp. JX-05	28.1	#9# pH 5.5, 30°C, recombinant His-tagged enzyme, with NADH <13>	13

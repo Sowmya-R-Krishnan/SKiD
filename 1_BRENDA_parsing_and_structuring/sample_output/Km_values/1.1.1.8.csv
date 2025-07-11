@@ -1,0 +1,116 @@
+Substrate	Protein_ID	Protein_details	Organism_ID	Organism_name	Km_value	Conditions	References
+glycerol 3-phosphate	-----	-----	1	Gallus gallus	2.0	-----	11
+NADH	-----	-----	1	Gallus gallus	0.006	-----	11
+dihydroxyacetone phosphate	-----	-----	1	Gallus gallus	0.23	#19# in MOPS buffer, 0.33 mM in Tris-histidine <10>	10,11
+NAD+	-----	-----	1	Gallus gallus	0.5	#31# enzyme from euthermic animal, at pH 7.5 and 37°C <85>; #31# pH 7.5, 37°C, euthermic G3PDH enzyme <85>	11,85
+NADH	-----	-----	11	Saccharomyces cerevisiae	0.023	-----	2
+dihydroxyacetone phosphate	-----	-----	11	Saccharomyces cerevisiae	0.54	#11# at pH 7.0 and 25°C <93>	2,93
+glycerol-3-phosphate	-----	-----	11	Saccharomyces cerevisiae	34.0	#11# isoform Gut2, pH 6.8 <35>	35
+NADH	-----	-----	11	Saccharomyces cerevisiae	0.051	#11# at pH 7.0 and 25°C <93>	93
+NAD+	13	{'comment': '#13# isoform rrf-1 <7>'}	13	Oryctolagus cuniculus	0.083	-----	15
+DL-glycerol-3-phosphate	13	{'comment': '#13# isoform rrf-1 <7>'}	13	Oryctolagus cuniculus	0.3	#13# I6.5 <17>	17
+NADH	13	{'comment': '#13# isoform rrf-1 <7>'}	13	Oryctolagus cuniculus	0.022	-----	15
+alpha-glycerophosphate	13	{'comment': '#13# isoform rrf-1 <7>'}	13	Oryctolagus cuniculus	0.11	-----	3
+dihydroxyacetone phosphate	13	{'comment': '#13# isoform rrf-1 <7>'}	13	Oryctolagus cuniculus	0.2	#13# I6.5 <17>	17
+DL-glycerol-3-phosphate	13	{'comment': '#13# isoform rrf-1 <7>'}	13	Oryctolagus cuniculus	0.4	#13# adipose tissue <7>	7
+dihydroxyacetone phosphate	13	{'comment': '#13# isoform rrf-1 <7>'}	13	Oryctolagus cuniculus	0.25	#13# adipose tissue <7>	7
+DL-glycerol-3-phosphate	13	{'comment': '#13# isoform rrf-1 <7>'}	13	Oryctolagus cuniculus	0.19	#13# muscle <7>	7
+NAD+	13	{'comment': '#13# isoform rrf-1 <7>'}	13	Oryctolagus cuniculus	0.01	#13# muscle <7>; #13# I6.5 <17>	7,17
+dihydroxyacetone phosphate	13	{'comment': '#13# isoform rrf-1 <7>'}	13	Oryctolagus cuniculus	0.15	#13# muscle <7>	7
+dihydroxyacetone phosphate	13	{'comment': '#13# isoform rrf-1 <7>'}	13	Oryctolagus cuniculus	0.075	-----	15
+NADH	13	{'comment': '#13# isoform rrf-1 <7>'}	13	Oryctolagus cuniculus	0.0043	#13# adipose tissue <7>	7
+NAD+	13	{'comment': '#13# isoform rrf-1 <7>'}	13	Oryctolagus cuniculus	0.0044	#13# adipose tissue <7>	7
+dihydroxyacetone phosphate	13	{'comment': '#13# isoform rrf-1 <7>'}	13	Oryctolagus cuniculus	0.46	-----	3
+glycerol 3-phosphate	13	{'comment': '#13# isoform rrf-1 <7>'}	13	Oryctolagus cuniculus	0.909	-----	15
+dihydroxyacetone phosphate	-----	-----	15	Spinacia oleracea	0.3	#15# 0.30-0.35 mM <16>	16
+NAD+	-----	-----	15	Spinacia oleracea	0.19	-----	16
+glycerol phosphate	-----	-----	15	Spinacia oleracea	1.6	-----	16
+dihydroxyacetone phosphate	-----	-----	18	Trypanosoma brucei	0.1	-----	28
+glycerol-3-phosphate	-----	-----	18	Trypanosoma brucei	2.25	-----	28
+NAD+	-----	-----	31	Urocitellus richardsonii	0.32	#31# enzyme from hibernating animal, at pH 8.0 and 37°C <85>; #31# pH 8.0, 37°C, hibernation G3PDH enzyme <85>	28,85
+glycerol-3-phosphate	-----	-----	20	Leishmania mexicana	1.7	-----	28
+dihydroxyacetone phosphate	-----	-----	20	Leishmania mexicana	0.12	-----	28
+NADH	-----	-----	20	Leishmania mexicana	0.024	-----	28
+NAD+	-----	-----	20	Leishmania mexicana	0.42	#31# enzyme from hibernating animal, at pH 8.0 and 22°C <85>; #31# pH 8.0, 22°C, hibernation G3PDH enzyme <85>	28,85
+NAD+	-----	-----	21	Ceratitis capitata	0.26	-----	14
+NADH	-----	-----	21	Ceratitis capitata	0.018	-----	14
+sn-glycerol 3-phosphate	-----	-----	21	Ceratitis capitata	0.74	-----	14
+dihydroxyacetone phosphate	-----	-----	21	Ceratitis capitata	0.33	-----	14
+alpha-glycerophosphate	-----	-----	23	Coturnix japonica	0.33	#23# testes <5>	5
+alpha-glycerophosphate	-----	-----	23	Coturnix japonica	3.39	#23# liver <5>	5
+NAD+	-----	-----	24	Debaryomyces hansenii	0.3	#24# standard deviation 0.06 mM <25>	25
+DL-glycerol-3-phosphate	-----	-----	24	Debaryomyces hansenii	1.2	#24# standard deviation 0.5 mM <25>	25
+dihydroxyacetone phosphate	-----	-----	24	Debaryomyces hansenii	0.13	#24# standard deviation 0.03 mM <25>	25
+NADH	-----	-----	24	Debaryomyces hansenii	0.0066	#24# standard deviation 0.003 mM <25>	25
+glycerol 3-phosphate	-----	-----	27	Drosophila virilis	1.89	#27# alpha-GPDHs, standard deviation 0.25 mM <19>	19
+NADH	-----	-----	27	Drosophila virilis	0.00526	#27# alpha-GPDHs <19>	19
+dihydroxyacetone phosphate	-----	-----	27	Drosophila virilis	0.2144	#27# alpha-GPDHs, standard deviation 0.0215 mM <19>	19
+NAD+	-----	-----	27	Drosophila virilis	0.1003	#27# alpha-GPDHs, standard deviation 0.0041 mM <19>	19
+NADH	-----	-----	3	Drosophila melanogaster	0.078	#3# GPDH-1 <20>	20
+glycerol 3-phosphate	-----	-----	3	Drosophila melanogaster	0.59	#3# GPDH-1 <20>	20
+dihydroxyacetone phosphate	-----	-----	3	Drosophila melanogaster	0.52	#3# GPDH-1 <20>	20
+NAD+	13	{'comment': '#13# isoform rrf-1 <7>'}	3	Drosophila melanogaster	0.38	#3# GPDH-1 <20>	3,20
+sn-glycerol 3-phosphate	-----	-----	31	Urocitellus richardsonii	0.41	#31# enzyme from hibernating animal, at pH 7.5 and 22°C <85>; #31# pH 7.5, 22°C, hibernation G3PDH enzyme <85>	85
+NAD+	-----	-----	31	Urocitellus richardsonii	0.12	#31# pH 8.0, 5°C, euthermic G3PDH enzyme <85>	85
+NAD+	-----	-----	31	Urocitellus richardsonii	0.39	#31# enzyme from euthermic animal, at pH 8.0 and 37°C <85>; #31# pH 8.0, 37°C, euthermic G3PDH enzyme <85>	85
+NAD+	-----	-----	31	Urocitellus richardsonii	0.69	#31# enzyme from hibernating animal, at pH 7.5 and 37°C <85>; #31# pH 7.5, 37°C, hibernation G3PDH enzyme <85>	85
+sn-glycerol 3-phosphate	-----	-----	31	Urocitellus richardsonii	0.63	#31# enzyme from euthermic animal, at pH 7.5 and 37°C <85>; #31# pH 7.5, 37°C, euthermic G3PDH enzyme <85>	85
+sn-glycerol 3-phosphate	-----	-----	31	Urocitellus richardsonii	0.83	#31# enzyme from euthermic animal, at pH 8.0 and 5°C <85>; #31# pH 8.0, 5°C, euthermic G3PDH enzyme <85>	85
+sn-glycerol 3-phosphate	-----	-----	31	Urocitellus richardsonii	0.61	#31# enzyme from euthermic animal, at pH 7.5 and 22°C <85>; #31# pH 7.5, 22°C, euthermic G3PDH enzyme <85>	85
+sn-glycerol 3-phosphate	-----	-----	31	Urocitellus richardsonii	0.48	#31# enzyme from hibernating animal, at pH 8.0 and 5°C <85>; #31# pH 8.0, 5°C, hibernation G3PDH enzyme <85>	85
+NAD+	-----	-----	31	Urocitellus richardsonii	0.52	#31# enzyme from euthermic animal, at pH 8.0 and 22°C <85>; #31# pH 8.0, 22°C, euthermic G3PDH enzyme <85>	85
+sn-glycerol 3-phosphate	-----	-----	31	Urocitellus richardsonii	0.57	#31# enzyme from euthermic animal, at pH 8.0 and 22°C <85>; #31# pH 8.0, 22°C, euthermic G3PDH enzyme <85>	85
+sn-glycerol 3-phosphate	-----	-----	31	Urocitellus richardsonii	0.88	#31# enzyme from euthermic animal, at pH 8.0 and 37°C <85>; #31# pH 8.0, 37°C, euthermic G3PDH enzyme <85>	85
+sn-glycerol 3-phosphate	-----	-----	31	Urocitellus richardsonii	1.56	#31# enzyme from hibernating animal, at pH 8.0 and 37°C <85>; #31# pH 8.0, 37°C, hibernation G3PDH enzyme <85>	85
+sn-glycerol 3-phosphate	-----	-----	31	Urocitellus richardsonii	1.17	#31# enzyme from hibernating animal, at pH 7.5 and 37°C <85>; #31# pH 7.5, 37°C, hibernation G3PDH enzyme <85>	85
+sn-glycerol 3-phosphate	-----	-----	31	Urocitellus richardsonii	1.61	#31# enzyme from hibernating animal, at pH 8.0 and 22°C <85>; #31# pH 8.0, 22°C, hibernation G3PDH enzyme <85>	85
+sn-glycerol 3-phosphate	-----	-----	31	Urocitellus richardsonii	1.51	#31# enzyme from euthermic animal, at pH 7.5 and 5°C <85>; #31# pH 7.5, 5°C, euthermic G3PDH enzyme <85>	85
+NAD+	-----	-----	34	Eidolon helvum	0.2	#34# pH 10.0, 25°C <34>; #31# enzyme from euthermic animal, at pH 7.5 and 22°C <85>; #31# enzyme from hibernating animal, at pH 7.5 and 22°C <85>; #31# pH 7.5, 22°C, euthermic G3PDH enzyme and hibernation G3PDH enzyme <85>	34,85
+NAD+	-----	-----	31	Urocitellus richardsonii	0.09	#50# pH 8.5, 5°C, liver isozyme <78>; #31# pH 8.0, 5°C, hibernation G3PDH enzyme <85>	78,85
+NADH	-----	-----	33	Jaculus orientalis	0.032	#33# pH 7.6, 25°C <37>	37
+glycerone phosphate	-----	-----	33	Jaculus orientalis	0.137	#33# pH 7.6, 25°C <37>	37
+NAD+	-----	-----	33	Jaculus orientalis	0.316	#33# pH 9.0, 25°C <37>	37
+glycerol-3-phosphate	-----	-----	33	Jaculus orientalis	0.468	#33# pH 9.0, 25°C <37>	37
+glycerone phosphate	-----	-----	33	Jaculus orientalis	137.0	#33# pH 9.0, 25°C <37>	37
+NADH	-----	-----	33	Jaculus orientalis	32.4	#33# pH 9.0, 25°C <37>	37
+sn-glycerol 3-phosphate	-----	-----	33	Jaculus orientalis	469.0	#33# pH 7.6, 25°C <37>	37
+NAD+	-----	-----	33	Jaculus orientalis	316.0	#33# pH 7.6, 25°C <37>	37
+glycerone phosphate	-----	-----	34	Eidolon helvum	0.26	#34# pH 7.5, 25°C <34>	34
+NAD+	-----	-----	34	Eidolon helvum	0.65	#34# pH 7.5, 25°C <34>	34
+L-glycerol-3-phosphate	-----	-----	34	Eidolon helvum	2.3	#34# pH 10.0, 25°C <34>	34
+L-glycerol-3-phosphate	-----	-----	34	Eidolon helvum	3.9	#34# pH 7.5, 25°C <34>	34
+NADH	-----	-----	37	Saccharomyces kudriavzevii	0.11	#37# at pH 7.0 and 25°C <93>	93
+dihydroxyacetone phosphate	-----	-----	37	Saccharomyces kudriavzevii	0.61	#37# at pH 7.0 and 25°C <93>	93
+dihydroxyacetone phosphate	-----	-----	4	Chlamydomonas reinhardtii	0.012	-----	24
+NADH	-----	-----	4	Chlamydomonas reinhardtii	0.016	-----	24
+NADH	43	{'accessions': ['C5H3W1'], 'source': 'uniprot'}	43	Dunaliella viridis	0.0589	#43# recombinant isozyme GDH2 <66>	66
+NADH	43	{'accessions': ['C5H3W1'], 'source': 'uniprot'}	43	Dunaliella viridis	0.0592	#43# isozyme GPDH2 <66>	66
+NADPH	43	{'accessions': ['C5H3W1'], 'source': 'uniprot'}	43	Dunaliella viridis	0.0726	#43# isozyme GPDH2 <66>; #43# recombinant isozyme GDH2 <66>	66
+NADPH	44	{'accessions': ['C5H3W0'], 'source': 'uniprot'}	44	Dunaliella viridis	0.0589	#44# isozyme GPDH1 <66>	66
+NADH	44	{'accessions': ['C5H3W0'], 'source': 'uniprot'}	44	Dunaliella viridis	0.0905	#44# isozyme GPDH1 <66>; #44# recombinant isozyme GDH1 <66>	66
+NADPH	44	{'accessions': ['C5H3W0'], 'source': 'uniprot'}	44	Dunaliella viridis	0.0592	#44# recombinant isozyme GDH1 <66>	66
+glycerone phosphate	49	{'accessions': ['P21695'], 'source': 'uniprot'}	49	Homo sapiens	1.5	#49# mutant R269A/N270A, pH 7.5, 25°C <84>	84
+glycerone phosphate	49	{'accessions': ['P21695'], 'source': 'uniprot'}	49	Homo sapiens	2.5	#49# mutant N270A, pH 7.5, 25°C <84>	84
+glycerone phosphate	49	{'accessions': ['P21695'], 'source': 'uniprot'}	49	Homo sapiens	5.7	#49# mutant R269A, pH 7.5, 25°C <84>	84
+glycerone phosphate	49	{'accessions': ['P21695'], 'source': 'uniprot'}	49	Homo sapiens	0.052	#49# wild-type enzyme, pH 7.5, 25°C <84>	84
+NAD+	-----	-----	50	Cynomys ludovicianus	0.045	#50# pH 8.5, 22°C, liver isozyme <78>	78
+NADH	-----	-----	50	Cynomys ludovicianus	0.001	#50# pH 7.5, 22°C, liver isozyme <78>; #50# pH 7.5, 5°C, liver isozyme <78>; #50# pH 7.5, 5°C, muscle isozyme <78>	78
+NADH	-----	-----	50	Cynomys ludovicianus	0.003	#50# pH 7.5, 22°C, muscle isozyme <78>	78
+glycerone phosphate	-----	-----	50	Cynomys ludovicianus	0.154	#50# pH 7.5, 5°C, muscle isozyme <78>	78
+NAD+	-----	-----	50	Cynomys ludovicianus	0.155	#50# pH 8.5, 5°C, muscle isozyme <78>	78
+glycerone phosphate	-----	-----	50	Cynomys ludovicianus	0.279	#50# pH 7.5, 22°C, muscle isozyme <78>	78
+NAD+	-----	-----	50	Cynomys ludovicianus	0.143	#50# pH 8.5, 22°C, muscle isozyme <78>	78
+glycerone phosphate	-----	-----	50	Cynomys ludovicianus	0.259	#50# pH 7.5, 5°C, liver isozyme <78>	78
+glycerone phosphate	-----	-----	50	Cynomys ludovicianus	0.352	#50# pH 7.5, 22°C, liver isozyme <78>	78
+dihydroxyacetone phosphate	-----	-----	8	Homo sapiens	5.7	#8# mutant enzyme R269A, at pH 7.5 and 25°C <84>	84
+dihydroxyacetone phosphate	-----	-----	8	Homo sapiens	0.026	#8# measured at pH 7.5 <22>	22
+NAD+	-----	-----	8	Homo sapiens	0.036	#8# measured at pH 9.0 <22>	22
+dihydroxyacetone phosphate	-----	-----	8	Homo sapiens	25.0	#8# mutant enzyme N270A, at pH 7.5 and 25°C <84>	84
+dihydroxyacetone phosphate	-----	-----	8	Homo sapiens	15.0	#8# mutant enzyme R269A/N270A, at pH 7.5 and 25°C <84>	84
+dihydroxyacetone phosphate	-----	-----	8	Homo sapiens	0.052	#8# wild type enzyme, at pH 7.5 and 25°C <84>	84
+sn-glycerol-3-phosphate	-----	-----	8	Homo sapiens	0.143	#8# measured at pH 9.0 <22>	22
+NADH	-----	-----	34	Eidolon helvum	0.005	#34# pH 7.5, 25°C <34>; #8# measured at pH 7.5 <22>	22,34
+NAD+	9	{'comment': '#9# isoform RBCK1 <8>'}	9	Rattus norvegicus	0.03	-----	8
+dihydroxyacetone phosphate	9	{'comment': '#9# isoform RBCK1 <8>'}	9	Rattus norvegicus	0.17	-----	8
+alpha-glycerol phosphate	9	{'comment': '#9# isoform RBCK1 <8>'}	9	Rattus norvegicus	0.3	-----	8
+NADH	9	{'comment': '#9# isoform RBCK1 <8>'}	15	Spinacia oleracea	0.01	#13# muscle <7>; #9,19# less than 0.01 mM <8,10>; #13# I6.5 <17>	7,8,10,16,17,28

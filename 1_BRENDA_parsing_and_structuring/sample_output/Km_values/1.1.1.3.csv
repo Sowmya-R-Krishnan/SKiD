@@ -1,0 +1,75 @@
+Substrate	Protein_ID	Protein_details	Organism_ID	Organism_name	Km_value	Conditions	References
+NADP+	-----	-----	16	Arabidopsis thaliana O81852 TREMBL	0.166	#16# pH 8.0, 37°C, purified recombinant soluble enzyme <23>	23
+L-homoserine	-----	-----	16	Arabidopsis thaliana O81852 TREMBL	5.2	#16# pH 8.0, 37°C, purified recombinant soluble enzyme <23>	23
+ATP	-----	-----	16	Arabidopsis thaliana O81852 TREMBL	5.5	#16# pH 8.0, 37°C, purified recombinant soluble enzyme <23>	23
+L-aspartate	-----	-----	16	Arabidopsis thaliana O81852 TREMBL	11.6	#16# pH 8.0, 37°C, purified recombinant soluble enzyme <23>	23
+NADPH	19	{'accessions': ['Q3S3F6'], 'source': 'uniprot'}	19	Glycine max	0.028	#19# pH 8.0, 25°C <34>	34
+NADP+	19	{'accessions': ['Q3S3F6'], 'source': 'uniprot'}	19	Glycine max	0.034	#19# pH 8.0, 25°C <34>	34
+L-homoserine	19	{'accessions': ['Q3S3F6'], 'source': 'uniprot'}	19	Glycine max	0.275	#19# cosubstrate NADP+, pH 8.0, 25°C <34>	34
+NAD+	19	{'accessions': ['Q3S3F6'], 'source': 'uniprot'}	19	Glycine max	2.7	#19# pH 8.0, 25°C <34>	34
+L-aspartate 4-semialdehyde	19	{'accessions': ['Q3S3F6'], 'source': 'uniprot'}	19	Glycine max	0.098	#19# cosubstrate NADPH, pH 8.0, 25°C <34>	34
+NADH	19	{'accessions': ['Q3S3F6'], 'source': 'uniprot'}	19	Glycine max	0.158	#19# pH 8.0, 25°C <34>	34
+L-homoserine	19	{'accessions': ['Q3S3F6'], 'source': 'uniprot'}	19	Glycine max	17.4	#19# cosubstrate NAD+, pH 8.0, 25°C <34>	34
+L-aspartate 4-semialdehyde	19	{'accessions': ['Q3S3F6'], 'source': 'uniprot'}	19	Glycine max	0.569	#19# cosubstrate NADH, pH 8.0, 25°C <34>	34
+NADP+	-----	-----	2	Thermus thermophilus	-----	-----	11,12
+NADH	20	{'accessions': ['O65027'], 'source': 'uniprot'}	20	Glycine max	0.213	#20# pH 8.0, 25°C <34>	34
+NAD+	20	{'accessions': ['O65027'], 'source': 'uniprot'}	20	Glycine max	24.9	#20# pH 8.0, 25°C <34>	34
+L-aspartate 4-semialdehyde	20	{'accessions': ['O65027'], 'source': 'uniprot'}	20	Glycine max	2.19	#20# cosubstrate NADPH, pH 8.0, 25°C <34>	34
+NADP+	20	{'accessions': ['O65027'], 'source': 'uniprot'}	20	Glycine max	0.235	#20# pH 8.0, 25°C <34>	34
+L-aspartate 4-semialdehyde	20	{'accessions': ['O65027'], 'source': 'uniprot'}	20	Glycine max	1.19	#20# cosubstrate NADH, pH 8.0, 25°C <34>	34
+L-homoserine	20	{'accessions': ['O65027'], 'source': 'uniprot'}	20	Glycine max	9.57	#20# cosubstrate NAD+, pH 8.0, 25°C <34>	34
+NADPH	20	{'accessions': ['O65027'], 'source': 'uniprot'}	20	Glycine max	0.039	#20,21# pH 8.0, 25°C <34>	34
+L-homoserine	20	{'accessions': ['O65027'], 'source': 'uniprot'}	20	Glycine max	1.08	#20# cosubstrate NADP+, pH 8.0, 25°C <34>; #37# pH 9.5, 50°C, recombinant enzyme, with NAD+ <47>	34,47
+NADH	21	{'accessions': ['O63067'], 'source': 'uniprot'}	21	Glycine max	0.19	#21# pH 8.0, 25°C <34>	34
+NADP+	21	{'accessions': ['O63067'], 'source': 'uniprot'}	21	Glycine max	0.245	#21# pH 8.0, 25°C <34>	34
+L-homoserine	21	{'accessions': ['O63067'], 'source': 'uniprot'}	21	Glycine max	0.69	#21# cosubstrate NADP+, pH 8.0, 25°C <34>	34
+L-aspartate 4-semialdehyde	21	{'accessions': ['O63067'], 'source': 'uniprot'}	21	Glycine max	1.25	#21# cosubstrate NADPH, pH 8.0, 25°C <34>	34
+L-homoserine	21	{'accessions': ['O63067'], 'source': 'uniprot'}	21	Glycine max	13.4	#21# cosubstrate NAD+, pH 8.0, 25°C <34>	34
+NAD+	21	{'accessions': ['O63067'], 'source': 'uniprot'}	21	Glycine max	24.1	#21# pH 8.0, 25°C <34>	34
+L-aspartate 4-semialdehyde	21	{'accessions': ['O63067'], 'source': 'uniprot'}	21	Glycine max	0.845	#21# cosubstrate NADH, pH 8.0, 25°C <34>	34
+NAD+	26	{'accessions': ['O58802'], 'source': 'uniprot'}	26	Pyrococcus horikoshii	0.05	#26# pH 9.0, 50°C, recombinant mutant K57A <42>	42
+NADP+	26	{'accessions': ['O58802'], 'source': 'uniprot'}	26	Pyrococcus horikoshii	0.06	#26# pH 9.0, 50°C, recombinant mutant K57A <42>	42
+NADP+	26	{'accessions': ['O58802'], 'source': 'uniprot'}	26	Pyrococcus horikoshii	0.04	#26# pH 9.0, 50°C, recombinant mutant R40A <42>	42
+NAD+	26	{'accessions': ['O58802'], 'source': 'uniprot'}	26	Pyrococcus horikoshii	0.32	#26# pH 9.0, 50°C, recombinant wild-type enzyme <42>	42
+NAD+	26	{'accessions': ['O58802'], 'source': 'uniprot'}	26	Pyrococcus horikoshii	0.95	#26# pH 9.0, 50°C, recombinant mutant R40A <42>	42
+L-homoserine	26	{'accessions': ['O58802'], 'source': 'uniprot'}	26	Pyrococcus horikoshii	6.1	#26# pH 9.0, 50°C, recombinant enzyme <42>	42
+L-aspartate 4-semialdehyde	-----	-----	3	Escherichia coli	0.17	-----	6
+L-homoserine	-----	-----	3	Escherichia coli	0.41	#3# recombinant hybrid bifunctional holoenzyme AKIII-HDHI+ containing the interface region, homoserine dehydrogenase activity <25>	25
+L-homoserine	-----	-----	3	Escherichia coli	0.013	-----	6
+NADPH	-----	-----	3	Escherichia coli	0.09	-----	6
+L-homoserine	-----	-----	3	Escherichia coli	1.2	#3# recombinant wild-type bifunctional holoenzyme, homoserine dehydrogenase activity <25>	25
+NADP+	-----	-----	3	Escherichia coli	0.073	-----	6
+L-homoserine	-----	-----	3	Escherichia coli	0.68	#3# recombinant isolated catalytic HDH-domain containing the interface region, homoserine dehydrogenase activity <25>	25
+L-homoserine	-----	-----	3	Escherichia coli	17.2	#3# recombinant isolated catalytic HDH-domain not containing the interface region, homoserine dehydrogenase activity <25>	25
+NAD+	30	{'accessions': ['F9VNG5'], 'source': 'uniprot'}	30	Sulfurisphaera tokodaii	0.31	#30# pH 8.0, 30°C, oxidized enzyme <39>	39
+L-homoserine	30	{'accessions': ['F9VNG5'], 'source': 'uniprot'}	30	Sulfurisphaera tokodaii	0.21	#30# pH 8.0, 30°C, oxidized enzyme <39>	39
+L-homoserine	30	{'accessions': ['F9VNG5'], 'source': 'uniprot'}	30	Sulfurisphaera tokodaii	0.54	#30# pH 8.0, 30°C, reduced enzyme <39>	39
+NADP+	30	{'accessions': ['F9VNG5'], 'source': 'uniprot'}	30	Sulfurisphaera tokodaii	1.2	#30# pH 8.0, 30°C <52>	52
+NAD+	30	{'accessions': ['F9VNG5'], 'source': 'uniprot'}	30	Sulfurisphaera tokodaii	0.33	#30# pH 8.0, 30°C <52>; #30# pH 8.0, 30°C, reduced enzyme <39>	39,52
+NADP+	35	{'accessions': ['P19582'], 'source': 'uniprot'}	35	Bacillus subtilis	0.039	#35# pH 9.0, 25°C, recombinant enzyme <48>	48
+L-homoserine	35	{'accessions': ['P19582'], 'source': 'uniprot'}	35	Bacillus subtilis	35.08	#35# pH 9.0, 25°C, recombinant enzyme <48>	48
+NADP+	36	{'accessions': ['Q9WZ17'], 'source': 'uniprot'}	36	Thermotoga maritima	0.064	#36# recombinant enzyme, pH 10.5, 55°C <46>	46
+L-homoserine	36	{'accessions': ['Q9WZ17'], 'source': 'uniprot'}	36	Thermotoga maritima	1.81	#36# recombinant enzyme, pH 10.5, 55°C <46>	46
+NADP+	37	{'accessions': ['Q5SL04'], 'source': 'uniprot'}	37	Thermus thermophilus	0.11	#37# pH 10.0, 50°C, recombinant enzyme <47>	47
+L-homoserine	37	{'accessions': ['Q5SL04'], 'source': 'uniprot'}	37	Thermus thermophilus	0.2	#37# pH 10.0, 50°C, recombinant enzyme, with NADP+ <47>	47
+NAD+	37	{'accessions': ['Q5SL04'], 'source': 'uniprot'}	37	Thermus thermophilus	0.74	#37# pH 9.5, 50°C, recombinant enzyme <47>	47
+NADPH	5	{'comment': '#5# alpha1 subunit <7>'}	5	Triticum aestivum	0.031	#5# threonine sensitive isozyme <7>	7
+NADPH	5	{'comment': '#5# alpha1 subunit <7>'}	5	Triticum aestivum	0.043	#5# threonine sensitive isozyme <7>	7
+L-aspartate 4-semialdehyde	5	{'comment': '#5# alpha1 subunit <7>'}	5	Triticum aestivum	-----	#5# threonine sensitive isozyme <7>	7
+NADPH	5	{'comment': '#5# alpha1 subunit <7>'}	5	Triticum aestivum	-----	#5# threonine resistant isozyme <7>	7
+L-aspartate 4-semialdehyde	5	{'comment': '#5# alpha1 subunit <7>'}	5	Triticum aestivum	-----	#5# threonine resistant isozyme <7>	7
+L-aspartate 4-semialdehyde	6	{'comment': '#6# gene VPE3 <1>'}	6	Hordeum vulgare	0.1	#6# isozyme I <1>	1
+L-aspartate 4-semialdehyde	6	{'comment': '#6# gene VPE3 <1>'}	6	Hordeum vulgare	-----	#6# isozyme II <1>	1
+DL-aspartate 4-semialdehyde	7	{'comment': '#7# isozyme 1T <14>; #7# isoform CysK <14>'}	7	Spinacia oleracea	0.1	-----	14
+NADH	7	{'comment': '#7# isozyme 1T <14>; #7# isoform CysK <14>'}	7	Spinacia oleracea	0.3	-----	14
+L-aspartate 4-semialdehyde	7	{'comment': '#7# isozyme 1T <14>; #7# isoform CysK <14>'}	7	Spinacia oleracea	0.5	#8# threonine sensitive isozyme <10>	10,14
+aspartate 4-semialdehyde	8	{'comment': '#8# hoxH, beta-subunit <1,7,10>'}	8	Pisum sativum	0.04	#8# isozyme II <1>	1
+NADPH	8	{'comment': '#8# hoxH, beta-subunit <1,7,10>'}	8	Pisum sativum	0.027	#8# isozyme II <1>	1
+L-aspartate 4-semialdehyde	8	{'comment': '#8# hoxH, beta-subunit <1,7,10>'}	8	Pisum sativum	0.08	#8# threonine insensitive isozyme <10>	10
+NADPH	8	{'comment': '#8# hoxH, beta-subunit <1,7,10>'}	8	Pisum sativum	0.046	#8# isozyme I <1>	1
+L-aspartate 4-semialdehyde	8	{'comment': '#8# hoxH, beta-subunit <1,7,10>'}	8	Pisum sativum	0.066	#8# isozyme I <1>	1
+NADH	8	{'comment': '#8# hoxH, beta-subunit <1,7,10>'}	8	Pisum sativum	0.46	#8# isozyme II <1>; #8# isoenzyme II, at pH 7.5, temperature not specified in the publication <1>	1
+NADPH	9	{'comment': '#9# ST6GalNAc VI <2,3,4,5>'}	9	Zea mays	0.04	#9# threonine sensitive isozyme <4>; #9# threonine-sensitive enzyme, pH and temperature not specified in the publication <4>	4
+L-aspartate 4-semialdehyde	9	{'comment': '#9# ST6GalNAc VI <2,3,4,5>'}	9	Zea mays	0.25	#9# threonine sensitive isozyme <4>; #9# threonine-sensitive enzyme, pH and temperature not specified in the publication <4>	4
+L-aspartate 4-semialdehyde	9	{'comment': '#9# ST6GalNAc VI <2,3,4,5>'}	9	Zea mays	0.15	#9# threonine resistant isozyme <4>; #9# threonine-resistant enzyme, pH and temperature not specified in the publication <4>	4
+NADPH	9	{'comment': '#9# ST6GalNAc VI <2,3,4,5>'}	9	Zea mays	0.036	#9# threonine resistant isozyme <4>; #9# threonine-resistant enzyme, pH and temperature not specified in the publication <4>	4
