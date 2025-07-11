@@ -1,5 +1,4 @@
-# SKiD
-Source code for development of the Structure-oriented Kinetics Dataset (SKiD) of enzyme-substrate interactions
+# SKiD: A Structure-oriented Kinetics Dataset of enzyme-substrate interactions
 # Authors: Sowmya Ramaswamy Krishnan, Nishtha Pandey, Rajgopal Srinivasan, Arijit Roy*
 
 Automation scripts used for construction of the SKiD database arranged into a pipeline. Breaks are present in between the automated processes wherein manual data curation and error resolution was performed by domain experts. The final datasets obtained through this pipeline are available from Zenodo: https://doi.org/10.5281/zenodo.15355031
