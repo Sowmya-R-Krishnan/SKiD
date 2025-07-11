@@ -1,0 +1,2 @@
+Substrate	Protein_details	PDB_IDs	Organism_name	Km_value	Mutant	Mutation	pH	Temperature	References
+2-hydroxyacetophenone	{'accessions': ['O34788'], 'source': 'uniprot'}	6IE0	Bacillus subtilis subsp. subtilis	1.0	no	-----	7.0	25°C	43

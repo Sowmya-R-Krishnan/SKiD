@@ -1,0 +1,20 @@
+Substrate	Protein_details	PDB_IDs	Organism_name	Km_value	Mutant	Mutation	pH	Temperature	References
+myo-inositol	{'accessions': ['P26935'], 'source': 'uniprot'}	3MZ0,3NTQ,3NTO,3NT2,4L8V,3NT5,4L9R,3NT4,3NTR	Bacillus subtilis	18.0	no	-----	9.0	25°C	6,15
+NAD+	{'accessions': ['P26935'], 'source': 'uniprot'}	3MZ0,3NTQ,3NTO,3NT2,4L8V,3NT5,4L9R,3NT4,3NTR	Bacillus subtilis	0.3	yes	H176A	9.0	25°C	18
+(1S,2S,3R,4S,5S)-5-(allyloxy)cyclohexane-1,2,3,4-tetrol	{'accessions': ['P26935'], 'source': 'uniprot'}	3MZ0,3NTQ,3NTO,3NT2,4L8V,3NT5,4L9R,3NT4,3NTR	Bacillus subtilis	7.0	no	-----	9.0	25°C	15
+NAD+	{'accessions': ['P26935'], 'source': 'uniprot'}	3MZ0,3NTQ,3NTO,3NT2,4L8V,3NT5,4L9R,3NT4,3NTR	Bacillus subtilis	0.07	yes	Y233F	9.0	25°C	18
+NAD+	{'accessions': ['P26935'], 'source': 'uniprot'}	3MZ0,3NTQ,3NTO,3NT2,4L8V,3NT5,4L9R,3NT4,3NTR	Bacillus subtilis	0.11	yes	Y235F	9.0	25°C	18
+NAD+	{'accessions': ['P26935'], 'source': 'uniprot'}	3MZ0,3NTQ,3NTO,3NT2,4L8V,3NT5,4L9R,3NT4,3NTR	Bacillus subtilis	0.4	yes	D179N	9.0	25°C	18
+(1S,2S,3R,4S,5S)-5-methoxycyclohexane-1,2,3,4-tetrol	{'accessions': ['P26935'], 'source': 'uniprot'}	3MZ0,3NTQ,3NTO,3NT2,4L8V,3NT5,4L9R,3NT4,3NTR	Bacillus subtilis	8.0	no	-----	9.0	25°C	15
+methyl 4-([[(1S,2S,3R,4S,5S)-2,3,4 5-tetrahydroxycyclohexyl]oxy]methyl)benzoate	{'accessions': ['P26935'], 'source': 'uniprot'}	3MZ0,3NTQ,3NTO,3NT2,4L8V,3NT5,4L9R,3NT4,3NTR	Bacillus subtilis	3.0	no	-----	9.0	25°C	15
+NAD+	{'accessions': ['P26935'], 'source': 'uniprot'}	3MZ0,3NTQ,3NTO,3NT2,4L8V,3NT5,4L9R,3NT4,3NTR	Bacillus subtilis	0.08	no	-----	9.0	25°C	18
+myo-inositol	{'accessions': ['P26935'], 'source': 'uniprot'}	3MZ0,3NTQ,3NTO,3NT2,4L8V,3NT5,4L9R,3NT4,3NTR	Bacillus subtilis	4.0	yes	Y233F	9.0	25°C	18
+(1S,2S,3R,4S,5S)-5-(benzyloxy)cyclohexane-1,2,3,4-tetrol	{'accessions': ['P26935'], 'source': 'uniprot'}	3MZ0,3NTQ,3NTO,3NT2,4L8V,3NT5,4L9R,3NT4,3NTR	Bacillus subtilis	4.0	no	-----	9.0	25°C	15
+NAD+	{'accessions': ['P26935'], 'source': 'uniprot'}	3MZ0,3NTQ,3NTO,3NT2,4L8V,3NT5,4L9R,3NT4,3NTR	Bacillus subtilis	1.1	yes	D172N	9.0	25°C	18
+myo-inositol	{'accessions': ['P26935'], 'source': 'uniprot'}	3MZ0,3NTQ,3NTO,3NT2,4L8V,3NT5,4L9R,3NT4,3NTR	Bacillus subtilis	4.4	no	-----	9.0	25°C	18
+myo-inositol	{'accessions': ['P26935'], 'source': 'uniprot'}	3MZ0,3NTQ,3NTO,3NT2,4L8V,3NT5,4L9R,3NT4,3NTR	Bacillus subtilis	28.0	yes	D179N	9.0	25°C	18
+myo-inositol	{'accessions': ['P26935'], 'source': 'uniprot'}	3MZ0,3NTQ,3NTO,3NT2,4L8V,3NT5,4L9R,3NT4,3NTR	Bacillus subtilis	65.0	yes	D172N	9.0	25°C	18
+4-([[(1S,2S,3R,4S,5S)-2,3,4 5-tetrahydroxycyclohexyl]oxy]methyl)benzoic acid	{'accessions': ['P26935'], 'source': 'uniprot'}	3MZ0,3NTQ,3NTO,3NT2,4L8V,3NT5,4L9R,3NT4,3NTR	Bacillus subtilis	44.0	no	-----	9.0	25°C	15
+myo-inositol	{'accessions': ['P26935'], 'source': 'uniprot'}	3MZ0,3NTQ,3NTO,3NT2,4L8V,3NT5,4L9R,3NT4,3NTR	Bacillus subtilis	39.0	yes	Y235F	9.0	25°C	18
+melibiose	{'accessions': ['P26935'], 'source': 'uniprot'}	3MZ0,3NTQ,3NTO,3NT2,4L8V,3NT5,4L9R,3NT4,3NTR	Bacillus subtilis	57.0	no	-----	9.0	25°C	15
+myo-inositol	{'accessions': ['P26935'], 'source': 'uniprot'}	3MZ0,3NTQ,3NTO,3NT2,4L8V,3NT5,4L9R,3NT4,3NTR	Bacillus subtilis	118.0	yes	H176A	9.0	25°C	18

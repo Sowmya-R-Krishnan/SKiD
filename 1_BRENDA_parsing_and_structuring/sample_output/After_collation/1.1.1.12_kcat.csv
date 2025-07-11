@@ -1,0 +1,7 @@
+Substrate	Protein_details	PDB_IDs	Organism_name	kcat_value	Mutant	Mutation	pH	Temperature	References
+NADP+	{'accessions': ['Q7SI09'], 'source': 'uniprot'}	3M6I	Neurospora crassa	11.9	yes	D211S/I212R/D213N	8.0	25°C	16
+NAD+	{'accessions': ['Q7SI09'], 'source': 'uniprot'}	3M6I	Neurospora crassa	8.58	yes	D211S	8.0	25°C	16
+NAD+	{'accessions': ['Q7SI09'], 'source': 'uniprot'}	3M6I	Neurospora crassa	3.18	yes	D211S/I212R	8.0	25°C	16
+NAD+	{'accessions': ['Q7SI09'], 'source': 'uniprot'}	3M6I	Neurospora crassa	10.83	no	-----	8.0	25°C	16
+NADP+	{'accessions': ['Q7SI09'], 'source': 'uniprot'}	3M6I	Neurospora crassa	8.23	yes	D211S/I212R	8.0	25°C	16
+NADP+	{'accessions': ['Q7SI09'], 'source': 'uniprot'}	3M6I	Neurospora crassa	20.16	yes	D211S/I212R/S348T	8.0	25°C	16

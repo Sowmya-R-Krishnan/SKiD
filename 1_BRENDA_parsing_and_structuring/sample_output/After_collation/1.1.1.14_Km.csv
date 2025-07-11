@@ -1,0 +1,3 @@
+Substrate	Protein_details	PDB_IDs	Organism_name	Km_value	Mutant	Mutation	pH	Temperature	References
+D-sorbitol	{'accessions': ['Q9KWR5'], 'source': 'uniprot'}	5ITG	Gluconobacter oxydans	132.0	no	-----	10.1	-----	43
+2-hydroxyacetophenone	{'accessions': ['Q5FNX9'], 'source': 'uniprot'}	3AWD	Gluconobacter oxydans	0.8	no	-----	7.0	25°C	59

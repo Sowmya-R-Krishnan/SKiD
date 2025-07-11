@@ -1,0 +1,22 @@
+Substrate	Protein_details	PDB_IDs	Organism_name	Km_value	Mutant	Mutation	pH	Temperature	References
+NADH	{'accessions': ['Q7Z4W1'], 'source': 'uniprot'}	1PR9,3D3W,1WNT	Homo sapiens	0.17	no	-----	7.0	25°C	14
+NADP+	{'accessions': ['Q7Z4W1'], 'source': 'uniprot'}	1PR9,3D3W,1WNT	Homo sapiens	0.001	no	-----	7.0	25°C	14
+L-xylulose	{'accessions': ['Q7Z4W1'], 'source': 'uniprot'}	1PR9,3D3W,1WNT	Homo sapiens	0.21	no	-----	7.0	25°C	14
+diacetyl	{'accessions': ['Q7Z4W1'], 'source': 'uniprot'}	1PR9,3D3W,1WNT	Homo sapiens	0.22	yes	C138A	-----	-----	29
+D-erythrose	{'accessions': ['Q7Z4W1'], 'source': 'uniprot'}	1PR9,3D3W,1WNT	Homo sapiens	2.4	no	-----	7.0	25°C	14
+DL-glyceraldehyde	{'accessions': ['Q7Z4W1'], 'source': 'uniprot'}	1PR9,3D3W,1WNT	Homo sapiens	1.2	no	-----	7.0	25°C	14
+acetoin	{'accessions': ['Q7Z4W1'], 'source': 'uniprot'}	1PR9,3D3W,1WNT	Homo sapiens	1.5	no	-----	7.0	25°C	14
+D-threose	{'accessions': ['Q7Z4W1'], 'source': 'uniprot'}	1PR9,3D3W,1WNT	Homo sapiens	1.9	no	-----	7.0	25°C	14
+L-erythrulose	{'accessions': ['Q7Z4W1'], 'source': 'uniprot'}	1PR9,3D3W,1WNT	Homo sapiens	2.5	no	-----	7.0	25°C	14
+D-xylulose	{'accessions': ['Q7Z4W1'], 'source': 'uniprot'}	1PR9,3D3W,1WNT	Homo sapiens	4.8	no	-----	7.0	25°C	14
+NAD+	{'accessions': ['Q7Z4W1'], 'source': 'uniprot'}	1PR9,3D3W,1WNT	Homo sapiens	0.85	no	-----	7.0	25°C	14
+dihydroxyacetone	{'accessions': ['Q7Z4W1'], 'source': 'uniprot'}	1PR9,3D3W,1WNT	Homo sapiens	1.6	no	-----	7.0	25°C	14
+L-threose	{'accessions': ['Q7Z4W1'], 'source': 'uniprot'}	1PR9,3D3W,1WNT	Homo sapiens	4.2	no	-----	7.0	25°C	14
+D-ribulose	{'accessions': ['Q7Z4W1'], 'source': 'uniprot'}	1PR9,3D3W,1WNT	Homo sapiens	5.0	no	-----	7.0	25°C	14
+diacetyl	{'accessions': ['Q7Z4W1'], 'source': 'uniprot'}	1PR9,3D3W,1WNT	Homo sapiens	26.0	yes	N107D	7.0	25°C	17
+xylitol	{'accessions': ['Q7Z4W1'], 'source': 'uniprot'}	1PR9,3D3W,1WNT	Homo sapiens	25.0	no	-----	7.0	25°C	14
+D-threitol	{'accessions': ['Q7Z4W1'], 'source': 'uniprot'}	1PR9,3D3W,1WNT	Homo sapiens	18.0	no	-----	7.0	25°C	14
+diacetyl	{'accessions': ['Q7Z4W1'], 'source': 'uniprot'}	1PR9,3D3W,1WNT	Homo sapiens	31.0	yes	N107L	7.0	25°C	17
+NADPH	{'accessions': ['Q7Z4W1'], 'source': 'uniprot'}	1PR9,3D3W,1WNT	Homo sapiens	95.0	yes	N107D	7.0	25°C	17
+NADPH	{'accessions': ['Q7Z4W1'], 'source': 'uniprot'}	1PR9,3D3W,1WNT	Homo sapiens	97.0	yes	N107L	7.0	25°C	17
+diacetyl	{'accessions': ['Q7Z4W1'], 'source': 'uniprot'}	1PR9,3D3W,1WNT	Homo sapiens	0.0945	no	-----	-----	-----	29

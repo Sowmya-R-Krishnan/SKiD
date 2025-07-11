@@ -1,0 +1,5 @@
+Substrate	Protein_details	PDB_IDs	Organism_name	kcat_value	Mutant	Mutation	pH	Temperature	References
+glycerone phosphate	{'accessions': ['P21695'], 'source': 'uniprot'}	1X0V,1X0X,1WPQ,6PYP,6E90,6E8Z,6E8Y	Homo sapiens	9.0	yes	N270A	7.5	25°C	84
+glycerone phosphate	{'accessions': ['P21695'], 'source': 'uniprot'}	1X0V,1X0X,1WPQ,6PYP,6E90,6E8Z,6E8Y	Homo sapiens	240.0	no	-----	7.5	25°C	84
+glycerone phosphate	{'accessions': ['P21695'], 'source': 'uniprot'}	1X0V,1X0X,1WPQ,6PYP,6E90,6E8Z,6E8Y	Homo sapiens	0.0059	yes	R269A	7.5	25°C	84
+glycerone phosphate	{'accessions': ['P21695'], 'source': 'uniprot'}	1X0V,1X0X,1WPQ,6PYP,6E90,6E8Z,6E8Y	Homo sapiens	0.00028	yes	R269A/N270A	7.5	25°C	84

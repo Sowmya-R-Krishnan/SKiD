@@ -1,0 +1,187 @@
+Substrate	Protein_details	PDB_IDs	Organism_name	Km_value	Mutant	Mutation	pH	Temperature	References
+ethanol	{'accessions': ['P39462'], 'source': 'uniprot'}	3I4C,1R37,1NTO,1JVB,1NVG	Saccharolobus solfataricus	66.0	yes	W95L/N249Y	10.5	65°C	207
+1-Pentanol	{'accessions': ['P39462'], 'source': 'uniprot'}	3I4C,1R37,1NTO,1JVB,1NVG	Saccharolobus solfataricus	0.26	yes	W95L	10.5	65°C	207
+Isobutyraldehyde	{'accessions': ['P39462'], 'source': 'uniprot'}	3I4C,1R37,1NTO,1JVB,1NVG	Saccharolobus solfataricus	0.26	no	-----	10.5	65°C	207
+(R)-2-butanol	{'accessions': ['P39462'], 'source': 'uniprot'}	3I4C,1R37,1NTO,1JVB,1NVG	Saccharolobus solfataricus	0.41	no	-----	10.5	65°C	207
+(S)-2-butanol	{'accessions': ['P39462'], 'source': 'uniprot'}	3I4C,1R37,1NTO,1JVB,1NVG	Saccharolobus solfataricus	0.012	no	-----	10.5	65°C	207
+NADH	{'accessions': ['P39462'], 'source': 'uniprot'}	3I4C,1R37,1NTO,1JVB,1NVG	Saccharolobus solfataricus	0.008	yes	W95L	10.5	65°C	207
+1-Hexanol	{'accessions': ['P39462'], 'source': 'uniprot'}	3I4C,1R37,1NTO,1JVB,1NVG	Saccharolobus solfataricus	0.04	yes	W95L	10.5	65°C	207
+1-Heptanol	{'accessions': ['P39462'], 'source': 'uniprot'}	3I4C,1R37,1NTO,1JVB,1NVG	Saccharolobus solfataricus	0.21	yes	W95L	10.5	65°C	207
+1-Pentanol	{'accessions': ['P39462'], 'source': 'uniprot'}	3I4C,1R37,1NTO,1JVB,1NVG	Saccharolobus solfataricus	0.027	no	-----	10.5	65°C	207
+1-Heptanol	{'accessions': ['P39462'], 'source': 'uniprot'}	3I4C,1R37,1NTO,1JVB,1NVG	Saccharolobus solfataricus	0.038	no	-----	10.5	65°C	207
+trans-cinnamaldehyde	{'accessions': ['P39462'], 'source': 'uniprot'}	3I4C,1R37,1NTO,1JVB,1NVG	Saccharolobus solfataricus	0.09	yes	W95L	10.5	65°C	207
+benzaldehyde	{'accessions': ['P39462'], 'source': 'uniprot'}	3I4C,1R37,1NTO,1JVB,1NVG	Saccharolobus solfataricus	0.07	yes	W95L	10.5	65°C	207
+Butyraldehyde	{'accessions': ['P39462'], 'source': 'uniprot'}	3I4C,1R37,1NTO,1JVB,1NVG	Saccharolobus solfataricus	0.07	no	-----	10.5	65°C	207
+4-methoxybenzyl alcohol	{'accessions': ['P39462'], 'source': 'uniprot'}	3I4C,1R37,1NTO,1JVB,1NVG	Saccharolobus solfataricus	0.07	no	-----	10.5	65°C	207
+(S)-2-pentanol	{'accessions': ['P39462'], 'source': 'uniprot'}	3I4C,1R37,1NTO,1JVB,1NVG	Saccharolobus solfataricus	0.07	no	-----	10.5	65°C	207
+trans-cinnamaldehyde	{'accessions': ['P39462'], 'source': 'uniprot'}	3I4C,1R37,1NTO,1JVB,1NVG	Saccharolobus solfataricus	0.009	no	-----	10.5	65°C	207
+benzyl alcohol	{'accessions': ['P39462'], 'source': 'uniprot'}	3I4C,1R37,1NTO,1JVB,1NVG	Saccharolobus solfataricus	0.12	yes	W95L	10.5	65°C	207
+4-methoxybenzyl alcohol	{'accessions': ['P39462'], 'source': 'uniprot'}	3I4C,1R37,1NTO,1JVB,1NVG	Saccharolobus solfataricus	0.12	no	-----	10.5	65°C	207
+2-ethoxyethanol	{'accessions': ['P39462'], 'source': 'uniprot'}	3I4C,1R37,1NTO,1JVB,1NVG	Saccharolobus solfataricus	0.25	no	-----	10.5	65°C	207
+benzaldehyde	{'accessions': ['P39462'], 'source': 'uniprot'}	3I4C,1R37,1NTO,1JVB,1NVG	Saccharolobus solfataricus	0.28	yes	W95L/N249Y	10.5	65°C	207
+ethanol	{'accessions': ['P39462'], 'source': 'uniprot'}	3I4C,1R37,1NTO,1JVB,1NVG	Saccharolobus solfataricus	4.6	no	-----	10.5	65°C	207
+(R)-2-pentanol	{'accessions': ['P39462'], 'source': 'uniprot'}	3I4C,1R37,1NTO,1JVB,1NVG	Saccharolobus solfataricus	0.22	no	-----	10.5	65°C	207
+1-Heptanol	{'accessions': ['P39462'], 'source': 'uniprot'}	3I4C,1R37,1NTO,1JVB,1NVG	Saccharolobus solfataricus	0.67	yes	W95L/N249Y	10.5	65°C	207
+trans-cinnamaldehyde	{'accessions': ['P39462'], 'source': 'uniprot'}	3I4C,1R37,1NTO,1JVB,1NVG	Saccharolobus solfataricus	0.23	yes	W95L/N249Y	10.5	65°C	207
+1-Pentanol	{'accessions': ['P39462'], 'source': 'uniprot'}	3I4C,1R37,1NTO,1JVB,1NVG	Saccharolobus solfataricus	1.9	yes	W95L/N249Y	10.5	65°C	207
+1-butanol	{'accessions': ['P39462'], 'source': 'uniprot'}	3I4C,1R37,1NTO,1JVB,1NVG	Saccharolobus solfataricus	0.08	no	-----	10.5	65°C	207
+Isobutyraldehyde	{'accessions': ['P39462'], 'source': 'uniprot'}	3I4C,1R37,1NTO,1JVB,1NVG	Saccharolobus solfataricus	0.33	yes	W95L	10.5	65°C	207
+NAD+	{'accessions': ['P39462'], 'source': 'uniprot'}	3I4C,1R37,1NTO,1JVB,1NVG	Saccharolobus solfataricus	4.0	yes	W95L	10.5	65°C	207
+Butyraldehyde	{'accessions': ['P39462'], 'source': 'uniprot'}	3I4C,1R37,1NTO,1JVB,1NVG	Saccharolobus solfataricus	0.13	yes	W95L	10.5	65°C	207
+1-Hexanol	{'accessions': ['P39462'], 'source': 'uniprot'}	3I4C,1R37,1NTO,1JVB,1NVG	Saccharolobus solfataricus	0.035	no	-----	10.5	65°C	207
+Cyclohexanol	{'accessions': ['P39462'], 'source': 'uniprot'}	3I4C,1R37,1NTO,1JVB,1NVG	Saccharolobus solfataricus	4.5	yes	W95L/N249Y	10.5	65°C	207
+Butyraldehyde	{'accessions': ['P39462'], 'source': 'uniprot'}	3I4C,1R37,1NTO,1JVB,1NVG	Saccharolobus solfataricus	0.27	yes	W95L/N249Y	10.5	65°C	207
+3-Pentanol	{'accessions': ['P39462'], 'source': 'uniprot'}	3I4C,1R37,1NTO,1JVB,1NVG	Saccharolobus solfataricus	0.27	no	-----	10.5	65°C	207
+1-butanol	{'accessions': ['P39462'], 'source': 'uniprot'}	3I4C,1R37,1NTO,1JVB,1NVG	Saccharolobus solfataricus	1.6	yes	W95L/N249Y	10.5	65°C	207
+NADH	{'accessions': ['P39462'], 'source': 'uniprot'}	3I4C,1R37,1NTO,1JVB,1NVG	Saccharolobus solfataricus	0.75	yes	W95L/N249Y	10.5	65°C	207
+NAD+	{'accessions': ['P39462'], 'source': 'uniprot'}	3I4C,1R37,1NTO,1JVB,1NVG	Saccharolobus solfataricus	50.0	yes	W95L/N249Y	10.5	65°C	207
+(S)-2-pentanol	{'accessions': ['P39462'], 'source': 'uniprot'}	3I4C,1R37,1NTO,1JVB,1NVG	Saccharolobus solfataricus	8.8	yes	W95L/N249Y	10.5	65°C	207
+1-propanol	{'accessions': ['P39462'], 'source': 'uniprot'}	3I4C,1R37,1NTO,1JVB,1NVG	Saccharolobus solfataricus	0.24	no	-----	10.5	65°C	207
+Isobutyraldehyde	{'accessions': ['P39462'], 'source': 'uniprot'}	3I4C,1R37,1NTO,1JVB,1NVG	Saccharolobus solfataricus	0.76	yes	W95L/N249Y	10.5	65°C	207
+(S)-2-butanol	{'accessions': ['P39462'], 'source': 'uniprot'}	3I4C,1R37,1NTO,1JVB,1NVG	Saccharolobus solfataricus	29.8	yes	W95L/N249Y	10.5	65°C	207
+benzyl alcohol	{'accessions': ['P39462'], 'source': 'uniprot'}	3I4C,1R37,1NTO,1JVB,1NVG	Saccharolobus solfataricus	3.8	yes	W95L/N249Y	10.5	65°C	207
+1-Hexanol	{'accessions': ['P39462'], 'source': 'uniprot'}	3I4C,1R37,1NTO,1JVB,1NVG	Saccharolobus solfataricus	0.88	yes	W95L/N249Y	10.5	65°C	207
+1-propanol	{'accessions': ['P39462'], 'source': 'uniprot'}	3I4C,1R37,1NTO,1JVB,1NVG	Saccharolobus solfataricus	6.5	yes	W95L/N249Y	10.5	65°C	207
+(R)-2-pentanol	{'accessions': ['P39462'], 'source': 'uniprot'}	3I4C,1R37,1NTO,1JVB,1NVG	Saccharolobus solfataricus	11.7	yes	W95L/N249Y	10.5	65°C	207
+(R)-2-butanol	{'accessions': ['P39462'], 'source': 'uniprot'}	3I4C,1R37,1NTO,1JVB,1NVG	Saccharolobus solfataricus	37.4	yes	W95L/N249Y	10.5	65°C	207
+1-formyl-8-methylpyrene	{'accessions': ['P00326'], 'source': 'uniprot'}	1U3W,1HT0	Homo sapiens	0.00024	no	-----	-----	21-23°C	214
+1-formylpyrene	{'accessions': ['P00326'], 'source': 'uniprot'}	1U3W,1HT0	Homo sapiens	0.0005	yes	ADH1C	-----	21-23°C	214
+1-formyl-6-methylpyrene	{'accessions': ['P00326'], 'source': 'uniprot'}	1U3W,1HT0	Homo sapiens	0.0009	yes	ADH1C	-----	21-23°C	214
+4-formylpyrene	{'accessions': ['P00326'], 'source': 'uniprot'}	1U3W,1HT0	Homo sapiens	0.001	yes	ADH1C	-----	21-23°C	214
+4-hydroxymethylpyrene	{'accessions': ['P00326'], 'source': 'uniprot'}	1U3W,1HT0	Homo sapiens	0.001	yes	ADH1C	-----	21-23°C	214
+1-formylpyrene	{'accessions': ['P00326'], 'source': 'uniprot'}	1U3W,1HT0	Homo sapiens	0.012	no	-----	-----	21-23°C	214
+4-hydroxymethylpyrene	{'accessions': ['P00326'], 'source': 'uniprot'}	1U3W,1HT0	Homo sapiens	0.04	no	-----	-----	21-23°C	214
+2-formylpyrene	{'accessions': ['P00326'], 'source': 'uniprot'}	1U3W,1HT0	Homo sapiens	0.009	no	-----	-----	21-23°C	214
+1-formylpyrene	{'accessions': ['P00326'], 'source': 'uniprot'}	1U3W,1HT0	Homo sapiens	0.00055	no	-----	-----	21-23°C	214
+2-formylpyrene	{'accessions': ['P00326'], 'source': 'uniprot'}	1U3W,1HT0	Homo sapiens	0.0021	yes	ADH1C	-----	21-23°C	214
+4-formylpyrene	{'accessions': ['P00326'], 'source': 'uniprot'}	1U3W,1HT0	Homo sapiens	0.0021	no	-----	-----	21-23°C	214
+1-hydroxymethyl-8-methylpyrene	{'accessions': ['P00326'], 'source': 'uniprot'}	1U3W,1HT0	Homo sapiens	0.00031	no	-----	-----	21-23°C	214
+1-Octanol	{'accessions': ['P00326'], 'source': 'uniprot'}	1U3W,1HT0	Homo sapiens	0.39	no	-----	-----	21-23°C	214
+1-hydroxymethylpyrene	{'accessions': ['P00326'], 'source': 'uniprot'}	1U3W,1HT0	Homo sapiens	0.076	no	-----	-----	21-23°C	214
+ethanol	{'accessions': ['P00326'], 'source': 'uniprot'}	1U3W,1HT0	Homo sapiens	0.77	yes	ADH1C	-----	21-23°C	214
+1-hydroxymethyl-6-methylpyrene	{'accessions': ['P00326'], 'source': 'uniprot'}	1U3W,1HT0	Homo sapiens	0.00057	no	-----	-----	21-23°C	214
+acetaldehyde	{'accessions': ['P00326'], 'source': 'uniprot'}	1U3W,1HT0	Homo sapiens	0.34	yes	ADH1C	-----	21-23°C	214
+2-formylpyrene	{'accessions': ['P00326'], 'source': 'uniprot'}	1U3W,1HT0	Homo sapiens	0.0029	no	-----	-----	21-23°C	214
+1-hydroxymethyl-8-methylpyrene	{'accessions': ['P00326'], 'source': 'uniprot'}	1U3W,1HT0	Homo sapiens	0.059	yes	ADH1C	-----	21-23°C	214
+acetaldehyde	{'accessions': ['P00326'], 'source': 'uniprot'}	1U3W,1HT0	Homo sapiens	26.0	no	-----	-----	21-23°C	214
+2-hydroxymethylpyrene	{'accessions': ['P00326'], 'source': 'uniprot'}	1U3W,1HT0	Homo sapiens	0.0044	no	-----	-----	21-23°C	214
+ethanol	{'accessions': ['P00326'], 'source': 'uniprot'}	1U3W,1HT0	Homo sapiens	33.0	no	-----	-----	21-23°C	214
+1-hydroxymethyl-6-methylpyrene	{'accessions': ['P00326'], 'source': 'uniprot'}	1U3W,1HT0	Homo sapiens	0.0064	no	-----	-----	21-23°C	214
+1-hydroxymethyl-8-methylpyrene	{'accessions': ['P00326'], 'source': 'uniprot'}	1U3W,1HT0	Homo sapiens	0.0064	no	-----	-----	21-23°C	214
+4-formylpyrene	{'accessions': ['P00326'], 'source': 'uniprot'}	1U3W,1HT0	Homo sapiens	0.0038	no	-----	-----	21-23°C	214
+1-formyl-6-methylpyrene	{'accessions': ['P00326'], 'source': 'uniprot'}	1U3W,1HT0	Homo sapiens	0.0038	no	-----	-----	21-23°C	214
+octanal	{'accessions': ['P00326'], 'source': 'uniprot'}	1U3W,1HT0	Homo sapiens	9.6	no	-----	-----	21-23°C	214
+2-hydroxymethylpyrene	{'accessions': ['P00326'], 'source': 'uniprot'}	1U3W,1HT0	Homo sapiens	0.106	no	-----	-----	21-23°C	214
+1-hydroxymethylpyrene	{'accessions': ['P00326'], 'source': 'uniprot'}	1U3W,1HT0	Homo sapiens	0.00059	no	-----	-----	21-23°C	214
+1-formyl-6-methylpyrene	{'accessions': ['P00326'], 'source': 'uniprot'}	1U3W,1HT0	Homo sapiens	0.00032	no	-----	-----	21-23°C	214
+1-hydroxymethylpyrene	{'accessions': ['P00326'], 'source': 'uniprot'}	1U3W,1HT0	Homo sapiens	0.00075	yes	ADH1C	-----	21-23°C	214
+1-formyl-8-methylpyrene	{'accessions': ['P00326'], 'source': 'uniprot'}	1U3W,1HT0	Homo sapiens	0.00131	yes	ADH1C	-----	21-23°C	214
+2-hydroxymethylpyrene	{'accessions': ['P00326'], 'source': 'uniprot'}	1U3W,1HT0	Homo sapiens	0.00048	yes	ADH1C	-----	21-23°C	214
+4-hydroxymethylpyrene	{'accessions': ['P00326'], 'source': 'uniprot'}	1U3W,1HT0	Homo sapiens	0.00037	no	-----	-----	21-23°C	214
+1-hydroxymethyl-6-methylpyrene	{'accessions': ['P00326'], 'source': 'uniprot'}	1U3W,1HT0	Homo sapiens	0.00115	yes	ADH1C	-----	21-23°C	214
+1-formyl-8-methylpyrene	{'accessions': ['P00326'], 'source': 'uniprot'}	1U3W,1HT0	Homo sapiens	0.00149	no	-----	-----	21-23°C	214
+1-hydroxymethyl-6-methylpyrene	{'accessions': ['P08319'], 'source': 'uniprot'}	3COS	Homo sapiens	0.00028	no	-----	-----	21-23°C	214
+2-hydroxymethylpyrene	{'accessions': ['P08319'], 'source': 'uniprot'}	3COS	Homo sapiens	0.033	no	-----	-----	21-23°C	214
+1-hydroxymethyl-8-methylpyrene	{'accessions': ['P08319'], 'source': 'uniprot'}	3COS	Homo sapiens	0.0016	no	-----	-----	21-23°C	214
+1-formylpyrene	{'accessions': ['P08319'], 'source': 'uniprot'}	3COS	Homo sapiens	0.00092	no	-----	-----	21-23°C	214
+4-hydroxymethylpyrene	{'accessions': ['P08319'], 'source': 'uniprot'}	3COS	Homo sapiens	0.0029	no	-----	-----	21-23°C	214
+2-formylpyrene	{'accessions': ['P08319'], 'source': 'uniprot'}	3COS	Homo sapiens	0.0069	no	-----	-----	21-23°C	214
+ethanol	{'accessions': ['P08319'], 'source': 'uniprot'}	3COS	Homo sapiens	3.6	no	-----	-----	21-23°C	214
+1-formyl-8-methylpyrene	{'accessions': ['P08319'], 'source': 'uniprot'}	3COS	Homo sapiens	3.5e-05	no	-----	-----	21-23°C	214
+acetaldehyde	{'accessions': ['P08319'], 'source': 'uniprot'}	3COS	Homo sapiens	12.7	no	-----	-----	21-23°C	214
+1-hydroxymethylpyrene	{'accessions': ['P08319'], 'source': 'uniprot'}	3COS	Homo sapiens	0.0283	no	-----	-----	21-23°C	214
+4-formylpyrene	{'accessions': ['P08319'], 'source': 'uniprot'}	3COS	Homo sapiens	0.00048	no	-----	-----	21-23°C	214
+1-formyl-6-methylpyrene	{'accessions': ['P08319'], 'source': 'uniprot'}	3COS	Homo sapiens	3.6e-05	no	-----	-----	21-23°C	214
+NAD+	{'accessions': ['B2ZRE3'], 'source': 'uniprot'}	4CPD	Thermus sp.	0.13	no	-----	9.0	60°C	197
+Cyclohexanol	{'accessions': ['B2ZRE3'], 'source': 'uniprot'}	4CPD	Thermus sp.	2.09	no	-----	9.0	60°C	197
+cyclohexanone	{'accessions': ['B2ZRE3'], 'source': 'uniprot'}	4CPD	Thermus sp.	3.68	no	-----	6.0	60°C	197
+ethanol	{'accessions': ['P00330'], 'source': 'uniprot'}	5ENV,7KCB,4W6Z,7NTM	Saccharomyces cerevisiae	7.75	no	-----	8.0	25°C	209
+4-amino-1-butanol	{'accessions': ['P00327'], 'source': 'uniprot'}	7UHW,1YE3,1QV7,1A71,5KJ6,8G2S,7UEF,5KJE,4NG5,6OWM,7UDE,7UC9,5VJ5,7ADH,1HF3,3BTO,7UHX,6NBB,7UQ9,6OWP,1BTO,7RM6,6O91,1P1R,6CY3,8G39,8ADH,1N92,1QLH,5CDS,5KCP,5KJF,1HET,7UEE,8G41,2OXI,5KCZ,5KJC,8G2X,7UDD,5CDG,4DXH,4XD2,2JHF,1HLD,5VKR,4NFS,7UDR,8EIW,3OQ6,1N8K,1QLJ,7U9N,7UCU,1MG0,4DWV,4NFH,1ADC,7UEC,1LDY,8EIX,7JQA,1HEU,5VL0,1ADG,8G4V,2JHG,5VN1,5VJG,5ADH,6XT2,1ADF,7UHV,8EIY,1ADB,1LDE,1AXG,5KJ1,1JU9,6ADH,6OA7,1MGO,2OHX,5CDU,7UCA,7K35,8G2L,6CXX,7UEJ,7UEI,1AXE,1QV6,5CDT,7UA6,1A72,7UTW	Equus caballus	3.8	no	-----	11.0	25°C	297
+4-amino-1-butanol	{'accessions': ['P00327'], 'source': 'uniprot'}	7UHW,1YE3,1QV7,1A71,5KJ6,8G2S,7UEF,5KJE,4NG5,6OWM,7UDE,7UC9,5VJ5,7ADH,1HF3,3BTO,7UHX,6NBB,7UQ9,6OWP,1BTO,7RM6,6O91,1P1R,6CY3,8G39,8ADH,1N92,1QLH,5CDS,5KCP,5KJF,1HET,7UEE,8G41,2OXI,5KCZ,5KJC,8G2X,7UDD,5CDG,4DXH,4XD2,2JHF,1HLD,5VKR,4NFS,7UDR,8EIW,3OQ6,1N8K,1QLJ,7U9N,7UCU,1MG0,4DWV,4NFH,1ADC,7UEC,1LDY,8EIX,7JQA,1HEU,5VL0,1ADG,8G4V,2JHG,5VN1,5VJG,5ADH,6XT2,1ADF,7UHV,8EIY,1ADB,1LDE,1AXG,5KJ1,1JU9,6ADH,6OA7,1MGO,2OHX,5CDU,7UCA,7K35,8G2L,6CXX,7UEJ,7UEI,1AXE,1QV6,5CDT,7UA6,1A72,7UTW	Equus caballus	17.8	no	-----	9.0	25°C	297
+5-amino-1-pentanol	{'accessions': ['P00327'], 'source': 'uniprot'}	7UHW,1YE3,1QV7,1A71,5KJ6,8G2S,7UEF,5KJE,4NG5,6OWM,7UDE,7UC9,5VJ5,7ADH,1HF3,3BTO,7UHX,6NBB,7UQ9,6OWP,1BTO,7RM6,6O91,1P1R,6CY3,8G39,8ADH,1N92,1QLH,5CDS,5KCP,5KJF,1HET,7UEE,8G41,2OXI,5KCZ,5KJC,8G2X,7UDD,5CDG,4DXH,4XD2,2JHF,1HLD,5VKR,4NFS,7UDR,8EIW,3OQ6,1N8K,1QLJ,7U9N,7UCU,1MG0,4DWV,4NFH,1ADC,7UEC,1LDY,8EIX,7JQA,1HEU,5VL0,1ADG,8G4V,2JHG,5VN1,5VJG,5ADH,6XT2,1ADF,7UHV,8EIY,1ADB,1LDE,1AXG,5KJ1,1JU9,6ADH,6OA7,1MGO,2OHX,5CDU,7UCA,7K35,8G2L,6CXX,7UEJ,7UEI,1AXE,1QV6,5CDT,7UA6,1A72,7UTW	Equus caballus	26.9	no	-----	9.0	25°C	297
+6-amino-1-hexanol	{'accessions': ['P00327'], 'source': 'uniprot'}	7UHW,1YE3,1QV7,1A71,5KJ6,8G2S,7UEF,5KJE,4NG5,6OWM,7UDE,7UC9,5VJ5,7ADH,1HF3,3BTO,7UHX,6NBB,7UQ9,6OWP,1BTO,7RM6,6O91,1P1R,6CY3,8G39,8ADH,1N92,1QLH,5CDS,5KCP,5KJF,1HET,7UEE,8G41,2OXI,5KCZ,5KJC,8G2X,7UDD,5CDG,4DXH,4XD2,2JHF,1HLD,5VKR,4NFS,7UDR,8EIW,3OQ6,1N8K,1QLJ,7U9N,7UCU,1MG0,4DWV,4NFH,1ADC,7UEC,1LDY,8EIX,7JQA,1HEU,5VL0,1ADG,8G4V,2JHG,5VN1,5VJG,5ADH,6XT2,1ADF,7UHV,8EIY,1ADB,1LDE,1AXG,5KJ1,1JU9,6ADH,6OA7,1MGO,2OHX,5CDU,7UCA,7K35,8G2L,6CXX,7UEJ,7UEI,1AXE,1QV6,5CDT,7UA6,1A72,7UTW	Equus caballus	6.71	no	-----	9.0	25°C	297
+4-amino-1-butanol	{'accessions': ['P00327'], 'source': 'uniprot'}	7UHW,1YE3,1QV7,1A71,5KJ6,8G2S,7UEF,5KJE,4NG5,6OWM,7UDE,7UC9,5VJ5,7ADH,1HF3,3BTO,7UHX,6NBB,7UQ9,6OWP,1BTO,7RM6,6O91,1P1R,6CY3,8G39,8ADH,1N92,1QLH,5CDS,5KCP,5KJF,1HET,7UEE,8G41,2OXI,5KCZ,5KJC,8G2X,7UDD,5CDG,4DXH,4XD2,2JHF,1HLD,5VKR,4NFS,7UDR,8EIW,3OQ6,1N8K,1QLJ,7U9N,7UCU,1MG0,4DWV,4NFH,1ADC,7UEC,1LDY,8EIX,7JQA,1HEU,5VL0,1ADG,8G4V,2JHG,5VN1,5VJG,5ADH,6XT2,1ADF,7UHV,8EIY,1ADB,1LDE,1AXG,5KJ1,1JU9,6ADH,6OA7,1MGO,2OHX,5CDU,7UCA,7K35,8G2L,6CXX,7UEJ,7UEI,1AXE,1QV6,5CDT,7UA6,1A72,7UTW	Equus caballus	34.9	no	-----	7.0	25°C	297
+12-hydroxylauric acid methyl ester	{'accessions': ['P42328'], 'source': 'uniprot'}	3PII,1RJW	Geobacillus stearothermophilus	0.1	yes	C257L	8.0	60°C	245
+NAD+	{'accessions': ['P42328'], 'source': 'uniprot'}	3PII,1RJW	Geobacillus stearothermophilus	1.3	yes	W49F/W87F	-----	30°C	256
+acetaldehyde	{'accessions': ['P42328'], 'source': 'uniprot'}	3PII,1RJW	Geobacillus stearothermophilus	0.364	no	-----	8.0	60°C	245
+benzyl alcohol	{'accessions': ['P42328'], 'source': 'uniprot'}	3PII,1RJW	Geobacillus stearothermophilus	3.1	yes	W49F/W167Y	-----	30°C	256
+NAD+	{'accessions': ['P42328'], 'source': 'uniprot'}	3PII,1RJW	Geobacillus stearothermophilus	1.8	yes	W49F/W167Y	-----	30°C	256
+NAD+	{'accessions': ['P42328'], 'source': 'uniprot'}	3PII,1RJW	Geobacillus stearothermophilus	10.0	yes	V260A	-----	30°C	256
+12-hydroxylauric acid methyl ester	{'accessions': ['P42328'], 'source': 'uniprot'}	3PII,1RJW	Geobacillus stearothermophilus	0.086	no	-----	8.0	60°C	245
+12-oxolauric acid methyl ester	{'accessions': ['P42328'], 'source': 'uniprot'}	3PII,1RJW	Geobacillus stearothermophilus	0.066	no	-----	8.0	60°C	245
+benzyl alcohol	{'accessions': ['P42328'], 'source': 'uniprot'}	3PII,1RJW	Geobacillus stearothermophilus	6.8	no	-----	-----	30°C	256
+NAD+	{'accessions': ['P42328'], 'source': 'uniprot'}	3PII,1RJW	Geobacillus stearothermophilus	8.3	yes	W49F/W167Y/V260A	-----	30°C	256
+benzyl alcohol	{'accessions': ['P42328'], 'source': 'uniprot'}	3PII,1RJW	Geobacillus stearothermophilus	5.4	yes	Y25A/W49F/W167Y/V260A	-----	30°C	256
+benzyl alcohol	{'accessions': ['P42328'], 'source': 'uniprot'}	3PII,1RJW	Geobacillus stearothermophilus	4.2	yes	V260A	-----	30°C	256
+Butyraldehyde	{'accessions': ['P42328'], 'source': 'uniprot'}	3PII,1RJW	Geobacillus stearothermophilus	0.108	no	-----	8.0	60°C	245
+ethanol	{'accessions': ['P42328'], 'source': 'uniprot'}	3PII,1RJW	Geobacillus stearothermophilus	0.91	no	-----	8.0	60°C	245
+benzyl alcohol	{'accessions': ['P42328'], 'source': 'uniprot'}	3PII,1RJW	Geobacillus stearothermophilus	6.0	yes	W49F/W87F	-----	30°C	256
+benzyl alcohol	{'accessions': ['P42328'], 'source': 'uniprot'}	3PII,1RJW	Geobacillus stearothermophilus	8.2	yes	W49F/W167Y/V260A	-----	30°C	256
+benzyl alcohol	{'accessions': ['P42328'], 'source': 'uniprot'}	3PII,1RJW	Geobacillus stearothermophilus	7.2	yes	Y25A	7.0	30°C	259
+NAD+	{'accessions': ['P42328'], 'source': 'uniprot'}	3PII,1RJW	Geobacillus stearothermophilus	10.2	yes	W49F/W87F/V260A	-----	30°C	256
+1-propanol	{'accessions': ['P42328'], 'source': 'uniprot'}	3PII,1RJW	Geobacillus stearothermophilus	39.8	no	-----	7.5	23°C	305
+benzyl alcohol	{'accessions': ['P42328'], 'source': 'uniprot'}	3PII,1RJW	Geobacillus stearothermophilus	10.9	yes	Y25A/W49F/W87F	-----	30°C	256
+ethanol	{'accessions': ['P42328'], 'source': 'uniprot'}	3PII,1RJW	Geobacillus stearothermophilus	2.95	no	-----	7.5	23°C	305
+NAD+	{'accessions': ['P42328'], 'source': 'uniprot'}	3PII,1RJW	Geobacillus stearothermophilus	9.7	yes	Y25A/W49F/W167Y/V260A	-----	30°C	256
+NAD+	{'accessions': ['P42328'], 'source': 'uniprot'}	3PII,1RJW	Geobacillus stearothermophilus	0.239	no	-----	8.0	60°C	245
+benzyl alcohol	{'accessions': ['P42328'], 'source': 'uniprot'}	3PII,1RJW	Geobacillus stearothermophilus	10.1	yes	Y25A/W49F/W87F/V260A	-----	30°C	256
+NAD+	{'accessions': ['P42328'], 'source': 'uniprot'}	3PII,1RJW	Geobacillus stearothermophilus	14.8	yes	Y25A/W49F/W87F/V260A	-----	30°C	256
+benzyl alcohol	{'accessions': ['P42328'], 'source': 'uniprot'}	3PII,1RJW	Geobacillus stearothermophilus	6.9	no	-----	7.0	30°C	259
+benzyl alcohol	{'accessions': ['P42328'], 'source': 'uniprot'}	3PII,1RJW	Geobacillus stearothermophilus	16.5	yes	Y25A	-----	30°C	256
+iso-propanol	{'accessions': ['P42328'], 'source': 'uniprot'}	3PII,1RJW	Geobacillus stearothermophilus	1.26	no	-----	7.5	23°C	305
+benzyl alcohol	{'accessions': ['P42328'], 'source': 'uniprot'}	3PII,1RJW	Geobacillus stearothermophilus	12.9	yes	W49F/W87F/V260A	-----	30°C	256
+1-butanol	{'accessions': ['P42328'], 'source': 'uniprot'}	3PII,1RJW	Geobacillus stearothermophilus	2.45	no	-----	7.5	23°C	305
+n-butanol	{'accessions': ['P42328'], 'source': 'uniprot'}	3PII,1RJW	Geobacillus stearothermophilus	0.611	no	-----	8.0	60°C	245
+methanol	{'accessions': ['P42328'], 'source': 'uniprot'}	3PII,1RJW	Geobacillus stearothermophilus	294.23	no	-----	7.5	23°C	305
+2-butanol	{'accessions': ['P42328'], 'source': 'uniprot'}	3PII,1RJW	Geobacillus stearothermophilus	23.82	no	-----	7.5	23°C	305
+tert-butanol	{'accessions': ['P42328'], 'source': 'uniprot'}	3PII,1RJW	Geobacillus stearothermophilus	568.84	no	-----	7.5	23°C	305
+1,3-Propanediol	{'accessions': ['P42328'], 'source': 'uniprot'}	3PII,1RJW	Geobacillus stearothermophilus	23.64	no	-----	7.5	23°C	305
+2,2-dichloroacetophenone	{'accessions': ['Q4J9F2'], 'source': 'uniprot'}	4FN4	Sulfolobus acidocaldarius	0.11	no	-----	5.0	65°C	217
+benzil	{'accessions': ['Q4J9F2'], 'source': 'uniprot'}	4FN4	Sulfolobus acidocaldarius	0.43	no	-----	5.0	65°C	217
+isoborneol	{'accessions': ['Q4J9F2'], 'source': 'uniprot'}	4FN4	Sulfolobus acidocaldarius	0.81	no	-----	10.5	65°C	217
+ethyl benzoylformate	{'accessions': ['Q4J9F2'], 'source': 'uniprot'}	4FN4	Sulfolobus acidocaldarius	4.2	no	-----	5.0	65°C	217
+1-phenyl-1,2-propanedione	{'accessions': ['Q4J9F2'], 'source': 'uniprot'}	4FN4	Sulfolobus acidocaldarius	5.0	no	-----	5.0	65°C	217
+cycloheptanol	{'accessions': ['Q4J9F2'], 'source': 'uniprot'}	4FN4	Sulfolobus acidocaldarius	5.1	no	-----	10.5	65°C	217
+2',3',4',5',6'-pentafluoroacetophenone	{'accessions': ['Q4J9F2'], 'source': 'uniprot'}	4FN4	Sulfolobus acidocaldarius	11.9	no	-----	5.0	65°C	217
+2,2,2-trifluoroacetophenone	{'accessions': ['Q4J9F2'], 'source': 'uniprot'}	4FN4	Sulfolobus acidocaldarius	6.3	no	-----	5.0	65°C	217
+tetralin-1-ol	{'accessions': ['Q4J9F2'], 'source': 'uniprot'}	4FN4	Sulfolobus acidocaldarius	8.5	no	-----	10.5	65°C	217
+1-Indanol	{'accessions': ['Q4J9F2'], 'source': 'uniprot'}	4FN4	Sulfolobus acidocaldarius	8.7	no	-----	10.5	65°C	217
+(R)-alpha-tetralol	{'accessions': ['Q4J9F2'], 'source': 'uniprot'}	4FN4	Sulfolobus acidocaldarius	1.28	no	-----	8.0	65°C	218
+ethyl 3-methyl-2-oxobutyrate	{'accessions': ['Q4J9F2'], 'source': 'uniprot'}	4FN4	Sulfolobus acidocaldarius	16.6	no	-----	5.0	65°C	217
+1-Hexanol	{'accessions': ['Q9Y9P9'], 'source': 'uniprot'}	1H2B	Aeropyrum pernix	0.147	no	-----	8.0	60°C	238
+2-decanone	{'accessions': ['Q9Y9P9'], 'source': 'uniprot'}	1H2B	Aeropyrum pernix	0.147	no	-----	8.0	60°C	238
+NAD+	{'accessions': ['Q9Y9P9'], 'source': 'uniprot'}	1H2B	Aeropyrum pernix	0.001	no	-----	8.0	60°C	238
+NADH	{'accessions': ['Q9Y9P9'], 'source': 'uniprot'}	1H2B	Aeropyrum pernix	0.0004	no	-----	8.0	60°C	238
+1-Pentanol	{'accessions': ['Q9Y9P9'], 'source': 'uniprot'}	1H2B	Aeropyrum pernix	0.396	no	-----	8.0	60°C	238
+2-butanol	{'accessions': ['Q9Y9P9'], 'source': 'uniprot'}	1H2B	Aeropyrum pernix	1.05	no	-----	8.0	60°C	238
+2-Octanone	{'accessions': ['Q9Y9P9'], 'source': 'uniprot'}	1H2B	Aeropyrum pernix	0.286	no	-----	8.0	60°C	238
+benzaldehyde	{'accessions': ['Q9Y9P9'], 'source': 'uniprot'}	1H2B	Aeropyrum pernix	0.333	no	-----	8.0	60°C	238
+4-methoxybenzyl alcohol	{'accessions': ['Q9Y9P9'], 'source': 'uniprot'}	1H2B	Aeropyrum pernix	1.13	no	-----	8.0	60°C	238
+4-methoxyphenylacetone	{'accessions': ['Q9Y9P9'], 'source': 'uniprot'}	1H2B	Aeropyrum pernix	0.131	no	-----	8.0	60°C	238
+1-propanol	{'accessions': ['Q9Y9P9'], 'source': 'uniprot'}	1H2B	Aeropyrum pernix	1.03	no	-----	8.0	60°C	238
+2-Heptanone	{'accessions': ['Q9Y9P9'], 'source': 'uniprot'}	1H2B	Aeropyrum pernix	1.16	no	-----	8.0	60°C	238
+cyclohexanone	{'accessions': ['Q9Y9P9'], 'source': 'uniprot'}	1H2B	Aeropyrum pernix	1.39	no	-----	8.0	60°C	238
+2-nonanone	{'accessions': ['Q9Y9P9'], 'source': 'uniprot'}	1H2B	Aeropyrum pernix	0.215	no	-----	8.0	60°C	238
+2-Pentanol	{'accessions': ['Q9Y9P9'], 'source': 'uniprot'}	1H2B	Aeropyrum pernix	0.752	no	-----	8.0	60°C	238
+2-Pentanone	{'accessions': ['Q9Y9P9'], 'source': 'uniprot'}	1H2B	Aeropyrum pernix	5.15	no	-----	8.0	60°C	238
+Cyclohexanol	{'accessions': ['Q9Y9P9'], 'source': 'uniprot'}	1H2B	Aeropyrum pernix	0.703	no	-----	8.0	60°C	238
+ethanol	{'accessions': ['Q9Y9P9'], 'source': 'uniprot'}	1H2B	Aeropyrum pernix	13.7	no	-----	8.0	60°C	238
+2-propanol	{'accessions': ['Q9Y9P9'], 'source': 'uniprot'}	1H2B	Aeropyrum pernix	2.44	no	-----	8.0	60°C	238
+benzyl alcohol	{'accessions': ['Q9Y9P9'], 'source': 'uniprot'}	1H2B	Aeropyrum pernix	5.43	no	-----	8.0	60°C	238
+tert-butyl acetoacetate	{'accessions': ['Q9Y9P9'], 'source': 'uniprot'}	1H2B	Aeropyrum pernix	0.694	no	-----	8.0	60°C	238
+1-butanol	{'accessions': ['Q9Y9P9'], 'source': 'uniprot'}	1H2B	Aeropyrum pernix	0.596	no	-----	8.0	60°C	238
+2-Hexanone	{'accessions': ['Q9Y9P9'], 'source': 'uniprot'}	1H2B	Aeropyrum pernix	5.01	no	-----	8.0	60°C	238
+benzyl alcohol	{'accessions': ['Q8GIX7'], 'source': 'uniprot'}	4Z6K	Moraxella sp.	16.0	yes	A25Y	7.0	30°C	259
+benzyl alcohol	{'accessions': ['Q8GIX7'], 'source': 'uniprot'}	4Z6K	Moraxella sp.	29.4	no	-----	7.0	30°C	259
+D-xylonate	{'accessions': ['A0A075B5H4'], 'source': 'uniprot'}	4TKM,4TKL	Sphingomonas sp. A1	24.0	no	-----	7.9	25°C	291
+D-altronate	{'accessions': ['A0A075B5H4'], 'source': 'uniprot'}	4TKM,4TKL	Sphingomonas sp. A1	24.0	no	-----	7.9	25°C	291
+D-gluconate	{'accessions': ['A0A075B5H4'], 'source': 'uniprot'}	4TKM,4TKL	Sphingomonas sp. A1	12.0	no	-----	7.9	25°C	291
+D-mannonate	{'accessions': ['A0A075B5H4'], 'source': 'uniprot'}	4TKM,4TKL	Sphingomonas sp. A1	14.0	no	-----	7.9	25°C	291
+D-ribonate	{'accessions': ['A0A075B5H4'], 'source': 'uniprot'}	4TKM,4TKL	Sphingomonas sp. A1	16.0	no	-----	7.9	25°C	291
+D-allonate	{'accessions': ['A0A075B5H4'], 'source': 'uniprot'}	4TKM,4TKL	Sphingomonas sp. A1	16.0	no	-----	7.9	25°C	291
+D-talonate	{'accessions': ['A0A075B5H4'], 'source': 'uniprot'}	4TKM,4TKL	Sphingomonas sp. A1	6.0	no	-----	7.9	25°C	291
+2-dehydro-3-deoxy-D-gluconate	{'accessions': ['A0A075B5H4'], 'source': 'uniprot'}	4TKM,4TKL	Sphingomonas sp. A1	13.0	no	-----	7.9	25°C	291
+D-arabitol	{'accessions': ['A0A075B5H4'], 'source': 'uniprot'}	4TKM,4TKL	Sphingomonas sp. A1	220.0	no	-----	7.9	25°C	291
+D-sorbitol	{'accessions': ['A0A075B5H4'], 'source': 'uniprot'}	4TKM,4TKL	Sphingomonas sp. A1	350.0	no	-----	7.9	25°C	291
+ethanol	{'accessions': ['P06525'], 'source': 'uniprot'}	4RQT,4RQU	Arabidopsis thaliana	0.166	no	-----	7.5	-----	302
+ethanol	{'accessions': ['P06525'], 'source': 'uniprot'}	4RQT,4RQU	Arabidopsis thaliana	0.251	yes	C243S	7.5	-----	302

@@ -1,0 +1,5 @@
+Substrate	Protein_details	PDB_IDs	Organism_name	kcat_value	Mutant	Mutation	pH	Temperature	References
+xylitol	{'accessions': ['Q8GR61'], 'source': 'uniprot'}	1ZEM	Gluconobacter oxydans	17.9	yes	D38S/M39R	7.0	-----	34
+xylitol	{'accessions': ['Q8GR61'], 'source': 'uniprot'}	1ZEM	Gluconobacter oxydans	24.6	no	-----	7.0	-----	34
+NADP+	{'accessions': ['Q8GR61'], 'source': 'uniprot'}	1ZEM	Gluconobacter oxydans	0.206	yes	D38S/M39R	7.0	-----	34
+NAD+	{'accessions': ['Q8GR61'], 'source': 'uniprot'}	1ZEM	Gluconobacter oxydans	27.2	no	-----	7.0	-----	34

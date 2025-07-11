@@ -1,0 +1,2 @@
+Substrate	Protein_details	PDB_IDs	Organism_name	Km_value	Mutant	Mutation	pH	Temperature	References
+D-fructose 6-phosphate	{'accessions': ['D0C7J2'], 'source': 'uniprot'}	7OCP,7OCT,7OCR,7OCS,7OCU,7OCQ,7OCN	Acinetobacter baumannii	55.0	no	-----	7.0	37°C	38

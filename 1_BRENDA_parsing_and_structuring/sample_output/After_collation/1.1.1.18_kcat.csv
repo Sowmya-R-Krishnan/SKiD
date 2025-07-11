@@ -1,0 +1,7 @@
+Substrate	Protein_details	PDB_IDs	Organism_name	kcat_value	Mutant	Mutation	pH	Temperature	References
+myo-inositol	{'accessions': ['P26935'], 'source': 'uniprot'}	3MZ0,3NTQ,3NTO,3NT2,4L8V,3NT5,4L9R,3NT4,3NTR	Bacillus subtilis	34.0	yes	Y235F	9.0	25°C	18
+myo-inositol	{'accessions': ['P26935'], 'source': 'uniprot'}	3MZ0,3NTQ,3NTO,3NT2,4L8V,3NT5,4L9R,3NT4,3NTR	Bacillus subtilis	73.0	yes	D179N	9.0	25°C	18
+myo-inositol	{'accessions': ['P26935'], 'source': 'uniprot'}	3MZ0,3NTQ,3NTO,3NT2,4L8V,3NT5,4L9R,3NT4,3NTR	Bacillus subtilis	1.9	yes	D172N	9.0	25°C	18
+myo-inositol	{'accessions': ['P26935'], 'source': 'uniprot'}	3MZ0,3NTQ,3NTO,3NT2,4L8V,3NT5,4L9R,3NT4,3NTR	Bacillus subtilis	47.0	yes	Y233F	9.0	25°C	18
+myo-inositol	{'accessions': ['P26935'], 'source': 'uniprot'}	3MZ0,3NTQ,3NTO,3NT2,4L8V,3NT5,4L9R,3NT4,3NTR	Bacillus subtilis	58.0	no	-----	9.0	25°C	18
+myo-inositol	{'accessions': ['P26935'], 'source': 'uniprot'}	3MZ0,3NTQ,3NTO,3NT2,4L8V,3NT5,4L9R,3NT4,3NTR	Bacillus subtilis	0.23	yes	H176A	9.0	25°C	18

@@ -1,0 +1,10 @@
+Substrate	Protein_details	PDB_IDs	Organism_name	Km_value	Mutant	Mutation	pH	Temperature	References
+p-Carboxybenzaldehyde	{'accessions': ['P14550'], 'source': 'uniprot', 'comment': '#87# gene ACL5-1 <37>'}	2ALR	Homo sapiens	0.11	yes	R308A	-----	-----	37
+Succinic semialdehyde	{'accessions': ['P14550'], 'source': 'uniprot', 'comment': '#87# gene ACL5-1 <37>'}	2ALR	Homo sapiens	0.2	yes	R308A	-----	-----	37
+p-Carboxybenzaldehyde	{'accessions': ['P14550'], 'source': 'uniprot', 'comment': '#87# gene ACL5-1 <37>'}	2ALR	Homo sapiens	4.0	yes	R311A	-----	-----	37
+D-glucuronate	{'accessions': ['P14550'], 'source': 'uniprot', 'comment': '#87# gene ACL5-1 <37>'}	2ALR	Homo sapiens	7.5	yes	R308A	-----	-----	37
+Succinic semialdehyde	{'accessions': ['P14550'], 'source': 'uniprot', 'comment': '#87# gene ACL5-1 <37>'}	2ALR	Homo sapiens	14.1	yes	R311A	-----	-----	37
+D-glucuronate	{'accessions': ['P14550'], 'source': 'uniprot', 'comment': '#87# gene ACL5-1 <37>'}	2ALR	Homo sapiens	364.0	yes	R311A	-----	-----	37
+2-propanol	{'accessions': ['C6A190'], 'source': 'uniprot'}	3L77,3TN7	Thermococcus sibiricus	168.0	no	-----	10.5	60°C	99
+Pyruvaldehyde	{'accessions': ['C6A190'], 'source': 'uniprot'}	3L77,3TN7	Thermococcus sibiricus	17.75	no	-----	7.5	60°C	99
+D-xylose	{'accessions': ['C6A190'], 'source': 'uniprot'}	3L77,3TN7	Thermococcus sibiricus	54.4	no	-----	10.5	60°C	99

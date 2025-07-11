@@ -1,0 +1,14 @@
+Substrate	Protein_details	PDB_IDs	Organism_name	Km_value	Mutant	Mutation	pH	Temperature	References
+NAD+	{'accessions': ['O58802'], 'source': 'uniprot'}	4XB2,4XB1	Pyrococcus horikoshii	0.05	yes	K57A	9.0	50°C	42
+NADP+	{'accessions': ['O58802'], 'source': 'uniprot'}	4XB2,4XB1	Pyrococcus horikoshii	0.06	yes	K57A	9.0	50°C	42
+NADP+	{'accessions': ['O58802'], 'source': 'uniprot'}	4XB2,4XB1	Pyrococcus horikoshii	0.04	yes	R40A	9.0	50°C	42
+NAD+	{'accessions': ['O58802'], 'source': 'uniprot'}	4XB2,4XB1	Pyrococcus horikoshii	0.32	no	-----	9.0	50°C	42
+NAD+	{'accessions': ['O58802'], 'source': 'uniprot'}	4XB2,4XB1	Pyrococcus horikoshii	0.95	yes	R40A	9.0	50°C	42
+L-homoserine	{'accessions': ['O58802'], 'source': 'uniprot'}	4XB2,4XB1	Pyrococcus horikoshii	6.1	no	-----	9.0	50°C	42
+NAD+	{'accessions': ['F9VNG5'], 'source': 'uniprot'}	4YDR,7F4C,7F4B,5X9D,5AVO	Sulfurisphaera tokodaii	0.31	no	-----	8.0	30°C	39
+L-homoserine	{'accessions': ['F9VNG5'], 'source': 'uniprot'}	4YDR,7F4C,7F4B,5X9D,5AVO	Sulfurisphaera tokodaii	0.21	no	-----	8.0	30°C	39
+L-homoserine	{'accessions': ['F9VNG5'], 'source': 'uniprot'}	4YDR,7F4C,7F4B,5X9D,5AVO	Sulfurisphaera tokodaii	0.54	no	-----	8.0	30°C	39
+NADP+	{'accessions': ['F9VNG5'], 'source': 'uniprot'}	4YDR,7F4C,7F4B,5X9D,5AVO	Sulfurisphaera tokodaii	1.2	no	-----	8.0	30°C	52
+NADP+	{'accessions': ['Q5SL04'], 'source': 'uniprot'}	2EJW,5XDF,6A0U,6A0S,6A0R,6A0T	Thermus thermophilus	0.11	no	-----	10.0	50°C	47
+L-homoserine	{'accessions': ['Q5SL04'], 'source': 'uniprot'}	2EJW,5XDF,6A0U,6A0S,6A0R,6A0T	Thermus thermophilus	0.2	no	-----	10.0	50°C	47
+NAD+	{'accessions': ['Q5SL04'], 'source': 'uniprot'}	2EJW,5XDF,6A0U,6A0S,6A0R,6A0T	Thermus thermophilus	0.74	no	-----	9.5	50°C	47

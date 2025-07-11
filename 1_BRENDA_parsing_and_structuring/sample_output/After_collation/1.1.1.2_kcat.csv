@@ -1,0 +1,6 @@
+Substrate	Protein_details	PDB_IDs	Organism_name	kcat_value	Mutant	Mutation	pH	Temperature	References
+D-xylose	{'accessions': ['C6A190'], 'source': 'uniprot'}	3L77,3TN7	Thermococcus sibiricus	0.7	no	-----	10.5	60°C	99
+2-propanol	{'accessions': ['C6A190'], 'source': 'uniprot'}	3L77,3TN7	Thermococcus sibiricus	0.53	no	-----	10.5	60°C	99
+NADP+	{'accessions': ['C6A190'], 'source': 'uniprot'}	3L77,3TN7	Thermococcus sibiricus	0.45	no	-----	10.5	60°C	99
+NADPH	{'accessions': ['C6A190'], 'source': 'uniprot'}	3L77,3TN7	Thermococcus sibiricus	1.51	no	-----	7.5	60°C	99
+Pyruvaldehyde	{'accessions': ['C6A190'], 'source': 'uniprot'}	3L77,3TN7	Thermococcus sibiricus	2.04	no	-----	7.5	60°C	99

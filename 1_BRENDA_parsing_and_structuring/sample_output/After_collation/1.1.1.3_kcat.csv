@@ -1,0 +1,8 @@
+Substrate	Protein_details	PDB_IDs	Organism_name	kcat_value	Mutant	Mutation	pH	Temperature	References
+NADP+	{'accessions': ['O58802'], 'source': 'uniprot'}	4XB2,4XB1	Pyrococcus horikoshii	3.4	yes	R40A	9.0	50°C	42
+NADP+	{'accessions': ['O58802'], 'source': 'uniprot'}	4XB2,4XB1	Pyrococcus horikoshii	26.7	yes	K57A	9.0	50°C	42
+NAD+	{'accessions': ['O58802'], 'source': 'uniprot'}	4XB2,4XB1	Pyrococcus horikoshii	48.5	yes	K57A	9.0	50°C	42
+NAD+	{'accessions': ['O58802'], 'source': 'uniprot'}	4XB2,4XB1	Pyrococcus horikoshii	70.1	no	-----	9.0	50°C	42
+NAD+	{'accessions': ['O58802'], 'source': 'uniprot'}	4XB2,4XB1	Pyrococcus horikoshii	96.1	yes	R40A	9.0	50°C	42
+NADP+	{'accessions': ['Q5SL04'], 'source': 'uniprot'}	2EJW,5XDF,6A0U,6A0S,6A0R,6A0T	Thermus thermophilus	2.12	no	-----	10.0	50°C	47
+NAD+	{'accessions': ['Q5SL04'], 'source': 'uniprot'}	2EJW,5XDF,6A0U,6A0S,6A0R,6A0T	Thermus thermophilus	6.66	no	-----	9.5	50°C	47
