@@ -1,0 +1,49 @@
+Substrate	Protein_ID	Protein_details	Organism_ID	Organism_name	kcat_value	Conditions	References
+(2R,3R)-butane-2,3-diol	-----	-----	13	Klebsiella pneumoniae	5.8	#13# enzyme DhaD, at pH 9.0 and 30°C <27>	27
+meso-butane-2,3-diol	-----	-----	13	Klebsiella pneumoniae	4.67	#13# enzyme DhaD, at pH 9.0 and 30°C <27>	27
+(2R,3R)-butane-2,3-diol	-----	-----	13	Klebsiella pneumoniae	3.82	#13# enzyme GldA, at pH 9.0 and 30°C <27>	27
+(3R,3S)-butane-2,3-diol	-----	-----	13	Klebsiella pneumoniae	3.68	#13# enzyme DhaD, at pH 9.0 and 30°C <27>	27
+glycerol	-----	-----	13	Klebsiella pneumoniae	10.51	#13# enzyme DhaD, at pH 9.0 and 30°C <27>	27
+(3R,3S)-butane-2,3-diol	-----	-----	13	Klebsiella pneumoniae	10.38	#13# enzyme GldA, at pH 9.0 and 30°C <27>	27
+meso-butane-2,3-diol	-----	-----	13	Klebsiella pneumoniae	15.33	#13# enzyme GldA, at pH 9.0 and 30°C <27>	27
+glycerol	-----	-----	13	Klebsiella pneumoniae	18.88	#13# enzyme GldA, at pH 9.0 and 30°C <27>	27
+diacetyl	34	{'accessions': ['A0A0E4A9D6'], 'source': 'uniprot'}	34	Rhodococcus erythropolis	6.11	#34# at pH 10.0 and 45°C <32>	32
+(2R,3R)-butane-2,3-diol	34	{'accessions': ['A0A0E4A9D6'], 'source': 'uniprot'}	34	Rhodococcus erythropolis	4.28	#34# at pH 6.5 and 55°C <32>	32
+NADH	34	{'accessions': ['A0A0E4A9D6'], 'source': 'uniprot'}	34	Rhodococcus erythropolis	5.73	#34# with diacetyl as cosubstrate, at pH 10.0 and 45°C <32>	32
+NAD+	34	{'accessions': ['A0A0E4A9D6'], 'source': 'uniprot'}	34	Rhodococcus erythropolis	10.27	#34# with (2R,3R)-butane-2,3-diol as cosubstrate, at pH 6.5 and 55°C <32>	32
+acetone	36	{'accessions': ['F8TEL7'], 'source': 'uniprot'}	36	Clostridium autoethanogenum	-----	#36# mutant S199C, pH 7.5, 25°C <33>	33
+2-butanone	36	{'accessions': ['F8TEL7'], 'source': 'uniprot'}	36	Clostridium autoethanogenum	-----	#36# mutant S199W, pH 7.5, 25°C <33>	33
+(2R,3R)-2,3-butanediol	36	{'accessions': ['F8TEL7'], 'source': 'uniprot'}	36	Clostridium autoethanogenum	2.1	#36# pH 7.5, 25°C <21>	21
+acetone	36	{'accessions': ['F8TEL7'], 'source': 'uniprot'}	36	Clostridium autoethanogenum	89.0	#36# mutant S199R, pH 7.5, 25°C <33>	33
+(R)-acetoin	36	{'accessions': ['F8TEL7'], 'source': 'uniprot'}	36	Clostridium autoethanogenum	110.0	#36# mutant S199G, pH 7.5, 25°C <33>	33
+acetone	36	{'accessions': ['F8TEL7'], 'source': 'uniprot'}	36	Clostridium autoethanogenum	55.0	#36# wild-type, pH 7.5, 25°C <33>	33
+(R)-acetoin	36	{'accessions': ['F8TEL7'], 'source': 'uniprot'}	36	Clostridium autoethanogenum	66.0	#36# mutant S199W, pH 7.5, 25°C <33>	33
+NADPH	36	{'accessions': ['F8TEL7'], 'source': 'uniprot'}	36	Clostridium autoethanogenum	68.0	#36# wild-type, pH 7.5, 25°C <33>	33
+NADPH	36	{'accessions': ['F8TEL7'], 'source': 'uniprot'}	36	Clostridium autoethanogenum	50.0	#36# mutant S199A, pH 7.5, 25°C <33>	33
+2-butanone	36	{'accessions': ['F8TEL7'], 'source': 'uniprot'}	36	Clostridium autoethanogenum	50.0	#36# mutant S199R, pH 7.5, 25°C <33>	33
+(R)-acetoin	36	{'accessions': ['F8TEL7'], 'source': 'uniprot'}	36	Clostridium autoethanogenum	230.0	#36# mutant S199A, pH 7.5, 25°C <33>	33
+(R)-acetoin	36	{'accessions': ['F8TEL7'], 'source': 'uniprot'}	36	Clostridium autoethanogenum	150.0	#36# wild-type, pH 7.5, 25°C <33>	33
+Butanone	36	{'accessions': ['F8TEL7'], 'source': 'uniprot'}	36	Clostridium autoethanogenum	44.0	#36# pH 7.5, 25°C <21>	21
+2-butanone	36	{'accessions': ['F8TEL7'], 'source': 'uniprot'}	36	Clostridium autoethanogenum	40.0	#36# mutant S199G, pH 7.5, 25°C <33>	33
+(R)-acetoin	36	{'accessions': ['F8TEL7'], 'source': 'uniprot'}	36	Clostridium autoethanogenum	41.0	#36# mutant S199C, pH 7.5, 25°C <33>	33
+2-butanone	36	{'accessions': ['F8TEL7'], 'source': 'uniprot'}	36	Clostridium autoethanogenum	46.0	#36# mutant S199A, pH 7.5, 25°C <33>	33
+acetone	36	{'accessions': ['F8TEL7'], 'source': 'uniprot'}	36	Clostridium autoethanogenum	62.0	#36# mutant S199G, pH 7.5, 25°C <33>	33
+acetone	36	{'accessions': ['F8TEL7'], 'source': 'uniprot'}	36	Clostridium autoethanogenum	60.0	#36# mutant S199A, pH 7.5, 25°C <33>	33
+acetone	36	{'accessions': ['F8TEL7'], 'source': 'uniprot'}	36	Clostridium autoethanogenum	48.0	#36# mutant S199W, pH 7.5, 25°C <33>	33
+2-butanone	36	{'accessions': ['F8TEL7'], 'source': 'uniprot'}	36	Clostridium autoethanogenum	23.0	#36# mutant S199C, pH 7.5, 25°C <33>	33
+NADPH	36	{'accessions': ['F8TEL7'], 'source': 'uniprot'}	36	Clostridium autoethanogenum	32.0	#36# mutant S199R, pH 7.5, 25°C <33>	33
+(R)-acetoin	36	{'accessions': ['F8TEL7'], 'source': 'uniprot'}	36	Clostridium autoethanogenum	95.0	#36# mutant S199R, pH 7.5, 25°C <33>	33
+acetoin	36	{'accessions': ['F8TEL7'], 'source': 'uniprot'}	36	Clostridium autoethanogenum	145.0	#36# pH 7.5, 25°C <21>	21
+2-butanone	36	{'accessions': ['F8TEL7'], 'source': 'uniprot'}	36	Clostridium autoethanogenum	37.0	#36# wild-type, pH 7.5, 25°C <33>	33
+acetaldehyde	36	{'accessions': ['F8TEL7'], 'source': 'uniprot'}	36	Clostridium autoethanogenum	93.0	#36# pH 7.5, 25°C <21>	21
+acetone	36	{'accessions': ['F8TEL7'], 'source': 'uniprot'}	36	Clostridium autoethanogenum	51.4	#36# pH 7.5, 25°C <21>	21
+acetoin	-----	-----	4	Escherichia coli	0.5	#4# cosubstrate NADPH, pH 7.0, temperature not specified in the publication <36>	36
+acetoin	-----	-----	4	Escherichia coli	1.4	#4# cosubstrate NADH, pH 7.0, temperature not specified in the publication <36>	36
+glycolaldehyde	41	{'accessions': ['A0A7G4NVP1'], 'source': 'uniprot'}	41	Saccharomyces cerevisiae	9.43	#41# recombinant enzyme, pH 7.0, 30°C, with NADH, from strain B <39>	39
+acetaldehyde	41	{'accessions': ['A0A7G4NVP1'], 'source': 'uniprot'}	41	Saccharomyces cerevisiae	56.57	#41# recombinant enzyme, pH 7.0, 30°C, with NADH, from strain Y <39>	39
+acetaldehyde	41	{'accessions': ['A0A7G4NVP1'], 'source': 'uniprot'}	41	Saccharomyces cerevisiae	10.03	#41# recombinant enzyme, pH 7.0, 30°C, with NADH, from strain B <39>	39
+glycolaldehyde	41	{'accessions': ['A0A7G4NVP1'], 'source': 'uniprot'}	41	Saccharomyces cerevisiae	37.32	#41# recombinant enzyme, pH 7.0, 30°C, with NADH, from strain Y <39>	39
+acetaldehyde	42	{'accessions': ['A0A7G4NVP2'], 'source': 'uniprot'}	42	Saccharomyces cerevisiae	9.38	#42# recombinant enzyme, pH 7.0, 30°C, with NADH, from strain B <39>	39
+glycolaldehyde	42	{'accessions': ['A0A7G4NVP2'], 'source': 'uniprot'}	42	Saccharomyces cerevisiae	7.39	#42# recombinant enzyme, pH 7.0, 30°C, with NADH, from strain B <39>	39
+acetaldehyde	42	{'accessions': ['A0A7G4NVP2'], 'source': 'uniprot'}	42	Saccharomyces cerevisiae	96.62	#42# recombinant enzyme, pH 7.0, 30°C, with NADH, from strain Y <39>	39
+glycolaldehyde	42	{'accessions': ['A0A7G4NVP2'], 'source': 'uniprot'}	42	Saccharomyces cerevisiae	53.46	#42# recombinant enzyme, pH 7.0, 30°C, with NADH, from strain Y <39>	39

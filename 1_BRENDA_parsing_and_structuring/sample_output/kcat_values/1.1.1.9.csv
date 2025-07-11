@@ -1,0 +1,73 @@
+Substrate	Protein_ID	Protein_details	Organism_ID	Organism_name	kcat_value	Conditions	References
+xylitol	26	{'comment': '#26# 4CL3, genomic DNA <22>; #26# aldo-keto reductase family 1 member C2, AKR1C2 <18>'}	26	Candida sp. HA 167	170.0	#26# 25°C, pH 7.5, potassium phosphate <22>	22
+D-xylulose	26	{'comment': '#26# 4CL3, genomic DNA <22>; #26# aldo-keto reductase family 1 member C2, AKR1C2 <18>'}	26	Candida sp. HA 167	1500.0	#26# 25°C, pH 7.5, Tris-HCl <22>	22
+sorbitol	26	{'comment': '#26# 4CL3, genomic DNA <22>; #26# aldo-keto reductase family 1 member C2, AKR1C2 <18>'}	26	Candida sp. HA 167	1.19	#26# mutant E154C <39>	39
+xylitol	26	{'comment': '#26# 4CL3, genomic DNA <22>; #26# aldo-keto reductase family 1 member C2, AKR1C2 <18>'}	26	Candida sp. HA 167	143.0	#26# 25°C, pH 7.5, Tris-HCl <22>	22
+D-sorbitol	26	{'comment': '#26# 4CL3, genomic DNA <22>; #26# aldo-keto reductase family 1 member C2, AKR1C2 <18>'}	26	Candida sp. HA 167	114.0	#26# 25°C, pH 7.5, Tris-HCl <22>	22
+D-fructose	26	{'comment': '#26# 4CL3, genomic DNA <22>; #26# aldo-keto reductase family 1 member C2, AKR1C2 <18>'}	26	Candida sp. HA 167	920.0	#26# 25°C, pH 7.5, Tris-HCl <22>	22
+D-xylulose	26	{'comment': '#26# 4CL3, genomic DNA <22>; #26# aldo-keto reductase family 1 member C2, AKR1C2 <18>'}	26	Candida sp. HA 167	1800.0	#26# 25°C, pH 7.5, potassium phosphate <22>	22
+sorbitol	26	{'comment': '#26# 4CL3, genomic DNA <22>; #26# aldo-keto reductase family 1 member C2, AKR1C2 <18>'}	26	Candida sp. HA 167	161.0	-----	39
+xylitol	28	{'accessions': ['Q8GR61'], 'source': 'uniprot'}	28	Gluconobacter oxydans	17.9	#28# pH 7.0, cofactor: NADP+mutant enzyme D38S/M39R <34>	34
+xylitol	28	{'accessions': ['Q8GR61'], 'source': 'uniprot'}	28	Gluconobacter oxydans	24.6	#28# pH 7.0, cofactor: NAD+, wild-type enzyme <34>	34
+NADP+	28	{'accessions': ['Q8GR61'], 'source': 'uniprot'}	28	Gluconobacter oxydans	0.206	#28# pH 7.0, mutant enzyme D38S/M39R <34>	34
+NAD+	28	{'accessions': ['Q8GR61'], 'source': 'uniprot'}	28	Gluconobacter oxydans	27.2	#28# pH 7.0, wild-type enzyme <34>	34
+D-sorbitol	-----	-----	3	Ovis aries	-----	-----	39
+D-ribulose	30	{'accessions': ['Q6KAV2'], 'source': 'uniprot'}	30	Blastobotrys adeninivorans	74.0	#30# 35°C, pH 7.5, native enzyme <28>	28
+L-sorbose	30	{'accessions': ['Q6KAV2'], 'source': 'uniprot'}	30	Blastobotrys adeninivorans	216.0	#30# 35°C, pH 7.5, native enzyme <28>	28
+D-xylulose	30	{'accessions': ['Q6KAV2'], 'source': 'uniprot'}	30	Blastobotrys adeninivorans	302.9	#30# 35°C, pH 7.5, native enzyme <28>	28
+D-sorbitol	30	{'accessions': ['Q6KAV2'], 'source': 'uniprot'}	30	Blastobotrys adeninivorans	528.0	#30# 35°C, pH 7.5, native enzyme <28>	28
+xylitol	30	{'accessions': ['Q6KAV2'], 'source': 'uniprot'}	30	Blastobotrys adeninivorans	2644.0	#30# 35°C, pH 7.5, native enzyme <28>	28
+xylitol	30	{'accessions': ['Q6KAV2'], 'source': 'uniprot'}	30	Blastobotrys adeninivorans	2115.0	#30# 35°C, pH 7.5, recombinant enzyme <28>	28
+NAD+	32	{'accessions': ['P22144'], 'source': 'uniprot'}	32	Scheffersomyces stipitis	-----	#32# pH 9.0, 35°C, mutant enzyme D207A/I208R <32>	32
+NAD+	32	{'accessions': ['P22144'], 'source': 'uniprot'}	32	Scheffersomyces stipitis	0.5	#32# pH 9.0, 35°C, mutant enzym S96C/S99C/Y102C/D207A/I208R/F209S/N211R <32>	32
+NADP+	32	{'accessions': ['P22144'], 'source': 'uniprot'}	32	Scheffersomyces stipitis	-----	#32# pH 9.0, 35°C, mutant enzyme D207A/I208R <32>	32
+NAD+	32	{'accessions': ['P22144'], 'source': 'uniprot'}	32	Scheffersomyces stipitis	16.9	#32# pH 9.0, 35°C, mutant enzyme N211R <32>	32
+NAD+	32	{'accessions': ['P22144'], 'source': 'uniprot'}	32	Scheffersomyces stipitis	18.0	#32# pH 9.0, 35°C, mutant enzyme D207A/I208R/F209S/N211R <32>	32
+NADP+	32	{'accessions': ['P22144'], 'source': 'uniprot'}	32	Scheffersomyces stipitis	0.017	#32# pH 9.0, 35°C, mutant enzyme D207A/I208R/F209T <32>	32
+NADP+	32	{'accessions': ['P22144'], 'source': 'uniprot'}	32	Scheffersomyces stipitis	5.7	#32# pH 9.0, 35°C, mutant enzyme D207A <32>	32
+NAD+	32	{'accessions': ['P22144'], 'source': 'uniprot'}	32	Scheffersomyces stipitis	1.0	#32# pH 9.0, 35°C, mutant enzyme D207A/I208R/F209Y <32>; #32# pH 9.0, 35°C, mutant enzyme I208R/F209S <32>	32
+NADP+	32	{'accessions': ['P22144'], 'source': 'uniprot'}	32	Scheffersomyces stipitis	8.0	#32# pH 9.0, 35°C, mutant enzyme D207A/F209S <32>	32
+NAD+	32	{'accessions': ['P22144'], 'source': 'uniprot'}	32	Scheffersomyces stipitis	23.8	#32# pH 9.0, 35°C, mutant enzyme I208R <32>	32
+NADP+	32	{'accessions': ['P22144'], 'source': 'uniprot'}	32	Scheffersomyces stipitis	10.0	#32# pH 9.0, 35°C, mutant enzyme I208R <32>	32
+NAD+	32	{'accessions': ['P22144'], 'source': 'uniprot'}	32	Scheffersomyces stipitis	5.17	#32# pH 9.0, 35°C, mutant enzyme D207A <32>; #32# pH 9.0, 35°C, mutant enzyme D207A/I208R/F209T <32>	32
+NADP+	32	{'accessions': ['P22144'], 'source': 'uniprot'}	32	Scheffersomyces stipitis	6.17	#32# pH 9.0, 35°C, mutant enzyme D207A/I208R/F209Y <32>	32
+NAD+	32	{'accessions': ['P22144'], 'source': 'uniprot'}	32	Scheffersomyces stipitis	4.0	#32# pH 9.0, 35°C, mutant enzyme D207A/I208R/F209S <32>	32
+NAD+	32	{'accessions': ['P22144'], 'source': 'uniprot'}	32	Scheffersomyces stipitis	3.33	#32# pH 9.0, 35°C, mutant enzyme D207A/F209S <32>	32
+NADP+	32	{'accessions': ['P22144'], 'source': 'uniprot'}	32	Scheffersomyces stipitis	64.0	#32# pH 9.0, 35°C, mutant enzyme D207A/I208R/F209S/N211R <32>	32
+NADP+	32	{'accessions': ['P22144'], 'source': 'uniprot'}	32	Scheffersomyces stipitis	210.0	#32# pH 9.0, 35°C, mutant enzyme S96C/S99C/Y102C/D207A/I208R/F209S <32>	32
+NAD+	32	{'accessions': ['P22144'], 'source': 'uniprot'}	32	Scheffersomyces stipitis	17.5	#32# pH 9.0, 35°, wild-type enzyme <32>	32
+NADP+	32	{'accessions': ['P22144'], 'source': 'uniprot'}	32	Scheffersomyces stipitis	4.67	#32# pH 9.0, 35°C, mutant enzyme N211R <32>	32
+NADP+	32	{'accessions': ['P22144'], 'source': 'uniprot'}	32	Scheffersomyces stipitis	1.83	#32# pH 9.0, 35°, wild-type enzyme <32>	32
+NAD+	32	{'accessions': ['P22144'], 'source': 'uniprot'}	32	Scheffersomyces stipitis	29.5	#32# pH 9.0, 35°C, mutant enzyme S96C/S99C/Y102C/D207A/I208R/F209S <32>	32
+NADP+	32	{'accessions': ['P22144'], 'source': 'uniprot'}	32	Scheffersomyces stipitis	0.145	#32# pH 9.0, 35°C, mutant enzyme I208R/F209S <32>	32
+NADP+	32	{'accessions': ['P22144'], 'source': 'uniprot'}	32	Scheffersomyces stipitis	41.7	#32# pH 9.0, 35°C, mutant enzyme D207A/I208R/F209S <32>	32
+NADP+	32	{'accessions': ['P22144'], 'source': 'uniprot'}	32	Scheffersomyces stipitis	9.83	#32# pH 9.0, 35°C, mutant enzyme F209S <32>	32
+NADP+	32	{'accessions': ['P22144'], 'source': 'uniprot'}	32	Scheffersomyces stipitis	0.91	#32# pH 9.0, 35°C, mutant enzyme S96C/S99CY102C <32>	32
+NAD+	32	{'accessions': ['P22144'], 'source': 'uniprot'}	32	Scheffersomyces stipitis	20.33	#32# pH 9.0, 35°C, mutant enzyme F209S <32>	32
+NAD+	32	{'accessions': ['P22144'], 'source': 'uniprot'}	32	Scheffersomyces stipitis	30.33	#32# pH 9.0, 35°C, mutant enzyme S96C/S99CY102C <32>	32
+xylitol	32	{'accessions': ['P22144'], 'source': 'uniprot'}	32	Scheffersomyces stipitis	19.62	#32# pH 7.0, 30°C, recombinant enzyme <73>	73
+NADP+	32	{'accessions': ['P22144'], 'source': 'uniprot'}	32	Scheffersomyces stipitis	183.3	#32# pH 9.0, 35°C, mutant enzym S96C/S99C/Y102C/D207A/I208R/F209S/N211R <32>	32
+NAD+	32	{'accessions': ['P22144'], 'source': 'uniprot'}	32	Scheffersomyces stipitis	22.83	#32# pH 9.0, 35°C, mutant enzyme N211R <32>	32
+NAD+	32	{'accessions': ['P22144'], 'source': 'uniprot'}	32	Scheffersomyces stipitis	10.33	#32# pH 9.0, 35°C, mutant enzyme D207A/I208R <32>	32
+NAD+	32	{'accessions': ['P22144'], 'source': 'uniprot'}	32	Scheffersomyces stipitis	23.83	#32# pH 9.0, 35°C, mutant enzyme D207A/I208R/F209S/N211R <32>	32
+NAD+	32	{'accessions': ['P22144'], 'source': 'uniprot'}	32	Scheffersomyces stipitis	13.17	#32# pH 9.0, 35°C, mutant enzym S96C/S99C/Y102C/D207A/I208R/F209S/N211R <32>	32
+NADP+	32	{'accessions': ['P22144'], 'source': 'uniprot'}	32	Scheffersomyces stipitis	32.83	#32# pH 9.0, 35°C, mutant enzyme D207A/I208R/F209T <32>	32
+NADP+	33	{'accessions': ['S6BFC0'], 'source': 'uniprot'}	33	Rhizomucor pusillus	0.4	#33# mutant enzyme D205A/I206R, at pH 7.0 and 30°C <52>	52
+xylitol	33	{'accessions': ['S6BFC0'], 'source': 'uniprot'}	33	Rhizomucor pusillus	-----	#33# recombinant mutant D205A/I206R, pH 9.0, 35°C, with NAD+ <60>	60
+xylitol	33	{'accessions': ['S6BFC0'], 'source': 'uniprot'}	33	Rhizomucor pusillus	11.1	#33# recombinant wild-type enzyme, pH 9.0, 35°C, with NAD+ <60>	60
+NADP+	33	{'accessions': ['S6BFC0'], 'source': 'uniprot'}	33	Rhizomucor pusillus	0.33	#33# mutant enzyme D205A, at pH 7.0 and 30°C <52>	52
+xylitol	33	{'accessions': ['S6BFC0'], 'source': 'uniprot'}	33	Rhizomucor pusillus	19.7	#33# recombinant mutant D205A, pH 9.0, 35°C, with NAD+ <60>	60
+NADP+	33	{'accessions': ['S6BFC0'], 'source': 'uniprot'}	33	Rhizomucor pusillus	0.185	#33# recombinant enzyme, at pH 7.0 and 30°C <52>	52
+NAD+	33	{'accessions': ['S6BFC0'], 'source': 'uniprot'}	33	Rhizomucor pusillus	6.35	#33# recombinant enzyme, at pH 7.0 and 30°C <52>; #33# recombinant wild-type enzyme, pH 9.0, 35°C <60>	52,60
+NAD+	33	{'accessions': ['S6BFC0'], 'source': 'uniprot'}	33	Rhizomucor pusillus	1.16	#33# mutant enzyme D205A/I206R, at pH 7.0 and 30°C <52>; #33# recombinant mutant D205A/I206R, pH 9.0, 35°C <60>	52,60
+NAD+	33	{'accessions': ['S6BFC0'], 'source': 'uniprot'}	33	Rhizomucor pusillus	5.18	#33# mutant enzyme D205A, at pH 7.0 and 30°C <52>; #33# recombinant mutant D205A, pH 9.0, 35°C <60>	52,60
+ribitol	-----	-----	34	Meyerozyma caribbica	4.5	#34# at pH 7.0 and 30°C <55>	55
+xylitol	35	{'accessions': ['A0A1B4XTS0'], 'source': 'uniprot'}	34	Meyerozyma caribbica	18.0	#34# at pH 7.0 and 30°C <55>; #35# pH 7.0, 30°C, native enzyme <72>	55,72
+L-arabitol	35	{'accessions': ['A0A1B4XTS0'], 'source': 'uniprot'}	34	Meyerozyma caribbica	3.35	#34# at pH 7.0 and 30°C <55>; #35# pH 7.0, 30°C, native enzyme <72>	55,72
+D-sorbitol	35	{'accessions': ['A0A1B4XTS0'], 'source': 'uniprot'}	34	Meyerozyma caribbica	8.28	#34# at pH 7.0 and 30°C <55>; #35# pH 7.0, 30°C, native enzyme <72>	55,72
+NADP+	35	{'accessions': ['A0A1B4XTS0'], 'source': 'uniprot'}	35	Meyerozyma caribbica	3.27	#35# pH 7.0, 30°C, native enzyme, with xylitol <72>	72
+NAD+	35	{'accessions': ['A0A1B4XTS0'], 'source': 'uniprot'}	35	Meyerozyma caribbica	18.5	#35# pH 7.0, 30°C, native enzyme, with xylitol <72>	72
+xylitol	35	{'accessions': ['A0A1B4XTS0'], 'source': 'uniprot'}	35	Meyerozyma caribbica	1.12	#35# recombinant enzyme, pH 7.0, 30°C <55>	55
+ribitol	35	{'accessions': ['A0A1B4XTS0'], 'source': 'uniprot'}	35	Meyerozyma caribbica	4.48	#35# pH 7.0, 30°C, native enzyme <72>	72
+xylitol	40	{'accessions': ['A0A3S7PMB5'], 'source': 'uniprot'}	40	Pichia kudriavzevii	15.015	#40# pH 7.0, 30°C, recombinant enzyme <73>	73
+xylitol	41	{'accessions': ['A0A3S7PMC4'], 'source': 'uniprot'}	41	Torulaspora delbrueckii	13.28	#41# pH 7.0, 30°C, recombinant enzyme <73>	73

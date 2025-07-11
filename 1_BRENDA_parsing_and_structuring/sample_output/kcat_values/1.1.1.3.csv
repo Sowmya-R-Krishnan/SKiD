@@ -1,0 +1,26 @@
+Substrate	Protein_ID	Protein_details	Organism_ID	Organism_name	kcat_value	Conditions	References
+L-aspartate 4-semialdehyde	19	{'accessions': ['Q3S3F6'], 'source': 'uniprot'}	19	Glycine max	2.8	#19# cosubstrate NADPH, pH 8.0, 25°C <34>	34
+L-homoserine	19	{'accessions': ['Q3S3F6'], 'source': 'uniprot'}	19	Glycine max	0.07	#19# cosubstrate NADP+, pH 8.0, 25°C <34>	34
+L-homoserine	19	{'accessions': ['Q3S3F6'], 'source': 'uniprot'}	19	Glycine max	1.43	#19# cosubstrate NAD+, pH 8.0, 25°C <34>	34
+L-aspartate 4-semialdehyde	19	{'accessions': ['Q3S3F6'], 'source': 'uniprot'}	19	Glycine max	9.68	#19# cosubstrate NADH, pH 8.0, 25°C <34>	34
+L-homoserine	20	{'accessions': ['O65027'], 'source': 'uniprot'}	20	Glycine max	7.0	#20# cosubstrate NAD+, pH 8.0, 25°C <34>	34
+L-homoserine	20	{'accessions': ['O65027'], 'source': 'uniprot'}	20	Glycine max	0.042	#20# cosubstrate NADP+, pH 8.0, 25°C <34>	34
+L-aspartate 4-semialdehyde	20	{'accessions': ['O65027'], 'source': 'uniprot'}	20	Glycine max	19.3	#20# cosubstrate NADH, pH 8.0, 25°C <34>	34
+L-aspartate 4-semialdehyde	20	{'accessions': ['O65027'], 'source': 'uniprot'}	20	Glycine max	11.58	#20# cosubstrate NADPH, pH 8.0, 25°C <34>	34
+L-homoserine	21	{'accessions': ['O63067'], 'source': 'uniprot'}	21	Glycine max	0.052	#21# cosubstrate NADP+, pH 8.0, 25°C <34>	34
+L-homoserine	21	{'accessions': ['O63067'], 'source': 'uniprot'}	21	Glycine max	10.15	#21# cosubstrate NAD+, pH 8.0, 25°C <34>	34
+L-aspartate 4-semialdehyde	21	{'accessions': ['O63067'], 'source': 'uniprot'}	21	Glycine max	22.58	#21# cosubstrate NADH, pH 8.0, 25°C <34>	34
+L-aspartate 4-semialdehyde	21	{'accessions': ['O63067'], 'source': 'uniprot'}	21	Glycine max	12.98	#21# cosubstrate NADPH, pH 8.0, 25°C <34>	34
+NADP+	26	{'accessions': ['O58802'], 'source': 'uniprot'}	26	Pyrococcus horikoshii	3.4	#26# pH 9.0, 50°C, recombinant mutant R40A <42>	42
+NADP+	26	{'accessions': ['O58802'], 'source': 'uniprot'}	26	Pyrococcus horikoshii	26.7	#26# pH 9.0, 50°C, recombinant mutant K57A <42>	42
+NAD+	26	{'accessions': ['O58802'], 'source': 'uniprot'}	26	Pyrococcus horikoshii	48.5	#26# pH 9.0, 50°C, recombinant mutant K57A <42>	42
+NAD+	26	{'accessions': ['O58802'], 'source': 'uniprot'}	26	Pyrococcus horikoshii	70.1	#26# pH 9.0, 50°C, recombinant wild-type enzyme <42>	42
+NAD+	26	{'accessions': ['O58802'], 'source': 'uniprot'}	26	Pyrococcus horikoshii	96.1	#26# pH 9.0, 50°C, recombinant mutant R40A <42>	42
+L-homoserine	-----	-----	3	Escherichia coli	3.3	#3# recombinant isolated catalytic HDH-domain containing the interface region, homoserine dehydrogenase activity <25>	25
+L-homoserine	-----	-----	3	Escherichia coli	0.24	#3# recombinant wild-type bifunctional holoenzyme, homoserine dehydrogenase activity <25>	25
+L-homoserine	-----	-----	3	Escherichia coli	24.0	#3# recombinant hybrid bifunctional holoenzyme AKIII-HDHI+ containing the interface region, homoserine dehydrogenase activity <25>	25
+L-homoserine	-----	-----	3	Escherichia coli	0.51	#3# recombinant isolated catalytic HDH-domain not containing the interface region, homoserine dehydrogenase activity <25>	25
+NADP+	35	{'accessions': ['P19582'], 'source': 'uniprot'}	35	Bacillus subtilis	1.1	#35# pH 9.0, 25°C, recombinant enzyme <48>	48
+L-homoserine	35	{'accessions': ['P19582'], 'source': 'uniprot'}	35	Bacillus subtilis	1.07	#35# pH 9.0, 25°C, recombinant enzyme <48>	48
+NADP+	37	{'accessions': ['Q5SL04'], 'source': 'uniprot'}	37	Thermus thermophilus	2.12	#37# pH 10.0, 50°C, recombinant enzyme <47>	47
+NAD+	37	{'accessions': ['Q5SL04'], 'source': 'uniprot'}	37	Thermus thermophilus	6.66	#37# pH 9.5, 50°C, recombinant enzyme <47>	47

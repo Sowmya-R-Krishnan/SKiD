@@ -1,0 +1,8 @@
+Substrate	Protein_ID	Protein_details	Organism_ID	Organism_name	kcat_value	Conditions	References
+D-arabinitol	-----	-----	6	Gluconobacter oxydans	876.0	#6# pH 8.5, 25°C <11>	11
+glycerol	8	{'accessions': ['Q308C1'], 'source': 'uniprot'}	6	Gluconobacter oxydans	16.3	#6# pH 8.5, 25°C <11>	11
+ribitol	8	{'accessions': ['Q308C1'], 'source': 'uniprot'}	6	Gluconobacter oxydans	13.4	#6# pH 8.5, 25°C <11>	11
+D-sorbitol	8	{'accessions': ['Q308C1'], 'source': 'uniprot'}	6	Gluconobacter oxydans	19.7	#6# pH 8.5, 25°C <11>	11
+D-mannitol	8	{'accessions': ['Q308C1'], 'source': 'uniprot'}	6	Gluconobacter oxydans	35.3	#6# pH 8.5, 25°C <11>	11
+xylitol	8	{'accessions': ['Q308C1'], 'source': 'uniprot'}	6	Gluconobacter oxydans	177.2	#6# pH 8.5, 25°C <11>	11
+D-arabitol	8	{'accessions': ['Q308C1'], 'source': 'uniprot'}	8	Gluconobacter oxydans	876.0	-----	11

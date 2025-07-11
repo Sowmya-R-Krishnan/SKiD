@@ -1,0 +1,16 @@
+Substrate	Protein_ID	Protein_details	Organism_ID	Organism_name	kcat_value	Conditions	References
+dihydroxyacetone phosphate	13	{'comment': '#13# isoform rrf-1 <7>'}	13	Oryctolagus cuniculus	345.0	#13# reduction of synthetic dihydroxyacetone phosphate, 20°C, pH 7, rabbit muscle <3>	3
+dihydroxyacetone phosphate	13	{'comment': '#13# isoform rrf-1 <7>'}	13	Oryctolagus cuniculus	390.0	#13# reduction of synthetic dihydroxyacetone phosphate, 20°C, pH 7, rabbit muscle, under conditions where competitive inhibition by fructose 1,6-diphosphate are not excluded <3>	3
+sn-glycerol 3-phosphate	-----	-----	21	Ceratitis capitata	32.0	#21# per subunit of 33500 Da <14>	14
+dihydroxyacetone phosphate	-----	-----	21	Ceratitis capitata	188.0	#21# per subunit of 33500 Da <14>	14
+L-glycerol-3-phosphate	-----	-----	34	Eidolon helvum	51.0	#34# pH 7.5, 25°C <34>	34
+L-glycerol-3-phosphate	-----	-----	34	Eidolon helvum	78.0	#34# pH 10.0, 25°C <34>	34
+glycerone phosphate	-----	-----	34	Eidolon helvum	19000.0	#34# pH 7.5, 25°C <34>	34
+glycerone phosphate	49	{'accessions': ['P21695'], 'source': 'uniprot'}	49	Homo sapiens	9.0	#49# mutant N270A, pH 7.5, 25°C <84>	84
+glycerone phosphate	49	{'accessions': ['P21695'], 'source': 'uniprot'}	49	Homo sapiens	240.0	#49# wild-type enzyme, pH 7.5, 25°C <84>	84
+glycerone phosphate	49	{'accessions': ['P21695'], 'source': 'uniprot'}	49	Homo sapiens	0.0059	#49# mutant R269A, pH 7.5, 25°C <84>	84
+glycerone phosphate	49	{'accessions': ['P21695'], 'source': 'uniprot'}	49	Homo sapiens	0.00028	#49# mutant R269A/N270A, pH 7.5, 25°C <84>	84
+dihydroxyacetone phosphate	-----	-----	8	Homo sapiens	9.0	#8# mutant enzyme N270A, at pH 7.5 and 25°C <84>	84
+dihydroxyacetone phosphate	-----	-----	8	Homo sapiens	240.0	#8# wild type enzyme, at pH 7.5 and 25°C <84>	84
+dihydroxyacetone phosphate	-----	-----	8	Homo sapiens	0.0059	#8# mutant enzyme R269A, at pH 7.5 and 25°C <84>	84
+dihydroxyacetone phosphate	-----	-----	8	Homo sapiens	0.00028	#8# mutant enzyme R269A/N270A, at pH 7.5 and 25°C <84>	84

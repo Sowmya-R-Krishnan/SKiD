@@ -1,0 +1,43 @@
+Substrate	Protein_ID	Protein_details	Organism_ID	Organism_name	kcat_value	Conditions	References
+L-arabinitol	10	{'accessions': ['A2QAC0'], 'source': 'uniprot'}	10	Aspergillus niger	30.0	#10# mutant Y318F, pH 9.6, 20°C <12>	12
+D-sorbitol	10	{'accessions': ['A2QAC0'], 'source': 'uniprot'}	10	Aspergillus niger	833.0	#10# mutant Y318F <12>	12
+xylitol	10	{'accessions': ['A2QAC0'], 'source': 'uniprot'}	10	Aspergillus niger	1180.0	#10# wild-type <12>	12
+L-arabinitol	10	{'accessions': ['A2QAC0'], 'source': 'uniprot'}	10	Aspergillus niger	14.4	#10# wild-type, pH 9.6, 20°C <12>	12
+L-arabitol	10	{'accessions': ['A2QAC0'], 'source': 'uniprot'}	10	Aspergillus niger	1800.0	#10# mutant Y318F <12>	12
+L-arabinitol	10	{'accessions': ['A2QAC0'], 'source': 'uniprot'}	10	Aspergillus niger	8.45	#10# pH 7.0, 22°C <13>	13
+xylitol	10	{'accessions': ['A2QAC0'], 'source': 'uniprot'}	10	Aspergillus niger	36.8	#10# mutant Y318F, pH 9.6, 20°C <12>	12
+L-arabitol	10	{'accessions': ['A2QAC0'], 'source': 'uniprot'}	10	Aspergillus niger	863.0	#10# wild-type <12>	12
+D-sorbitol	10	{'accessions': ['A2QAC0'], 'source': 'uniprot'}	10	Aspergillus niger	809.0	#10# wild-type <12>	12
+xylitol	10	{'accessions': ['A2QAC0'], 'source': 'uniprot'}	10	Aspergillus niger	2208.0	#10# mutant Y318F <12>	12
+NAD+	10	{'accessions': ['A2QAC0'], 'source': 'uniprot'}	10	Aspergillus niger	8.23	#10# pH 7.0, 22°C <13>	13
+xylitol	10	{'accessions': ['A2QAC0'], 'source': 'uniprot'}	10	Aspergillus niger	19.67	#10# wild-type, pH 9.6, 20°C <12>	12
+D-sorbitol	10	{'accessions': ['A2QAC0'], 'source': 'uniprot'}	10	Aspergillus niger	13.48	#10# wild-type, pH 9.6, 20°C <12>	12
+D-sorbitol	10	{'accessions': ['A2QAC0'], 'source': 'uniprot'}	10	Aspergillus niger	13.88	#10# mutant Y318F, pH 9.6, 20°C <12>	12
+L-arabinitol	11	{'accessions': ['Q96V44'], 'source': 'uniprot'}	11	Trichoderma reesei	70.0	#11# pH 9.5, 25°C <21>	21
+L-arabinitol	11	{'accessions': ['Q96V44'], 'source': 'uniprot'}	11	Trichoderma reesei	16.0	#11# pH 7.0, 25°C <21>	21
+L-arabinitol	11	{'accessions': ['Q96V44'], 'source': 'uniprot'}	11	Trichoderma reesei	29.3	#11# pH 8.0, 25°C <21>	21
+L-arabinitol	11	{'accessions': ['Q96V44'], 'source': 'uniprot'}	11	Trichoderma reesei	5.76	#11# pH 7.0, 22°C <13>	13
+NAD+	11	{'accessions': ['Q96V44'], 'source': 'uniprot'}	11	Trichoderma reesei	7.26	#11# pH 7.0, 22°C <13>	13
+NAD+	12	{'accessions': ['B6HI95'], 'source': 'uniprot'}	12	Penicillium chrysogenum	17.3	#12# pH 7.0, 22°C <13>	13
+L-arabinitol	12	{'accessions': ['B6HI95'], 'source': 'uniprot'}	12	Penicillium chrysogenum	18.1	#12# pH 7.0, 22°C <13>	13
+D-sorbitol	13	{'accessions': ['C5J3R8'], 'source': 'uniprot'}	13	Rasamsonia emersonii	3.7	#13# pH 9, 30°C <14>	14
+L-arabinitol	13	{'accessions': ['C5J3R8'], 'source': 'uniprot'}	13	Rasamsonia emersonii	5.3	#13# pH 9, 30°C <14>	14
+NAD+	13	{'accessions': ['C5J3R8'], 'source': 'uniprot'}	13	Rasamsonia emersonii	4.7	#13# pH 9, 30°C <14>	14
+xylitol	13	{'accessions': ['C5J3R8'], 'source': 'uniprot'}	13	Rasamsonia emersonii	3.25	#13# pH 9, 30°C <14>	14
+NADP+	14	{'accessions': ['Q7SI09'], 'source': 'uniprot'}	14	Neurospora crassa	11.9	#14# mutant D211S/I212R/D213N, pH 8.0, 25°C <16>	16
+NAD+	14	{'accessions': ['Q7SI09'], 'source': 'uniprot'}	14	Neurospora crassa	8.58	#14# mutant D211S, pH 8.0, 25°C <16>	16
+NAD+	14	{'accessions': ['Q7SI09'], 'source': 'uniprot'}	14	Neurospora crassa	3.18	#14# mutant D211S/I212R, pH 8.0, 25°C <16>	16
+NAD+	14	{'accessions': ['Q7SI09'], 'source': 'uniprot'}	14	Neurospora crassa	10.83	#14# wild-type, pH 8.0, 25°C <16>	16
+NADP+	14	{'accessions': ['Q7SI09'], 'source': 'uniprot'}	14	Neurospora crassa	8.23	#14# mutant D211S/I212R, pH 8.0, 25°C <16>	16
+NADP+	14	{'accessions': ['Q7SI09'], 'source': 'uniprot'}	14	Neurospora crassa	20.16	#14# mutant D211S/I212R/S348T, pH 8.0, 25°C <16>	16
+xylitol	15	{'accessions': ['A0A1B4XTS0'], 'source': 'uniprot'}	15	Meyerozyma caribbica	18.0	#15# pH 7.0, 30°C, native enzyme <25>	25
+L-arabitol	15	{'accessions': ['A0A1B4XTS0'], 'source': 'uniprot'}	15	Meyerozyma caribbica	3.35	#15# pH 7.0, 30°C, native enzyme <25>	25
+NADP+	15	{'accessions': ['A0A1B4XTS0'], 'source': 'uniprot'}	15	Meyerozyma caribbica	3.27	#15# pH 7.0, 30°C, native enzyme, with xylitol <25>	25
+L-arabinitol	15	{'accessions': ['A0A1B4XTS0'], 'source': 'uniprot'}	15	Meyerozyma caribbica	0.108	#15# recombinant enzyme, pH 7.0, 30°C <19>	19
+NAD+	15	{'accessions': ['A0A1B4XTS0'], 'source': 'uniprot'}	15	Meyerozyma caribbica	18.5	#15# pH 7.0, 30°C, native enzyme, with xylitol <25>	25
+ribitol	15	{'accessions': ['A0A1B4XTS0'], 'source': 'uniprot'}	15	Meyerozyma caribbica	4.48	#15# pH 7.0, 30°C, native enzyme <25>	25
+D-sorbitol	15	{'accessions': ['A0A1B4XTS0'], 'source': 'uniprot'}	15	Meyerozyma caribbica	8.28	#15# pH 7.0, 30°C, native enzyme <25>	25
+adonitol	-----	-----	2	Neurospora crassa	18.0	#2# pH 8.0, 25°C <9>	9
+xylitol	-----	-----	2	Neurospora crassa	15.0	#2# pH 8.0, 25°C <9>	9
+NAD+	-----	-----	2	Neurospora crassa	20.1	#2# pH 8.0, 25°C <9>	9
+L-arabinitol	-----	-----	2	Neurospora crassa	20.2	#2# pH 8.0, 25°C <9>	9
