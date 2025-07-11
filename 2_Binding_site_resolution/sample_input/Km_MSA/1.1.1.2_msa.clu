@@ -1,0 +1,38 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Apo_2ALR_A      AASCVLLHTGQKMPLIGLGTWKSEPGQVKAAVKYALSVGYRHIDCAAIYGNEPEIGEALK
+Gen_3L77_A      -----------------------------------------EMKVAVITGASRGIGEAIA
+Gen_3TN7_A      ------------------------------------------MKVAVITGASRGIGEAIA
+Gen_3TN7_B      ------------------------------------------MKVAVITGASRGIGEAIA
+                                                          :. *.* * .  ****: 
+
+Apo_2ALR_A      EDVGPGKA--------VPREE-----LFVTSKLWNTKHH-----PEDVEPALRK---TLA
+Gen_3L77_A      RALARDGYALALGARSVDRLEKIAHELMQEQGVEVFYHHLDVSKAESVEEFSKKVLERFG
+Gen_3TN7_A      RALARDGYALALGARSVDRLEKIAHELMQEQGVEVFYHHLDVSKAESVEEFSKKVLERFG
+Gen_3TN7_B      RALARDGYALALGARSVDRLEKIAHELMQEQGVEVFYHHLDVSKAESVEEFSKKVLERFG
+                . :. .          * * *     *:  . :    **      *.**   :*    :.
+
+Apo_2ALR_A      DLQLEYLDLYLMHWPYAFERGDNPFPKNADGTICYDSTHYKETWKALEALVAKGLVQALG
+Gen_3L77_A      DVDVVVANAGLGYFKRLEELSEEEFHE-------MIEVNLLGVWRTLKAFLDS-LKRTGG
+Gen_3TN7_A      DVDVVVANAGLGYFKRLEELSEEEFHE-------MIEVNLLGVWRTLKAFLDS-LKRTGG
+Gen_3TN7_B      DVDVVVANAGLGYFKRLEELSEEEFHE-------MIEVNLLGVWRTLKAFLDS-LKRTGG
+                *:::   :  * ::    * .:: * :         ..:   .*::*:*:: . * :: *
+
+Apo_2ALR_A      LSNFNSRQIDDILSVASVRPAVLQVECHPYLA--------QNELIAHCQARGLEVTAYSP
+Gen_3L77_A      LALVTTSDV--------------SARLIPYGGGYVSTKWAARALVRTFQIENPDVRFFE-
+Gen_3TN7_A      LALVTTSDV--------------SARLIPYGGGYVSTKWAARALVRTFQIENPDVRFFE-
+Gen_3TN7_B      LALVTTSDV--------------SARLIPYGGGYVSTKWAARALVRTFQIENPDVRFFE-
+                *: ..: ::              ...  ** .         . *:   * .. :*  :. 
+
+Apo_2ALR_A      LGVLLEEPVVLALAEKYGRS-PA----Q-ILLRWQVQRKVICI---PKSITPSRILQNIK
+Gen_3L77_A      -----LRP--GAVDTYFGGSKPGKPKEKGYLKPDEIAEAVRCLLKLPKDVRVEELMLR--
+Gen_3TN7_A      -----LRP--GAVDTYFGGSKPGKPKEKGYLKPDEIAEAVRCLLKLPKDVRVEELMLR--
+Gen_3TN7_B      -----LRP--GAVDTYFGGSKPGKPKEKGYLKPDEIAEAVRCLLKLPKDVRVEELMLR--
+                      .*   *:   :* * *.    :  *   :: . * *:   **.:  ..:: .  
+
+Apo_2ALR_A      VFDFTFSPEEMKQLNALNKNWRYIVPMLTVDGKRVPRDAGHPLYPFNDPY
+Gen_3L77_A      ---SVY---------------------------------QRPEY------
+Gen_3TN7_A      ---SVY---------------------------------QRPEY------
+Gen_3TN7_B      ---SVY---------------------------------QRPEY------
+                    .:                                  :* *      
