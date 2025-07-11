@@ -1,7 +1,7 @@
 # SKiD: A Structure-oriented Kinetics Dataset of enzyme-substrate interactions
 # Authors: Sowmya Ramaswamy Krishnan, Nishtha Pandey, Rajgopal Srinivasan, Arijit Roy*
 
-Automation scripts used for construction of the SKiD database arranged into a pipeline. Breaks are present in between the automated processes wherein manual data curation and error resolution was performed by domain experts. The final datasets obtained through this pipeline are available from Zenodo: https://doi.org/10.5281/zenodo.15355031
+Automation scripts used for construction of the SKiD dataset arranged into a pipeline. Breaks are present in between the automated processes wherein manual data curation and error resolution was performed by domain experts. The final datasets obtained through this pipeline are available from Zenodo: https://doi.org/10.5281/zenodo.15355031
 
 # Requirements - Preferably a conda environment with all these packages installed
 * python>=v3.10.13
@@ -29,10 +29,10 @@ Automation scripts used for construction of the SKiD database arranged into a pi
 * PyMOL (Python bindings) - https://pymol.org/
 
 # Usage disclaimer
-This is a minimal version of the SKiD database curation source code necessary to reproduce the automated steps of the pipeline. Wherever possible, the manual resolution results are also provided. Any changes made to the source code (except paths to stand-alone programs) are done at your own risk. The authors will not be liable to any discrepancies observed in the results due to changes made to the source code.
+This is a minimal version of the SKiD dataset curation source code necessary to reproduce the automated steps of the pipeline. Wherever possible, the manual resolution results are also provided. Any changes made to the source code (except paths to stand-alone programs) are done at your own risk. The authors will not be liable to any discrepancies observed in the results due to changes made to the source code.
 
 # Data
-Sample input and output files and any data used from external databases (PDB, UniProtKB, EMBL Cofactor database etc.,) are provided under each sub-folder. The BRENDA (v2023) JSON file and the PDB files of the enzyme-substrate complexes used during the calculations are not included and must be downloaded prior to running the scripts.
+Sample input and output files and any data used from external datasets (PDB, UniProtKB, EMBL Cofactor dataset etc.,) are provided under each sub-folder. The BRENDA (v2023) JSON file and the PDB files of the enzyme-substrate complexes used during the calculations are not included and must be downloaded prior to running the scripts.
 
 # Code usage
 Detailed instructions on how to use the codes are provided under each sub-folder of the repository. For any queries related to code usage, contact the corresponding author for more information.
