@@ -1,0 +1,92 @@
+Protein_ID	Accession	Source	Comments
+4	-----	-----	[{'comment': '#4# isoform GLO4 <62>; #4# isoform GLOX1, cf. EC 1.2.3.1 <58>; #4# isoform Glox2 <43>'}, {'comment': '#4# isoform GLO4 <62>; #4# isoform GLOX1, cf. EC 1.2.3.1 <58>; #4# isoform Glox2 <43>'}]
+6	-----	-----	[{'comment': '#6# isoform GLOX2, cf. EC 1.2.3.1 <48>; #6# isoform Glox3 <9>'}, {'comment': '#6# isoform GLOX2, cf. EC 1.2.3.1 <48>; #6# isoform Glox3 <9>'}]
+9	-----	-----	[{'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}, {'comment': '#9# isoform GLOX3, cf. EC 1.2.3.1 <21>; #9# isoform Glox3, cf. EC 1.2.3.15 <13>; #9# isoform GLOX4, cf. EC 1.2.3.1 <16>; #9# isoform GLOX5, cf. EC 1.2.3.1 <23>; #9# isoform GLOX6, cf. EC 1.2.3.1 <17>; #9# isoform GltB <20>; #9# isoform GOGAT1 <22>; #9# isoform GOGAT2 <53>; #9# isoform GRX1 <96>; #9# isoform GRX2 <11,16>; #9# isoform GRX3, CGFS type enzyme <15>; #9# isoform GRX5 <14>; #9# isoform GRX6 <18,21>'}]
+10	-----	-----	[{'comment': '#10# isoform GtlS <51>; #10# isoform HAOX-1 <50>'}, {'comment': '#10# isoform GtlS <51>; #10# isoform HAOX-1 <50>'}]
+11	-----	-----	[{'comment': '#11# isoform GLO1 <91>; #11# isoform GLO3 <87>'}, {'comment': '#11# isoform GLO1 <91>; #11# isoform GLO3 <87>'}]
+18	-----	-----	[{'comment': '#18# isoenzyme mMDH <79>'}, {'comment': '#18# isoenzyme mMDH <79>'}]
+20	-----	-----	[{'comment': '#20# isozyme COR1.1 <97>; #20# isozyme COR1.2 <75>'}, {'comment': '#20# isozyme COR1.1 <97>; #20# isozyme COR1.2 <75>'}]
+21	-----	-----	[{'comment': '#21# isoform Utx1 <71>'}, {'comment': '#21# isoform Utx1 <71>'}]
+38	-----	-----	[{'comment': '#38# isoform PYCR1 <95>'}, {'comment': '#38# isoform PYCR1 <95>'}]
+43	-----	-----	[{'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}, {'comment': '#43# isoform LAAO4 <35>; #43# isoform Pfor1, NifJ1 <28,41,42>'}]
+44	-----	-----	[{'comment': '#44# isoform SRD5A1 <67>; #44# isoform SRD5A2 <68>'}, {'comment': '#44# isoform SRD5A1 <67>; #44# isoform SRD5A2 <68>'}]
+45	-----	-----	[{'comment': '#45# isoform LAAO-1 <25>'}, {'comment': '#45# isoform LAAO-1 <25>'}]
+54	-----	-----	[{'comment': '#54# KY643658: subunits I (adhA), KY584296: subunit II (adhB) <82>'}, {'comment': '#54# KY643658: subunits I (adhA), KY584296: subunit II (adhB) <82>'}]
+71	-----	-----	[{'comment': '#71# isoform PYRC2 <60>'}, {'comment': '#71# isoform PYRC2 <60>'}]
+82	-----	-----	[{'comment': '#82# isoform HAOX-4 <24>'}, {'comment': '#82# isoform HAOX-4 <24>'}]
+84	-----	-----	[{'comment': '#84# isoenzyme mMDH <77>'}, {'comment': '#84# isoenzyme mMDH <77>'}]
+96	Q8L3C9	uniprot	-----
+98	Q9UXF1	uniprot	-----
+99	P50381	uniprot	-----
+100	Q76HN6	uniprot	-----
+101	B2KJ46	uniprot	-----
+102	Q9P6C8	uniprot	-----
+103	Q6L0S1	uniprot	-----
+106	Q09669	uniprot	-----
+107	A1IIA3	uniprot	-----
+108	A1IIA4	uniprot	-----
+109	P39462	uniprot	-----
+110	P00326	uniprot	-----
+111	Q0PH30	uniprot	-----
+113	P08319	uniprot	-----
+114	Q6RS93	uniprot	-----
+115	Q9HIM3	uniprot	-----
+116	B2ZRE3	uniprot	-----
+117	B6UQD0	uniprot	-----
+118	A4IP64	uniprot	-----
+119	Q9QYY9	uniprot	-----
+120	P00330	uniprot	-----
+121	P00327	uniprot	-----
+122	P42328	uniprot	-----
+123	P00331	uniprot	-----
+124	B8QU18	uniprot	-----
+125	F9VMI9	uniprot	-----
+126	Q4J702	uniprot	-----
+127	Q4J9F2	uniprot	-----
+128	Q9ZT38	uniprot	-----
+129	Q1G151	uniprot	-----
+130	H9ZGN0	uniprot	-----
+132	Q8U259	uniprot	-----
+133	P86883	uniprot	-----
+134	P86884	uniprot	-----
+135	Q9Y9P9	uniprot	-----
+136	D4GSN2	uniprot	-----
+137	B0KBL1	uniprot	-----
+138	B0KBJ9	uniprot	-----
+139	G3FFC9	uniprot	-----
+140	V9SDP6	uniprot	-----
+141	V9SCJ1	uniprot	-----
+142	V9SFA1	uniprot	-----
+143	Q96XE0	uniprot	-----
+144	P0DJA2	uniprot	-----
+145	Q8GIX7	uniprot	-----
+146	Q8TZM9	uniprot	-----
+147	A3DCI2	uniprot	-----
+148	Q9CEN0	uniprot	-----
+149	Q5M4K4	uniprot	-----
+150	I3VSF1	uniprot	-----
+151	B0K3U7	uniprot	-----
+152	Q5JI09	uniprot	-----
+153	W6CX26	uniprot	-----
+154	B0K4A2	uniprot	-----
+155	C7R702	uniprot	-----
+156	Q8KLT9	uniprot	-----
+157	W8VSK8	uniprot	-----
+158	B0K4A2	uniprot	-----
+159	C7IV28	uniprot	-----
+160	Q70YJ9	uniprot	-----
+161	A0A060TBM3	uniprot	-----
+163	A3MVR8	uniprot	-----
+164	A0A1D8PP43	uniprot	-----
+167	E7FHL9	uniprot	-----
+168	A0A075B5H4	uniprot	-----
+169	A0A1D3TV27	uniprot	-----
+170	G2I689	uniprot	-----
+171	A0A380WRS7	uniprot	-----
+172	P06525	uniprot	-----
+173	P74721	uniprot	-----
+174	A0A0U5FNC1	uniprot	-----
+175	A0A3T0KHC6	uniprot	-----
+176	Q1RS84	uniprot	-----
+177	P0A9Q7	uniprot	-----
+178	P28625	uniprot	-----
