@@ -1,0 +1,106 @@
+Organism_ID	Organism_name
+1	Cavia porcellus
+2	Drosophila melanogaster
+3	Brevibacillus brevis
+4	Bacillus subtilis
+5	Mus musculus
+6	Escherichia coli
+7	Homo sapiens
+8	Rattus norvegicus
+9	Sus scrofa
+10	Saccharomyces cerevisiae
+11	Bos taurus
+12	Oryctolagus cuniculus
+13	Mycolicibacterium smegmatis
+14	Euglena gracilis
+15	Geobacillus stearothermophilus
+16	Neurospora crassa
+17	Ovis aries
+18	Acetobacter aceti
+19	Phycomyces blakesleeanus
+20	Solanum tuberosum
+21	Pyrococcus furiosus
+22	Entamoeba histolytica
+23	Vibrio harveyi
+24	Pseudomonas aeruginosa
+25	Acinetobacter calcoaceticus
+26	Haloferax volcanii
+27	Canis lupus familiaris
+28	Crithidia fasciculata
+29	Mycobacterium avium
+30	Schizosaccharomyces pombe
+31	Leuconostoc mesenteroides
+32	Sporidiobolus salmonicolor
+33	Mycobacterium leprae
+34	Mycobacterium tuberculosis
+35	Trypanosoma cruzi
+36	Vigna radiata
+37	Platyrrhini
+38	Rhizopus arrhizus
+39	Helicobacter pylori
+40	Levilactobacillus brevis
+41	Candida tropicalis
+42	Acinetobacter sp.
+43	Zymomonas mobilis
+44	Thermoanaerobacter thermohydrosulfuricus
+45	Clostridium kluyveri
+46	Propionibacterium freudenreichii
+47	Penicillium citrinum
+48	Bacillus methanolicus
+49	Clostridium beijerinckii
+50	Clostridium acetobutylicum
+51	Mycobacterium tuberculosis variant bovis
+52	Cucumis melo
+53	Synechocystis sp.
+54	Archaeoglobus fulgidus
+55	Thermococcus sp.
+56	Pecten maximus
+57	Thermococcus litoralis
+58	Thermoanaerobacter sp.
+59	Thermoanaerobacter ethanolicus
+60	Acetivibrio thermocellus
+61	Gallus sp.
+62	Thermoanaerobacter brockii
+63	Cricetinae
+64	Felis sp.
+65	Equus sp.
+66	Penicillium urticae
+67	Saimiri
+68	Methanoculleus thermophilus
+69	Methanofollis liminatans
+70	Methanobacterium palustre
+71	Pelophylax perezi
+72	Thermococcus hydrothermalis
+73	Mycobacterium avium subsp. paratuberculosis
+74	Thermococcus zilligii
+75	Aquifex aeolicus
+76	Lentilactobacillus kefiri
+77	Kluyveromyces lactis
+78	Mus musculus
+79	Pseudothermotoga hypogea
+80	Marinobacter nauticus VT8
+81	Persicaria odorata
+82	Thermococcus sp.
+83	Geobacillus thermodenitrificans
+84	Sus scrofa
+85	Thermoanaerobacter brockii
+86	Entamoeba histolytica
+87	Homo sapiens
+88	Rattus norvegicus
+89	Thermococcus sibiricus
+90	Pyrococcus furiosus
+91	Pyrobaculum aerophilum
+92	Thermoanaerobacter sp.
+93	Thermoanaerobacter pseudethanolicus
+94	Moorella sp. HUC22-1
+95	Thermococcus paralvinellae
+96	Paenarthrobacter aurescens
+97	Rattus norvegicus
+98	Pectobacterium atrosepticum
+99	Thermococcus guaymasensis
+100	Scheffersomyces stipitis
+101	Scheffersomyces stipitis
+102	Escherichia coli
+103	Mycobacterium sp.
+104	Thermococcus thioreducens
+105	Vanderwaltozyma polyspora
