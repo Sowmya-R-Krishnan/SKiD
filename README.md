@@ -48,7 +48,7 @@ Detailed instructions on how to use the codes are provided under each sub-folder
 8. Dataset finalization
 
 # Copyright Notice
-SKiD code repository usage without citation will be considered illegal.
+SKiD code repository is a TCS proprietary resource and should be used for academic purposes only. The contents of this repository should not be used for any commercial purpose without the consent of ALL the authors involved. By downloading and utilizing the scripts, the user consents that any and all Intellectual Property derived from the SKiD code repository is fully owned by TCS in the associated jurisdictions. SKiD code repository usage without citation will be considered illegal.
 
 # Contact Us
 For further queries related to code usage, please write to us: roy.arijit3@tcs.com
@@ -56,4 +56,4 @@ For further queries related to code usage, please write to us: roy.arijit3@tcs.c
 # Citation
 Please cite this article if you use the codes in this repository for your research: 
 
-# License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+# License: Creative Commons Attribution-NonCommercial-NoDerivatives  4.0 International (CC BY-NC-ND 4.0)
