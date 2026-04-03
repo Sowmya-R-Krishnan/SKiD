@@ -54,6 +54,6 @@ SKiD code repository is a TCS proprietary resource and should be used for academ
 For further queries related to code usage, please write to us: roy.arijit3@tcs.com
 
 # Citation
-Please cite this article if you use the codes in this repository for your research: 
+Please cite this article if you use the codes in this repository for your research: <a href="https://www.nature.com/articles/s41597-025-05829-5" target="_blank">https://www.nature.com/articles/s41597-025-05829-5</a>
 
 # License: Creative Commons Attribution-NonCommercial-NoDerivatives  4.0 International (CC BY-NC-ND 4.0)
